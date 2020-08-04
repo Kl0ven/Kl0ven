@@ -1,0 +1,22 @@
+{
+  "name": "kl0ven",
+  "version": "1.0.0",
+  "description": "<!--\r **Kl0ven/Kl0ven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kl0ven/Kl0ven.git"
+  },
+  "author": "Kl0ven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kl0ven/Kl0ven/issues"
+  },
+  "homepage": "https://github.com/Kl0ven/Kl0ven#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
