@@ -27,8 +27,9 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}

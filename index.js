@@ -16,8 +16,6 @@ let DATA = {
 
 request(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}`, { json: true }, (err, res, body) => {
     if (err) { return console.log(err); }
-    console.log(body.url);
-    console.log(body.explanation);
     console.log(body);
     DATA.nasa_img = body.hdurl;
     DATA.img_explanation = body.explanation;
