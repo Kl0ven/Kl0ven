@@ -8,7 +8,7 @@ const MUSTACHE_MAIN_DIR = './view/main.mustache';
   * Notice the "name" and "date" property.
 */
 let DATA = {
-    name: 'Thomas',
+    name: 'Jean-Loup',
 };
 /**
   * A - We open 'main.mustache'
