@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Kl0ven/Kl0ven#readme",
   "dependencies": {
-    "mustache": "^4.0.1"
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "request": "^2.88.2"
   }
 }

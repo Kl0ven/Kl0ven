@@ -1,6 +1,8 @@
 // index.js
+require('dotenv').config()
 const Mustache = require('mustache');
 const fs = require('fs');
+const request = require('request');
 const MUSTACHE_MAIN_DIR = './view/main.mustache';
 /**
   * DATA is the object that contains all
@@ -9,12 +11,21 @@ const MUSTACHE_MAIN_DIR = './view/main.mustache';
 */
 let DATA = {
     name: 'Jean-Loup',
+    nasa_img: null,
 };
-/**
-  * A - We open 'main.mustache'
-  * B - We ask Mustache to render our file with the data
-  * C - We create a README.md file with the generated output
-  */
+
+request(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}`, { json: true }, (err, res, body) => {
+    if (err) { return console.log(err); }
+    console.log(body.url);
+    console.log(body.explanation);
+    console.log(body);
+    DATA.nasa_img = body.hdurl;
+    DATA.img_explanation = body.explanation;
+    DATA.img_explanation = body.explanation;
+    DATA.img_title = body.title;
+    generateReadMe();
+});
+
 function generateReadMe() {
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
@@ -22,4 +33,3 @@ function generateReadMe() {
         fs.writeFileSync('README.md', output);
     });
 }
-generateReadMe();
