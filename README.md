@@ -32,9 +32,9 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
-<img class="fit-picture" src=>
-<p></p>
+<h3>NGC 2442: Galaxy in Volans</h3>
+<img class="fit-picture" src=https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2008&#x2F;NGC2442_HstGendler_2400.jpg>
+<p>Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy&#39;s two spiral arms extending from a pronounced central bar have a hook-like appearance in wide-field images. But this mosaicked close-up, constructed from Hubble Space Telescope and European Southern Observatory data, follows the galaxy&#39;s structure in amazing detail. Obscuring dust lanes, young blue star clusters and reddish star forming regions surround a core of yellowish light from an older population of stars. The sharp image data also reveal more distant background galaxies seen right through NGC 2442&#39;s star clusters and nebulae. The image spans about 75,000 light-years at the estimated distance of NGC 2442.</p>
 
 
 
