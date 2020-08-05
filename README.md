@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <h2>My name is Jean-Loup, Fullstack developper from France.</h2>
-<p>Try 'curl -s https://www.kloven.fr/buisness_card'</p>
+<p>Try <span style="font-family: monospace,monospace;font-size: 1em;color: cornflowerblue;background-color: #202020;width: fit-content;padding-left: 5px;padding-right: 5px;border-radius: 5px;margin-top: 8px;">curl -s https://www.kloven.fr/buisness_card</span></p>
 <h2>Things I code with</h2>
 <p>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -36,7 +36,7 @@
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=X_UOLpUDwpU" target="_blank"><img src="http://img.youtube.com/vi/X_UOLpUDwpU/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p>Ancient sun daggers will not hurt you, but they may tell you the time.  A sun dagger is a dagger-shaped gap in a shadow created by sunlight streaming through a crevice in a nearby rock. Starting over a thousand year ago, native people of the American southwest carved spiral petroglyphs into rocks that became illuminated by sun daggers in different ways as the Sun shifts in the sky. A type of sundial, where the end of the sundagger points in the spiral at high noon (for example) indicates a time of year, possibly illuminating a solstice or equinox.  Sun daggers are thought to have been used by Sun Priests during lone vigils with prayers and offerings.  Of the few known, the featured video discusses the historic Picture Rocks Sun Dagger near Tucson, Arizona, USA, likely created by a Hohokam Sun Priest around 1000 AD. </p>
+<p style="text-align: justify;">Ancient sun daggers will not hurt you, but they may tell you the time.  A sun dagger is a dagger-shaped gap in a shadow created by sunlight streaming through a crevice in a nearby rock. Starting over a thousand year ago, native people of the American southwest carved spiral petroglyphs into rocks that became illuminated by sun daggers in different ways as the Sun shifts in the sky. A type of sundial, where the end of the sundagger points in the spiral at high noon (for example) indicates a time of year, possibly illuminating a solstice or equinox.  Sun daggers are thought to have been used by Sun Priests during lone vigils with prayers and offerings.  Of the few known, the featured video discusses the historic Picture Rocks Sun Dagger near Tucson, Arizona, USA, likely created by a Hohokam Sun Priest around 1000 AD. </p>
 
 
 
