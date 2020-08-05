@@ -22,6 +22,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />
 
 </p>
+<img class="fit-picture" src="https://github-readme-stats.vercel.app/api?username=kl0ven&show_icons=true&theme=radical">
 
 
 <h2> Where to find me </h2>
