@@ -24,7 +24,6 @@ request(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}
         data.video_id = youtube_parser(body.url)
     }
     console.log(body)
-    console.log(data.video_id);
     generateReadMe();
 });
 
