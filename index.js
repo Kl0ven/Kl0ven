@@ -9,25 +9,25 @@ const MUSTACHE_MAIN_DIR = './view/main.mustache';
   * the data to be provided to Mustache
   * Notice the "name" and "date" property.
 */
-let DATA = {
+let data = {
     name: 'Jean-Loup',
     nasa_img: null,
 };
 
 request(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}`, { json: true }, (err, res, body) => {
     if (err) { return console.log(err); }
-    DATA.nasa_img = body.hdurl === undefined ? body.url : body.hdurl ;
-    DATA.img_explanation = body.explanation;
-    DATA.img_title = body.title;
-    DATA.is_video = body.media_type === "video"
-    console.log(DATA)
+    data.nasa_img = body.hdurl === undefined ? body.url : body.hdurl;
+    data.img_explanation = body.explanation;
+    data.img_title = body.title;
+    data.is_video = body.media_type === "video"
+    console.log(body)
     generateReadMe();
 });
 
 function generateReadMe() {
-    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+    fs.readFile(MUSTACHE_MAIN_DIR, (err, file) => {
         if (err) throw err;
-        const output = Mustache.render(data.toString(), DATA);
+        const output = Mustache.render(file.toString(), data);
         fs.writeFileSync('README.md', output);
     });
 }
