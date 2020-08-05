@@ -20,7 +20,11 @@ request(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}
     data.img_explanation = body.explanation;
     data.img_title = body.title;
     data.is_video = body.media_type === "video"
+    if (data.is_video) {
+        data.video_id = youtube_parser(body.url)
+    }
     console.log(body)
+    console.log(data.video_id);
     generateReadMe();
 });
 
@@ -30,4 +34,11 @@ function generateReadMe() {
         const output = Mustache.render(file.toString(), data);
         fs.writeFileSync('README.md', output);
     });
+}
+
+
+function youtube_parser(url) {
+    var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+    var match = url.match(regExp);
+    return (match && match[7].length == 11) ? match[7] : false;
 }

@@ -33,7 +33,7 @@
 
 <h2>Here is an image from NASA ❤</h2>
 <h3>Picture Rocks Sun Dagger</h3>
-  It's a video today :<a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;X_UOLpUDwpU?rel&#x3D;0">Picture Rocks Sun Dagger</a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=X_UOLpUDwpU" target="_blank"><img src="http://img.youtube.com/vi/X_UOLpUDwpU/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
 <p>Ancient sun daggers will not hurt you, but they may tell you the time.  A sun dagger is a dagger-shaped gap in a shadow created by sunlight streaming through a crevice in a nearby rock. Starting over a thousand year ago, native people of the American southwest carved spiral petroglyphs into rocks that became illuminated by sun daggers in different ways as the Sun shifts in the sky. A type of sundial, where the end of the sundagger points in the spiral at high noon (for example) indicates a time of year, possibly illuminating a solstice or equinox.  Sun daggers are thought to have been used by Sun Priests during lone vigils with prayers and offerings.  Of the few known, the featured video discusses the historic Picture Rocks Sun Dagger near Tucson, Arizona, USA, likely created by a Hohokam Sun Priest around 1000 AD. </p>
