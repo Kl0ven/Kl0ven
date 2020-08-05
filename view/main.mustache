@@ -33,7 +33,14 @@
 
 <h2>Here is an image from NASA ❤</h2>
 <h3>{{img_title}}</h3>
-<img class="fit-picture" src={{nasa_img}}>
+{{#is_video}}
+  <iframe width="560" height="315" src="{{nasa_img}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{/is_video}}
+{{^is_video}}
+ <img class="fit-picture" src="{{nasa_img}}"">
+{{/is_video}}
+
+
 <p>{{img_explanation}}</p>
 
 
