@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Picture Rocks Sun Dagger</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=X_UOLpUDwpU" target="_blank"><img src="http://img.youtube.com/vi/X_UOLpUDwpU/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Messier 20 and 21</h3>
+ <img class="fit-picture" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2008&#x2F;trifidnebulaM20M21_2048.jpg"">
 
 
-<p style="text-align: justify;">Ancient sun daggers will not hurt you, but they may tell you the time.  A sun dagger is a dagger-shaped gap in a shadow created by sunlight streaming through a crevice in a nearby rock. Starting over a thousand year ago, native people of the American southwest carved spiral petroglyphs into rocks that became illuminated by sun daggers in different ways as the Sun shifts in the sky. A type of sundial, where the end of the sundagger points in the spiral at high noon (for example) indicates a time of year, possibly illuminating a solstice or equinox.  Sun daggers are thought to have been used by Sun Priests during lone vigils with prayers and offerings.  Of the few known, the featured video discusses the historic Picture Rocks Sun Dagger near Tucson, Arizona, USA, likely created by a Hohokam Sun Priest around 1000 AD. </p>
+<p style="text-align: justify;">The beautiful Trifid Nebula, also known as Messier 20, is easy to find with a small telescope in the nebula rich constellation Sagittarius. About 5,000 light-years away, the colorful study in cosmic contrasts shares this well-composed, nearly 1 degree wide field with open star cluster Messier 21 (right). Trisected by dust lanes the Trifid itself is about 40 light-years across and a mere 300,000 years old. That makes it one of the youngest star forming regions in our sky, with newborn and embryonic stars embedded in its natal dust and gas clouds. Estimates of the distance to open star cluster M21 are similar to M20&#39;s, but though they share this gorgeous telescopic skyscape there is no apparent connection between the two. In fact, M21&#39;s stars are much older, about 8 million years old.</p>
 
 
 
