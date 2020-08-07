@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 20 and 21</h3>
- <img class="fit-picture" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2008&#x2F;trifidnebulaM20M21_2048.jpg"">
+<h3>The Pipe Nebula</h3>
+ <img class="fit-picture" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2008&#x2F;pipenebula_rc3.jpg"">
 
 
-<p style="text-align: justify;">The beautiful Trifid Nebula, also known as Messier 20, is easy to find with a small telescope in the nebula rich constellation Sagittarius. About 5,000 light-years away, the colorful study in cosmic contrasts shares this well-composed, nearly 1 degree wide field with open star cluster Messier 21 (right). Trisected by dust lanes the Trifid itself is about 40 light-years across and a mere 300,000 years old. That makes it one of the youngest star forming regions in our sky, with newborn and embryonic stars embedded in its natal dust and gas clouds. Estimates of the distance to open star cluster M21 are similar to M20&#39;s, but though they share this gorgeous telescopic skyscape there is no apparent connection between the two. In fact, M21&#39;s stars are much older, about 8 million years old.</p>
+<p style="text-align: justify;">st of Antares, dark markings sprawl through crowded star fields toward the center of our Milky Way Galaxy. Cataloged in the early 20th century by astronomer E. E. Barnard, the obscuring interstellar dust clouds include B59, B72, B77 and B78, seen in against the starry background. Here, their combined shape suggests a pipe stem and bowl, and so the dark nebula&#39;s popular name is the Pipe Nebula. The deep and expansive view covers a full 10 by 10 degree field in the pronounceable constellation Ophiuchus. The Pipe Nebula is part of the Ophiuchus dark cloud complex located at a distance of about 450 light-years. Dense cores of gas and dust within the Pipe Nebula are collapsing to form stars.</p>
 
 
 
