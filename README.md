@@ -34,7 +34,7 @@
 
 <h2>Here is an image from NASA ❤</h2>
 <h3>The Pipe Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/pipenebula_rc3.jpg"">
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/pipenebula_rc3_1024.jpg"">
 
 
 <p style="text-align: justify;">st of Antares, dark markings sprawl through crowded star fields toward the center of our Milky Way Galaxy. Cataloged in the early 20th century by astronomer E. E. Barnard, the obscuring interstellar dust clouds include B59, B72, B77 and B78, seen in against the starry background. Here, their combined shape suggests a pipe stem and bowl, and so the dark nebula&#39;s popular name is the Pipe Nebula. The deep and expansive view covers a full 10 by 10 degree field in the pronounceable constellation Ophiuchus. The Pipe Nebula is part of the Ophiuchus dark cloud complex located at a distance of about 450 light-years. Dense cores of gas and dust within the Pipe Nebula are collapsing to form stars.</p>

@@ -12,7 +12,7 @@ let data = {
 
 request(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}`, { json: true }, (err, res, body) => {
     if (err) { return console.log(err); }
-    data.nasa_img = body.hdurl === undefined ? body.url : body.hdurl;
+    data.nasa_img =  body.url;
     data.img_explanation = body.explanation;
     data.img_title = body.title;
     data.is_video = body.media_type === "video"
