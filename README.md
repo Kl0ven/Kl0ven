@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>The Origin of Elements</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/Nucleosynthesis2_WikipediaCmglee_1080.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">The hydrogen in your body, present in every molecule of water, came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity&#39;s best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   Almost Hyperspace: Random APOD Generator</p>
 
 
 
