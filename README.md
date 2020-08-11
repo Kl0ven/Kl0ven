@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Churning Clouds on Jupiter</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/JupiterChurning_JunoGill_1080.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Where is Jupiter&#39;s ammonia? Gaseous ammonia was expected to be seen in Jupiter&#39;s upper atmosphere by the orbiting Juno spacecraft -- but in many clouds is almost absent. Recent Juno data, however, gives some clues: some high-level clouds appear to be home to an unexpected type of electrical discharge dubbed shallow lightning. Great charge separations are needed for lightning, which might be created by colliding mushballs lifted by rising updrafts of gas.  Ammonia and water stick to these mushballs which rise until they get too heavy -- after which they fall deep into Jupiter&#39;s atmosphere and melt.  By this process, ammonia found missing from Jupiter&#39;s upper atmosphere reappears below.  Pictured by Juno, churning clouds on Jupiter show not only mesmerizing complexity but some high-level, light-colored pop-up clouds. Understanding atmospheric dynamics on Jupiter gives valuable perspective to similar atmospheric and lightning phenomena that occur on our home Earth.    Peaking Tonight: The Perseid Meteor Shower</p>
 
 
 
