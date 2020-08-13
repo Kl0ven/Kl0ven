@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Shifting Tails of Comet NEOWISE</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/NeowiseSequence_Llorens_960_annotated.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Keep your eye on the ion tail of Comet NEOWISE.  A tale of this tail is the trail of the Earth. As with all comets, the blue ion tail always points away from the Sun. But as Comet C&#x2F;2020 F3 (NEOWISE) rounded our Sun, its ion tail pointed in slightly different directions. This is because between 2020 July 17 and July 25 when the featured images were taken, the Earth moved noticeably in its orbit around the Sun. But the Earth&#39;s motion made the Sun appear to shift in the sky. So even though you can&#39;t see the Sun directly in the featured image(s), the directions of the ion tails reveal this apparent solar shift. The Sun&#39;s apparent motion is in the ecliptic, the common plane where all planets orbit.  The featured five image composite was meticulously composed to accurately place each comet image -- and the five extrapolated solar positions -- on a single foreground image of Turó de l&#39;Home Mountain, north of Barcelona, Spain Comet NEOWISE is no longer the impressive naked-eye object it was last month, but it can still be found with a small telescope as it heads back to the outer Solar System.</p>
+<p style="text-align: justify;"></p>
 
 
 
