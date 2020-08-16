@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mars at the Moon&#39;s Edge</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/MoonOverMars_Scauso_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Does the Moon ever block out Mars? Yes, the Moon occasionally moves in front of all of the Solar System&#39;s planets.  Just this past Sunday, as visible from some locations in South America, a waning gibbous Moon eclipsed Mars.  The featured image from Córdoba, Argentina captured this occultation well, showing a familiar cratered Moon in the foreground with the bright planet Mars unusually adjacent.  Within a few seconds, Mars then disappeared behind the Moon, only to reappear a few minutes later across the Moon.  Today the Moon moves close to, but not in front of, Venus.  Because alignments will not have changed by much, the next two times the Moon passes through this part of the sky – in early September and early October – it will also occult Mars, as seen from parts of South America.    Pereid Meteor Shower: Notable images submitted to APOD</p>
+<p style="text-align: justify;"></p>
 
 
 
