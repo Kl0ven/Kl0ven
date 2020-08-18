@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perseids Around the Milky Way</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/PerseidBridge_Zhang_1080.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Why would meteor trails appear curved? The arcing effect arises only because the image artificially compresses (nearly) the whole sky into a rectangle. The meteors are from the Perseid Meteor Shower that peaked last week. The featured multi-frame image combines not only different directions from the 360 projection, but different times when bright Perseid meteors momentarily streaked across the sky. All Perseid meteors can be traced back to the constellation Perseus toward the lower left, even the seemingly curved (but really straight) meteor trails.  Although Perseids always point back to their Perseus radiant, they can appear almost anywhere on the sky. The image was taken from Inner Mongolia, China, where grasslands meet sand dunes. Many treasures also visible in the busy night sky including the central arch of our Milky Way Galaxy, the planets Saturn and Jupiter toward the right, colorful airglow on the central left, and some relatively nearby Earthly clouds.  The Perseid Meteor Shower peaks every August.    Perseid Meteor Shower: Notable images submitted to APOD</p>
+<p style="text-align: justify;"></p>
 
 
 
