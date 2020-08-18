@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>TYC 8998-760-1: Multiple Planets around a Sun Like Star</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/TYC8998_ESO_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Do other stars have planets like our Sun? Previous evidence shows that they do, coming mostly from slight shifts in the star&#39;s light created by the orbiting planets.  Recently, however, and for the first time, a pair of planets has been directly imaged around a Sun-like star.  These exoplanets orbit the star designated TYC 8998-760-1 and are identified by arrows in the featured infrared image.  At 17 million years old, the parent star is much younger than the 5-billion-year age of our Sun.  Also, the exoplanets are both more massive and orbit further out than their Solar System analogues: Jupiter and Saturn. The exoplanets were found by the ESO&#39;s Very Large Telescope in Chile by their infrared glow – after the light from their parent star was artificially blocked.  As telescope and technology improve over the next decade, it is hoped that planets more closely resembling our Earth will be directly imaged.    Experts Debate: How will humanity first discover extraterrestrial life?</p>
 
 
 
