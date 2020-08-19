@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>The Sun Rotating</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=2WRgXvdasm0" target="_blank"><img src="http://img.youtube.com/vi/2WRgXvdasm0/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Does the Sun change as it rotates? Yes, and the changes can vary from subtle to dramatic. In the featured time-lapse sequences, our Sun -- as imaged by NASA&#39;s Solar Dynamics Observatory -- is shown rotating though an entire month in 2014.  In the large image on the left, the solar chromosphere is depicted in ultraviolet light, while the smaller and lighter image to its upper right simultaneously shows the more familiar solar photosphere in visible light. The rest of the inset six Sun images highlight X-ray emission by relatively rare iron atoms located at different heights of the corona, all false-colored to accentuate differences. The Sun takes just under a month to rotate completely -- rotating fastest at the equator. A large and active sunspot region rotates into view soon after the video starts.  Subtle effects include changes in surface texture and the shapes of active regions. Dramatic effects include numerous flashes in active regions, and fluttering and erupting prominences visible all around the Sun&#39;s edge.  Presently, our Sun is passing an unusually low  Solar minimum in activity of its 11-year magnetic cycle. As the video ends, the same large and active sunspot region previously mentioned rotates back into view, this time looking different.</p>
 
 
 
