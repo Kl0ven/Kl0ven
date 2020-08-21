@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Pipe Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/pipenebula_rc3_1024.jpg"">
+<h3>Unwinding M51</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/M51Unwound_crop600.jpg"">
 
 
-<p style="text-align: justify;">st of Antares, dark markings sprawl through crowded star fields toward the center of our Milky Way Galaxy. Cataloged in the early 20th century by astronomer E. E. Barnard, the obscuring interstellar dust clouds include B59, B72, B77 and B78, seen in against the starry background. Here, their combined shape suggests a pipe stem and bowl, and so the dark nebula&#39;s popular name is the Pipe Nebula. The deep and expansive view covers a full 10 by 10 degree field in the pronounceable constellation Ophiuchus. The Pipe Nebula is part of the Ophiuchus dark cloud complex located at a distance of about 450 light-years. Dense cores of gas and dust within the Pipe Nebula are collapsing to form stars.</p>
+<p style="text-align: justify;">The arms of a grand design spiral galaxy 60,000 light-years across are unwound in this digital transformation of the magnificent 2005 Hubble Space Telescope portrait of M51. In fact, M51 is one of the original spiral nebulae, its winding arms described by a mathematical curve known as a logarithmic spiral, a spiral whose separation grows in a geometric way with increasing distance from the center. Applying logarithms to shift the pixel coordinates in the Hubble image relative to the center of M51 maps the galaxy&#39;s spiral arms into diagonal straight lines. The transformed image dramatically shows the arms themselves are traced by star formation, lined with pinkish starforming regions and young blue star clusters. Companion galaxy NGC 5195 (top) seems to alter the track of the arm in front of it though, and itself remains relatively unaffected by this unwinding of M51. Also known as the spira mirabilis, logarthimic spirals can be found in nature on all scales. For example, logarithmic spirals can also describe hurricanes, the tracks of subatomic particles in a bubble chamber and, of course, cauliflower.</p>
 
 
 
