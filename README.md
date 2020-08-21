@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Seeing Titan</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/PIA21923_fig1SeeingTitan1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Shrouded in a thick atmosphere, Saturn&#39;s largest moon Titan really is hard to see. Small particles suspended in the upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding Titan&#39;s surface features from prying eyes. But Titan&#39;s surface is better imaged at infrared wavelengths where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft. They offer a stunning comparison with Cassini&#39;s visible light view.   Experts Debate: How will humanity first discover extraterrestrial life?</p>
+<p style="text-align: justify;"></p>
 
 
 
