@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Yogi And Friends In 3D</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/mars10_st_path_big.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">From July of 1997, a ramp from the Pathfinder lander, the Sojourner robot rover, airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The &quot;couch&quot; is the angular rock shape visible near center on the horizon. Look at the image with red&#x2F;blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars&#39; two tiny moons. This July saw the launch of NASA&#39;s Mars Perseverance Rover on a mission to the Red Planet.</p>
 
 
 
