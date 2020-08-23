@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>The Helix Nebula from Blanco and Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/helix_blancoHubble_1080.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">How did a star create the Helix nebula?  The shapes of planetary nebula like the Helix are important because they likely hold clues to how stars like the Sun end their lives.  Observations by the orbiting Hubble Space Telescope and the 4-meter Blanco Telescope in Chile, however, have shown the Helix is not really a simple helix.  Rather, it incorporates two nearly perpendicular disks as well as arcs, shocks, and even features not well understood.  Even so, many strikingly geometric symmetries remain.  How a single Sun-like star created such beautiful yet geometric complexity is a topic of research.  The Helix Nebula is the nearest planetary nebula to Earth, lies only about 700 light years away toward the constellation of Aquarius, and spans about 3 light-years.</p>
 
 
 
