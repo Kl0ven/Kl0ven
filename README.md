@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Shell Galaxies in Pisces</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/ngc474MP1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">This intergalactic skyscape features a peculiar system of galaxies cataloged as Arp 227 some 100 million light-years distant. Swimming within the boundaries of the constellation Pisces, Arp 227 consists of the two galaxies prominent right of center, the curious shell galaxy NGC 474 and its blue, spiral-armed neighbor NGC 470. The faint, wide arcs or shells of NGC 474 could have been formed by a gravitational encounter with neighbor NGC 470. Alternately the shells could be caused by a merger with a smaller galaxy producing an effect analogous to ripples across the surface of a pond. The large galaxy on the top lefthand side of the deep image, NGC 467, appears to be surrounded by faint shells too, evidence of another interacting galaxy system. Intriguing background galaxies are scattered around the field that also includes spiky foreground stars. Of course, those stars lie well within our own Milky Way Galaxy. The field of view spans 25 arc minutes or about 1&#x2F;2 degree on the sky.</p>
 
 
 
