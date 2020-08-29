@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Valley of Orion</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/PIA22089OrionValley.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">This exciting and unfamiliar view of the Orion Nebula is a visualization based on astronomical data and movie rendering techniques. Up close and personal with a famous stellar nursery normally seen from 1,500 light-years away, the digitally modeled frame transitions from a visible light representation based on Hubble data on the left to infrared data from the Spitzer Space Telescope on the right. The perspective at the center looks along a valley over a light-year wide, in the wall of the region&#39;s giant molecular cloud. Orion&#39;s valley ends in a cavity carved by the energetic winds and radiation of the massive central stars of the Trapezium star cluster. The single frame is part of a multiwavelength, three-dimensional video that lets the viewer experience an immersive, three minute flight through the Great Nebula of Orion.</p>
+<p style="text-align: justify;"></p>
 
 
 
