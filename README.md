@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Martian Chiaroscuro</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/marsHirise_ESP_035143_1325_1096.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Deep shadows create dramatic contrasts between light and dark in this high-resolution close-up of the martian surface. Recorded on January 24, 2014 by the HiRISE camera on board the Mars Reconnaissance Orbiter, the scene spans about 1.5 kilometers. From 250 kilometers above the Red Planet the camera is looking down at a sand dune field in a southern highlands crater. Captured when the Sun was about 5 degrees above the local horizon, only the dune crests were caught in full sunlight. A long, cold winter was coming to the southern hemisphere and bright ridges of seasonal frost line the martian dunes.  The Mars Reconnaissance Orbiter, one of the oldest operating spacecraft at the Red Planet, celebrated the 15th anniversary of its launch from planet Earth on August 12.</p>
 
 
 
