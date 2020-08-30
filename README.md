@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>NGC 6357: Cathedral to Massive Stars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2008/ngc6357_hubble_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">How massive can a normal star be?  Estimates made from distance, brightness and standard solar models had given one star in the open cluster Pismis 24 over 200 times the mass of our Sun, making it one of the most massive stars known.  This star is the brightest object located just above the gas front in the featured image.  Close inspection of images taken with the Hubble Space Telescope, however, have shown that Pismis 24-1 derives its brilliant luminosity not from a single star but from three at least.  Component stars would still remain near 100 solar masses, making them among the more massive stars currently on record.  Toward the bottom of the image, stars are still forming in the associated emission nebula NGC 6357. Appearing perhaps like a Gothic cathedral, energetic stars near the center appear to be breaking out and illuminating a spectacular cocoon.   Teachers &amp; Students: Ideas for Utilizing APOD in the Classroom</p>
 
 
 
