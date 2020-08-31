@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>SS 433: Binary Star Micro-Quasar</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ld-bG1CjkZY" target="_blank"><img src="http://img.youtube.com/vi/ld-bG1CjkZY/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">SS 433 is one of the most exotic star systems known.  Its unremarkable name stems from its inclusion in a catalog of Milky Way stars which emit radiation characteristic of atomic hydrogen.  Its remarkable behavior stems from a compact object, a black hole or neutron star, which has produced an accretion disk with jets.  Because the disk and jets from SS 433 resemble those surrounding supermassive black holes in the centers of distant galaxies, SS 433 is considered a micro-quasar.  As illustrated in the animated featured video based on observational data, a massive, hot, normal star is locked in orbit with the compact object.  As the video starts, material is shown being gravitationally ripped from the normal star and falling onto an accretion disk. The central star also blasts out jets of ionized gas in opposite directions – each at about 1&#x2F;4 the speed of light.  The video then pans out to show a top view of the precessing jets producing an expanding spiral. From even greater distances, the dissipating jets are then visualized near the heart of supernova remnant W50. Two years ago, SS 433 was unexpectedly found by the HAWC detector array in Mexico to emit unusually high energy (TeV-range) gamma-rays. Surprises continue, as a recent analysis of archival data taken by NASA&#39;s Fermi satellite find a gamma-ray source -- separated from the central stars as shown -- that pulses in gamma-rays with a period of 162 days – the same as SS 433&#39;s jet precession period – for reasons yet unknown.    Teachers &amp; Students: Ideas for utilizing APOD in the classroom.</p>
 
 
 
