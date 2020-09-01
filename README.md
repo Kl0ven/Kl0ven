@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Salt Water Remnants on Ceres</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ALaOGmu1S0I" target="_blank"><img src="http://img.youtube.com/vi/ALaOGmu1S0I/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Does Ceres have underground pockets of water? Ceres, the largest asteroid in the asteroid belt, was thought to be composed of rock and ice. At the same time, Ceres was known to have unusual bright spots on its surface. These bright spots were clearly imaged during Dawn&#39;s exciting approach in 2015. Analyses of Dawn images and spectra indicated that the bright spots arise from the residue of highly-reflective salt water that used to exist on Ceres&#39; surface but evaporated. Recent analysis indicates that some of this water may have originated from deep inside Ceres, indicating Ceres to be a kindred spirit with several  Solar System moons, also thought to harbor deep water pockets.  The featured video shows in false-color pink the bright evaporated brine named Cerealia Facula in Occator Crater.  In 2018, the mission-successful but fuel-depleted Dawn  spacecraft was placed in a distant parking orbit, keeping it away from the Ceres&#39; surface for at least 20 years to avoid interfering with any life that might there exist.   Experts Debate: How will humanity first discover extraterrestrial life?</p>
 
 
 
