@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Jupiter and the Moons</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/JupiterAndMoons_Fedez_1080.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">How many moons do you see? Many people would say one, referring to the Earth&#39;s Moon, prominent on the lower left. But take a closer look at the object on the upper right. That seeming-star is actually the planet Jupiter, and your closer look might reveal that it is not alone – it is surrounded by some of its largest moons. From left to right these Galilean Moons are Io, Ganymende, Europa and Callisto. These moons orbit the Jovian world just like the planets of our Solar System orbit the Sun, in a line when seen from the side.  The featured single shot was captured from Cancun, Mexico last week as Luna, in its orbit around the Earth, glided past the distant planet.  Even better views of Jupiter are currently being captured by NASA&#39;s Juno spacecraft, now in a looping orbit around the Solar System&#39;s largest planet.  Earth&#39;s Moon will continue to pass nearly in front of both Jupiter and Saturn once a month (moon-th) as the two giant planets approach their own great conjunction in December.   Almost Hyperspace: Random APOD Generator</p>
 
 
 
