@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Halo for Andromeda</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/STScI-H-p2046b-m-1024x1025.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">M31, the Andromeda Galaxy, is the closest large spiral galaxy to our Milky Way. Some 2.5 million light-years distant it shines in Earth&#39;s night sky as a small, faint, elongated cloud just visible to the unaided eye. Invisible to the eye though, its enormous halo of hot ionized gas is represented in purplish hues for this digital illustration of our neighboring galaxy above rocky terrain. Mapped by Hubble Space Telescope observations of the absorption of ultraviolet light against distant quasars, the extent and make-up of Andromeda&#39;s gaseous halo has been recently determined by the AMIGA project. A reservoir of material for future star formation, Andromeda&#39;s halo of diffuse plasma was measured to extend around 1.3 million light-years or more from the galaxy. That&#39;s about half way to the Milky Way, likely putting it in contact with the diffuse gaseous halo of our own galaxy.</p>
+<p style="text-align: justify;"></p>
 
 
 
