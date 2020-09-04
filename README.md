@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>The Wizard Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/AndrewKlinger_wizard_sho_res25_sig1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Open star cluster NGC 7380 is still embedded in its natal cloud of interstellar gas and dust popularly known as the Wizard Nebula. Seen on the left, with foreground and background stars along the plane of our Milky Way galaxy it lies some 8,000 light-years distant, toward the constellation Cepheus. In apparent size on the sky, a full moon would cover the 4 million year young cluster and associated nebula, normally much too faint to be seen by eye. Made with telescope and camera firmly planted on Earth, the image reveals multi light-year sized shapes and structures of cosmic gas and dust within the Wizard though, in a color palette made popular in Hubble Space Telescope images. Recorded with narrowband filters, the visible wavelength light from the nebula&#39;s hydrogen, oxygen, and sulfur atoms is transformed into green, blue, and red colors in the final digital composite.</p>
 
 
 
