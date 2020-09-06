@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Falcon 9 Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/Falcon9MoonKatieDarby1200.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Illuminating planet Earth&#39;s night, full moons can have many names. This year the last full moon of northern hemisphere summer was on September 2, known to some as the Full Corn Moon. A few days earlier on August 30 this almost full moon rose just before sunset though, shining through cloudy skies over Cape Canaveral Air Force Station on Florida&#39;s Space Coast. A well-timed snapshot caught the glare of rocket engines firing below the lunar disk, a Falcon 9 rocket&#39;s first stage successfully returning to Cape Canaveral&#39;s landing zone 1. About 9 minutes earlier, the same SpaceX Falcon 9 rocket had launched the SAOCOM 1B satellite toward polar orbit. The fourth launch for this reusable Falcon 9 first stage, it was the first launch to a polar orbit from Cape Canaveral since 1969.</p>
+<p style="text-align: justify;"></p>
 
 
 
