@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Pleiades: The Seven Sisters Star Cluster</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/Pleiades_Fraile_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen without binoculars from even the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured exposure covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer&#39;s eyesight.   Teachers &amp; Students: Ideas for utilizing APOD in the classroom.</p>
+<p style="text-align: justify;"></p>
 
 
 
