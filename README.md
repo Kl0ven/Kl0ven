@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Jupiter&#39;s Swmimming Storm</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/Jupiters_swimmingstormsACasely1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">A bright storm head with a long turbulent wake swims across Jupiter in these sharp telescopic images of the Solar System&#39;s ruling gas giant. Captured on August 26, 28, and September 1 (left to right) the storm approximately doubles in length during that period. Stretching along the jetstream of the planet&#39;s North Temperate Belt it travels eastward in successive frames, passing the Great Red Spot and whitish Oval BA, famous storms in Jupiter&#39;s southern hemisphere. Galilean moons Callisto and Io are caught in the middle frame. In fact, telescopic skygazers following Jupiter in planet Earth&#39;s night have reported dramatic fast moving storm outbreaks over the past few weeks in Jupiter&#39;s North Temperate Belt.</p>
 
 
 
