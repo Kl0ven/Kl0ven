@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Reappearance of Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/MarsReappearanceDuarte1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Mars reappears just beyond the Moon&#39;s dark limb in this stack of sharp video frames captured on September 6. Of course to reappear it had to disappear in the first place. It did that over an hour earlier when the sunlit southern edge of the waning gibbous Moon passed in front of the Red Planet as seen from Maceio, Brazil. The lunar occultation came as the Moon was near apogee, about 400,000 kilometers away. Mars was almost 180 times more distant. It was the fourth lunar occultation of Mars visible from planet Earth in 2020. Visible from some southern latitudes, the fifth lunar occultation of Mars in 2020 will take place on October 3 when the Moon and Mars are both nearly opposite the Sun in planet Earth&#39;s sky.</p>
+<p style="text-align: justify;"></p>
 
 
 
