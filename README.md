@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Thousand Meteors</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Over a thousand meteors flash through the night in this intriguing timelapse video. Starting in April 2019 the individual video frames were selected from 372 relatively clear nights of imaging from an automated wide-field observatory in rural New South Wales Australia. Arranged by local sidereal time, a timekeeping system that uses the positions of stars to measure Earth&#39;s rotation, the frames follow the full annual progression of constellations through the wide field of view seen from 33 degrees south latitude. They capture a diverse array of meteors including sporadic meteors, bright fireballs, and shower meteors (plus a lightning sprite), during the period. All frames were processed consistently and so show real variations in the local sky conditions.</p>
+<p style="text-align: justify;"></p>
 
 
 
