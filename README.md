@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Corn Moon Rising</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/CornMoonRising_Palma_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">A rising moon can be a dramatic sight.  A rising Full Corn Moon was captured early this month in time-lapse with a telephoto lens from nearly 30 kilometers away -- making Earth&#39;s ascending half-degree companion appear unusually impressive.  The image was captured from Portugal, although much of the foreground -- including lights from the village of Puebla de Guzmán  -- is in Spain.  A Full Corn Moon is the name attributed to a full moon at this time of year by cultures of some northern indigenous peoples of the Americas, as it coincides with the ripening of corn.  Note that the Moon does not appear larger when it is nearer the horizon -- its seemingly larger size there is only an illusion.  The next full moon -- occurring at the beginning of next month -- will be known as the Full Harvest Moon as it occurs nearest in time to the northern autumnal equinox and the northern field harvests.</p>
 
 
 
