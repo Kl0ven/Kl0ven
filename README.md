@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Biomarker Phosphine Discovered in the Atmosphere of Venus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/VenusClouds_Akatzuki_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Could there be life floating in the atmosphere of Venus? Although Earth&#39;s planetary neighbor has a surface considered too extreme for any known lifeform, Venus&#39; upper atmosphere may be sufficiently mild for tiny airborne microbes. This usually disfavored prospect took an unexpected upturn yesterday with the announcement of the discovery of Venusian phosphine. The chemical phosphine (PH3) is a considered a biomarker because it seems so hard to create from routine chemical processes thought to occur on or around a rocky world such as Venus -- but it is known to be created by microbial life on Earth.  The featured image of Venus and its thick clouds was taken in two bands of ultraviolet light by the Venus-orbing Akatsuki, a Japanese robotic satellite that has been orbiting the cloud-shrouded world since 2015.  The phosphine finding, if confirmed, may set off renewed interest in searching for other indications of life floating high in the atmosphere of our Solar System&#39;s second planet out from the Sun.   Experts Debate: How will humanity first discover extraterrestrial life?</p>
 
 
 
