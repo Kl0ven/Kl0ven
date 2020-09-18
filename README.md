@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Arp 78: Peculiar Galaxy in Aries</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/NGC772_PS2_CROP_INSIGHT1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">(xxxedit and linkxxx) Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries, some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy. Also known as NGC 772, the island universe is over 100,000 light-years across and sports a single prominent outer spiral arm in this detailed cosmic portrait. Its brightest companion galaxy, compact NGC 770, is toward the upper right of the larger spiral. NGC 770&#39;s fuzzy, elliptical appearance contrasts nicely with a spiky foreground Milky Way star in matching yellowish hues. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78&#39;s large spiral arm is likely due to gravitational tidal interactions. Faint streams of material seem to connect Arp 78 with its nearby companion galaxies.</p>
 
 
 
