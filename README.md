@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Orion in Depth</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/Orion3Ddavison1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Orion is a familiar constellation. The apparent positions of its stars in two dimensions create a well-known pattern on the bowl of planet Earth&#39;s night sky. Orion may not look quite so familiar in this 3D view though. The illustration reconstructs the relative positions of Orion&#39;s bright stars, including data from the Hipparcus catalog of parallax distances. The most distant star shown is Alnilam. The middle one in the projected line of three that make up Orion&#39;s belt when viewed from planet Earth, Alnilam is nearly 2,000 light-years away, almost 3 times as far as fellow belt stars Alnitak and Mintaka. Though Rigel and Betelgeuse apparently shine brighter in planet Earth&#39;s sky, that makes more distant Alnilam intrinsically (in absolute magnitude) the brightest of the familiar stars in Orion. In the Hipparcus catalog, errors in measured parallaxes for Orion&#39;s stars can translate in to distance errors of a 100 light-years or so.</p>
+<p style="text-align: justify;"></p>
 
 
 
