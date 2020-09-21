@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Breaking Distant Light</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/DistantSpectra_ESO_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">In the distant universe, time appears to run slowly.  Since time-dilated light appears shifted toward the red end of the spectrum (redshifted), astronomers are able to use cosmological time-slowing to help measure vast distances in the universe.  Featured, the light from distant galaxies has been broken up into its constituent colors (spectra), allowing astronomers to measure the cosmological redshift of known spectral lines.  The novelty of the featured image is that the distance to hundreds of galaxies can be measured from a single frame, in this case one taken by the Visible MultiObject Spectrograph (VIMOS) operating at the Very Large Telescope (VLT) array in Chile.  Analyzing the space distribution of distant objects will allow insight into when and how stars and galaxies formed, clustered, and evolved in the early universe.</p>
+<p style="text-align: justify;"></p>
 
 
 
