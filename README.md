@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Omega Sunrise</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/OmegaSunSail_Sendra_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Capturing this sunrise required both luck and timing.  First and foremost, precise timing was needed to capture a sailboat crossing right in front of a rising Sun.  Additionally, by a lucky coincidence, the background Sun itself appears unusual -- it looks like the Greek letter Omega (Ω).  In reality, the Sun remained its circular self -- the Omega illusion was created by sunlight refracting through warm air just above the water.  Optically, the feet of the capital Omega are actually an inverted image of the Sun region just above it.  Although somewhat rare, optical effects caused by the Earth&#39;s atmosphere can make distant objects near the horizon -- including the Sun and Moon -- look quite unusual.  This single exposure image was taken over the Mediterranean Sea just over two weeks ago near Valencia, Spain.</p>
+<p style="text-align: justify;"></p>
 
 
 
