@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Moon Pairs and the Synodic Month</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Observe the Moon each night and its visible sunlit portion will gradually change. In phases progressing from New Moon to Full Moon to New Moon again, a lunar cycle or synodic month is completed in about 29.5 days. They look full, but top left to bottom right these panels do show the range of lunar phases for a complete synodic month during August 2019 from Ragusa, Sicily, Italy, planet Earth. For this lunar cycle project the panels organize images of the lunar phases in pairs. Each individual image is paired with another image separated by about 15 days, or approximately half a synodic month. As a result the opposite sunlit portions complete the lunar disk and the shadow line at the boundary of lunar night and day, the terminator, steadily marches across the Moon&#39;s familiar nearside. For extra credit, what lunar phase would you pair with the Moon tonight?</p>
 
 
 
