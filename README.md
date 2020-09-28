@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lightning over Colorado</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2009/LightningStorm_Randall_1080.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Have you ever watched a lightning storm in awe?  Join the crowd. Oddly, details about how lightning is produced remains a topic of research. What is known is that updrafts carry light ice crystals into collisions with larger and softer ice balls, causing the smaller crystals to become positively charged.  After enough charge becomes separated, the rapid electrical discharge that is lightning occurs. Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  Lightning bolts are common in clouds during rainstorms, and on average 44 lightning bolts occur on the  Earth every second. Pictured, over 60 images were stacked to capture the flow of lightning-producing storm clouds in July over Colorado Springs, Colorado, USA.    Follow APOD in English on: Facebook,  Instagram, or Twitter</p>
+<p style="text-align: justify;"></p>
 
 
 
