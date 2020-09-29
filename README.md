@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>GW Orionis: A Star System with Titled Rings</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ictZttw3c98" target="_blank"><img src="http://img.youtube.com/vi/ictZttw3c98/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Triple star system GW Orionis appears to demonstrate that planets can form and orbit in multiple planes. In contrast, all the planets and moons in our Solar System orbit in nearly the same plane.  The picturesque system has three prominent stars, a warped disk, and inner tilted rings of gas and grit.  The featured animation characterizes the GW Ori system from observations with the European Southern Observatory&#39;s VLT and ALMA telescopes in Chile. The first part of the illustrative video shows a grand vista of the entire system from a distant orbit, while the second sequence takes you inside the tilted rings to resolve the three central co-orbiting stars.  Computer simulations indicate that multiple stars in systems like GW Ori could warp and break-up disks into unaligned, exoplanet-forming rings.</p>
 
 
 
