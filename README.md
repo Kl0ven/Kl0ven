@@ -33,7 +33,7 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>GW Orionis: A Star System with Titled Rings</h3>
+<h3>GW Orionis: A Star System with Tilted Rings</h3>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=ictZttw3c98" target="_blank"><img src="http://img.youtube.com/vi/ictZttw3c98/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
