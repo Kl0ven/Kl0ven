@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Sonified: Eagle Nebula Pillars</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=DzrCEm1ZBRY" target="_blank"><img src="http://img.youtube.com/vi/DzrCEm1ZBRY/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Yes, but have you ever experienced the Eagle Nebula with your ears ? The famous nebula, M16, is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures.  These light-years long columns of cold gas and dust are some 6,500 light-years distant toward the constellation of the Serpent (Serpens).  Sculpted and eroded by the energetic ultraviolet light and powerful winds from M16&#39;s cluster of massive stars, the cosmic pillars themselves are destined for destruction.  But the turbulent environment of star formation within M16, whose spectacular details are captured in this combined Hubble (visible) and Chandra (X-ray) image, is likely similar to the environment that formed our own Sun. In the featured video, listen for stars and dust sounding off as the line of sonification moves left to right, with vertical position determining pitch.</p>
+<p style="text-align: justify;"></p>
 
 
 
