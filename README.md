@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Biking to the Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/IMG_7493Colour1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">As you watched October&#39;s first Full Moon rise last night, the Full Moon closest to the northern autumnal equinox, you were probably asking yourself, &quot;How long would it take to bike to the Moon?&quot; Sure, Apollo 11 astronauts made the trip in 1969, from launch to Moon landing, in about 103 hours or 4.3 days. But the Moon is 400,000 kilometers away. This year, the top bike riders in planet Earth&#39;s well-known Tour de France race covered almost 3,500 kilometers in 21 stages after about 87 hours on the road. That gives an average speed of about 40 kilometers per hour and a lunar cycling travel time of 10,000 hours, a little over 416 days. While this bike rider&#39;s destination isn&#39;t clear, his journey did begin around moonrise on September 27 near Cleeve Hill, Bishops Cleeve, Cheltenham, UK.</p>
 
 
 
