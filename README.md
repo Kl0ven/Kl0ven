@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Driving to the Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/SDO_2020Oct2_1024_0171.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">How long would it take to drive to the Sun? Brittany age 7, and D.J. age 12, ponder this question over dinner one evening. James also age 7, suggests taking a really fast racing car while Christopher age 4, eagerly agrees. Jerry, a really old guy who is used to estimating driving time on family trips based on distance divided by speed, offers to do the numbers. &quot;Let&#39;s see ... the Sun is 93 million miles away. If we drove 93 miles per hour the trip would only take us 1 million hours.&quot; How long is 1 million hours? One year is 365 days times 24 hours per day, or 8,760 hours. One hundred years would be 876,000 hours, but that&#39;s still a little short of the 1 million hour drive time. So the Sun is really quite far away. Christopher is not impressed, but as he grows older he will be. You&#39;ve got to be impressed by something that&#39;s 93 million miles away and still hurts your eyes when you look at it!</p>
+<p style="text-align: justify;"></p>
 
 
 
