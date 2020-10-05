@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>NGC 5643: Nearby Spiral Galaxy from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/NGC5643_HubbleZamani_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">What&#39;s happening at the center of spiral galaxy NGC 5643?  A swirling disk of stars and gas, NGC 5643&#39;s appearance is dominated by blue spiral arms and brown  dust, as shown in the featured image taken by the Hubble Space Telescope.   The core of this active galaxy glows brightly in radio waves and X-rays where twin jets have been found.  An unusual central glow makes M106 one of the closest examples of the Seyfert class of galaxies, where vast amounts of glowing gas are thought to be falling into a central massive black hole.  NGC 5643, is a relatively close 55 million light years away, spans about 100 thousand light years across, and can be seen with a small telescope towards the constellation of the Wolf (Lupus).</p>
 
 
 
