@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Orion Nebula in Oxygen, Hydrogen, and Sulfur</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/m42HSO_gonzalez_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Few astronomical sights excite the imagination like the nearby stellar nursery known as the Orion Nebula.  The Nebula&#39;s glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud.  Many of the filamentary structures visible in the featured image are actually shock waves - fronts where fast moving material encounters slow moving gas.  The Orion Nebula spans about 40 light years and is located about 1500 light years away in the same spiral arm of our Galaxy as the Sun.  The Great Nebula in Orion can be found with the unaided eye just below and to the left of the easily identifiable belt of three stars in the popular constellation Orion.  The image shows the nebula in three colors specifically emitted by hydrogen, oxygen, and sulfur gas.  The whole Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next 100,000 years.</p>
+<p style="text-align: justify;"></p>
 
 
 
