@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Ou4: A Giant Squid in a Flying Bat</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/SquidBat_Akar_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">A very faint but very large squid-like nebula is visible in planet Earth&#39;s sky -- but inside a still larger bat.  The Giant Squid Nebula cataloged as Ou4, and Sh2-129 also known as the Flying Bat Nebula, are both caught in this cosmic scene toward the royal royal constellation Cepheus. Composed with 55 hours of narrowband image data, the telescopic field of view is 3 degrees or 6 Full Moons across. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula&#39;s alluring bipolar shape is distinguished here by the telltale blue-green emission from doubly ionized oxygen atoms. Though apparently completely surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, a more recent investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, Ou4 would represent a spectacular outflow driven by HR8119, a triple system of hot, massive stars seen near the center of the nebula. The truly giant Squid Nebula would physically be nearly 50 light-years across.   New: APOD Mirror in Turkish from Rasyonalist</p>
 
 
 
