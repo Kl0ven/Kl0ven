@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mare Frigoris</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/MareFrigorisMattSmith1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Lighter than typically dark, smooth, mare the Mare Frigoris lies in the far lunar north. Also known as the Sea of Cold, it stretches across the familiar lunar nearside in this close up of the waxing gibbous Moon&#39;s north polar region. Dark-floored, 95 kilometer wide crater Plato is just left of the center. Sunlit peaks of the lunar Alps (Montes Alpes) are highlighted below and right of Plato, between the more southern Mare Imbrium (Sea of Rains) and Mare Frigoris. The prominent straight feature cutting through the mountains is the lunar Alpine Valley (Vallis Alpes). Joining the Mare Imbrium and Mare Frigoris, the lunar valley is about 160 kilometers long and up to 10 kilometers wide.</p>
+<p style="text-align: justify;"></p>
 
 
 
