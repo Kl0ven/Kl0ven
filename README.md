@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Descending Toward Asteroid Bennu</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=fbEcHDfi-vM" target="_blank"><img src="http://img.youtube.com/vi/fbEcHDfi-vM/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">What would it be like to land on an asteroid?  Although no human has yet done it, NASA&#39;s robotic OSIRIS-REx spacecraft is scheduled to attempt to touch the surface of asteroid 101955 Bennu next week.  The goal is to collect a sample from the nearby minor planet for return to Earth for a detailed analysis in 2023. The featured video shows what it looks like to descend toward the 500-meter diamond-shaped asteroid, based on a digital map of Bennu&#39;s rocky surface constructed from image and surface data taken by OSIRIS-REx over the past 1.5 years.  The video begins by showing a rapidly spinning Bennu -- much faster than its real rotation period of 4.3 hours.  After the rotation stops, the virtual camera drops you down to just above the rugged surface and circles a house-sized rock outcrop named Simurgh, with the flatter outcrop Roc visible behind it.  If the return sample reaches Earth successfully, it will be scrutinized for organic compounds that might have seeded a young Earth, rare or unusual elements and minerals, and clues about the early history of our Solar System.</p>
+<p style="text-align: justify;"></p>
 
 
 
