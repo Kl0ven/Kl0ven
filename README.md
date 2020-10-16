@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Galaxies in Pegasus</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/NGC7331eder_1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">This sharp telescopic view reveals galaxies scattered beyond the stars of the Milky Way, at the northern boundary of the high-flying constellation Pegasus. Prominent at the upper right is NGC 7331. A mere 50 million light-years away, the large spiral is one of the brighter galaxies not included in Charles Messier&#39;s famous 18th century catalog. The disturbed looking group of galaxies at the lower left is well-known as Stephan&#39;s Quintet. About 300 million light-years distant, the quintet dramatically illustrates a multiple galaxy collision, its powerful, ongoing interactions posed for a brief cosmic snapshot. On the sky, the quintet and NGC 7331 are separated by about half a degree.</p>
+<p style="text-align: justify;"></p>
 
 
 
