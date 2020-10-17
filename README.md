@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Planetary Nebula Abell 78</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/PN_Abell78-1_1024c1.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Planetary nebula Abell 78 stands out in this colorful telescopic skyscape. In fact the colors of the spiky Milky Way stars depend on their surface temperatures, both cooler (yellowish) and hotter (bluish) than the Sun. But Abell 78 shines by the characteristic emission of ionized atoms in the tenuous shroud of material shrugged off from an intensely hot central star. The atoms are ionized, their electrons stripped away, by the central star&#39;s energetic but otherwise invisible ultraviolet light. The visible blue-green glow of loops and filaments in the nebula&#39;s central region corresponds to emission from doubly ionized oxygen atoms, surrounded by strong red emission from electrons recombining with hydrogen atoms. Some 5,000 light-years distant toward the constellation Cygnus, Abell 78 is about three light-years across. A planetary nebula like Abell 78 represents a very brief final phase in stellar evolution that our own Sun will experience ... in about 5 billion years.</p>
+<p style="text-align: justify;"></p>
 
 
 
