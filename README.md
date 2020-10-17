@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Cygnus: Bubble and Crescent</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/NGC6888WissamAyoub1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">These clouds of gas and dust drift through rich star fields along the plane of our Milky Way Galaxy toward the high flying constellation Cygnus. Caught within the telescopic field of view are the Soap Bubble (lower left) and the Crescent Nebula (upper right). Both were formed at a final phase in the life of a star. Also known as NGC 6888, the Crescent was shaped as its bright, central massive Wolf-Rayet star, WR 136, shed its outer envelope in a strong stellar wind. Burning through fuel at a prodigious rate, WR 136 is near the end of a short life that should finish in a spectacular supernova explosion.  Discovered in 2013, the Soap Bubble Nebula is likely a planetary nebula, the final shroud of a lower mass, long-lived, sun-like star destined to become a slowly cooling white dwarf. Both stellar shrouds are 5,000 light-years or so distant. The larger Crescent Nebula is around 25 light-years across.</p>
 
 
 
