@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>A Flight over Jupiter Near the Great Red Spot</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=xh3EKDghbuU" target="_blank"><img src="http://img.youtube.com/vi/xh3EKDghbuU/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Are you willing to wait to see the largest and oldest known storm system in the Solar System?  In the featured video, Jupiter&#39;s Great Red Spot finally makes its appearance 2 minutes and 12 seconds into the 5-minute video.  Before it arrives, you may find it pleasing to enjoy the continually changing view of the seemingly serene clouds of Jupiter, possibly with your lights low and sound up.  The 41 frames that compose the video were captured in June as the robotic Juno spacecraft was making a close pass over our Solar System&#39;s largest planet. The time-lapse sequence actually occurred over four hours.  Since arriving at Jupiter in 2016, Juno&#39;s numerous discoveries have included unexpectedly deep atmospheric jet streams, the most powerful auroras ever recorded, and water-bearing clouds bunched near Jupiter&#39;s equator.   Follow: Live coverage of tomorrow&#39;s OSIRIS-REx attempted touchdown-and-go on asteroid Bennu</p>
 
 
 
