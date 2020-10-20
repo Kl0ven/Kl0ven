@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Saturn and Jupiter over Italian Peaks</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/JupiterSaturnPeaks_Hofer_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Saturn and Jupiter are getting closer. Every night that you go out and check for the next two months, these two bright planets will be even closer together on the sky.  Finally, in mid-December, a Great Conjunction will occur -- when the two planets will appear only 0.1 degrees apart -- just one fifth the angular diameter of the full Moon. And this isn&#39;t just any Great Conjunction -- Saturn (left) and Jupiter (right) haven&#39;t been this close since 1623, and won&#39;t be nearly this close again until 2080.  This celestial event is quite easy to see -- already the two planets are easily visible toward the southwest just after sunset -- and already they are remarkably close. Pictured, the astrophotographer and partner eyed the planetary duo above the Tre Cime di Lavaredo (Three Peaks of Lavaredo) in the Italian Alps about two weeks ago.    Follow: Live coverage of today&#39;s OSIRIS-REx attempted touchdown-and-go on asteroid Bennu</p>
 
 
 
