@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Tagging Bennu</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/d_tag-2-frames.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">On October 20, after a careful approach to the boulder-strewn surface, the OSIRIS-REx spacecraft&#39;s arm reached out and touched asteroid Bennu. Dubbed a Touch-And-Go (TAG) sampling event, the 30 centimeter wide sampling head (TAGSAM) appears to crush some of the rocks in this snapshot. The close-up scene was recorded by the spacecraft&#39;s SamCam some 321 million kilometers from planet Earth, just after surface contact. One second later, the spacecraft fired nitrogen gas from a bottle intended to blow a substantial amount of Bennu&#39;s regolith into the sampling head, collecting the loose surface material. Data show the spacecraft spent approximately 5 more seconds in contact with Bennu&#39;s Nightingale sample site and then performed its back-away burn. Timelapse frames from SamCam reveal the aftermath.</p>
 
 
 
