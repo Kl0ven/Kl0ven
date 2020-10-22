@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Night Sky Vista from Sardinia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/Quantrids_Slovinsky_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">How many famous sky objects can you find in this image?  The featured dark sky composite combines over 60 exposures spanning over 220 degrees to create a veritable menagerie of night sky wonders. Visible celestial icons include the Belt of Orion, the Orion Nebula, the Andromeda Galaxy, the California Nebula, and bright stars Sirius and Betelgeuse.  You can verify that you found these, if you did, by checking an annotated version of the image.  A bit harder, though, is finding Polaris and the Big Dipper. Also discernible are several meteors from the Quandrantids meteor shower, red and green airglow, and two friends of the astrophotographer.  The picture was captured in January from Sardinia, Italy.  You can see sky wonders in your own night sky tonight -- including more meteors than usual -- because tonight is near peak of the yearly Orionids meteor shower.   News: NASA’s OSIRIS-REx Spacecraft Successfully Touches Asteroid</p>
+<p style="text-align: justify;"></p>
 
 
 
