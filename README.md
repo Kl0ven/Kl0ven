@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Supernova in NGC 2525</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/STScI_NGC2525_955x1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Big, beautiful, barred spiral galaxy NGC 2525 lies 70 million light-years from the Milky Way. It shines in Earth&#39;s night sky within the boundaries of the southern constellation Puppis. About 60,000 light-years across, its spiral arms lined with dark dust clouds, massive blue stars, and pinkish starforming regions wind through this gorgeous Hubble Space Telescope snapshot. Spotted on the outskirts of NGC 2525 in January 2018, supernova SN 2018gv is the brightest star in the frame at the lower left. In time-lapse, a year long series of Hubble observations followed the stellar explosion, the nuclear detonation of a white dwarf star triggered by accreting material from a companion star, as it slowly faded from view. Identified as a Type Ia supernova, its brightness is considered a cosmic standard candle. Type Ia supernovae are used to measure distances to galaxies and determine the expansion rate of the Universe.</p>
 
 
 
