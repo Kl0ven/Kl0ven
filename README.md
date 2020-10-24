@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Globular Star Cluster 47 Tuc</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/ngc104v1Mtanous_1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Globular star cluster 47 Tucanae is a jewel of the southern sky. Also known as NGC 104, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, it lies about 13,000 light-years away and can be spotted naked-eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.</p>
 
 
 
