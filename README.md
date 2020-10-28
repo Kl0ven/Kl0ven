@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Venusian Volcano Imagined</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/VenusVolcano_NasaRubin_1080.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">What would an erupting volcano on Venus look like? Evidence of currently active volcanoes on Venus was announced earlier this year with the unexplained warmth of regions thought to contain only ancient volcanoes.  Although large scale images of Venus have been taken with radar, thick sulfuric acid clouds would inhibit the taking of optical light vistas. Nevertheless, an artist&#39;s reconstruction of a Venusian volcano erupting is featured. Volcanoes could play an important role in a life cycle on Venus as they could push chemical foods into the cooler upper atmosphere where hungry microbes might float.  Pictured, the plume from an erupting volcano billows upwards, while a vast lava field covers part of the hot and cracked surface of Earth&#39;s overheated twin.  The possibility of airborne microbial Venusians is certainly exciting, but currently controversial.    An APOD Described on TikTok: By astrokirsten</p>
+<p style="text-align: justify;"></p>
 
 
 
