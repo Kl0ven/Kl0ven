@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fear and Dread: The Moons of Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/PhobosDeimosOrbitTimesAnnotatedcopy.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">On Halloween fear and dread will stalk your night skies, also known as Phobos and Deimos the moons of Mars. The 2020 opposition of Mars was on October 13, so the Red Planet will still rise shortly before sunset. Near Halloween&#39;s Full Moon on the sky, its strange yellowish glow will outshine other stars throughout the night. But the two tiny Martian moons are very faint and in close orbits, making them hard to spot, even with a small telescope. You can find them in this carefully annotated composite view though. The overexposed planet&#39;s glare is reduced and orbital paths for inner moon Phobos and outer moon Deimos are overlayed on digitally combined images captured on October 6. The diminutive moons of Mars were discovered in August of 1877 by astronomer Asaph Hall at the US Naval Observatory using the Great Equatorial 26-inch Alvan Clark refractor</p>
+<p style="text-align: justify;"></p>
 
 
 
