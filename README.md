@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Galaxy of Horrors</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2010/1c-english-triplet-16.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">re extreme and terrifying realms of the Universe tonight. If you dare to look, mysterious dark matter, a graveyard galaxy, zombie worlds, and gamma-ray bursts of doom are not all that awaits. Just follow the link and remember, it&#39;s all based on real science, even the scary parts. Have a safe and happy halloween!</p>
+<p style="text-align: justify;"></p>
 
 
 
