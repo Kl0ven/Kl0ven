@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Half Sun with Prominence</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/HalfSunProm_Colacurcio_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">What&#39;s happening to the Sun? Clearly, the Sun&#39;s lower half is hidden behind a thick cloud.  Averaging over the entire Earth, clouds block the Sun about 2&#x2F;3rds of the time, although much less over many land locations. On the Sun&#39;s upper right is a prominence of magnetically levitating hot gas. The prominence might seem small but it could easily envelop our  Earth and persist for over a month.  The featured image is a combination of two exposures, one optimizing the cloud and prominence, and the other optimizing the Sun&#39;s texture.  Both were taken about an hour apart with the same camera and from the same location in Lynnwood, Washington, USA.  The shaggy texture derives from the Sun&#39;s chromosphere, an atmospheric layer that stands out in the specifically exposed color.  The uniformity of the texture shows the surface to be relatively calm, indicative of a Sun just past the solar minimum in its 11-year cycle. In the years ahead, the Sun will progress toward a more active epoch where sunspots, prominences, and ultimately auroras on Earth will be more common: solar maximum.</p>
 
 
 
