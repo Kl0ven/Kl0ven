@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Tagging Bennu: The Movie</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=F6Tkb8syTK8" target="_blank"><img src="http://img.youtube.com/vi/F6Tkb8syTK8/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">This is what it looks like to punch an asteroid. Last month, NASA&#39;s robotic spacecraft OSIRIS-REx descended toward, thumped into, and then quickly moved away from the small near-Earth asteroid 101955 Bennu.  The featured video depicts the Touch-And-Go (TAG) sampling event over a three-hour period.  As the movie begins, the automated probe approaches the 500-meter, diamond-shaped, space rock as it rotates noticeably below. About 20 seconds into the video, Nightingale comes into view -- a touchdown area chosen to be relatively flat and devoid of large boulders that could damage the spaceship.  At 34 seconds, the shadow of OSIRIS-REx&#39;s sampling arm suddenly comes into view, while very soon thereafter rocks and gravel fly from the arm&#39;s abrupt hard impact.  The wily spacecraft was able to capture and successfully stow some of Bennu&#39;s ejecta for return to Earth for a detailed analysis.  This long return is scheduled to start in 2021 March with arrival back on Earth in 2023 September. If the return sample does successfully reach Earth, it will be scrutinized for organic compounds that might have seeded a young Earth, rare or unusual elements and minerals, and clues about the early history of our Solar System.</p>
+<p style="text-align: justify;"></p>
 
 
 
