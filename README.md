@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fifty Gravitational Wave Events Illustrated</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/GWaveSources2020Oct_LigoVIrgo_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Over fifty gravitational wave events have now been detected. These events mark the distant, violent collisions of two black holes, a black hole and a neutron star, or two neutron stars.  Most of the 50 events were detected in 2019 by the LIGO gravitational wave detectors in the USA and the VIRGO detector in Europe.  In the featured illustration summarizing the masses of the first 50 events, blue dots indicate higher-mass black holes while orange dots denote lower-mass neutron stars. Astrophysicists are currently uncertain, though, about the nature of events marked in white involving masses that appear to be in the middle -- between two and five solar masses.  The night sky in optical light is dominated by nearby and bright planets and stars that have been known since the dawn of humanity. In contrast, the sky in gravitational waves is dominated by distant and dark black holes  that have only been known about for less than five years.  This contrast is enlightening -- understanding the gravitational wave sky is already reshaping humanity&#39;s knowledge not only of star birth and death across the universe, but properties of the universe itself.</p>
+<p style="text-align: justify;"></p>
 
 
 
