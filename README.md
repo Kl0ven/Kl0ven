@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>North of Orion&#39;s Belt</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Bright stars, interstellar clouds of dust and glowing nebulae fill this cosmic scene, a skyscape just north of Orion&#39;s belt. Close to the plane of our Milky Way Galaxy, the wide field view spans just under 5 degrees or about 10 full moons on the sky. Striking bluish M78, a reflection nebula, is at the lower right. M78&#39;s tint is due to dust preferentially reflecting the blue light of hot, young stars. In colorful contrast, the red swath of glowing hydrogen gas streaming through the center is part of the region&#39;s faint but extensive emission nebula known as Barnard&#39;s Loop. At upper left, a dark dust cloud forms a prominent silhouette cataloged as LDN 1622. While M78 and the complex Barnard&#39;s Loop are some 1,500 light-years away, LDN 1622 is likely to be much closer, only about 500 light-years distant from our fair planet Earth.</p>
+<p style="text-align: justify;"></p>
 
 
 
