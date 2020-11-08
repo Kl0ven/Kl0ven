@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Hercules Cluster of Galaxies</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/Abell2151_Howard_Trottier_2020_FFTelescope1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">These are galaxies of the Hercules Cluster, an archipelago of island universes a mere 500 million light-years away. Also known as Abell 2151, this cluster is loaded with gas and dust rich, star-forming spiral galaxies but has relatively few elliptical galaxies, which lack gas and dust and the associated newborn stars. The colors in this deep composite image clearly show the star forming galaxies with a blue tint and galaxies with older stellar populations with a yellowish cast. The sharp picture spans about 1&#x2F;2 degree across the cluster center, corresponding to over 4 million light-years at the cluster&#39;s estimated distance. Diffraction spikes around brighter foreground stars in our own Milky Way galaxy are produced by the imaging telescope&#39;s mirror support vanes. In the cosmic vista many galaxies seem to be colliding or merging while others seem distorted - clear evidence that cluster galaxies commonly interact. In fact, the Hercules Cluster itself may be seen as the result of ongoing mergers of smaller galaxy clusters and is thought to be similar to young galaxy clusters in the much more distant, early Universe.</p>
+<p style="text-align: justify;"></p>
 
 
 
