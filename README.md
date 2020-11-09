@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>In Green Company: Aurora over Norway</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/greencompany_rive_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden fjord close to the town of Svolvear on the Lofoten islands in northern Norway. The time was early 2014. Although our Sun has just passed the solar minimum of its 11-year cycle, surface activity should pick up over the next few years with the promise of triggering more spectacular auroras on Earth.</p>
 
 
 
