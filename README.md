@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Colors of the Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/MoonColors_Pace_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">What color is the Moon? It depends on the night.  Outside of the Earth&#39;s atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray.  Viewed from inside the Earth&#39;s atmosphere, though, the moon can appear quite different.  The featured image highlights a collection of apparent colors of the full moon documented by one astrophotographer over 10 years from different locations across Italy. A red or yellow colored moon usually indicates a moon seen near the horizon.  There, some of the blue light has been scattered away by a long path through the Earth&#39;s atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate a moon seen through an atmosphere carrying larger dust particles.  What created the purple moon is unclear -- it may be a combination of several effects.  The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth&#39;s shadow, appeared a faint red -- due to light refracted through air around the Earth. The next full moon will occur at the end of this month (moon-th) and is known in some cultures as the Beaver Moon.</p>
 
 
 
