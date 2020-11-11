@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Central Soul Nebula Without Stars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/IC1848_Guenzel_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">This cosmic close-up looks deep inside the Soul Nebula. The dark and brooding dust clouds near the top, outlined by bright ridges of glowing gas, are cataloged as IC 1871. About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years the star-forming complex lies within the Perseus spiral arm of our  Milky Way Galaxy, seen in planet Earth&#39;s skies toward the constellation Cassiopeia. An example of triggered star formation, the dense star-forming clouds in the Soul Nebula are themselves sculpted by the intense winds and radiation of the region&#39;s massive young stars. In the featured image, stars have been digitally removed to highlight the commotion in the gas and dust.</p>
+<p style="text-align: justify;"></p>
 
 
 
