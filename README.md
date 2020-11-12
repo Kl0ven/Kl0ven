@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Comet ATLAS and Orion&#39;s Belt</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/C2020M3Orion_CharlesBracken1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">With its closest approach to planet Earth scheduled for November 14, this Comet ATLAS (C&#x2F;2020 M3) was discovered just this summer, another comet found by the NASA funded Asteroid Terrestrial-impact Last Alert System. It won&#39;t get as bright as Comet NEOWISE but it can still be spotted using binoculars, as it currently sweeps through the familiar constellation of Orion. This telephoto field from November 8, blends exposures registered on the comet with exposures registered on Orion&#39;s stars. It creates an effectively deep skyview that shows colors and details you can&#39;t quite see though, even in binoculars. The comet&#39;s telltale greenish coma is toward the upper left, above Orion&#39;s three belt stars lined-up across the frame below center. You&#39;ll also probably spot the Orion Nebula, and famous Horsehead Nebula in the stunning field of view. Of course one of Orion&#39;s belt stars is nearly 2,000 light-years away. On November 14, this comet ATLAS will fly a mere 2.9 light-minutes from Earth.</p>
 
 
 
