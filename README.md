@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Venus, Mercury, and the Waning Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/lunaortyblue1200nodidasc.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Yesterday, early morning risers around planet Earth were treated to a waning Moon low in the east as the sky grew bright before dawn. From the Island of Ortigia, Syracuse, Sicily, Italy this simple snapshot found the slender sunlit crescent just before sunrise. Never wandering far from the Sun in Earth&#39;s sky, inner planets Venus and Mercury shared the calm seaside view. Also in the frame, right of the line-up of Luna and planets, is bright star Spica, alpha star of the constellation Virgo and one of the 20 brightest stars in Earth&#39;s night. Tomorrow the Moon will be New. The dark lunar disk means mostly dark nights for planet Earth in the coming week and a good chance to watch the annual Leonid Meteor Shower.  Today watch: Commercial Crew Launch to ISS</p>
 
 
 
