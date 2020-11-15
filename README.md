@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Edge-On Galaxy NGC 5866</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/ngc5866_hst_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Why is this galaxy so thin?  Many disk galaxies are just as thin as NGC 5866, pictured here, but are not seen edge-on from our vantage point.  One galaxy that is situated edge-on is our own Milky Way Galaxy.  Classified as a lenticular galaxy, NGC 5866 has numerous and complex dust lanes appearing dark and red, while many of the bright stars in the disk give it a more blue underlying hue.  The blue disk of young stars can be seen extending past the dust in the extremely thin galactic plane, while the bulge in the disk center appears tinged more orange from the older and redder stars that likely exist there. Although similar in mass to our Milky Way Galaxy, light takes about 60,000 years to cross NGC 5866, about 30 percent less than light takes to cross our own Galaxy. In general, many disk galaxies are very thin because the gas that formed them collided with itself as it rotated about the gravitational center. Galaxy NGC 5866 lies about 44 million light years distant toward the constellation of the Dragon (Draco).    Almost Hyperspace: Random APOD Generator</p>
 
 
 
