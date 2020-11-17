@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Light and Glory over Crete</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/CreteSky_Slovinsky_1080.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">The month was July, the place was the Greek island of Crete, and the sky was spectacular. Of course there were the usual stars like Polaris, Vega, and Antares -- and that common asterism everyone knows: the Big Dipper. But this sky was just getting started.  The band of the Milky Way Galaxy stunned as it arched across the night like a bridge made of stars and dust but dotted with red nebula like candy. The planets Saturn and Jupiter were so bright you wanted to stop people on the beach and point them out. The air glowed like a rainbow -- but what really grabbed the glory was a comet. Just above the northern horizon, Comet NEOWISE spread its tails like nothing you had ever seen before or might ever see again.  Staring in amazement, there was only one thing to do: take a picture.   Coverage: NASA&#39;s SpaceX Crew-1 Mission</p>
+<p style="text-align: justify;"></p>
 
 
 
