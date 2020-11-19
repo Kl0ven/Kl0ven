@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Crew-1 Mission Launch Streak</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/spacex-crew-1-JenScottPhotography-11_1050.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Leaving planet Earth for a moment, a SpaceX Falcon 9 rocket arced into the early evening sky last Sunday at 7:27 pm EST. This 3 minute 20 second exposure traces the launch streak over Kennedy Space Center&#39;s Launch Complex 39A. The rocket carried four astronauts en route to the International Space Station on the first flight of a NASA-certified commercial human spacecraft system. Dubbed Resilience, the astronauts&#39; Crew Dragon spacecraft successfully docked with the orbital outpost one day later, on Monday, November 16. At the conclusion of their six-month stay on the ISS, the Crew-1 astronauts will use their spacecraft return to Earth. Of course about 9 minutes after launch the Falcon 9 rocket&#39;s first stage returned to Earth, landing in the Atlantic Ocean on autonomous spaceport drone ship Just Read The Instructions.</p>
 
 
 
