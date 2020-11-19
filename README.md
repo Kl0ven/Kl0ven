@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Double Star Cluster in Perseus</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/DoubleCluster_Polanski_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Most star clusters are singularly impressive.  Open clusters NGC 869 and NGC 884, however, could be considered doubly impressive.  Also known as &quot;h and chi Persei&quot;, this unusual double cluster, shown above, is bright enough to be seen from a dark location without even binoculars.  Although their discovery surely predates recorded history, the Greek astronomer Hipparchus notably cataloged the double cluster.  The clusters are over 7,000 light years distant toward the constellation of Perseus, but are separated by only hundreds of light years. In addition to being physically close together, the clusters&#39; ages based on their individual stars are similar - evidence that both clusters were likely a product of the same star-forming region.</p>
+<p style="text-align: justify;"></p>
 
 
 
