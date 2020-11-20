@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Global Map: Mars at Opposition</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/marsglobalmap_1100.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">This may be the best global Mars map made with a telescope based on planet Earth. The image data were captured by a team of observers over six long nights at the Pic du Midi mountaintop observatory between October 8 and November 1, when the fourth rock from the Sun had not wandered far from its 2020 opposition and its biggest and brightest appearance in Earth&#39;s night sky. The large telescope used, 1 meter in diameter with a 17 meter focal length, was also used in support of NASA&#39;s Apollo lunar landing missions. After about 30 hours of processing, the data were combined to produced this remarkably sharp projected view of the martian surface extending to about 45 degrees northern latitude. The image data have also been mapped onto a rotating sphere and rotating stereo, views. Fans of Mars can easily pick out their favorite markings on the Red Planet by eyeing a labeled version of this global map of Mars.</p>
 
 
 
