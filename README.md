@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mars and Meteor over Jade Dragon Snow Mountain</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/LeonidmeteorandMarsoverYulongsnowmountain1050.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">A brilliant yellowish celestial beacon, Mars still dazzles in the night. Peering between clouds the wandering planet was briefly joined by the flash of a meteor in this moonless dark sky on November 18. The single exposure was taken as the Earth swept up dust from periodic comet Tempel-Tuttle during the annual Leonid Meteor Shower. The view of a rugged western horizon looks along the Yulong mountain range in Yunnan province, southwestern China. Yulong (Jade Dragon) Snow Mountain lies below the clouds and beyond the end of the meteor streak.</p>
+<p style="text-align: justify;"></p>
 
 
 
