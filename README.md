@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Jupiter Vista from Juno</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/JupiterVista_JunoGill_1080.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Why do colorful cloud bands encircle Jupiter? Jupiter&#39;s top atmospheric layer is divided into light zones and dark belts that go all the way around the giant planet. It is high horizontal winds -- in excess of 300 kilometers per hour -- that cause the zones to spread out planet-wide. What causes these strong winds remains a topic of research.  Replenished by upwelling gas, zonal bands are thought to include relatively opaque clouds of ammonia and water that block light from lower and darker atmospheric levels.  One light-colored zone is shown in great detail in the featured vista taken by the robotic Juno spacecraft in 2017.  Jupiter&#39;s atmosphere is mostly clear and colorless hydrogen and helium, gases that are not thought to contribute to the gold and brown colors.  What compounds create these colors is another active topic of research -- but is hypothesized to involve small amounts of sunlight-altered sulfur and carbon.  Many discoveries have been made from Juno&#39;s data, including that water composes an unexpectedly high 0.25 percent of upper-level cloud molecules near Jupiter&#39;s equator, a finding important not only for understanding Jovian currents but for the history of water in the entire Solar System.</p>
+<p style="text-align: justify;"></p>
 
 
 
