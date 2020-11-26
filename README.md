@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>The Great Turkey Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/TheGreatTurkeyNebula1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Surprisingly reminiscent of The Great Nebula in Orion, The Great Turkey Nebula spans this creative field of view.  Of course if it were the Orion Nebula it would be our closest large stellar nursery, found at the edge of a large molecular cloud a mere 1,500 light-years away. Also known as M42, the Orion Nebula is visible to the eye as the middle &quot;star&quot; in the sword of Orion the Hunter, a constellation now rising in planet Earth&#39;s evening skies. Stellar winds from clusters of newborn stars scattered throughout the Orion Nebula sculpt its ridges and cavities seen in familiar in telescopic images. Similar in size to the Orion Nebula, this Great Turkey Nebula was imagined to be about 13 light-years across. Stay safe and well.</p>
 
 
 
