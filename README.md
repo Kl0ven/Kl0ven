@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Verona Rupes: Tallest Known Cliff in the Solar System</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2011/TallestCliff_Voyager2_1002.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Could you survive a jump off the tallest cliff in the Solar System? Quite possibly.  Verona Rupes on Uranus&#39; moon Miranda is estimated to be 20 kilometers deep -- ten times the depth of the Earth&#39;s Grand Canyon.   Given Miranda&#39;s low gravity, it would take about 12 minutes for a thrill-seeking adventurer to fall from the top, reaching the bottom at the speed of a racecar -- about 200 kilometers per hour.   Even so, the fall might be survivable given proper airbag protection.  The featured image of Verona Rupes was captured by the passing Voyager 2 robotic spacecraft in 1986.  How the giant cliff was created remains unknown, but is possibly related to a large impact or tectonic surface motion.</p>
+<p style="text-align: justify;"></p>
 
 
 
