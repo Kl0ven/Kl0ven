@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>NGC 346: Star Forming Cluster in the SMC</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Are stars still forming in the Milky Way&#39;s satellite galaxies?  Found among the Small Magellanic Cloud&#39;s (SMC&#39;s) clusters and nebulas, NGC 346 is a star forming region about 200 light-years across, pictured here in the center of a Hubble Space Telescope image. A satellite galaxy of the Milky Way, the Small Magellanic Cloud (SMC) is a wonder of the southern sky, a mere 210,000 light-years distant in the constellation of the Toucan (Tucana). Exploring NGC 346, astronomers have identified a population of embryonic stars strung along the dark, intersecting dust lanes visible here on the right. Still collapsing within their natal clouds, the stellar infants&#39; light is reddened by the intervening dust. Toward the top of the frame is another star cluster with intrinsically older and redder stars. A small, irregular galaxy, the SMC itself represents a type of galaxy more common in the early Universe. These small galaxies, though, are thought to be building blocks for the larger galaxies present today.   All 30: 2020 November APODs voiced by AI</p>
 
 
 
