@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 346: Star Forming Cluster in the SMC</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg"">
+<h3>Eye of Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg"">
 
 
-<p style="text-align: justify;">Are stars still forming in the Milky Way&#39;s satellite galaxies?  Found among the Small Magellanic Cloud&#39;s (SMC&#39;s) clusters and nebulas, NGC 346 is a star forming region about 200 light-years across, pictured here in the center of a Hubble Space Telescope image. A satellite galaxy of the Milky Way, the Small Magellanic Cloud (SMC) is a wonder of the southern sky, a mere 210,000 light-years distant in the constellation of the Toucan (Tucana). Exploring NGC 346, astronomers have identified a population of embryonic stars strung along the dark, intersecting dust lanes visible here on the right. Still collapsing within their natal clouds, the stellar infants&#39; light is reddened by the intervening dust. Toward the top of the frame is another star cluster with intrinsically older and redder stars. A small, irregular galaxy, the SMC itself represents a type of galaxy more common in the early Universe. These small galaxies, though, are thought to be building blocks for the larger galaxies present today.   All 30: 2020 November APODs voiced by AI</p>
+<p style="text-align: justify;">Who&#39;s watching who?  The featured image of the Moon through a gap in a wall of rock may appear like a giant eye looking back at you.  Although, in late October, it took only a single exposure to capture this visual double, it also took a lot of planning.  The photographic goal was achieved by precise timing -- needed for a nearly full moon to appear through the eye-shaped arch, by precise locating -- needed for the angular size of the Moon to fit iconically inside the rock arch, and by good luck -- needed for a clear sky and for the entire scheme to work. The seemingly coincidental juxtaposition was actually engineered with the help of three smartphone apps.  The pictured sandstone arch, carved by erosion, is millions of years old and just one of thousands of natural rock arches that have been found in Arches National Park near Moab, Utah, USA.  Contrastingly, the pictured Moon can be found up in the sky from just about anywhere on Earth, about half the time.</p>
 
 
 
