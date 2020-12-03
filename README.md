@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Eye of Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg"">
+<h3>The Antennae Galaxies in Collision</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/AntennaeGpotw1345a_1024.jpg"">
 
 
-<p style="text-align: justify;">Who&#39;s watching whom?  The featured image of the Moon through a gap in a wall of rock may appear like a giant eye looking back at you.  Although, in late October, it took only a single exposure to capture this visual double, it also took a lot of planning.  The photographic goal was achieved by precise timing -- needed for a nearly full moon to appear through the eye-shaped arch, by precise locating -- needed for the angular size of the Moon to fit iconically inside the rock arch, and by good luck -- needed for a clear sky and for the entire scheme to work. The seemingly coincidental juxtaposition was actually engineered with the help of three smartphone apps.  The pictured sandstone arch, carved by erosion, is millions of years old and just one of thousands of natural rock arches that have been found in Arches National Park near Moab, Utah, USA.  Contrastingly, the pictured Moon can be found up in the sky from just about anywhere on Earth, about half the time.</p>
+<p style="text-align: justify;">Sixty million light-years away toward the southerly constellation Corvus, these two large galaxies are colliding. The cosmic train wreck captured in stunning detail in this Hubble Space Telescope snapshot takes hundreds of millions of years to play out. Cataloged as NGC 4038 and NGC 4039, the galaxies&#39; individual stars don&#39;t often collide though. Their large clouds of molecular gas and dust do, triggering furious episodes of star formation near the center of the wreckage. New star clusters and interstellar matter are jumbled and flung far from the scene of the accident by gravitational forces. This Hubble close-up frame is about 50,000 light-years across at the estimated distance of the colliding galaxies. In wider-field views their suggestive visual appearance, with extended structures arcing for hundreds of thousands of light-years, gives the galaxy pair its popular name, The Antennae Galaxies.</p>
 
 
 
