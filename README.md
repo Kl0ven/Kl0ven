@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mons Rumker in the Ocean of Storms</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/MonsRumker_Letellier.jpg"">
+<h3>M16: Pillars of Star Creation</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/pillars8_hst_960.jpg"">
 
 
-<p style="text-align: justify;">Mons Rumker, a 70 kilometer wide complex of volcanic domes, rises some 1100 meters above the vast, smooth lunar mare known as Oceanus Procellarum, the Ocean of Storms. Daylight came to the area late last month. The lunar terminator, the shadow line between night and day, runs diagonally across the left side in this telescopic close-up of a waxing gibbous Moon from November 27. China&#39;s Chang&#39;e-5 mission landing site is also in the frame. The probe&#39;s lander-ascender combination touch down on the lunar surface within a region right of center and north of Mons Rumker&#39;s domes on December 1. On December 3 the ascender left the Ocean of Storms carrying 2 kilograms of lunar material for return to planet Earth.</p>
+<p style="text-align: justify;">These dark pillars may look destructive, but they are creating stars.  This pillar-capturing image of the inside of the Eagle Nebula, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillars&#39; end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.  The pillars of creation have been imaged more recently in infrared light by Hubble, NASA&#39;s Spitzer Space Telescope, and ESA&#39;s Herschel Space Observatory -- showing new detail.   Be Honest: Have you seen this image before?</p>
 
 
 
