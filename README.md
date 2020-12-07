@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M16: Pillars of Star Creation</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/pillars8_hst_960.jpg"">
+<h3>Mammatus Clouds over Mount Rushmore</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/MammatusRushmore_Mattuzzi_960.jpg"">
 
 
-<p style="text-align: justify;">These dark pillars may look destructive, but they are creating stars.  This pillar-capturing image of the inside of the Eagle Nebula, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillars&#39; end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.  The pillars of creation have been imaged more recently in infrared light by Hubble, NASA&#39;s Spitzer Space Telescope, and ESA&#39;s Herschel Space Observatory -- showing new detail.   Be Honest: Have you seen this image before?</p>
+<p style="text-align: justify;">What&#39;s that below those strange clouds? Presidents. If you look closely, you may recognize the heads of four former US Presidents carved into famous Mount Rushmore in South Dakota, USA.  More obvious in the featured image are the unusual mammatus clouds that passed briefly overhead. Both were captured together by a surprised tourist with a quick camera in early September. Unlike normal flat-bottomed clouds which form when moist and calm air plateaus rise and cool, bumpy mammatus clouds form as icy and turbulent air pockets sink and heat up.  Such turbulent air is frequently accompanied by a thunderstorm.  Each mammatus lobe spans about one kilometer. The greater mountain is known to native Lakota Sioux as Six Grandfathers, deities responsible for the directions north, south, east, west, up, and down.</p>
 
 
 
