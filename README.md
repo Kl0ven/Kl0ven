@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mammatus Clouds over Mount Rushmore</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/MammatusRushmore_Mattuzzi_960.jpg"">
+<h3>Great Conjunction over Sicilian Lighthouse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/LighthouseJupSat_Saragozza_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that below those strange clouds? Presidents. If you look closely, you may recognize the heads of four former US Presidents carved into famous Mount Rushmore in South Dakota, USA.  More obvious in the featured image are the unusual mammatus clouds that passed briefly overhead. Both were captured together by a surprised tourist with a quick camera in early September. Unlike normal flat-bottomed clouds which form when moist and calm air plateaus rise and cool, bumpy mammatus clouds form as icy and turbulent air pockets sink and heat up.  Such turbulent air is frequently accompanied by a thunderstorm.  Each mammatus lobe spans about one kilometer. The greater mountain is known to native Lakota Sioux as Six Grandfathers, deities responsible for the directions north, south, east, west, up, and down.</p>
+<p style="text-align: justify;">Don’t miss the coming great conjunction. In just under two weeks, the two largest planets in our Solar System will angularly pass so close together in Earth&#39;s sky that the Moon would easily be able to cover them both simultaneously.  This pending planetary passage -- on December 21 -- will be the closest since 1623.  Jupiter and Saturn will remain noticeably bright and can already be seen together toward the southwest just after sunset.  Soon after dusk is the best time to see them -- because they set below the horizon soon after.  In mid-November, the Jovian giants were imaged together here about three degrees apart -- and slowly closing. The featured image, including a crescent moon, captured the dynamic duo beyond the Cape Murro di Porco Lighthouse in Syracuse, Sicily, Italy.</p>
 
 
 
