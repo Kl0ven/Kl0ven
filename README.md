@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Great Conjunction over Sicilian Lighthouse</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/LighthouseJupSat_Saragozza_960.jpg"">
+<h3>Arecibo Telescope Collapse</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Eenw0p14ZrM" target="_blank"><img src="http://img.youtube.com/vi/Eenw0p14ZrM/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Don’t miss the coming great conjunction. In just under two weeks, the two largest planets in our Solar System will angularly pass so close together in Earth&#39;s sky that the Moon would easily be able to cover them both simultaneously.  This pending planetary passage -- on December 21 -- will be the closest since 1623.  Jupiter and Saturn will remain noticeably bright and can already be seen together toward the southwest just after sunset.  Soon after dusk is the best time to see them -- because they set below the horizon soon after.  In mid-November, the Jovian giants were imaged together here about three degrees apart -- and slowly closing. The featured image, including a crescent moon, captured the dynamic duo beyond the Cape Murro di Porco Lighthouse in Syracuse, Sicily, Italy.</p>
+<p style="text-align: justify;">This was one great scientific instrument. Starting in 1963, the 305-meters across Arecibo Telescope in Puerto Rico USA reigned as the largest single-dish radio telescope in the world for over 50 years. Among numerous firsts and milestones, data from Arecibo has been used to measure the spin of Mercury, map the surface of Venus, discover the first planets outside of our Solar System, verify the existence of gravitational radiation, search for extraterrestrial intelligence, and, reportedly, locate hidden military radar by tracking their reflections from the Moon.  Past its prime and in the process of being decommissioned, the Arecibo Telescope suffered a catastrophic structural collapse early this month, as seen in the featured composite video.</p>
 
 
 
