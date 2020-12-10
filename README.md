@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Arecibo Telescope Collapse</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Eenw0p14ZrM" target="_blank"><img src="http://img.youtube.com/vi/Eenw0p14ZrM/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Simeis 147: Supernova Remnant</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/S147_GeorgesAttard1024.jpg"">
 
 
-<p style="text-align: justify;">This was one great scientific instrument. Starting in 1963, the 305-meters across Arecibo Telescope in Puerto Rico USA reigned as the largest single-dish radio telescope in the world for over 50 years. Among numerous firsts and milestones, data from Arecibo has been used to measure the spin of Mercury, map the surface of Venus, discover the first planets outside of our Solar System, verify the existence of gravitational radiation, search for extraterrestrial intelligence, and, reportedly, locate hidden military radar by tracking their reflections from the Moon.  In the process of being decommissioned, the Arecibo Telescope suffered a catastrophic structural collapse early this month, as seen in the featured composite video.</p>
+<p style="text-align: justify;">It&#39;s easy to get lost following the intricate looping filaments in this detailed image of supernova remnant Simeis 147. Also cataloged as Sharpless 2-240 it goes by the popular nickname, the Spaghetti Nebula. Seen toward the boundary of the constellations Taurus and Auriga, it covers nearly 3 degrees or 6 full moons on the sky. That&#39;s about 150 light-years at the stellar debris cloud&#39;s estimated distance of 3,000 light-years. This composite includes image data taken through narrow-band filters where reddish emission from ionized hydrogen atoms and doubly ionized oxygen atoms in faint blue-green hues trace the shocked, glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from the massive stellar explosion first reached Earth 40,000 years ago. But the expanding remnant is not the only aftermath. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the original star&#39;s core.</p>
 
 
 
