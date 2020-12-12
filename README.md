@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier Craters in Stereo</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/MessierCrater3d_vantuyne1024c.jpg"">
+<h3>Saturn and Jupiter in Summer 2020</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg"">
 
 
-<p style="text-align: justify;">Many bright nebulae and star clusters in planet Earth&#39;s sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red&#x2F;blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.</p>
+<p style="text-align: justify;">During this northern summer Saturn and Jupiter were both near opposition, opposite the Sun in planet Earth&#39;s sky. Their paired retrograde motion, seen about every 20 years, is followed from 19 June through 28 August in this panoramic composite as they wander together between the stars in western Capricornus and eastern Sagittarius. But this December&#39;s skies find them drawing even closer together. Jupiter and Saturn are now close, bright celestial beacons in the west after sunset. On solstice day December 21 they will reach their magnificent 20 year Great Conjunction. Then the two largest worlds in the Solar System will appear in Earth&#39;s sky separated by only about 1&#x2F;5 the apparent diameter of a Full Moon.</p>
 
 
 
