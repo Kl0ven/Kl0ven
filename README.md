@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Saturn and Jupiter in Summer 2020</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg"">
+<h3>Geminid Meteors over Xinglong Observatory</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/GemindsXinglong_Steed_960.jpg"">
 
 
-<p style="text-align: justify;">During this northern summer Saturn and Jupiter were both near opposition, opposite the Sun in planet Earth&#39;s sky. Their paired retrograde motion, seen about every 20 years, is followed from 19 June through 28 August in this panoramic composite as they wander together between the stars in western Capricornus and eastern Sagittarius. But this December&#39;s skies find them drawing even closer together. Jupiter and Saturn are now close, bright celestial beacons in the west after sunset. On solstice day December 21 they will reach their magnificent 20 year Great Conjunction. Then the two largest worlds in the Solar System will appear in Earth&#39;s sky separated by only about 1&#x2F;5 the apparent diameter of a Full Moon.</p>
+<p style="text-align: justify;">Where do Geminid meteors come from?  In terms of location on the sky, as the featured image composite beautifully demonstrates, the sand-sized bits of rock that create the streaks of the Geminids meteor shower appear to flow out from the constellation of Gemini. In terms of parent body, Solar System trajectories point to the asteroid 3200 Phaethon -- but this results in a bit of a mystery since that unusual object appears mostly dormant.  Perhaps, 3200 Phaethon undergoes greater dust-liberating events than we know. Over 50 meteors including a bright fireball were captured during the peak of the 2015 Geminids Meteor Shower streaking above Xinglong Observatory in China.  The Geminids of December are one of the most predictable and active meteor showers.  This year&#39;s Geminids peak tonight and should be particularly good because, in part, the nearly new Moon will only rise toward dawn and so not brighten the sky.</p>
 
 
 
