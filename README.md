@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Geminid Meteors over Xinglong Observatory</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/GemindsXinglong_Steed_960.jpg"">
+<h3>Capsule Returns from Asteroid Ryugu</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=NuLuCeawQSo" target="_blank"><img src="http://img.youtube.com/vi/NuLuCeawQSo/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Where do Geminid meteors come from?  In terms of location on the sky, as the featured image composite beautifully demonstrates, the sand-sized bits of rock that create the streaks of the Geminids meteor shower appear to flow out from the constellation of Gemini. In terms of parent body, Solar System trajectories point to the asteroid 3200 Phaethon -- but this results in a bit of a mystery since that unusual object appears mostly dormant.  Perhaps, 3200 Phaethon undergoes greater dust-liberating events than we know. Over 50 meteors including a bright fireball were captured during the peak of the 2015 Geminids Meteor Shower streaking above Xinglong Observatory in China.  The Geminids of December are one of the most predictable and active meteor showers.  This year&#39;s Geminids peak tonight and should be particularly good because, in part, the nearly new Moon will only rise toward dawn and so not brighten the sky.</p>
+<p style="text-align: justify;">The streak across the sky is a capsule returning from an asteroid. It returned earlier this month from the near-Earth asteroid 162173 Ryugu carrying small rocks and dust from its surface.  The canister was released by its mothership, Japan&#39;s Hayabusa2, a mission that visited Ryugu in 2018, harvested a surface sample in 2019, and zoomed back past Earth.  The jettisoned return capsule deployed a parachute and landed in rural Australia. A similar mission, NASA&#39;s OSIRIS- REx, recently captured rocks and dust from a similar asteroid, Bennu, and is scheduled to return its surface sample to Earth in 2023. Analyses of compounds from these asteroids holds promise to give humanity new insights about the early Solar System and new clues about how water and organic matter came to be on Earth.   Experts Debate: How will humanity first discover extraterrestrial life?</p>
 
 
 
