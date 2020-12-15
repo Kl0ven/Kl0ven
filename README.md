@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Capsule Returns from Asteroid Ryugu</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=NuLuCeawQSo" target="_blank"><img src="http://img.youtube.com/vi/NuLuCeawQSo/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Great Conjunction: Saturn and Jupiter Converge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/SaturnJupiter_Voltmer_960.jpg"">
 
 
-<p style="text-align: justify;">The streak across the sky is a capsule returning from an asteroid. It returned earlier this month from the near-Earth asteroid 162173 Ryugu carrying small rocks and dust from its surface.  The canister was released by its mothership, Japan&#39;s Hayabusa2, a mission that visited Ryugu in 2018, harvested a surface sample in 2019, and zoomed back past Earth.  The jettisoned return capsule deployed a parachute and landed in rural Australia. A similar mission, NASA&#39;s OSIRIS- REx, recently captured rocks and dust from a similar asteroid, Bennu, and is scheduled to return its surface sample to Earth in 2023. Analyses of compounds from these asteroids holds promise to give humanity new insights about the early Solar System and new clues about how water and organic matter came to be on Earth.   Experts Debate: How will humanity first discover extraterrestrial life?</p>
+<p style="text-align: justify;">It&#39;s happening. Saturn and Jupiter are moving closer and will soon appear in almost exactly the same direction.  Coincidentally, on the night of the December solstice -- the longest night of the year in the north and the longest day in the south -- the long-awaited Great Conjunction will occur. Then, about six days from now, Saturn and Jupiter will be right next to each other -- as they are every 20 years. But this juxtaposition is not just any Great Conjunction -- it will be the closest since 1623 because the two planetary giants will pass only 1&#x2F;10th of a degree from each other -- well less than the apparent diameter of a full moon.  In the next few days a crescent moon will also pass a few degrees away from the converging planets and give a preliminary opportunity for iconic photos.  The featured illustration shows the approach of Saturn and Jupiter during November and December over the French Alps.   Growing Gallery: Notable images of the Great Conjunction submitted to APOD</p>
 
 
 
