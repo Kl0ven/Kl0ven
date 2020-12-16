@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Great Conjunction: Saturn and Jupiter Converge</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/SaturnJupiter_Voltmer_960.jpg"">
+<h3>Sonified: The Matter of the Bullet Cluster</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=sau5-39wK1c" target="_blank"><img src="http://img.youtube.com/vi/sau5-39wK1c/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">It&#39;s happening. Saturn and Jupiter are moving closer and will soon appear in almost exactly the same direction.  Coincidentally, on the night of the December solstice -- the longest night of the year in the north and the longest day in the south -- the long-awaited Great Conjunction will occur. Then, about six days from now, Saturn and Jupiter will be right next to each other -- as they are every 20 years. But this juxtaposition is not just any Great Conjunction -- it will be the closest since 1623 because the two planetary giants will pass only 1&#x2F;10th of a degree from each other -- well less than the apparent diameter of a full moon.  In the next few days a crescent moon will also pass a few degrees away from the converging planets and give a preliminary opportunity for iconic photos.  The featured illustration shows the approach of Saturn and Jupiter during November and December over the French Alps.   Growing Gallery: Notable images of the Great Conjunction submitted to APOD</p>
+<p style="text-align: justify;">What&#39;s the matter with the Bullet Cluster? This massive cluster of galaxies (1E 0657-558) creates gravitational lens distortions of background galaxies in a way that has been interpreted as strong evidence for the leading theory: that dark matter exists within. Different analyses, though, indicate that a less popular alternative -- modifying gravity-- could explain cluster dynamics without dark matter, and provide a more likely progenitor scenario as well. Currently, the two scientific hypotheses are competing to explain the observations: it&#39;s invisible matter versus amended gravity. The duel is dramatic as a clear Bullet-proof example of dark matter would shatter the simplicity of modified gravity theories.  The featured sonified image is a Hubble&#x2F;Chandra&#x2F;Magellan composite with red depicting the X-rays emitted by hot gas, and blue depicting the suggested separated dark matter distribution.  The sonification assigns low tones to dark matter, mid-range frequencies to visible light, and high tones to X-rays.  The battle over the matter in the Bullet cluster is likely to continue as more observations, computer simulations, and analyses are completed.    Submitted to APOD: Notable images of the 2020 Geminids Meteor Shower</p>
 
 
 
