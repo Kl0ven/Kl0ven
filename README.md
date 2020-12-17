@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Sonified: The Matter of the Bullet Cluster</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=sau5-39wK1c" target="_blank"><img src="http://img.youtube.com/vi/sau5-39wK1c/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Gemini&#39;s Meteors</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/GeminidMeteorsStePelle1024.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s the matter with the Bullet Cluster? This massive cluster of galaxies (1E 0657-558) creates gravitational lens distortions of background galaxies in a way that has been interpreted as strong evidence for the leading theory: that dark matter exists within. Different analyses, though, indicate that a less popular alternative -- modifying gravity-- could explain cluster dynamics without dark matter, and provide a more likely progenitor scenario as well. Currently, the two scientific hypotheses are competing to explain the observations: it&#39;s invisible matter versus amended gravity. The duel is dramatic as a clear Bullet-proof example of dark matter would shatter the simplicity of modified gravity theories.  The featured sonified image is a Hubble&#x2F;Chandra&#x2F;Magellan composite with red depicting the X-rays emitted by hot gas, and blue depicting the suggested separated dark matter distribution.  The sonification assigns low tones to dark matter, mid-range frequencies to visible light, and high tones to X-rays.  The battle over the matter in the Bullet cluster is likely to continue as more observations, computer simulations, and analyses are completed.    Submitted to APOD: Notable images of the 2020 Geminids Meteor Shower</p>
+<p style="text-align: justify;">Taken over the course of an hour shortly after local midnight on December 13, 35 exposures were used to create this postcard from Earth. The composited night scene spans dark skies above the snowy Italian Dolomites during our fair planet&#39;s annual Geminid meteor shower. Sirius, alpha star of Canis Major and the brightest star in the night, is grazed by a meteor streak on the right. The Praesepe star cluster, also known as M44 or the Beehive cluster, itself contains about a thousand stars but appears as a smudge of light far above the southern alpine peaks near the top. The shower&#39;s radiant is off the top of the frame though, near Castor and Pollux the twin stars of Gemini. The radiant effect is due to perspective as the parallel meteor tracks appear to converge in the distance. As Earth sweeps through the dust trail of asteroid 3200 Phaethon, the dust that creates Gemini&#39;s meteors enters Earth&#39;s atmosphere traveling at about 22 kilometers per second.</p>
 
 
 
