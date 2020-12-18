@@ -37,7 +37,7 @@
  <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/2020Dec14TSE_Ribas_IMG_9291c1024.jpg"">
 
 
-<p style="text-align: justify;">When the shadow of the Moon raced across planet Earth&#39;s southern hemisphere on December 14, sky watchers along the shadow&#39;s dark central path were treated to the only total solar eclipse of 2020. During the New Moon&#39;s shadow play this glistening diamond ring was seen for a moment, even in cloudy skies. Known as the diamond ring effect, the transient spectacle actually happens twice. Just before and immediately after totality, a thin sliver of solar disk visible behind the Moon&#39;s edge creates the appearance of a shiny jewel set in a dark ring. This dramatic snapshot from the path of totality in northern Patagonia, Argentina captures this eclipse&#39;s second diamond ring, along with striking solar prominences lofted beyond the edge of the Moon&#39;s silhoutte.</p>
+<p style="text-align: justify;">When the shadow of the Moon raced across planet Earth&#39;s southern hemisphere on December 14, sky watchers along the shadow&#39;s dark central path were treated to the only total solar eclipse of 2020. During the New Moon&#39;s shadow play this glistening diamond ring was seen for a moment, even in cloudy skies. Known as the diamond ring effect, the transient spectacle actually happens twice. Just before and immediately after totality, a thin sliver of solar disk visible behind the Moon&#39;s edge creates the appearance of a shiny jewel set in a dark ring. This dramatic snapshot from the path of totality in northern Patagonia, Argentina captures this eclipse&#39;s second diamond ring, along with striking solar prominences lofted beyond the edge of the Moon&#39;s silhouette.</p>
 
 
 
