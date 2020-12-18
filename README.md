@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Gemini&#39;s Meteors</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/GeminidMeteorsStePelle1024.jpg"">
+<h3>Diamond in the Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/2020Dec14TSE_Ribas_IMG_9291c1024.jpg"">
 
 
-<p style="text-align: justify;">Taken over the course of an hour shortly after local midnight on December 13, 35 exposures were used to create this postcard from Earth. The composited night scene spans dark skies above the snowy Italian Dolomites during our fair planet&#39;s annual Geminid meteor shower. Sirius, alpha star of Canis Major and the brightest star in the night, is grazed by a meteor streak on the right. The Praesepe star cluster, also known as M44 or the Beehive cluster, itself contains about a thousand stars but appears as a smudge of light far above the southern alpine peaks near the top. The shower&#39;s radiant is off the top of the frame though, near Castor and Pollux the twin stars of Gemini. The radiant effect is due to perspective as the parallel meteor tracks appear to converge in the distance. As Earth sweeps through the dust trail of asteroid 3200 Phaethon, the dust that creates Gemini&#39;s meteors enters Earth&#39;s atmosphere traveling at about 22 kilometers per second.   Submitted to APOD: Notable images of the 2020 Geminids Meteor Shower</p>
+<p style="text-align: justify;">When the shadow of the Moon raced across planet Earth&#39;s southern hemisphere on December 14, sky watchers along the shadow&#39;s dark central path were treated to the only total solar eclipse of 2020. During the New Moon&#39;s shadow play this glistening diamond ring was seen for a moment, even in cloudy skies. Known as the diamond ring effect, the transient spectacle actually happens twice. Just before and immediately after totality, a thin sliver of solar disk visible behind the Moon&#39;s edge creates the appearance of a shiny jewel set in a dark ring. This dramatic snapshot from the path of totality in northern Patagonia, Argentina captures this eclipse&#39;s second diamond ring, along with striking solar prominences lofted beyond the edge of the Moon&#39;s silhoutte.</p>
 
 
 
