@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Diamond in the Sky</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/2020Dec14TSE_Ribas_IMG_9291c1024.jpg"">
+<h3>Conjunction after Sunset</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/ConjunctionPanorama1-S2_1024.jpg"">
 
 
-<p style="text-align: justify;">When the shadow of the Moon raced across planet Earth&#39;s southern hemisphere on December 14, sky watchers along the shadow&#39;s dark central path were treated to the only total solar eclipse of 2020. During the New Moon&#39;s shadow play this glistening diamond ring was seen for a moment, even in cloudy skies. Known as the diamond ring effect, the transient spectacle actually happens twice. Just before and immediately after totality, a thin sliver of solar disk visible behind the Moon&#39;s edge creates the appearance of a shiny jewel set in a dark ring. This dramatic snapshot from the path of totality in northern Patagonia, Argentina captures this eclipse&#39;s second diamond ring, along with striking solar prominences lofted beyond the edge of the Moon&#39;s silhouette.</p>
+<p style="text-align: justify;">How close will Jupiter and Saturn be at their Great Conjunction? Consider this beautiful triple conjunction of Moon, Jupiter and Saturn captured through clouds in the wintry twilight. The telephoto view looks toward the western horizon and the Alborz Mountains in Iran after sunset on December 17. The celestial gathering makes it easy to see Jupiter and fainter Saturn are separated on that date by roughly the diameter of the waxing crescent Moon. On the day of their Great Conjunction, solstice day December 21, Jupiter and Saturn may seem to nearly merge though. In their closest conjunction in 400 years they will be separated on the sky by only about 1&#x2F;5 the apparent diameter of the Moon. By then the two largest worlds in the Solar System and their moons will be sharing the same field of view in telescopes around planet Earth.</p>
 
 
 
