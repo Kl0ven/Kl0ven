@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Conjunction after Sunset</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/ConjunctionPanorama1-S2_1024.jpg"">
+<h3>A Volcanic Great Conjunction</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/VolcanicConjunction_Sojuel_1080.jpg"">
 
 
-<p style="text-align: justify;">How close will Jupiter and Saturn be at their Great Conjunction? Consider this beautiful triple conjunction of Moon, Jupiter and Saturn captured through clouds in the wintry twilight. The telephoto view looks toward the western horizon and the Alborz Mountains in Iran after sunset on December 17. The celestial gathering makes it easy to see Jupiter and fainter Saturn are separated on that date by roughly the diameter of the waxing crescent Moon. On the day of their Great Conjunction, solstice day December 21, Jupiter and Saturn may seem to nearly merge though. In their closest conjunction in 400 years they will be separated on the sky by only about 1&#x2F;5 the apparent diameter of the Moon. By then the two largest worlds in the Solar System and their moons will be sharing the same field of view in telescopes around planet Earth.</p>
+<p style="text-align: justify;">Where can I see the Great Conjunction?  Near where the Sun just set. Directionally, this close passing of Jupiter and Saturn will be toward the southwest. Since the planetary pair, the Sun, and the Earth are nearly in a geometric straight line, the planets will be seen to set just where the Sun had set -- from every location on Earth.  When can I see the Great Conjunction?  Just after sunset.  Since the two planets are so near the Sun directionally, they always appear in the sky near the Sun, but can best be seen when the Earth blocks the Sun but not the planets: sunset.  Soon thereafter, Jupiter and Saturn will also set, so don&#39;t be late!   Is tomorrow night the only night that I can see the Great Conjunction?  Tomorrow night the jovian giants will appear the closest, but on any night over the next few days they will appear unusually close. Technically, the closest pass happens on 21 December at 18:20 UTC.    Will there be an erupting volcano on the horizon near the Great Conjunction? Yes, for example if you live in Guatemala where the featured image was taken. Otherwise, generally, no.  In the featured image captured last week, Jupiter and Saturn are visible toward the right, just above a tree, and bathed in the diffuse glow of zodiacal light.   Growing Gallery: Notable images of the Great Conjunction submitted to APOD</p>
 
 
 
