@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Volcanic Great Conjunction</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/VolcanicConjunction_Sojuel_1080.jpg"">
+<h3>Solstice: Sunrises Around the Year</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/SunRiseYear_Abbadi_960.jpg"">
 
 
-<p style="text-align: justify;">Where can I see the Great Conjunction?  Near where the Sun just set. Directionally, this close passing of Jupiter and Saturn will be toward the southwest. Since the planetary pair, the Sun, and the Earth are nearly in a geometric straight line, the planets will be seen to set just where the Sun had set -- from every location on Earth.  When can I see the Great Conjunction?  Just after sunset.  Since the two planets are so near the Sun directionally, they always appear in the sky near the Sun, but can best be seen when the Earth blocks the Sun but not the planets: sunset.  Soon thereafter, Jupiter and Saturn will also set, so don&#39;t be late!   Is tomorrow night the only night that I can see the Great Conjunction?  Tomorrow night the jovian giants will appear the closest, but on any night over the next few days they will appear unusually close. Technically, the closest pass happens on 21 December at 18:20 UTC.    Will there be an erupting volcano on the horizon near the Great Conjunction? Yes, for example if you live in Guatemala where the featured image was taken. Otherwise, generally, no.  In the featured image captured last week, Jupiter and Saturn are visible toward the right, just above a tree, and bathed in the diffuse glow of zodiacal light.   Growing Gallery: Notable images of the Great Conjunction submitted to APOD</p>
+<p style="text-align: justify;">Does the Sun always rise in the same direction?  No.  As the months change, the direction toward the rising Sun changes, too.  The featured image shows the direction of sunrise every month during 2019 as seen from near the city of Amman, Jordan.  The camera in the image is always facing due east, with north toward the left and south toward the right.  Although the Sun always rises in the east in general, it rises furthest to the south of east on the December solstice, and furthest north of east on the June solstice. Today is the December solstice, the day of least sunlight in the Northern Hemisphere and of most sunlight in the Southern Hemisphere.  In many countries, the December Solstice is considered an official change in season: for example the first day of winter in the North.  Solar heating and stored energy in the Earth&#39;s surface and atmosphere are near their lowest during winter, making the winter months usually the coldest of the year.  On the brighter side, in the north, daylight hours will now increase every day from until June.   Sunset: The Great Conjunction of Jupiter &amp; Saturn</p>
 
 
 
