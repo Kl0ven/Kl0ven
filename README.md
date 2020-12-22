@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Solstice: Sunrises Around the Year</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/SunRiseYear_Abbadi_960.jpg"">
+<h3>Trifid Pillars and Jets</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/Trifid_HubbleMehla_1080.jpg"">
 
 
-<p style="text-align: justify;">Does the Sun always rise in the same direction?  No.  As the months change, the direction toward the rising Sun changes, too.  The featured image shows the direction of sunrise every month during 2019 as seen from near the city of Amman, Jordan.  The camera in the image is always facing due east, with north toward the left and south toward the right.  Although the Sun always rises in the east in general, it rises furthest to the south of east on the December solstice, and furthest north of east on the June solstice. Today is the December solstice, the day of least sunlight in the Northern Hemisphere and of most sunlight in the Southern Hemisphere.  In many countries, the December Solstice is considered an official change in season: for example the first day of winter in the North.  Solar heating and stored energy in the Earth&#39;s surface and atmosphere are near their lowest during winter, making the winter months usually the coldest of the year.  On the brighter side, in the north, daylight hours will now increase every day from until June.   Sunset: The Great Conjunction of Jupiter &amp; Saturn</p>
+<p style="text-align: justify;">Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are being slowly eroded away by a hostile environment.  Visible in the featured picture is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the left.  Many of the dots are newly formed low-mass stars. A star near the small pillar&#39;s end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Growing Gallery: Notable images of the Great Conjunction submitted to APOD</p>
 
 
 
