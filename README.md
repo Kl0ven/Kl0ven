@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Trifid Pillars and Jets</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/Trifid_HubbleMehla_1080.jpg"">
+<h3>Jupiter Meets Saturn: A Red Spotted Great Conjunction</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/GreatConjunction_Peach_960.jpg"">
 
 
-<p style="text-align: justify;">Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are being slowly eroded away by a hostile environment.  Visible in the featured picture is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the left.  Many of the dots are newly formed low-mass stars. A star near the small pillar&#39;s end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Growing Gallery: Notable images of the Great Conjunction submitted to APOD</p>
+<p style="text-align: justify;">It was time for their close-up. Two days ago  Jupiter and Saturn passed a tenth of a degree from each other in what is known a Great Conjunction. Although the two planets pass each other on the sky every 20 years, this was the closest pass in nearly four centuries.  Taken early in day of the Great Conjunction, the featured multiple-exposure combination captures not only both giant planets in a single frame, but also Jupiter&#39;s four largest moons (left to right) Callisto, Ganymede, Io, and Europa --  and Saturn&#39;s largest moon Titan. If you look very closely, the clear Chilescope image even captures Jupiter&#39;s Great Red Spot. The now-separating planets can still be seen remarkably close -- within about a degree -- as they set just after the Sun, toward the west, each night for the remainder of the year.    Gallery: Notable images of the Great Conjunction submitted to APOD</p>
 
 
 
