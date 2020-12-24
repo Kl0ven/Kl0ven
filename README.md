@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jupiter Meets Saturn: A Red Spotted Great Conjunction</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/GreatConjunction_Peach_960.jpg"">
+<h3>Portrait of NGC 1055</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/NGC1055_MP_1024c.jpg"">
 
 
-<p style="text-align: justify;">It was time for their close-up. Two days ago  Jupiter and Saturn passed a tenth of a degree from each other in what is known a Great Conjunction. Although the two planets pass each other on the sky every 20 years, this was the closest pass in nearly four centuries.  Taken early in day of the Great Conjunction, the featured multiple-exposure combination captures not only both giant planets in a single frame, but also Jupiter&#39;s four largest moons (left to right) Callisto, Ganymede, Io, and Europa --  and Saturn&#39;s largest moon Titan. If you look very closely, the clear Chilescope image even captures Jupiter&#39;s Great Red Spot. The now-separating planets can still be seen remarkably close -- within about a degree -- as they set just after the Sun, toward the west, each night for the remainder of the year.    Gallery: Notable images of the Great Conjunction submitted to APOD</p>
+<p style="text-align: justify;">Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But the telltale pinkish star forming regions are scattered through winding dust lanes along the distant galaxy&#39;s thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bluge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.</p>
 
 
 
