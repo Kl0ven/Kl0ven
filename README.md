@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Portrait of NGC 1055</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/NGC1055_MP_1024c.jpg"">
+<h3>Northern Winter Night</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/WinterSceneBlock.jpg"">
 
 
-<p style="text-align: justify;">Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But the telltale pinkish star forming regions are scattered through winding dust lanes along the distant galaxy&#39;s thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bluge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.</p>
+<p style="text-align: justify;">Orion always seems to come up sideways on northern winter evenings. Those familiar stars of the constellation of the Hunter are caught above the trees in this colorful night skyscape. Not a star at all but still visible to eye, the Great Nebula of Orion shines below the Hunter&#39;s belt stars. The camera&#39;s exposure reveals the stellar nursery&#39;s faint pinkish glow. Betelgeuse, giant star at Orion&#39;s shoulder, has the color of warm and cozy terrestrial lighting, but so does another familiar stellar giant, Aldebaran. Alpha star of the constellation Taurus the Bull, Aldebaran anchors the recognizable V-shape traced by the Hyades Cluster toward the top of the starry frame.</p>
 
 
 
