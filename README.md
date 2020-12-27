@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fox Fur, Unicorn, and Christmas Tree</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/ChristmasTree-ConeNebula-CumeadaObservatoryDSA-net1100.jpg"">
+<h3>Cosmic Latte: The Average Color of the Universe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/cosmiclatte_jhu_960.jpg"">
 
 
-<p style="text-align: justify;">Clouds of glowing hydrogen gas fill this colorful skyscape in the faint but fanciful constellation Monoceros, the Unicorn. A star forming region cataloged as NGC 2264, the complex jumble of cosmic gas and dust is about 2,700 light-years distant and mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. Where the otherwise obscuring dust clouds lie close to the hot, young stars they also reflect starlight, forming blue reflection nebulae. The telescopic image spans about 1.5 degrees or 3 full moons, covering nearly 80 light-years at the distance of NGC 2264. Its cast of cosmic characters includes the the Fox Fur Nebula, whose dusty, convoluted pelt lies left of center, bright variable star S Monocerotis immersed in the blue-tinted haze near center, and the Cone Nebula pointing in from the right side of the frame. Of course, the stars of NGC 2264 are also known as the Christmas Tree star cluster. The triangular tree shape is seen on its side here. Traced by brighter stars it has its apex at the Cone Nebula. The tree&#39;s broader base is centered near S Monocerotis.</p>
+<p style="text-align: justify;">What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted above, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   Gallery: Notable images of the Great Conjunction submitted to APOD</p>
 
 
 
