@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Cosmic Latte: The Average Color of the Universe</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/cosmiclatte_jhu_960.jpg"">
+<h3>M16: Inside the Eagle Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/EagleNebula_Paladini_960.jpg"">
 
 
-<p style="text-align: justify;">What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted above, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   Gallery: Notable images of the Great Conjunction submitted to APOD</p>
+<p style="text-align: justify;">From afar, the whole thing looks like an Eagle.  A closer look at the Eagle Nebula, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Already visible are several young bright blue stars whose light and winds are burning away and pushing back the remaining filaments and walls of gas and dust.  The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of the Serpent (Serpens).  This picture involved over 12 hours of imaging and combines three specific emitted colors emitted by sulfur (colored as red), hydrogen (yellow), and oxygen (blue).   Gallery: Notable images of the recent Total Solar Eclipse submitted to APOD</p>
 
 
 
