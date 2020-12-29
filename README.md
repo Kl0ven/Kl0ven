@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M16: Inside the Eagle Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/EagleNebula_Paladini_960.jpg"">
+<h3>Earth During a Total Solar Eclipse</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=4Kkd2k0pDsI" target="_blank"><img src="http://img.youtube.com/vi/4Kkd2k0pDsI/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">From afar, the whole thing looks like an Eagle.  A closer look at the Eagle Nebula, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Already visible are several young bright blue stars whose light and winds are burning away and pushing back the remaining filaments and walls of gas and dust.  The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of the Serpent (Serpens).  This picture involved over 12 hours of imaging and combines three specific emitted colors emitted by sulfur (colored as red), hydrogen (yellow), and oxygen (blue).   Gallery: Notable images of the recent Total Solar Eclipse submitted to APOD</p>
+<p style="text-align: justify;">What does the Earth look like during a total solar eclipse? It appears dark in the region where people see the eclipse, because that&#39;s where the shadow of the Moon falls. The shadow spot rapidly shoots across the Earth at nearly 2,000 kilometers per hour, darkening locations in its path -- typically for only a few minutes -- before moving on. The featured video shows the Earth during the total solar eclipse earlier this month.  The time-lapse sequence, taken from a geostationary satellite, starts with the Earth below showing night but the sun soon rises at the lower right.  Clouds shift as day breaks over the blue planet. Suddenly the circular shadow of the Moon appears on the left and moves rapidly across South America, disappearing on the lower right.  The video ends as nightfall begins again.  The next total solar eclipse will occur next December -- but be visible only from parts of Antarctica.   Gallery: Notable images of the recent Total Solar Eclipse submitted to APOD</p>
 
 
 
