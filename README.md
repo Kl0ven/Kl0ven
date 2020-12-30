@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Earth During a Total Solar Eclipse</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=4Kkd2k0pDsI" target="_blank"><img src="http://img.youtube.com/vi/4Kkd2k0pDsI/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Jupiter and Saturn Great Conjunction: The Movie</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aokGqxVdpz0" target="_blank"><img src="http://img.youtube.com/vi/aokGqxVdpz0/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What does the Earth look like during a total solar eclipse? It appears dark in the region where people see the eclipse, because that&#39;s where the shadow of the Moon falls. The shadow spot rapidly shoots across the Earth at nearly 2,000 kilometers per hour, darkening locations in its path -- typically for only a few minutes -- before moving on. The featured video shows the Earth during the total solar eclipse earlier this month.  The time-lapse sequence, taken from a geostationary satellite, starts with the Earth below showing night but the sun soon rises at the lower right.  Clouds shift as day breaks over the blue planet. Suddenly the circular shadow of the Moon appears on the left and moves rapidly across South America, disappearing on the lower right.  The video ends as nightfall begins again.  The next total solar eclipse will occur next December -- but be visible only from parts of Antarctica.   Gallery: Notable images of the recent Total Solar Eclipse submitted to APOD</p>
+<p style="text-align: justify;">Yes, but have you seen a movie of Jupiter and Saturn&#39;s Great Conjunction? The featured time-lapse video was composed from a series of images taken from Thailand and shows the two giant planets as they angularly passed about a tenth of a degree from each other.  The first Great Conjunction sequence shows a relative close up over five days with moons and cloud bands easily visible, followed by a second video sequence, zoomed out, over 9 days.  Even though Jupiter and Saturn appeared to pass unusually close together on the sky on December 21, 2020, in actuality they were still nearly a billion kilometers apart.  The two gas giants are destined for similar meet ups every 19.86 years.  However, they had not come this close, angularly, for the past 397 years, and will not again for another 60 years.  If you&#39;re willing to wait until the year 7541, though, you can see Jupiter  pass directly in front of Saturn.    Gallery: Notable images of the Great Conjunction submitted to APOD</p>
 
 
 
