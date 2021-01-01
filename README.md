@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Trail of the Returner</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2012/fireball_trail2.jpg"">
+<h3>Galaxies and the South Celestial Pole</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/2020_12_16_Kujal_Jizni_Pol_1500px-3.jpg"">
 
 
-<p style="text-align: justify;">Familiar stars of a northern winter&#39;s night shine in this night skyview, taken near Zhangye, Gansu, China and the border with Inner Mongolia. During the early hours of December 17 Orion is near center in the single exposure that captures a fireball streaking across the sky, almost as bright as yellowish Mars shining on the right. Splitting Gemini&#39;s twin bright stars Castor and Pollux near the top of the frame, the fireball&#39;s trail and timing are consistent with the second skipping atmospheric entry of the Chang&#39;e 5 mission&#39;s returner capsule. The returner capsule was successfully recovered after landing in Inner Mongolia, planet Earth with about 2 kilograms of lunar material on board. The lunar sample is thought to contain relatively young material collected near the Mons Rumker region of the Moon&#39;s Oceanus Procellarum. Launched on November 23 UT, China&#39;s Chang&#39;e 5 mission is the first lunar sample return mission since the Soviet Union’s Luna 24 mission in 1976.</p>
+<p style="text-align: justify;">The South Celestial Pole is easy to spot in star trail images of the southern sky. The extension of Earth&#39;s axis of rotation to the south, it&#39;s at the center of all the southern star trail arcs. In this starry panorama streching about 60 degrees across deep southern skies the South Celestial Pole is somewhere near the middle though, flanked by bright galaxies and southern celestial gems. Across the top of the frame are the stars and nebulae along the plane of our own Milky Way Galaxy. Gamma Crucis, a yellowish giant star heads the Southern Cross near top center, with the dark expanse of the Coalsack nebula tucked under the cross arm on the left. Eta Carinae and the reddish glow of the Great Carina Nebula shine along the galactic plane near the right edge. At the bottom are the Large and Small Magellanic clouds, external galaxies in their own right and satellites of the mighty Milky Way. A line from Gamma Crucis through the blue star at the bottom of the southern cross, Alpha Crucis, points toward the South Celestial Pole, but where exactly is it? Just look for south pole star Sigma Octantis. Analog to Polaris the north pole star, Sigma Octantis is little over one degree fom the the South Celestial pole.</p>
 
 
 
