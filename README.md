@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Galaxies and the South Celestial Pole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/2020_12_16_Kujal_Jizni_Pol_1500px-3.jpg"">
+<h3>21st Century Wet Collodion Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/WetCollodionLunar112820SMO_1024.jpg"">
 
 
-<p style="text-align: justify;">The South Celestial Pole is easy to spot in star trail images of the southern sky. The extension of Earth&#39;s axis of rotation to the south, it&#39;s at the center of all the southern star trail arcs. In this starry panorama streching about 60 degrees across deep southern skies the South Celestial Pole is somewhere near the middle though, flanked by bright galaxies and southern celestial gems. Across the top of the frame are the stars and nebulae along the plane of our own Milky Way Galaxy. Gamma Crucis, a yellowish giant star heads the Southern Cross near top center, with the dark expanse of the Coalsack nebula tucked under the cross arm on the left. Eta Carinae and the reddish glow of the Great Carina Nebula shine along the galactic plane near the right edge. At the bottom are the Large and Small Magellanic clouds, external galaxies in their own right and satellites of the mighty Milky Way. A line from Gamma Crucis through the blue star at the bottom of the southern cross, Alpha Crucis, points toward the South Celestial Pole, but where exactly is it? Just look for south pole star Sigma Octantis. Analog to Polaris the north pole star, Sigma Octantis is little over one degree fom the the South Celestial pole.</p>
+<p style="text-align: justify;">In the mid 19th century, one of the first photographic technologies used to record the lunar surface was the wet-plate collodion process, notably employed by British astronomer Warren De la Rue. To capture an image, a thick, transparent mixture was used to coat a glass plate, sensitized with silver nitrate, exposed at the telescope, and then developed to create a negative image on the plate. To maintain photographic sensitivity, the entire process, from coating to exposure to developing, had to be completed before the plate dried, in a span of about 10 to 15 minutes. This modern version of a wet-plate collodion image celebrates lunar photography&#39;s early days, reproducing the process using modern chemicals to coat a glass plate from a 21st century hardware store. Captured last November 28 with an 8x10 view camera and backyard telescope, it faithfully records large craters, bright rays, and dark, smooth mare of the waxing gibbous Moon. Subsequently digitized, the image on the plate was 8.5 centimeters in diameter and exposed while tracking for 2 minutes. The wet plate&#39;s effective photographic sensitivity was about ISO 1.  In your smart phone, the camera sensor probably has a photographic sensitivity range of ISO 100 to 6400 (and needs to be kept dry ...).</p>
 
 
 
