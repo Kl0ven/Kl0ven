@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>21st Century Wet Collodion Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/WetCollodionLunar112820SMO_1024.jpg"">
+<h3>A Phoenix Aurora over Iceland</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/PhoenixAurora_Helgason_960.jpg"">
 
 
-<p style="text-align: justify;">In the mid 19th century, one of the first photographic technologies used to record the lunar surface was the wet-plate collodion process, notably employed by British astronomer Warren De la Rue. To capture an image, a thick, transparent mixture was used to coat a glass plate, sensitized with silver nitrate, exposed at the telescope, and then developed to create a negative image on the plate. To maintain photographic sensitivity, the entire process, from coating to exposure to developing, had to be completed before the plate dried, in a span of about 10 to 15 minutes. This modern version of a wet-plate collodion image celebrates lunar photography&#39;s early days, reproducing the process using modern chemicals to coat a glass plate from a 21st century hardware store. Captured last November 28 with an 8x10 view camera and backyard telescope, it faithfully records large craters, bright rays, and dark, smooth mare of the waxing gibbous Moon. Subsequently digitized, the image on the plate was 8.5 centimeters in diameter and exposed while tracking for 2 minutes. The wet plate&#39;s effective photographic sensitivity was about ISO 1.  In your smart phone, the camera sensor probably has a photographic sensitivity range of ISO 100 to 6400 (and needs to be kept dry ...).</p>
+<p style="text-align: justify;">All of the other aurora watchers had gone home. By 3:30 am in Iceland, on a quiet September night, much of that night&#39;s auroras had died down. Suddenly, unexpectedly, a new burst of particles streamed down from space, lighting up the Earth&#39;s atmosphere once again. This time, surprisingly, pareidoliacally, the night lit up with an  amazing shape reminiscent of a giant phoenix. With camera equipment at the ready, two quick sky images were taken, followed immediately by a third of the land.  The mountain in the background is Helgafell, while the small foreground river is called Kaldá, both located about 30 kilometers north of Iceland&#39;s capital Reykjavík. Seasoned skywatchers will note that just above the mountain, toward the left, is the constellation of Orion, while the Pleiades star cluster is also visible just above the frame center.  The 2016 aurora, which lasted only a minute and was soon gone forever --  would possibly be dismissed as an fanciful fable -- were it not captured in the featured, digitally-composed, image mosaic.    Almost Hyperspace: Random APOD Generator</p>
 
 
 
