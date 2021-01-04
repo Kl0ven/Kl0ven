@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Phoenix Aurora over Iceland</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/PhoenixAurora_Helgason_960.jpg"">
+<h3>Sprite Lightning at 100,000 Frames Per Second</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=zS_XgF9i8tc" target="_blank"><img src="http://img.youtube.com/vi/zS_XgF9i8tc/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">All of the other aurora watchers had gone home. By 3:30 am in Iceland, on a quiet September night, much of that night&#39;s auroras had died down. Suddenly, unexpectedly, a new burst of particles streamed down from space, lighting up the Earth&#39;s atmosphere once again. This time, surprisingly, pareidoliacally, the night lit up with an  amazing shape reminiscent of a giant phoenix. With camera equipment at the ready, two quick sky images were taken, followed immediately by a third of the land.  The mountain in the background is Helgafell, while the small foreground river is called Kaldá, both located about 30 kilometers north of Iceland&#39;s capital Reykjavík. Seasoned skywatchers will note that just above the mountain, toward the left, is the constellation of Orion, while the Pleiades star cluster is also visible just above the frame center.  The 2016 aurora, which lasted only a minute and was soon gone forever --  would possibly be dismissed as an fanciful fable -- were it not captured in the featured, digitally-composed, image mosaic.    Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">What causes sprite lightning? Mysterious bursts of light in the sky that momentarily resemble gigantic jellyfish have been recorded for over 30 years, but apart from a general association with positive cloud-to-ground lightning, their root cause remains unknown. Some thunderstorms have them -- most don&#39;t.  Recently, however, high speed videos are better detailing how sprites actually develop.  The featured video, captured in mid-2019, is fast enough -- at about 100,000 frames per second -- to time-resolve several sprite &quot;bombs&quot; dropping and developing into the multi-pronged streamers that appear on still images. Unfortunately, the visual clues provided by videos like these do not fully resolve the sprite origins mystery. High speed vidoes do indicate to some researchers, though, that sprites are more likely to occur when plasma irregularities exist in the upper atmosphere.    Astrophysicists: Browse 2,300+ codes in the Astrophysics Source Code Library</p>
 
 
 
