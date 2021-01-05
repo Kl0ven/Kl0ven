@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Sprite Lightning at 100,000 Frames Per Second</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=zS_XgF9i8tc" target="_blank"><img src="http://img.youtube.com/vi/zS_XgF9i8tc/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>The Small Cloud of Magellan</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/SMC_Mtanous_960.jpg"">
 
 
-<p style="text-align: justify;">What causes sprite lightning? Mysterious bursts of light in the sky that momentarily resemble gigantic jellyfish have been recorded for over 30 years, but apart from a general association with positive cloud-to-ground lightning, their root cause remains unknown. Some thunderstorms have them -- most don&#39;t.  Recently, however, high speed videos are better detailing how sprites actually develop.  The featured video, captured in mid-2019, is fast enough -- at about 100,000 frames per second -- to time-resolve several sprite &quot;bombs&quot; dropping and developing into the multi-pronged streamers that appear on still images. Unfortunately, the visual clues provided by videos like these do not fully resolve the sprite origins mystery. High speed vidoes do indicate to some researchers, though, that sprites are more likely to occur when plasma irregularities exist in the upper atmosphere.    Astrophysicists: Browse 2,300+ codes in the Astrophysics Source Code Library</p>
+<p style="text-align: justify;">What is the Small Magellanic Cloud? It has turned out to be a galaxy.  People who have wondered about this little fuzzy patch in the southern sky included Portuguese navigator Ferdinand Magellan and his crew, who had plenty of time to study the unfamiliar night sky of the south during the first circumnavigation of planet Earth in the early 1500s. As a result, two celestial wonders easily visible for southern hemisphere skygazers are now known in Western culture as the Clouds of Magellan. Within the past 100 years, research has shown that these cosmic clouds are dwarf irregular galaxies, satellites of our larger spiral Milky Way Galaxy. The Small Magellanic Cloud actually spans 15,000 light-years or so and contains several hundred million stars. About 210,000 light-years away in the constellation of the Tucan (Tucana), it is more distant than other known Milky Way satellite galaxies, including the Sagittarius Dwarf galaxy and the Large Magellanic Cloud. This sharp image also includes the foreground globular star cluster 47 Tucanae on the right.</p>
 
 
 
