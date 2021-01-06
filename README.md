@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Small Cloud of Magellan</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/SMC_Mtanous_960.jpg"">
+<h3>Striped Sand Dunes on Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/StripedDunes_HiRISE_1080.jpg"">
 
 
-<p style="text-align: justify;">What is the Small Magellanic Cloud? It has turned out to be a galaxy.  People who have wondered about this little fuzzy patch in the southern sky included Portuguese navigator Ferdinand Magellan and his crew, who had plenty of time to study the unfamiliar night sky of the south during the first circumnavigation of planet Earth in the early 1500s. As a result, two celestial wonders easily visible for southern hemisphere skygazers are now known in Western culture as the Clouds of Magellan. Within the past 100 years, research has shown that these cosmic clouds are dwarf irregular galaxies, satellites of our larger spiral Milky Way Galaxy. The Small Magellanic Cloud actually spans 15,000 light-years or so and contains several hundred million stars. About 210,000 light-years away in the constellation of the Tucan (Tucana), it is more distant than other known Milky Way satellite galaxies, including the Sagittarius Dwarf galaxy and the Large Magellanic Cloud. This sharp image also includes the foreground globular star cluster 47 Tucanae on the right.</p>
+<p style="text-align: justify;">Why are these sand dunes on Mars striped?  No one is sure.  The featured image shows striped dunes in Kunowsky Crater on Mars, photographed recently with the Mars Reconnaissance Orbiter’s HiRISE Camera.  Many Martian dunes are known to be covered unevenly with carbon dioxide (dry ice) frost, creating patterns of light and dark areas.  Carbon dioxide doesn’t melt, but sublimates, turning directly into a gas. Carbon dioxide is also a greenhouse material even as a solid, so it can trap heat under the ice and sublimate from the bottom up, causing geyser-like eruptions.  During Martian spring, these eruptions can cause a pattern of dark defrosting spots, where the darker sand is exposed.  The featured image, though, was taken during Martian autumn, when the weather is getting colder – making these stripes particularly puzzling.  One hypothesis is that they are caused by cracks in the ice that form from weaker eruptions or thermal stress as part of the day-night cycle, but research continues.  Watching these dunes and others through more Martian seasons may give us more clues to solve this mystery.</p>
 
 
 
