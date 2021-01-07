@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Striped Sand Dunes on Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/StripedDunes_HiRISE_1080.jpg"">
+<h3>Total Solar Eclipse 2020</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/Tse_2020_400mm_dmwa-rot.jpg"">
 
 
-<p style="text-align: justify;">Why are these sand dunes on Mars striped?  No one is sure.  The featured image shows striped dunes in Kunowsky Crater on Mars, photographed recently with the Mars Reconnaissance Orbiter’s HiRISE Camera.  Many Martian dunes are known to be covered unevenly with carbon dioxide (dry ice) frost, creating patterns of light and dark areas.  Carbon dioxide doesn’t melt, but sublimates, turning directly into a gas. Carbon dioxide is also a greenhouse material even as a solid, so it can trap heat under the ice and sublimate from the bottom up, causing geyser-like eruptions.  During Martian spring, these eruptions can cause a pattern of dark defrosting spots, where the darker sand is exposed.  The featured image, though, was taken during Martian autumn, when the weather is getting colder – making these stripes particularly puzzling.  One hypothesis is that they are caused by cracks in the ice that form from weaker eruptions or thermal stress as part of the day-night cycle, but research continues.  Watching these dunes and others through more Martian seasons may give us more clues to solve this mystery.</p>
+<p style="text-align: justify;">Along a narrow path crossing southern South America through Chile and Argentina, the final New Moon of 2020 moved in front of the Sun on December 14 in the year&#39;s only total solar eclipse. Within about 2 days of perigee, the closest point in its elliptical orbit, the New Moon&#39;s surface is faintly lit by earthshine in this dramatic composite view. The image is a processed composite of 55 calibrated exposures ranging from 1&#x2F;640 to 3 seconds. Covering a large range in brightness during totality, it reveals the dim lunar surface and faint background stars, along with planet-sized prominences at the Sun&#39;s edge, an enormous coronal mass ejection, and sweeping coronal structures normally hidden in the Sun&#39;s glare. Look closely for an ill-fated sungrazing Kreutz family comet (C&#x2F;2020 X3 SOHO) approaching from the lower left, at about the 7 o&#39;clock position. In 2021 eclipse chasers will see an annular solar eclipse coming up on June 10. They&#39;ll have to wait until December 4 for the only total solar eclipse in 2021 though. That eclipse will be total along a narrow path crossing the southernmost continent of Antarctica.</p>
 
 
 
