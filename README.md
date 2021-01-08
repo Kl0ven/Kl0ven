@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Total Solar Eclipse 2020</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/Tse_2020_400mm_dmwa-rot.jpg"">
+<h3>NGC 1365: Majestic Island Universe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/NGC-1365-RGB-19-DEC-2020_Leo_Mike_1024.jpg"">
 
 
-<p style="text-align: justify;">Along a narrow path crossing southern South America through Chile and Argentina, the final New Moon of 2020 moved in front of the Sun on December 14 in the year&#39;s only total solar eclipse. Within about 2 days of perigee, the closest point in its elliptical orbit, the New Moon&#39;s surface is faintly lit by earthshine in this dramatic composite view. The image is a processed composite of 55 calibrated exposures ranging from 1&#x2F;640 to 3 seconds. Covering a large range in brightness during totality, it reveals the dim lunar surface and faint background stars, along with planet-sized prominences at the Sun&#39;s edge, an enormous coronal mass ejection, and sweeping coronal structures normally hidden in the Sun&#39;s glare. Look closely for an ill-fated sungrazing Kreutz family comet (C&#x2F;2020 X3 SOHO) approaching from the lower left, at about the 7 o&#39;clock position. In 2021 eclipse chasers will see an annular solar eclipse coming up on June 10. They&#39;ll have to wait until December 4 for the only total solar eclipse in 2021 though. That eclipse will be total along a narrow path crossing the southernmost continent of Antarctica.</p>
+<p style="text-align: justify;">Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the chemical constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This impressively sharp color image shows the intense, reddish star forming regions near the ends of central bar and along the spiral arms, with details of the obscuring dust lanes cutting across the galaxy&#39;s bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365&#39;s prominent bar plays a crucial role in the galaxy&#39;s evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.</p>
 
 
 
