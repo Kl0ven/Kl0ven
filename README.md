@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Star Cluster R136 Breaks Out</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/30dor_hubble_960.jpg"">
+<h3>Moon Phases in 2021</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=8XV2-pmiyAg" target="_blank"><img src="http://img.youtube.com/vi/8XV2-pmiyAg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">In the center of nearby star-forming region lies a huge cluster containing some of the largest, hottest, and most massive stars known. These stars, known collectively as star cluster R136, part of the Tarantula Nebula, were captured in the featured image in visible light in 2009 through the Hubble Space Telescope. Gas and dust clouds in the Tarantula Nebula, have been sculpted into elongated shapes by powerful winds and ultraviolet radiation from these hot cluster stars.  The Tarantula Nebula lies within a neighboring galaxy known as the Large Magellanic Cloud and is located a mere 170,000 light-years away.</p>
+<p style="text-align: justify;">What will the Moon phase be on your birthday this year?  It is hard to predict because the Moon&#39;s appearance changes nightly.  As the Moon orbits the Earth, the half illuminated by the Sun first becomes increasingly visible, then decreasingly visible. The featured video animates images taken by NASA&#39;s Moon-orbiting Lunar Reconnaissance Orbiter to show all 12 lunations that appear this year, 2021. A single lunation describes one full cycle of our Moon, including all of its phases. A full lunation takes about 29.5 days, just under a month (moon-th). As each lunation progresses, sunlight reflects from the Moon at different angles, and so illuminates different features differently.  During all of this, of course, the Moon always keeps the same face toward the Earth. What is less apparent night-to-night is that the Moon&#39;s apparent size changes slightly, and that a slight wobble called a libration occurs as the Moon progresses along its elliptical orbit.   APOD online webinar January 12: Free registration, hosted by Amateur Astronomers Association of New York.</p>
 
 
 
