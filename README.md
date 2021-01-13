@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Historic Brazilian Constellation</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/OldMan_Guerra_960_lines.jpg"">
+<h3>Arches Across an Arctic Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/ArcticSky_Cobianchi_1080.jpg"">
 
 
-<p style="text-align: justify;">The night sky is filled with stories. Cultures throughout history have projected some of their most enduring legends onto the stars above. Generations of people see these stellar constellations, hear the associated stories, and pass them down. Featured here is the perhaps unfamiliar constellation of the Old Man, long recognized by the Tupi peoples native to regions of South America now known as Brazil.  The Old Man, in more modern vernacular, may be composed of the Hyades star cluster as his head and the belt of Orion as part of one leg.  Tupi folklore relates that the other leg was cut off by his unhappy wife, causing it to end at the orange star now known as Betelgeuse. The Pleiades star cluster, on the far left, can be interpreted as a head feather. In the featured image, the hobbled Old Man is mirrored by a person posing in the foreground.  Folklore of the night sky is important for many reasons, including that it records cultural heritage and documents the universality of human intelligence and imagination.    APOD in world languages: Arabic, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, Farsi, French, German, Hebrew, Indonesian, Japanese, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, Turkish, and  Ukrainian  APOD online webinar January 12: Free registration, hosted by Amateur Astronomers Association of New York.</p>
+<p style="text-align: justify;">What are these two giant arches across the sky? Perhaps the more familiar one, on the left, is the central band of our Milky Way Galaxy. This grand disk of stars and nebulas here appears to encircle much of the southern sky. Visible below the stellar arch is the rusty-orange planet Mars and the extended Andromeda galaxy. For a few minutes during this cold artic night, a second giant arch appeared to the right, encircling part of the northern sky: an aurora. Auroras are much closer than stars as they are composed of glowing air high in Earth&#39;s atmosphere.  Visible outside the green auroral arch is the group of stars popularly known as the Big Dipper.  The featured digital composite of 18 images was captured in mid-December over the  in Norway.    APOD Year in Review (2020): RJN&#39;s Night Sky Network Lecture</p>
 
 
 
