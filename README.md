@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Arches Across an Arctic Sky</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/ArcticSky_Cobianchi_1080.jpg"">
+<h3>Aurora Slathers Up the Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/aurora_iss052e007857.jpg"">
 
 
-<p style="text-align: justify;">What are these two giant arches across the sky? Perhaps the more familiar one, on the left, is the central band of our Milky Way Galaxy. This grand disk of stars and nebulas here appears to encircle much of the southern sky. Visible below the stellar arch is the rusty-orange planet Mars and the extended Andromeda galaxy. For a few minutes during this cold arctic night, a second giant arch appeared to the right, encircling part of the northern sky: an aurora. Auroras are much closer than stars as they are composed of glowing air high in Earth&#39;s atmosphere.  Visible outside the green auroral arch is the group of stars popularly known as the Big Dipper.  The featured digital composite of 18 images was captured in mid-December over the Lofoten Islands in Norway.    APOD Year in Review (2020): RJN&#39;s Night Sky Network Lecture</p>
+<p style="text-align: justify;">Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from atomic oxygen dominates this view. The tantalizing glow is green at lower altitudes, but rarer reddish bands extend above the space station&#39;s horizon. The orbital scene was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to the constellation Canis Major, Orion&#39;s big dog. Sirius, alpha star of Canis Major, is the brightest star near the Earth&#39;s limb.</p>
 
 
 
