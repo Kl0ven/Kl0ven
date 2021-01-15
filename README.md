@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Aurora Slathers Up the Sky</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/aurora_iss052e007857.jpg"">
+<h3>A Plutonian Landscape</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/Pluto-Mountains-Plains9-17-15_1024.jpg"">
 
 
-<p style="text-align: justify;">Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from atomic oxygen dominates this view. The tantalizing glow is green at lower altitudes, but rarer reddish bands extend above the space station&#39;s horizon. The orbital scene was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to the constellation Canis Major, Orion&#39;s big dog. Sirius, alpha star of Canis Major, is the brightest star near the Earth&#39;s limb.</p>
+<p style="text-align: justify;">This shadowy landscape of majestic mountains and icy plains stretches toward the horizon on a small, distant world. It was captured from a range of about 18,000 kilometers when New Horizons looked back toward Pluto, 15 minutes after the spacecraft&#39;s closest approach on July 14. The dramatic, low-angle, near-twilight scene follows rugged mountains formally known as Norgay Montes from foreground left, and Hillary Montes along the horizon, giving way to smooth Sputnik Planum at right. Layers of Pluto&#39;s tenuous atmosphere are also revealed in the backlit view. With a strangely familiar appearance, the frigid terrain likely includes ices of nitrogen and carbon monoxide with water-ice mountains rising up to 3,500 meters (11,000 feet). That&#39;s comparable in height to the majestic mountains of planet Earth. The Plutonian landscape is 380 kilometers (230 miles) across.</p>
 
 
 
