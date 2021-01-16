@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Plutonian Landscape</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/Pluto-Mountains-Plains9-17-15_1024.jpg"">
+<h3>The Mountains of NGC 2174</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/hs-2014-18_n2174rotate1024.jpg"">
 
 
-<p style="text-align: justify;">This shadowy landscape of majestic mountains and icy plains stretches toward the horizon on a small, distant world. It was captured from a range of about 18,000 kilometers when New Horizons looked back toward Pluto, 15 minutes after the spacecraft&#39;s closest approach on July 14, 2015. The dramatic, low-angle, near-twilight scene follows rugged mountains formally known as Norgay Montes from foreground left, and Hillary Montes along the horizon, giving way to smooth Sputnik Planum at right. Layers of Pluto&#39;s tenuous atmosphere are also revealed in the backlit view. With a strangely familiar appearance, the frigid terrain likely includes ices of nitrogen and carbon monoxide with water-ice mountains rising up to 3,500 meters (11,000 feet). That&#39;s comparable in height to the majestic mountains of planet Earth. The Plutonian landscape is 380 kilometers (230 miles) across.</p>
+<p style="text-align: justify;">This fantastic skyscape lies near the edge of NGC 2174 a star forming region about 6,400 light-years away in the nebula-rich constellation of Orion. It follows mountainous clouds of gas and dust carved by winds and radiation from the region&#39;s newborn stars, now found scattered in open star clusters embedded around the center of NGC 2174, off the top of the frame. Though star formation continues within these dusty cosmic clouds they will likely be dispersed by the energetic newborn stars within a few million years. Recorded at infrared wavelengths by the Hubble Space Telescope in 2014, the interstellar scene spans about 6 light-years. Scheduled for launch in 2021, the James Webb Space Telescope is optimized for exploring the Universe at infrared wavelengths.</p>
 
 
 
