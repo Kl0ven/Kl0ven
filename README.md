@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Mountains of NGC 2174</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/hs-2014-18_n2174rotate1024.jpg"">
+<h3>Jets from Unusual Galaxy Centaurus A</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/CenAjets_EsoNasa_960.jpg"">
 
 
-<p style="text-align: justify;">This fantastic skyscape lies near the edge of NGC 2174 a star forming region about 6,400 light-years away in the nebula-rich constellation of Orion. It follows mountainous clouds of gas and dust carved by winds and radiation from the region&#39;s newborn stars, now found scattered in open star clusters embedded around the center of NGC 2174, off the top of the frame. Though star formation continues within these dusty cosmic clouds they will likely be dispersed by the energetic newborn stars within a few million years. Recorded at infrared wavelengths by the Hubble Space Telescope in 2014, the interstellar scene spans about 6 light-years. Scheduled for launch in 2021, the James Webb Space Telescope is optimized for exploring the Universe at infrared wavelengths.</p>
+<p style="text-align: justify;">The jets emanating from Centaurus A are over a million light years long. These jets of streaming plasma, expelled by a giant black hole in the center of this spiral galaxy,  light up this composite image of Cen A. Exactly how the central black hole expels infalling matter remains unknown. After clearing the galaxy, however, the jets inflate large radio bubbles that likely glow for millions of years. If energized by a passing gas cloud, the radio bubbles can even light up again after billions of years. X-ray light is depicted in the featured composite image in blue, while microwave light is colored orange.  The base of the jet in radio light shows details of the innermost light year of the central jet.</p>
 
 
 
