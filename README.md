@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Lunar Corona with Jupiter and Saturn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/CoronaConjunction_Masi_1080.jpg"">
+<h3>The Magnetic Field of the Whirlpool Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/M51Bfield_Sofia_960.jpg"">
 
 
-<p style="text-align: justify;">Why does a cloudy moon sometimes appear colorful? The effect, called a lunar corona, is created by the quantum mechanical diffraction of light around individual, similarly-sized water droplets in an intervening but mostly-transparent cloud. Since light of different colors has different wavelengths, each color diffracts differently. Lunar Coronae are one of the few  quantum mechanical color effects that can be easily seen with the unaided eye.  Solar coronae are also sometimes evident.  The featured composite image was captured a few days before the close Great Conjunction between Saturn and Jupiter last month. In the foreground, the Italian village of Pieve di Cadore is visible in front of the Sfornioi Mountains.    New: APOD is now available in Taiwanese from National Central University</p>
+<p style="text-align: justify;">Do magnetic fields always flow along spiral arms?  Our face-on view of the Whirlpool Galaxy (M51) allows a spectacularly clear view of the spiral wave pattern in a disk-shaped galaxy.  When observed with a radio telescope, the magnetic field appears to trace the arms&#39; curvature.  However, with NASA’s flying Stratospheric Observatory for Infrared Astronomy (SOFIA) observatory, the magnetic field at the outer edge of M51&#39;s disk appears to weave across the arms instead.  Magnetic fields are inferred by grains of dust aligning in one direction and acting like polaroid glasses on infrared light.  In the featured image, the field orientations determined from this polarized light are algorithmically connected, creating streamlines.  Possibly the gravitational tug of the companion galaxy, at the top of the frame, on the dusty gas of the reddish star-forming regions, visible in the Hubble Space Telescope image, enhances turbulence -- stirring the dust and lines to produce the unexpected field pattern of the outer arms.</p>
 
 
 
