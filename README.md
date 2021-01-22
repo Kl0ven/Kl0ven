@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M78 Wide Field</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/M78wideHiggins1024.jpg"">
+<h3>The Milky Ring</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/MilkyWayRingAlvinWu1024.jpg"">
 
 
-<p style="text-align: justify;">Interstellar dust clouds and glowing nebulae abound in the fertile constellation of Orion. One of the brightest, M78, is centered in this colorful, wide field view, covering an area north of Orion&#39;s belt. At a distance of about 1,500 light-years, the bluish reflection nebula is around 5 light-years across. Its tint is due to dust preferentially reflecting the blue light of hot, young stars. Reflection nebula NGC 2071 is just to the left of M78. Flecks of emission from Herbig-Haro objects, energetic jets from stars in the process of formation, stand out against the dark dust lanes. The exposure also brings out the region&#39;s fainter, pervasive reddish glow of atomic hydrogen gas.</p>
+<p style="text-align: justify;">An expanse of cosmic dust, stars and nebulae along the plane of our Milky Way galaxy form a beautiful ring in this projected all-sky view. The creative panorama covers the entire galaxy visible from planet Earth, an ambitious 360 degree mosaic that took two years to complete. Northern hemisphere sites in western China and southern hemisphere sites in New Zealand were used to collect the image data. Like a glowing jewel set in the milky ring, the bulge of the galactic center, is at the very top. Bright planet Jupiter is the beacon just above the central bulge and left of red giant star Antares. Along the plane and almost 180 degrees from the galactic center, at the bottom of the ring is the area around Orion, denizen of the northern hemisphere&#39;s evening winter skies. In this projection the ring of the Milky Way encompasses two notable galaxies in southern skies, the large and small Magellanic clouds.</p>
 
 
 
