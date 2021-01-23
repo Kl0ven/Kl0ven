@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Milky Ring</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/MilkyWayRingAlvinWu1024.jpg"">
+<h3>Recycling Cassiopeia A</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/Chandrafirstlight_0_1024.jpg"">
 
 
-<p style="text-align: justify;">An expanse of cosmic dust, stars and nebulae along the plane of our Milky Way galaxy form a beautiful ring in this projected all-sky view. The creative panorama covers the entire galaxy visible from planet Earth, an ambitious 360 degree mosaic that took two years to complete. Northern hemisphere sites in western China and southern hemisphere sites in New Zealand were used to collect the image data. Like a glowing jewel set in the milky ring, the bulge of the galactic center, is at the very top. Bright planet Jupiter is the beacon just above the central bulge and left of red giant star Antares. Along the plane and almost 180 degrees from the galactic center, at the bottom of the ring is the area around Orion, denizen of the northern hemisphere&#39;s evening winter skies. In this projection the ring of the Milky Way encompasses two notable galaxies in southern skies, the large and small Magellanic clouds.</p>
+<p style="text-align: justify;">Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant would have been first seen in planet Earth&#39;s sky about 350 years ago, although it took that light about 11,000 years to reach us. This false-color image, composed of X-ray and optical image data from the Chandra X-ray Observatory and Hubble Space Telescope, shows the still hot filaments and knots in the remnant. It spans about 30 light-years at the estimated distance of Cassiopeia A. High-energy X-ray emission from specific elements has been color coded, silicon in red, sulfur in yellow, calcium in green and iron in purple, to help astronomers explore the recycling of our galaxy&#39;s star stuff. Still expanding, the outer blast wave is seen in blue hues. The bright speck near the center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core.</p>
 
 
 
