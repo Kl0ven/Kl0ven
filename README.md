@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Recycling Cassiopeia A</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/Chandrafirstlight_0_1024.jpg"">
+<h3>Massive Nearby Spiral Galaxy NGC 2841</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/ngc2841_hstColombari_960.jpg"">
 
 
-<p style="text-align: justify;">Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant would have been first seen in planet Earth&#39;s sky about 350 years ago, although it took that light about 11,000 years to reach us. This false-color image, composed of X-ray and optical image data from the Chandra X-ray Observatory and Hubble Space Telescope, shows the still hot filaments and knots in the remnant. It spans about 30 light-years at the estimated distance of Cassiopeia A. High-energy X-ray emission from specific elements has been color coded, silicon in red, sulfur in yellow, calcium in green and iron in purple, to help astronomers explore the recycling of our galaxy&#39;s star stuff. Still expanding, the outer blast wave is seen in blue hues. The bright speck near the center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core.</p>
+<p style="text-align: justify;">It is one of the more massive galaxies known. A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in the northern constellation of Ursa Major. This sharp view of the gorgeous island universe shows off a striking yellow nucleus and galactic disk. Dust lanes, small, pink star-forming regions, and young blue star clusters are embedded in the patchy, tightly wound spiral arms. In contrast, many other spirals exhibit grand, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, even larger than our own Milky Way. The featured composite image merges exposures from the orbiting 2.4-meter Hubble Space Telescope and the ground-based 8.2-meter Subaru Telescope.  X-ray images suggest that resulting winds and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.</p>
 
 
 
