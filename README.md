@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Massive Nearby Spiral Galaxy NGC 2841</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/ngc2841_hstColombari_960.jpg"">
+<h3>Southern Cross over Chilean Volcano</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/SouthernCross_Slovinsky_960.jpg"">
 
 
-<p style="text-align: justify;">It is one of the more massive galaxies known. A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in the northern constellation of Ursa Major. This sharp view of the gorgeous island universe shows off a striking yellow nucleus and galactic disk. Dust lanes, small, pink star-forming regions, and young blue star clusters are embedded in the patchy, tightly wound spiral arms. In contrast, many other spirals exhibit grand, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, even larger than our own Milky Way. The featured composite image merges exposures from the orbiting 2.4-meter Hubble Space Telescope and the ground-based 8.2-meter Subaru Telescope.  X-ray images suggest that resulting winds and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.</p>
+<p style="text-align: justify;">Have you ever seen the Southern Cross? This famous four-star icon is best seen from Earth&#39;s Southern Hemisphere. The featured image was taken last month in Chile and captures the Southern Cross just to the left of erupting Villarrica, one of the most active volcanos in our Solar System.  Connecting the reddest Southern Cross star Gacrux through the brightest star  Acrux points near the most southern location in the sky: the South Celestial Pole (SCP), around which all southern stars appear to spin as the Earth turns. In modern times, no bright star resides near the SCP, unlike in the north where bright Polaris now appears near the NCP.  Extending the Gacrux - Acrux line still further (from about four to about seven times their angular separation) leads near the Small Magellanic Cloud, a bright satellite galaxy of our Milky Way Galaxy.  The Southern Cross asterism dominates the Crux constellation, a deeper array of stars that includes four Cepheid variable stars visible to the unaided eye. Just above the volcano in the image, and looking like a dark plume, is the Coalsack Nebula, while the large red star-forming Carina Nebula is visible on the upper left.   Portal Universe: Random APOD Generator</p>
 
 
 
