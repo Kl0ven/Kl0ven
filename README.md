@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Southern Cross over Chilean Volcano</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/SouthernCross_Slovinsky_960.jpg"">
+<h3>Central NGC 1316: After Galaxies Collide</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/NGC1316Center_HubbleNobre_960.jpg"">
 
 
-<p style="text-align: justify;">Have you ever seen the Southern Cross? This famous four-star icon is best seen from Earth&#39;s Southern Hemisphere. The featured image was taken last month in Chile and captures the Southern Cross just to the left of erupting Villarrica, one of the most active volcanos in our Solar System.  Connecting the reddest Southern Cross star Gacrux through the brightest star  Acrux points near the most southern location in the sky: the South Celestial Pole (SCP), around which all southern stars appear to spin as the Earth turns. In modern times, no bright star resides near the SCP, unlike in the north where bright Polaris now appears near the NCP.  Extending the Gacrux - Acrux line still further (from about four to about seven times their angular separation) leads near the Small Magellanic Cloud, a bright satellite galaxy of our Milky Way Galaxy.  The Southern Cross asterism dominates the Crux constellation, a deeper array of stars that includes four Cepheid variable stars visible to the unaided eye. Just above the volcano in the image, and looking like a dark plume, is the Coalsack Nebula, while the large red star-forming Carina Nebula is visible on the upper left.   Portal Universe: Random APOD Generator</p>
+<p style="text-align: justify;">How did this strange-looking galaxy form?  Astronomers turn detectives when trying to figure out the cause of unusual jumbles of stars, gas, and dust like NGC 1316. Inspection indicates that NGC 1316 is an enormous elliptical galaxy that somehow includes dark dust lanes usually found in a spiral galaxy.  Detailed images taken by the Hubble Space Telescope shows details, however, that help in reconstructing the history of this gigantic tangle.  Deep and wide images show huge collisional shells, while deep central images reveal fewer globular clusters of stars toward NGC 1316&#39;s interior.  Such effects are expected in galaxies that have undergone collisions or merging with other galaxies in the past few billion years.  The dark knots and lanes of dust, prominent in the featured image, indicate that one or more of the devoured galaxies were spiral galaxies.  NGC 1316 spans about 50,000 light years and lies about 60 million light years away toward the constellation of the Furnace (Fornax).</p>
 
 
 
