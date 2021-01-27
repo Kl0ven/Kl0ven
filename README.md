@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Central NGC 1316: After Galaxies Collide</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/NGC1316Center_HubbleNobre_960.jpg"">
+<h3>The Vertical Magnetic Field of NGC 5775</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/NGC5775_NraoEnglish_1080.jpg"">
 
 
-<p style="text-align: justify;">How did this strange-looking galaxy form?  Astronomers turn detectives when trying to figure out the cause of unusual jumbles of stars, gas, and dust like NGC 1316. Inspection indicates that NGC 1316 is an enormous elliptical galaxy that somehow includes dark dust lanes usually found in a spiral galaxy.  Detailed images taken by the Hubble Space Telescope shows details, however, that help in reconstructing the history of this gigantic tangle.  Deep and wide images show huge collisional shells, while deep central images reveal fewer globular clusters of stars toward NGC 1316&#39;s interior.  Such effects are expected in galaxies that have undergone collisions or merging with other galaxies in the past few billion years.  The dark knots and lanes of dust, prominent in the featured image, indicate that one or more of the devoured galaxies were spiral galaxies.  NGC 1316 spans about 50,000 light years and lies about 60 million light years away toward the constellation of the Furnace (Fornax).</p>
+<p style="text-align: justify;">How far do magnetic fields extend up and out of spiral galaxies?  For decades astronomers knew only that some spiral galaxies had magnetic fields.  However, after NRAO&#39;s Very Large Array (VLA) radio telescope (popularized in the movie Contact) was upgraded in 2011, it was unexpectedly discovered that these fields could extend vertically away from the disk by several thousand light-years.  The featured image of edge-on spiral galaxy NGC 5775, observed in the CHANG-ES (Continuum Halos in Nearby Galaxies) survey, also reveals spurs of magnetic field lines that may be common in spirals.  Analogous to iron filings around a bar magnet, radiation from electrons trace galactic magnetic field lines by spiraling around these lines at almost the speed of light.  The filaments in this image are constructed from those tracks in VLA data.  The visible light image, constructed from Hubble Space Telescope data, shows pink gaseous regions where stars are born.  It seems that winds from these regions help form the magnificently extended galactic magnetic fields.</p>
 
 
 
