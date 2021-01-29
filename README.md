@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 66 Close Up</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/M66_Hubble_LeoShatz_Crop1024.jpg"">
+<h3>North American Nightscape</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/North-America-Nebula-Deepscape_Liron-Gertsman1024.jpg"">
 
 
-<p style="text-align: justify;">Big, beautiful spiral galaxy Messier 66 lies a mere 35 million light-years away. The gorgeous island universe is about 100 thousand light-years across, similar in size to the Milky Way. This reprocessed Hubble Space Telescope close-up view spans a region about 30,000 light-years wide around the galactic core. It shows the galaxy&#39;s disk dramatically inclined to our line-of-sight. Surrounding its bright core, the likely home of a supermassive black hole, obscuring dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pinksh star forming regions. Messier 66, also known as NGC 3627, is the brightest of the three galaxies in the gravitationaly interacting Leo Triplet.</p>
+<p style="text-align: justify;">On January 21, light from the Moon near first quarter illuminated the foreground in this snowy mountain and night scene. Known as The Lions, the striking pair of mountain peaks are north of Vancouver, British Colombia, Canada, North America, planet Earth. Poised above the twin summits, left of Deneb alpha star of the constellation Cygnus, are emission regions NGC 7000 and IC 5070. Part of a large star forming complex about 1,500 light-years from Vancouver, they shine with the characteristic red glow of atomic hydrogen gas. Outlines of the bright emission regions suggest their popular names, The North America Nebula and The Pelican Nebula. The well-planned, deep nightscape is a composite of consecutive exposures made with a modified digital camera and telephoto lens. Foreground exposures were made with camera fixed to a tripod, background exposures were made tracking the sky. The result preserves sharp natural detail and reveals a range of brightness and color that your eye can&#39;t quite see on its own.</p>
 
 
 
