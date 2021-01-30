@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>North American Nightscape</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/North-America-Nebula-Deepscape_Liron-Gertsman1024.jpg"">
+<h3>Southern Sky from 38,000 Feet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/SouthernSkyRohner1200.jpg"">
 
 
-<p style="text-align: justify;">On January 21, light from the Moon near first quarter illuminated the foreground in this snowy mountain and night scene. Known as The Lions, the striking pair of mountain peaks are north of Vancouver, British Colombia, Canada, North America, planet Earth. Poised above the twin summits, left of Deneb alpha star of the constellation Cygnus, are emission regions NGC 7000 and IC 5070. Part of a large star forming complex about 1,500 light-years from Vancouver, they shine with the characteristic red glow of atomic hydrogen gas. Outlines of the bright emission regions suggest their popular names, The North America Nebula and The Pelican Nebula. The well-planned, deep nightscape is a composite of consecutive exposures made with a modified digital camera and telephoto lens. Foreground exposures were made with camera fixed to a tripod, background exposures were made tracking the sky. The result preserves sharp natural detail and reveals a range of brightness and color that your eye can&#39;t quite see on its own.</p>
+<p style="text-align: justify;">Celestial sights of the southern sky shine above a cloudy planet Earth in this gorgeous night sky view. The scene was captured from an airliner&#39;s flight deck at 38,000 feet on a steady westbound ride to Lima, Peru. To produce the sharp airborne astrophotograph, the best of a series of short exposures were selected and digitally stacked. The broad band of the southern Milky Way begins at top left with the dark Coalsack Nebula and Southern Cross. Its expanse of diffuse starlight encompasses the the Carina Nebula and large Gum Nebula toward the right. Canopus, alpha star of Carina and second brightest star in Earth&#39;s night is easy to spot below the Milky Way, as is the dwarf galaxy known as the Large Magellanic Cloud. The Small Magellanic cloud just peeks above the cloudy horizon. Of course, the South Celestial Pole also lies within the starry southern frame.</p>
 
 
 
