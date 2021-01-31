@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Asteroids in the Distance</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/AsteroidStreak_hst_960.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Rocks from space hit Earth every day.  The larger the rock, though, the less often Earth is struck.  Many kilograms of space dust pitter to Earth daily. Larger bits appear initially as a bright meteor.  Baseball-sized rocks and ice-balls streak through our atmosphere daily, most evaporating quickly to nothing.  Significant threats do exist for rocks near 100 meters in diameter, which strike the Earth roughly every 1000 years.  An object this size could cause significant tsunamis were it to strike an ocean, potentially devastating even distant shores. A collision with a massive asteroid, over 1 km across, is more rare, occurring typically millions of years apart, but could have truly global consequences. Many asteroids remain undiscovered.  In the featured image, one such asteroid -- shown by the long blue streak -- was found by chance in 1998 by the Hubble Space Telescope. A collision with a large asteroid  would not affect Earth&#39;s orbit so much as raise dust that would affect Earth&#39;s climate.  One likely result is a global extinction of many species of life, possibly dwarfing the ongoing extinction occurring now.</p>
 
 
 
