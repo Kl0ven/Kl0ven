@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Southern Sky from 38,000 Feet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/SouthernSkyRohner1200.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">Celestial sights of the southern sky shine above a cloudy planet Earth in this gorgeous night sky view. The scene was captured from an airliner&#39;s flight deck at 38,000 feet on a steady westbound ride to Lima, Peru. To produce the sharp airborne astrophotograph, the best of a series of short exposures were selected and digitally stacked. The broad band of the southern Milky Way begins at top left with the dark Coalsack Nebula and Southern Cross. Its expanse of diffuse starlight encompasses the the Carina Nebula and large Gum Nebula toward the right. Canopus, alpha star of Carina and second brightest star in Earth&#39;s night is easy to spot below the Milky Way, as is the dwarf galaxy known as the Large Magellanic Cloud. The Small Magellanic cloud just peeks above the cloudy horizon. Of course, the South Celestial Pole also lies within the starry southern frame.</p>
+<p style="text-align: justify;"></p>
 
 
 
