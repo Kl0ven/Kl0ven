@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Asteroids in the Distance</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2101/AsteroidStreak_hst_960.jpg"">
+<h3>Lunar Halo over Snowy Trees</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/LunarHalo_Strand_960.jpg"">
 
 
-<p style="text-align: justify;">Rocks from space hit Earth every day.  The larger the rock, though, the less often Earth is struck.  Many kilograms of space dust pitter to Earth daily. Larger bits appear initially as a bright meteor.  Baseball-sized rocks and ice-balls streak through our atmosphere daily, most evaporating quickly to nothing.  Significant threats do exist for rocks near 100 meters in diameter, which strike the Earth roughly every 1000 years.  An object this size could cause significant tsunamis were it to strike an ocean, potentially devastating even distant shores. A collision with a massive asteroid, over 1 km across, is more rare, occurring typically millions of years apart, but could have truly global consequences. Many asteroids remain undiscovered.  In the featured image, one such asteroid -- shown by the long blue streak -- was found by chance in 1998 by the Hubble Space Telescope. A collision with a large asteroid  would not affect Earth&#39;s orbit so much as raise dust that would affect Earth&#39;s climate.  One likely result is a global extinction of many species of life, possibly dwarfing the ongoing extinction occurring now.</p>
+<p style="text-align: justify;">Have you ever seen a halo around the Moon?  This fairly common sight occurs when high thin clouds containing millions of tiny ice crystals cover much of the sky.  Each ice crystal acts like a miniature lens.  Because most of the crystals have a similar elongated hexagonal shape, light entering one crystal face and exiting through the opposing face refracts 22 degrees, which corresponds to the radius of the Moon Halo.  A similar Sun Halo may be visible during the day.  Exactly how ice-crystals form in clouds remains a topic of research. In the featured image taken last week from Östersund, Sweden, a complete lunar halo was captured over snowy trees and rabbit tracks.   APOD is available via Instagram: in English, Indonesian, Persian, and Portuguese</p>
 
 
 
