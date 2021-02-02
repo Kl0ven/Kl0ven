@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lunar Halo over Snowy Trees</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/LunarHalo_Strand_960.jpg"">
+<h3>A Colorful Quadrantid Meteor</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/MeteorStreak_Kuszaj_1080.jpg"">
 
 
-<p style="text-align: justify;">Have you ever seen a halo around the Moon?  This fairly common sight occurs when high thin clouds containing millions of tiny ice crystals cover much of the sky.  Each ice crystal acts like a miniature lens.  Because most of the crystals have a similar elongated hexagonal shape, light entering one crystal face and exiting through the opposing face refracts 22 degrees, which corresponds to the radius of the Moon Halo.  A similar Sun Halo may be visible during the day.  Exactly how ice-crystals form in clouds remains a topic of research. In the featured image taken last week from Östersund, Sweden, a complete lunar halo was captured over snowy trees and rabbit tracks.   APOD is available via Instagram: in English, Indonesian, Persian, and Portuguese</p>
+<p style="text-align: justify;">Meteors can be colorful. While the human eye usually cannot discern many colors, cameras often can. Pictured is a Quadrantids meteor captured by camera over Missouri, USA, early this month that was not only impressively bright, but colorful. The radiant grit, likely cast off by asteroid 2003 EH1, blazed a path across Earth&#39;s atmosphere.  Colors in meteors usually originate from ionized elements released as the meteor disintegrates, with blue-green typically originating from magnesium, calcium radiating violet, and nickel glowing green. Red, however, typically originates from energized nitrogen and oxygen in the Earth&#39;s atmosphere.  This bright meteoric fireball was gone in a flash -- less than a second -- but it left a wind-blown ionization trail that remained visible for several minutes.   APOD is available via Facebook: in English, Catalan and Portuguese</p>
 
 
 
