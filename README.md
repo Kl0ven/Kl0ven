@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Apollo 14: A View from Antares</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/a14pan9335-43emj_900.jpg"">
+<h3>Apollo 14 Heads for Home</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/AS14-71-9845v2wmktwtr4Jerry.jpg"">
 
 
-<p style="text-align: justify;">Fifty years ago this Friday, Apollo 14&#39;s Lunar Module Antares landed on the Moon. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell&#39;s fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard&#39;s golf balls is just visible as a white spot below Mitchell&#39;s javelin.</p>
+<p style="text-align: justify;">Fifty years ago this Sunday (February 7, 1971), the crew of Apollo 14 left lunar orbit and headed for home. They watched this Earthrise from their command module Kittyhawk. With Earth&#39;s sunlit crescent just peeking over the lunar horizon, the cratered terrain in the foreground is along the lunar farside. Of course, while orbiting the Moon, the crew could watch Earth rise and set, but from the lunar surface the Earth hung stationary in the sky over their landing site at Fra Mauro Base. Rock samples returned from Fra Mauro included a 20 pound rock nicknamed Big Bertha, determined to contain a likely fragment of a meteorite from planet Earth. Kept on board the Kittyhawk during the Apollo 14 mission was a cannister of 400-500 seeds that were later grown into Moon Trees.</p>
 
 
 
