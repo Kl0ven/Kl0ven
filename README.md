@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Apollo 14 Heads for Home</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/AS14-71-9845v2wmktwtr4Jerry.jpg"">
+<h3>A Northern Winter Night</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/Siemiony_las_31_01_2021_1024.jpg"">
 
 
-<p style="text-align: justify;">Fifty years ago this Sunday (February 7, 1971), the crew of Apollo 14 left lunar orbit and headed for home. They watched this Earthrise from their command module Kittyhawk. With Earth&#39;s sunlit crescent just peeking over the lunar horizon, the cratered terrain in the foreground is along the lunar farside. Of course, while orbiting the Moon, the crew could watch Earth rise and set, but from the lunar surface the Earth hung stationary in the sky over their landing site at Fra Mauro Base. Rock samples returned from Fra Mauro included a 20 pound rock nicknamed Big Bertha, determined to contain a likely fragment of a meteorite from planet Earth. Kept on board the Kittyhawk during the Apollo 14 mission was a cannister of 400-500 seeds that were later grown into Moon Trees.</p>
+<p style="text-align: justify;">Snow blankets the ground in this serene forest and sky view. Assembled in a 360 degree panoramic projection, the mosaicked frames were captured at January&#39;s end along a quiet country road near Siemiony, northeastern Poland, planet Earth. The night was cold and between trees reaching toward the sky shine the stars and nebulae of the northern winter Milky Way. Near zenith is bright star Capella, a mere 43 light-years above the tree tops. Alpha star of the constellation Auriga the Charioteer and part of the winter hexagon asterism, Capella is a well-studied double star system. Follow the Milky Way above and right of Capella and you might spot the familiar stars of Orion in the northern winter night.</p>
 
 
 
