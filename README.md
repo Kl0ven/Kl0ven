@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Northern Winter Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/Siemiony_las_31_01_2021_1024.jpg"">
+<h3>Blue Straggler Stars in Globular Cluster M53</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/m53_hubble_960.jpg"">
 
 
-<p style="text-align: justify;">Snow blankets the ground in this serene forest and sky view. Assembled in a 360 degree panoramic projection, the mosaicked frames were captured at January&#39;s end along a quiet country road near Siemiony, northeastern Poland, planet Earth. The night was cold and between trees reaching toward the sky shine the stars and nebulae of the northern winter Milky Way. Near zenith is bright star Capella, a mere 43 light-years above the tree tops. Alpha star of the constellation Auriga the Charioteer and part of the winter hexagon asterism, Capella is a well-studied double star system. Follow the Milky Way above and right of Capella and you might spot the familiar stars of Orion in the northern winter night.</p>
+<p style="text-align: justify;">If our Sun were part of this star cluster, the night sky would glow like a jewel box of bright stars. This cluster, known as M53 and cataloged as NGC 5024, is one of about 250 globular clusters that survive in our Galaxy. Most of the stars in M53 are older and redder than our Sun, but some enigmatic stars appear to be bluer and younger. These young stars might contradict the hypothesis that all the stars in M53 formed at nearly the same time. These unusual stars are known as blue stragglers and are unusually common in M53. After much debate, blue stragglers are now thought to be stars rejuvenated by fresh matter falling in from a binary star companion. By analyzing pictures of globular clusters like the featured image taken by the Hubble Space Telescope, astronomers use the abundance of stars like blue stragglers to help determine the age of the globular cluster and hence a limit on the age of the universe. M53, visible with a binoculars towards the constellation of Bernice&#39;s Hair (Coma Berenices), contains over 250,000 stars and is one of the furthest globulars from the center of our Galaxy.</p>
 
 
 
