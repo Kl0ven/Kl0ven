@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Blue Straggler Stars in Globular Cluster M53</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/m53_hubble_960.jpg"">
+<h3>WR32 and Interstellar Clouds in Carina</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/WR23Friends_cappelletti_960.jpg"">
 
 
-<p style="text-align: justify;">If our Sun were part of this star cluster, the night sky would glow like a jewel box of bright stars. This cluster, known as M53 and cataloged as NGC 5024, is one of about 250 globular clusters that survive in our Galaxy. Most of the stars in M53 are older and redder than our Sun, but some enigmatic stars appear to be bluer and younger. These young stars might contradict the hypothesis that all the stars in M53 formed at nearly the same time. These unusual stars are known as blue stragglers and are unusually common in M53. After much debate, blue stragglers are now thought to be stars rejuvenated by fresh matter falling in from a binary star companion. By analyzing pictures of globular clusters like the featured image taken by the Hubble Space Telescope, astronomers use the abundance of stars like blue stragglers to help determine the age of the globular cluster and hence a limit on the age of the universe. M53, visible with a binoculars towards the constellation of Bernice&#39;s Hair (Coma Berenices), contains over 250,000 stars and is one of the furthest globulars from the center of our Galaxy.</p>
+<p style="text-align: justify;">Stars can be like artists. With interstellar gas as a canvas, a massive and tumultuous Wolf-Rayet star has created the picturesque ruffled half-circular filaments called WR32, on the image left. Additionally, the winds and radiation from a small cluster of stars, NGC 3324, have sculpted a 35 light year cavity on the upper right, with its right side appearing as a recognizable face in profile.  This region&#39;s popular name is the Gabriela Mistral Nebula for the famous  Chilean poet. Together, these interstellar clouds lie about 8,000 light-years away in the Great Carina Nebula, a complex stellar neighborhood harboring numerous clouds of gas and dust rich with imagination inspiring shapes. The featured telescopic view captures these nebulae&#39;s characteristic emission from ionized sulfur, hydrogen, and oxygen atoms mapped to the red, green, and blue hues of the popular Hubble Palette.    New: APOD now available in Bulgarian from Bulgaria</p>
 
 
 
