@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Flashes of the Crab Pulsar</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=4on-e614tag" target="_blank"><img src="http://img.youtube.com/vi/4on-e614tag/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Firing Lasers to Tame the Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/AoLasers_Munoz_960.jpg"">
 
 
-<p style="text-align: justify;">It somehow survived an explosion that would surely have destroyed our Sun. Now it is spins 30 times a second and is famous for the its rapid flashes. It is the Crab Pulsar, the rotating neutron star remnant of the supernova that created the Crab Nebula. A careful eye can spot the pulsar flashes in the featured time-lapse video, just above the image center. The video was created by adding together images taken only when the pulsar was flashing, as well as co-added images from other relative times.  The Crab Pulsar flashes may have been first noted by an unknown woman attending a public observing night at the University of Chicago in 1957 -- but who was not believed.  The progenitor supernova explosion was seen by many in the year 1054 AD.  The expanding Crab Nebula remains a picturesque expanding gas cloud that glows across the electromagnetic spectrum.  The pulsar is now thought to have survived the supernova explosion because it is composed of extremely-dense quantum-degenerate matter.   Who was this mystery woman?  Please email leads to the APOD editors.</p>
+<p style="text-align: justify;">Why do stars twinkle? Our atmosphere is to blame as pockets of slightly off-temperature air, in constant motion, distort the light paths from distant astronomical objects. Atmospheric turbulence is a problem for astronomers because it blurs the images of the sources they want to study. The telescope featured in this image, located at ESO’s Paranal Observatory, is equipped with four lasers to combat this turbulence. The lasers are tuned to a color that excites atoms floating high in Earth&#39;s atmosphere -- sodium left by passing meteors. These glowing sodium spots act as artificial stars whose twinkling is immediately recorded and passed to a flexible mirror that deforms hundreds of times per second, counteracting atmospheric turbulence and resulting in crisper images. The de-twinkling of stars is a developing field of technology and allows, in some cases, Hubble-class images to be taken from the ground.  This technique has also led to spin-off applications in human vision science, where it is used to obtain very sharp images of the retina.</p>
 
 
 
