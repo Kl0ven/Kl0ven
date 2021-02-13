@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Spiral Galaxy NGC 1350</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/NGC1350_crop1024.jpg"">
+<h3>Stereo Eros</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/PIA02471_800.jpg"">
 
 
-<p style="text-align: justify;">This gorgeous island universe lies about 85 million light-years distant in the southern constellation Fornax. Inhabited by young blue star clusters, the tightly wound spiral arms of NGC 1350 seem to join in a circle around the galaxy&#39;s large, bright nucleus, giving it the appearance of a cosmic eye. In fact, NGC 1350 is about 130,000 light-years across. That makes it as large or slightly larger than the Milky Way. For earth-based astronomers, NGC 1350 is seen on the outskirts of the Fornax cluster of galaxies, but its estimated distance suggests that it is not itself a cluster member. Of course, the bright spiky stars in the foreground of this telescopic field of view are members of our own spiral Milky Way galaxy.</p>
+<p style="text-align: justify;">Get out your red&#x2F;blue glasses and float next to asteroid 433 Eros. Orbiting the Sun once every 1.8 years, the near-Earth asteroid is named for the Greek god of love. Still, its shape more closely resembles a lumpy potato than a heart. Eros is a diminutive 40 x 14 x 14 kilometer world of undulating horizons, craters, boulders and valleys. Its unsettling scale and unromantic shape are emphasized in this mosaic of images from the NEAR Shoemaker spacecraft processed to yield a stereo anaglyphic view.  Along with dramatic chiaroscuro, NEAR Shoemaker&#39;s 3-D imaging provided important measurements of the asteroid&#39;s landforms and structures, and clues to the origin of this city-sized chunk of Solar System. The smallest features visible here are about 30 meters across. Beginning on February 14, 2000, historic NEAR Shoemaker spent a year in orbit around Eros, the first spacecraft to orbit an asteroid. Twenty years ago, on February 12 2001, it landed on Eros, the first ever landing on an asteroid&#39;s surface. NEAR Shoemaker&#39;s final transmission from the surface of Eros was on February 28, 2001.</p>
 
 
 
