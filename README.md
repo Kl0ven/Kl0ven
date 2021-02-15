@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Long Stem Rosette Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/rosette_BlockPuckett_960.jpg"">
+<h3>Landing on Mars: Seven Minutes of Terror</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ki_Af_o9Q9s" target="_blank"><img src="http://img.youtube.com/vi/Ki_Af_o9Q9s/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn&#39;t appear to diminish the appearance of this flowery emission nebula, at the top of the image, atop a long stem of glowing hydrogen gas. Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars formed about four million years ago from the nebular material and their stellar winds are clearing a hole in the nebula&#39;s center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow. The Rosette Nebula spans about 100 light-years across, lies about 5000 light-years away, and can be seen with a small telescope towards the constellation of the Unicorn (Monoceros).   Jump around the Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Starting Thursday, there may be an amazing new robotic explorer on Mars.  Or there may be a new pile of junk.  It all likely depends on things going correctly in the minutes after the Mars 2020 mission arrives at its new home planet and attempts to deploy the Perseverance rover.  Arguably the most sophisticated landing yet attempted on the red planet, consecutive precision events will involve a heat shield, a parachute, several rocket maneuvers, and the automatic operation of an unusual device called a Sky Crane.  Thursday&#39;s Seven Minutes of Terror echo the landing of the Curiosity rover on Mars in 2012, as depicted in the featured video. If successful, the car-sized Perseverance rover will rest on the surface of Mars, soon to begin exploring Jezero Crater to better determine the habitability of this seemingly barren world to life -- past, present, and future.  Although multiple media outlets may cover this event, one way to watch these landing events unfold is on the NASA channel live on the web.   News: NASA Perseverance Coverage</p>
 
 
 
