@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Landing on Mars: Seven Minutes of Terror</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ki_Af_o9Q9s" target="_blank"><img src="http://img.youtube.com/vi/Ki_Af_o9Q9s/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Perseverance: Seven Minutes to Mars</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=M4tdMR5HLtg" target="_blank"><img src="http://img.youtube.com/vi/M4tdMR5HLtg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Starting Thursday, there may be an amazing new robotic explorer on Mars.  Or there may be a new pile of junk.  It all likely depends on things going correctly in the minutes after the Mars 2020 mission arrives at its new home planet and attempts to deploy the Perseverance rover.  Arguably the most sophisticated landing yet attempted on the red planet, consecutive precision events will involve a heat shield, a parachute, several rocket maneuvers, and the automatic operation of an unusual device called a Sky Crane.  Thursday&#39;s Seven Minutes of Terror echo the landing of the Curiosity rover on Mars in 2012, as depicted in the featured video. If successful, the car-sized Perseverance rover will rest on the surface of Mars, soon to begin exploring Jezero Crater to better determine the habitability of this seemingly barren world to life -- past, present, and future.  Although multiple media outlets may cover this event, one way to watch these landing events unfold is on the NASA channel live on the web.   News: NASA Perseverance Coverage</p>
+<p style="text-align: justify;">How hard is it to land safely on Mars? So hard that many more attempts have failed than succeeded.  The next attempt will be on Thursday. The main problem is that the Martian atmosphere is too thick to ignore -- or it will melt your spacecraft.  On the other hand, the atmosphere is too thin to rely on parachutes -- or your spacecraft will crash land.  Therefore, as outlined in the featured video, the Perseverance lander will lose much of its high speed by deploying a huge parachute, but then switch to rockets, and finally, assuming everything goes right, culminate with a hovering Sky Crane that will slowly lower the car-sized Perseverance rover to the surface with ropes.  It may sound crazy, but the Curiosity rover was placed on Mars using a similar method in 2012.  From atmospheric entry to surface touch-down takes about seven minutes, all coordinated by an onboard computer because Mars is too far away for rapid interactive communication.  During this time, humans on Earth will simply wait to hear if the landing was successful. Last week, UAE&#39;s Hope spacecraft successfully began orbiting Mars, followed a day later by the Chinese Tianwen-1 mission, which will likely schedule a landing of its own rover sometime in the next few months.    News: NASA Perseverance Coverage</p>
 
 
 
