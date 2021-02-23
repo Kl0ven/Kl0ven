@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Moon Rising Between Starships</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/StarshipsMoon_Kraus_1080.jpg"">
+<h3>Video: Perseverance Landing on Mars</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=4czjS9h4Fpg" target="_blank"><img src="http://img.youtube.com/vi/4czjS9h4Fpg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What&#39;s that on either side of the Moon? Starships. Specifically, they are launch-and-return reusable rockets being developed by SpaceX to lift cargo and eventually humans from the Earth&#39;s surface into space.  The two rockets pictured are SN9 (Serial Number 9) and SN10 which were captured near their Boca Chica, Texas launchpad last month posing below January&#39;s full Wolf Moon. The Starships house liquid-methane engines inside rugged stainless-steel shells. SN9 was test-launched earlier this month and did well with the exception of one internal rocket that failed to relight during powered descent.  SN10 continues to undergo ground tests and may be test-launched later this month.</p>
+<p style="text-align: justify;">What would it look like to land on Mars?  To better monitor the instruments involved in the Entry, Decent, and Landing of the Perseverance Rover on Mars last week, cameras with video capability were included that have now returned their images. The featured 3.5-minute composite video begins with the opening of a huge parachute that dramatically slows the speeding spacecraft as it enters the Martian atmosphere.  Next the heat shield is seen separating and falls ahead. As Perseverance descends, Mars looms large and its surface becomes increasingly detailed.  At just past 2-minutes into the video, the parachute is released and Perseverance begins to land with dust-scattering rockets. Soon the Sky Crane takes over and puts Perseverance down softly, then quickly jetting away. The robotic Perseverance rover will now begin exploring ancient Jezero Crater, including a search for signs that life once existed on Earth&#39;s neighboring planet.</p>
 
 
 
