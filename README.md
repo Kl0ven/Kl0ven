@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Video: Perseverance Landing on Mars</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=4czjS9h4Fpg" target="_blank"><img src="http://img.youtube.com/vi/4czjS9h4Fpg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Spiral Galaxy M66 from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/M66_HubbleShatz_960.jpg"">
 
 
-<p style="text-align: justify;">What would it look like to land on Mars?  To better monitor the instruments involved in the Entry, Decent, and Landing of the Perseverance Rover on Mars last week, cameras with video capability were included that have now returned their images. The featured 3.5-minute composite video begins with the opening of a huge parachute that dramatically slows the speeding spacecraft as it enters the Martian atmosphere.  Next the heat shield is seen separating and falls ahead. As Perseverance descends, Mars looms large and its surface becomes increasingly detailed.  At just past 2-minutes into the video, the parachute is released and Perseverance begins to land with dust-scattering rockets. Soon the Sky Crane takes over and puts Perseverance down softly, then quickly jetting away. The robotic Perseverance rover will now begin exploring ancient Jezero Crater, including a search for signs that life once existed on Earth&#39;s neighboring planet.</p>
+<p style="text-align: justify;">It’s always nice to get a new view of an old friend.  This stunning Hubble Space Telescope image of nearby spiral galaxy M66 is just that.  A spiral galaxy with a small central bar, M66 is a member of the Leo Galaxy Triplet, a group of three galaxies about 30 million light years from us.  The Leo Triplet is a popular target for relatively small telescopes, in part because M66 and its galactic companions M65 and NGC 3628 all appear separated by about the angular width of a full moon.  The featured image of M66 was taken by Hubble to help investigate the connection between star formation and molecular gas clouds.  Clearly visible are bright blue stars, pink ionized hydrogen clouds -- sprinkled all along the outer spiral arms, and dark dust lanes in which more star formation could be hiding.</p>
 
 
 
