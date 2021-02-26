@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Venus Flyby</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/wispr_venus_image.jpg"">
+<h3>Mars Perseverance Sol 3</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/PIA24264-1900.jpg"">
 
 
-<p style="text-align: justify;">On a mission to explore the inner heliosphere and solar corona, on July 11, 2020 the Wide-field Imager on board NASA&#39;s Parker Solar Probe captured this stunning view of the nightside of Venus at distance of about 12,400 kilometers (7,693 miles). The spacecraft was making the third of seven gravity-assist flybys of the inner planet. The gravity-asssist flybys are designed to use the approach to Venus to help the probe alter its orbit to ultimately come within 6 million kilometers (4 million miles) of the solar surface in late 2025. A surprising image, the side-looking camera seems to peer through the clouds to show a dark feature near the center known as Aphrodite Terra, the largest highland region on the Venusian surface. The bright rim at the edge of the planet is nightglow likely emitted by excited oxygen atoms recombining into molecules in the upper reaches of the atmosphere. Bright streaks and blemishes throughout the image are likely due to energetic charged particles, and dust near the camera reflecting sunlight. Skygazers from planet Earth probably recognize the familiar stars of Orion&#39;s belt and sword at lower right.</p>
+<p style="text-align: justify;">Stitched together on planet Earth, 142 separate images make up this 360 degree panorama from the floor of Jezero Crater on Mars. The high-resolution color images were taken by the Perseverance rover&#39;s zoomable Mastcam-Z during mission sol 3, also known as February 21, 2021. In the foreground of Mastcam-Z&#39;s view is the car-sized rover&#39;s deck. Broad light-colored patches in the martian soil just beyond it were scoured by descent stage rocket engines during the rover&#39;s dramatic arrival on February 18. The rim of 45 kilometer-wide Jezero Crater rises in the distance. In the coming sols, Perseverance will explore the ancient lake-delta system in the crater, hunting for signs of past microscopic life and collecting samples for potential future return to planet Earth.</p>
 
 
 
