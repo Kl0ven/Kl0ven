@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perseverance Landing Site from Mars Reconnaissance Orbiter</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/PIA24333_fig1_1035c.jpg"">
+<h3>The Aurora Tree</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/AuroraTree_Wallace_960.jpg"">
 
 
-<p style="text-align: justify;">Seen from orbit a day after a dramatic arrival on the martian surface, the Perseverance landing site is identified in this high-resolution view from the Mars Reconnaissance Orbiter. The orbiter&#39;s camera image also reveals the location of the Mars 2020 mission descent stage, heat shield, and parachute and back shell that delivered Perseverance to the surface of Mars.  Each annotated inset box spans 200 meters (650 feet) across the floor of Jezero Crater. Perseverance is located at the center of the pattern created by rocket exhaust as the descent stage hovered and lowered the rover to the surface. Following the sky crane maneuver, the descent stage itself flew away to crash at a safe distance from the rover, its final resting place indicated by a dark V-shaped debris pattern. Falling to the surface nearby after their separation in the landing sequence, heat shield, parachute and back shell locations are marked in the high-resolution image from Mars orbit.</p>
+<p style="text-align: justify;">Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and capture the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth&#39;s atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Almost Hyperspace: Random APOD Generator</p>
 
 
 
