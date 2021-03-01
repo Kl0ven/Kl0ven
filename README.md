@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Aurora Tree</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/AuroraTree_Wallace_960.jpg"">
+<h3>The Pelican Nebula in Red and Blue</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2102/Pelican_PetraskoEtAl_960.jpg"">
 
 
-<p style="text-align: justify;">Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and capture the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth&#39;s atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">The Pelican Nebula is changing.   The entire nebula, officially designated IC 5070, is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The Pelican, however, is particularly interesting because it is an unusually active mix of star formation and evolving gas clouds.  The featured picture was processed to bring out two main colors, red and blue, with the red dominated by light emitted by interstellar hydrogen. Ultraviolet light emitted by young energetic stars is slowly transforming cold gas in the nebula to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright red across the image center. Particularly dense tentacles of cold gas remain.  Millions of years from now this nebula might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.   APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, Farsi, French, German, Hebrew, Indonesian, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, Turkish, and  Ukrainian</p>
 
 
 
