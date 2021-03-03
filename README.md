@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ingenuity: A Mini-Helicopter Now on Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/Helicopter_Mars2020_1080.jpg"">
+<h3>Stars over an Erupting Volcano</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/VolcanoStars_Vella_1080.jpg"">
 
 
-<p style="text-align: justify;">What if you could fly around Mars?  NASA may have achieved that capability last month with the landing of Perseverance, a rover which included a small flight-worthy companion called Ingenuity, nicknamed Ginny. Even though Ginny is small -- a toaster-sized helicopter with four long legs and two even-longer (1.2-meter) rotors, she is the first of her kind -- there has never been anything like her before.  After being deployed, possibly in April, the car-sized Perseverance (&quot;Percy&quot;) will back away to give Ginny ample room to attempt her unprecedented first flight.  In the featured artistic illustration, Ginny&#39;s long rotors are depicted giving her the lift she needs to fly into the thin Martian atmosphere and explore the area near Perseverance.  Although Ingenuity herself will not fly very far, she is a prototype for all future airborne Solar-System robots that may fly far across not only Mars, but Titan.</p>
+<p style="text-align: justify;">Mt. Etna has been erupting for hundreds of thousands of years.  Located in Sicily, Italy, the volcano produces lava fountains over one kilometer high.  Mt. Etna is not only one of the most active volcanoes on Earth, it is one of the largest, measuring over 50 kilometers at its base and rising nearly 3 kilometers high.  Pictured erupting last month,  a lava plume shoots upwards, while hot lava flows down the volcano&#39;s exterior. Likely satellite trails appear above, while ancient stars dot the sky far in the distance.  This volcanic eruption was so strong that nearby airports were closed to keep planes from flying through the dangerous plume.  The image foreground and background were captured consecutively by the same camera and from the same location.    Please take a short survey in aesthetics &amp; astronomy: Sonification</p>
 
 
 
