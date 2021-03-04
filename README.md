@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Stars over an Erupting Volcano</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/VolcanoStars_Vella_1080.jpg"">
+<h3>Mars in Taurus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/2021_03_02_Mars_Taurus_1024px.jpg"">
 
 
-<p style="text-align: justify;">Mt. Etna has been erupting for hundreds of thousands of years.  Located in Sicily, Italy, the volcano produces lava fountains over one kilometer high.  Mt. Etna is not only one of the most active volcanoes on Earth, it is one of the largest, measuring over 50 kilometers at its base and rising nearly 3 kilometers high.  Pictured erupting last month,  a lava plume shoots upwards, while hot lava flows down the volcano&#39;s exterior. Likely satellite trails appear above, while ancient stars dot the sky far in the distance.  This volcanic eruption was so strong that nearby airports were closed to keep planes from flying through the dangerous plume.  The image foreground and background were captured consecutively by the same camera and from the same location.    Please take a short survey in aesthetics &amp; astronomy: Sonification</p>
+<p style="text-align: justify;">You can spot Mars in the evening sky tonight. Now home to the Perseverance rover, the Red Planet is presently wandering through the constellation Taurus, close on the sky to the Seven Sisters or Pleiades star cluster. In fact this deep, widefield view of the region captures Mars near its closest conjunction to the Pleiades on March 3. Below center, Mars is the bright yellowish celestial beacon only about 3 degrees from the pretty blue star cluster. Competing with Mars in color and brightness, Aldebaran is the alpha star of Taurus. The red giant star is toward the lower left edge of the frame, a foreground star along the line-of-sight to the more distant Hyades star cluster. Otherwise too faint for your eye to see, the dark, dusty nebulae lie along the edge of the massive Perseus molecular cloud, with the striking reddish glow of NGC 1499, the California Nebula, at the upper right.   Please take a short survey in aesthetics &amp; astronomy: Sonification</p>
 
 
 
