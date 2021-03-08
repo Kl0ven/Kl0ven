@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Pillars of the Eagle Nebula in Infrared</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/M16Ir_HubbleRomero_960.jpg"">
+<h3>Three Tails of Comet NEOWISE</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/Neowise3Tails_Lefaudeux_960.jpg"">
 
 
-<p style="text-align: justify;">Newborn stars are forming in the Eagle Nebula.  Gravitationally contracting in pillars of dense gas and dust, the intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is an easy target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).</p>
+<p style="text-align: justify;">What created the unusual red tail in Comet NEOWISE? Sodium.  A spectacular sight back in the summer of 2020, Comet NEOWISE, at times, displayed something more than just a surprisingly striated white dust tail and a pleasingly patchy blue ion tail. Some color sensitive images showed an unusual red tail, and analysis showed much of this third tail&#39;s color was emitted by sodium.  Gas rich in sodium atoms might have been liberated from Comet NEOWISE&#39;s warming nucleus in early July by bright sunlight, electrically charged by ultraviolet sunlight, and then pushed out by the solar wind. The featured image was captured in mid-July from Brittany, France and shows the real colors. Sodium comet tails have been seen before but are rare -- this one disappeared by late July.  Comet C&#x2F;2020 F3 (NEOWISE) has since faded, lost all of its bright tails, and now approaches the orbit of Jupiter as it heads back to the outer Solar System, to return only in about 7,000 years.    Astrophysicists: Browse 2,400+ codes in the Astrophysics Source Code Library</p>
 
 
 
