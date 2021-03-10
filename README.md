@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perseverance 360: Unusual Rocks and the Search for Life on Mars</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>NGC 1499: The California Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/NGC1499_Akar_960.jpg"">
 
 
-<p style="text-align: justify;">Is that a fossil?  Looking through recent images of Mars taken by the new Perseverance rover may seem a bit like treasure hunting, with the possibility of fame coming to the first person to correctly identify a petrified bone, a rock imprinted by an ancient plant, or any clear indication that life once existed on Mars.  Unfortunately, even though it is possible that something as spectacular as a skeleton could be identified, most exobiologists think it much more likely that biochemical remnants of ancient single-celled microbes could be found with Perseverance&#39;s chemical analyzers.  A key reason is that multicellular organisms may take a greater amount of oxygen to evolve than has ever been present on Mars. That said, nobody&#39;s sure, so please feel free to digitally magnify any Perseverance image that interests you -- including the featured 360-degree zoomable image of the rocks and ridges surrounding Perseverance&#39;s landing location in Jezero Crater.  And even though NASA-affiliated scientists are themselves studying Perseverance&#39;s images, if you see anything really unusual, please post it to popular social media. If your sighting turns out to be particularly intriguing, scientifically, it is likely that NASA will hear about it.</p>
+<p style="text-align: justify;">Could Queen Calafia&#39;s mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way&#39;s Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   New: APOD now available in Arabic from Syria</p>
 
 
 
