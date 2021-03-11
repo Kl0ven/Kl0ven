@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 1499: The California Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/NGC1499_Akar_960.jpg"">
+<h3>Zodiacal Light and Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/ZodiacalLightBarn1024.jpg"">
 
 
-<p style="text-align: justify;">Could Queen Calafia&#39;s mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way&#39;s Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   New: APOD now available in Arabic from Syria</p>
+<p style="text-align: justify;">Just after sunset on March 7, a faint band of light still reaches above the western horizon in this serene, rural Illinois, night skyscape. Taken from an old farmstead, the luminous glow is zodiacal light, prominent in the west after sunset during planet Earth&#39;s northern hemisphere spring. On that clear evening the band of zodiacal light seems to engulf bright yellowish Mars and the Pleiades star cluster. Their close conjunction is in the starry sky above the old barn&#39;s roof. Zodiacal light is sunlight scattered by interplanetary dust particles that lie near the Solar System&#39;s ecliptic plane. Of course all the Solar System&#39;s planets orbit near the plane of the ecliptic, within the band of zodiacal light. But zodiacal light and Mars may have a deeper connection. A recent analysis of serendipitous detections of interplanetary dust by the Juno spacecraft during its Earth to Jupiter voyage suggest Mars is the likely source of the dust that produces zodiacal light.</p>
 
 
 
