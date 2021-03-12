@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Zodiacal Light and Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/ZodiacalLightBarn1024.jpg"">
+<h3>Messier 81</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/BodesGalaxyM81_1024.jpg"">
 
 
-<p style="text-align: justify;">Just after sunset on March 7, a faint band of light still reaches above the western horizon in this serene, rural Illinois, night skyscape. Taken from an old farmstead, the luminous glow is zodiacal light, prominent in the west after sunset during planet Earth&#39;s northern hemisphere spring. On that clear evening the band of zodiacal light seems to engulf bright yellowish Mars and the Pleiades star cluster. Their close conjunction is in the starry sky above the old barn&#39;s roof. Zodiacal light is sunlight scattered by interplanetary dust particles that lie near the Solar System&#39;s ecliptic plane. Of course all the Solar System&#39;s planets orbit near the plane of the ecliptic, within the band of zodiacal light. But zodiacal light and Mars may have a deeper connection. A recent analysis of serendipitous detections of interplanetary dust by the Juno spacecraft during its Earth to Jupiter voyage suggest Mars is the likely source of the dust that produces zodiacal light.</p>
+<p style="text-align: justify;">One of the brightest galaxies in planet Earth&#39;s sky is similar in size to our Milky Way Galaxy: big, beautiful Messier 81. Also known as NGC 3031 or Bode&#39;s galaxy for its 18th century discoverer, this grand spiral can be found toward the northern constellation of Ursa Major, the Great Bear. The sharp, detailed telescopic view reveals M81&#39;s bright yellow nucleus, blue spiral arms, pinkish starforming regions, and sweeping cosmic dust lanes. Some dust lanes actually run through the galactic disk (left of center), contrary to other prominent spiral features though. The errant dust lanes may be the lingering result of a close encounter between M81 and the nearby galaxy M82 lurking outside of this frame. M81&#39;s faint, dwarf irregular satellite galaxy, Holmberg IX, can be seen just below the large spiral. Scrutiny of variable stars in M81 has yielded a well-determined distance for an external galaxy -- 11.8 million light-years.</p>
 
 
 
