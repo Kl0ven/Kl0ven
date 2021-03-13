@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 81</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/BodesGalaxyM81_1024.jpg"">
+<h3>SuperCam Target on Ma&#39;az</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/pia24493-2-1041.jpg"">
 
 
-<p style="text-align: justify;">One of the brightest galaxies in planet Earth&#39;s sky is similar in size to our Milky Way Galaxy: big, beautiful Messier 81. Also known as NGC 3031 or Bode&#39;s galaxy for its 18th century discoverer, this grand spiral can be found toward the northern constellation of Ursa Major, the Great Bear. The sharp, detailed telescopic view reveals M81&#39;s bright yellow nucleus, blue spiral arms, pinkish starforming regions, and sweeping cosmic dust lanes. Some dust lanes actually run through the galactic disk (left of center), contrary to other prominent spiral features though. The errant dust lanes may be the lingering result of a close encounter between M81 and the nearby galaxy M82 lurking outside of this frame. M81&#39;s faint, dwarf irregular satellite galaxy, Holmberg IX, can be seen just below the large spiral. Scrutiny of variable stars in M81 has yielded a well-determined distance for an external galaxy -- 11.8 million light-years.</p>
+<p style="text-align: justify;">What&#39;s the sound of one laser zapping? There&#39;s no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Perseverance mission sol 12 (March 2) the SuperCam instrument atop the rover&#39;s mast zapped a rock dubbed Ma&#39;az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma&#39;az target region is 6 centimeters (2.3 inches) across. Ma&#39;az means Mars in the Navajo language.</p>
 
 
 
