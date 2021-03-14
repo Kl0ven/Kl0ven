@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>SuperCam Target on Ma&#39;az</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/pia24493-2-1041.jpg"">
+<h3>A Flag Shaped Aurora over Sweden</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/AuroraFlag_Stalnacke_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s the sound of one laser zapping? There&#39;s no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Perseverance mission sol 12 (March 2) the SuperCam instrument atop the rover&#39;s mast zapped a rock dubbed Ma&#39;az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma&#39;az target region is 6 centimeters (2.3 inches) across. Ma&#39;az means Mars in the Navajo language.</p>
+<p style="text-align: justify;">It appeared, momentarily, like a 50-km tall banded flag.  In mid-March of 2015, an energetic Coronal Mass Ejection directed toward a clear magnetic channel to Earth led to one of the more intense geomagnetic storms of recent years. A visual result was wide spread auroras being seen over many countries near Earth&#39;s magnetic poles.  Captured over Kiruna, Sweden, the image features an unusually straight auroral curtain with the green color emitted low in the Earth&#39;s atmosphere, and red many kilometers higher up. It is unclear where the rare purple aurora originates, but it might involve an unusual blue aurora at an even lower altitude than the green, seen superposed with a much higher red.  Now past Solar Minimum, colorful nights of auroras over Earth are likely to increase.   Follow APOD: Through the Free NASA App</p>
 
 
 
