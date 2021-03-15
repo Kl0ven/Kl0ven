@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Flag Shaped Aurora over Sweden</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/AuroraFlag_Stalnacke_960.jpg"">
+<h3>Meteor Fireballs in Light and Sound</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=WJua8eXLX9o" target="_blank"><img src="http://img.youtube.com/vi/WJua8eXLX9o/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">It appeared, momentarily, like a 50-km tall banded flag.  In mid-March of 2015, an energetic Coronal Mass Ejection directed toward a clear magnetic channel to Earth led to one of the more intense geomagnetic storms of recent years. A visual result was wide spread auroras being seen over many countries near Earth&#39;s magnetic poles.  Captured over Kiruna, Sweden, the image features an unusually straight auroral curtain with the green color emitted low in the Earth&#39;s atmosphere, and red many kilometers higher up. It is unclear where the rare purple aurora originates, but it might involve an unusual blue aurora at an even lower altitude than the green, seen superposed with a much higher red.  Now past Solar Minimum, colorful nights of auroras over Earth are likely to increase.   Follow APOD: Through the Free NASA App</p>
+<p style="text-align: justify;">Yes, but have you ever heard a meteor? Usually, meteors are too far away to make any audible sound.  However, a meteor will briefly create an ionization trail that can reflect a distant radio signal. If the geometry is right, you may momentarily hear -- through your radio -- a distant radio station even over static.  In the featured video, the sounds of distant radio transmitters were caught reflecting from large meteor trails by a sensitive radio receiver -- at the same time the bright streaks were captured by an all-sky video camera. In the video, the  bright paths taken by four fireballs across the sky near Lamy, New Mexico, USA, are shown first.  Next, after each static frame, a real-time video captures each meteor streaking across the sky, now paired with the sound recorded from its radio reflection.  Projecting a meteor trail down to the Earth may lead to finding its impact site (if any), while projecting its trail back into the sky may lead to identifying its parent comet or asteroid.   Almost Hyperspace: Random APOD Generator</p>
 
 
 
