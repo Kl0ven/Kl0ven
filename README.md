@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Meteor Fireballs in Light and Sound</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=WJua8eXLX9o" target="_blank"><img src="http://img.youtube.com/vi/WJua8eXLX9o/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>IC 1318: The Butterfly Nebula in Gas and Dust</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/IC1318_Pham_960.jpg"">
 
 
-<p style="text-align: justify;">Yes, but have you ever heard a meteor? Usually, meteors are too far away to make any audible sound.  However, a meteor will briefly create an ionization trail that can reflect a distant radio signal. If the geometry is right, you may momentarily hear -- through your radio -- a distant radio station even over static.  In the featured video, the sounds of distant radio transmitters were caught reflecting from large meteor trails by a sensitive radio receiver -- at the same time the bright streaks were captured by an all-sky video camera. In the video, the  bright paths taken by four fireballs across the sky near Lamy, New Mexico, USA, are shown first.  Next, after each static frame, a real-time video captures each meteor streaking across the sky, now paired with the sound recorded from its radio reflection.  Projecting a meteor trail down to the Earth may lead to finding its impact site (if any), while projecting its trail back into the sky may lead to identifying its parent comet or asteroid.   Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">In the constellation of the swan near the nebula of the pelican lies the gas cloud of the butterfly next to a star known as the hen.  That star, given the proper name Sadr, is just to the right of the featured frame, but the central Butterfly Nebula, designated IC 1318, is shown in high resolution. The intricate patterns in the bright gas and dark dust are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity. The featured telescopic view captures IC 1318&#39;s characteristic emission from ionized sulfur, hydrogen, and oxygen atoms mapped to the red, green, and blue hues of the popular Hubble Palette. The portion of the Butterfly Nebula pictured spans about 100 light years and lies about 4000 light years away.</p>
 
 
 
