@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>IC 1318: The Butterfly Nebula in Gas and Dust</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/IC1318_Pham_960.jpg"">
+<h3>The Surface of Venus from Venera 13</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/Venus_Venera13_960.jpg"">
 
 
-<p style="text-align: justify;">In the constellation of the swan near the nebula of the pelican lies the gas cloud of the butterfly next to a star known as the hen.  That star, given the proper name Sadr, is just to the right of the featured frame, but the central Butterfly Nebula, designated IC 1318, is shown in high resolution. The intricate patterns in the bright gas and dark dust are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity. The featured telescopic view captures IC 1318&#39;s characteristic emission from ionized sulfur, hydrogen, and oxygen atoms mapped to the red, green, and blue hues of the popular Hubble Palette. The portion of the Butterfly Nebula pictured spans about 100 light years and lies about 4000 light years away.</p>
+<p style="text-align: justify;">If you could stand on Venus -- what would you see?  Pictured is the view from Venera 13, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus&#39; equator. On the lower left is the spacecraft&#39;s penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about two hours. Although data from Venera 13 was beamed across the inner Solar System almost 40 years ago, digital processing and merging of Venera&#39;s unusual images continues even today.  Recent analyses of infrared measurements taken by ESA&#39;s orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.</p>
 
 
 
