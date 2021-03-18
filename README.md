@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Surface of Venus from Venera 14</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/Venus_Venera14_960.jpg"">
+<h3>Stardust in the Perseus Molecular Cloud</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/KerryLeckyHepburn_NGC1333_LRGB_SH_KLH1024.jpg"">
 
 
-<p style="text-align: justify;">If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus&#39; equator. On the lower left is the spacecraft&#39;s penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System almost 40 years ago, digital processing and merging of Venera&#39;s unusual images continues even today.  Recent analyses of infrared measurements taken by ESA&#39;s orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.</p>
+<p style="text-align: justify;">Clouds of stardust drift through this deep skyscape, across the Perseus molecular cloud some 850 light-years away. Dusty nebulae reflecting light from embedded young stars stand out in the nearly 2 degree wide telescopic field of view. With a characteristic bluish color reflection nebula NGC 1333 is at center, vdB 13 at top right, with rare yellowish reflection nebula vdB 12 near the top of the frame. Stars are forming in the molecular cloud, though most are obscured at visible wavelengths by the pervasive dust. Still, hints of contrasting red emission from Herbig-Haro objects, the jets and shocked glowing gas emanating from recently formed stars, are evident in NGC 1333. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago. At the estimated distance of the Perseus molecular cloud, this cosmic scene would span about 40 light-years.</p>
 
 
 
