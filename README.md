@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Central Lagoon in Infrared</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/M8_HLA_F125wF160w_Nachman1024.jpg"">
+<h3>The Leo Trio</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/TrioduLionLRVB_FrancisBozon1024.jpg"">
 
 
-<p style="text-align: justify;">Stars fill this infrared view, spanning 4 light-years across the center of the Lagoon Nebula. Visible light images show the glowing gas and obscuring dust clouds that dominate the scene. But this infrared image, constructed from Hubble Space Telescope data, peers closer to the heart of the active star-forming region revealing newborn stars scattered within, against a crowded field of background stars toward the center of our Milky Way galaxy. This tumultuous stellar nursery&#39;s central regions are sculpted and energized by the massive, young Herschel 36, seen as the bright star near center in the field of view. Herschel 36 is actually a multiple system of massive stars. At over 30 times the mass of the Sun and less than 1 million years old, the most massive star in the system should live to a stellar old age of 5 million years. Compare that to the almost 5 billion year old Sun which will evolve into a red giant in only another 5 billion years or so. The Lagoon Nebula, also known as M8, lies about 4,000 light-years away within the boundaries of the constellation Sagittarius.</p>
+<p style="text-align: justify;">This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring. Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (right), M66 (upper left), and M65 (bottom). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky in a frame that covers over half a million light-years at the trio&#39;s estimated distance of 30 million light-years. Of course the spiky foreground stars lie well within our own Milky Way.</p>
 
 
 
