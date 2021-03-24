@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mars over Duddo Stone Circle</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/MarsDuddo_Kivlehan_960.jpg"">
+<h3>Aurorae and Lightning on Jupiter</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/AuroraLightningJupiter_Juno_1080.jpg"">
 
 
-<p style="text-align: justify;">Why are these large stones here? One the more famous stone circles is the Duddo Five Stones of Northumberland, England.  Set in the open near the top of a modest incline, a short hike across empty fields will bring you to unusual human -sized stones that are unlike anything surrounding them. The grooved, pitted, and deeply weathered surfaces of the soft sandstones are consistent with being placed about 4000 years ago -- but placed for reasons now unknown.  The featured image -- a composite of two consecutive images taken from the same location -- was captured last October under a starry sky when the Earth was passing near Mars, making the red planet unusually large and bright.  Mars remains visible at sunset, although increasingly close to the horizon over the next few months.   APOD via Instagram in: English, Indonesian, Persian, and Portuguese</p>
+<p style="text-align: justify;">Why does so much of Jupiter&#39;s lightning occur near its poles? Similar to Earth, Jupiter experiences both aurorae and lightning. Different from Earth, though, Jupiter&#39;s lightning usually occurs near its poles -- while much of Earth&#39;s lightning occurs near its equator. To help understand the difference, NASA&#39;s Juno spacecraft, currently orbiting Jupiter, has observed numerous aurora and lightning events. The featured image, taken by Juno&#39;s Stellar Reference Unit camera on 2018 May 24, shows Jupiter&#39;s northern auroral oval and several bright dots and streaks. An eye-catching event is shown in the right inset image -- which is a flash of Jupiter&#39;s lightning -- one of the closest images of aurora and lightning ever. On Earth (which is much nearer to the Sun than Jupiter), sunlight is bright enough to create, by itself, much stronger atmospheric heating at the equator than the poles, driving turbulence, storms, and lightning. On Jupiter, in contrast, atmospheric heating comes mostly from its interior (as a remnant from its formation), leading to the hypothesis that more intense equatorial sunlight  reduces temperature differences between upper atmospheric levels, hence reducing equatorial lightning-creating storms.   APOD via Facebook in: in English, Catalan and Portuguese</p>
 
 
 
