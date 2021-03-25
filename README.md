@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Aurorae and Lightning on Jupiter</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/AuroraLightningJupiter_Juno_1080.jpg"">
+<h3>Curiosity: Sol 3048</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/sol3048curiosityBonoraFaccin500.jpg"">
 
 
-<p style="text-align: justify;">Why does so much of Jupiter&#39;s lightning occur near its poles? Similar to Earth, Jupiter experiences both aurorae and lightning. Different from Earth, though, Jupiter&#39;s lightning usually occurs near its poles -- while much of Earth&#39;s lightning occurs near its equator. To help understand the difference, NASA&#39;s Juno spacecraft, currently orbiting Jupiter, has observed numerous aurora and lightning events. The featured image, taken by Juno&#39;s Stellar Reference Unit camera on 2018 May 24, shows Jupiter&#39;s northern auroral oval and several bright dots and streaks. An eye-catching event is shown in the right inset image -- which is a flash of Jupiter&#39;s lightning -- one of the closest images of aurora and lightning ever. On Earth (which is much nearer to the Sun than Jupiter), sunlight is bright enough to create, by itself, much stronger atmospheric heating at the equator than the poles, driving turbulence, storms, and lightning. On Jupiter, in contrast, atmospheric heating comes mostly from its interior (as a remnant from its formation), leading to the hypothesis that more intense equatorial sunlight  reduces temperature differences between upper atmospheric levels, hence reducing equatorial lightning-creating storms.   APOD via Facebook in: in English, Catalan and Portuguese</p>
+<p style="text-align: justify;">Before Perseverance there was Curiosity. In fact, the Curiosity rover accomplished the first sky crane maneuver touchdown on Mars on April 5, 2012. March 2, 2021 marked Curiosity&#39;s 3,048th martian day operating on the surface of the Red Planet. This 360 degree panorama from sol 3048 is a mosaic of 149 frames from Curiosity&#39;s Mastcam above the rover&#39;s deck. It includes 23 frames of icy, thin, high clouds drifting through the martian sky. The cloudy sky frames were recorded throughout that martian day and are digitally stitched together in the panoramic view. Near center is a layered and streaked Mont Mercou. The peak of central Mount Sharp, rising over 5 kilometers above the floor of Gale Crater, is in the distant background on the left.</p>
 
 
 
