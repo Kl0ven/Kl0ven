@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Curiosity: Sol 3048</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/sol3048curiosityBonoraFaccin500.jpg"">
+<h3>The Medusa Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/Abell21-Drudis1024.jpg"">
 
 
-<p style="text-align: justify;">Before Perseverance there was Curiosity. In fact, the Curiosity rover accomplished the first sky crane maneuver touchdown on Mars on August 5, 2012. March 2, 2021 marked Curiosity&#39;s 3,048th martian day operating on the surface of the Red Planet. This 360 degree panorama from sol 3048 is a mosaic of 149 frames from Curiosity&#39;s Mastcam above the rover&#39;s deck. It includes 23 frames of icy, thin, high clouds drifting through the martian sky. The cloudy sky frames were recorded throughout that martian day and are digitally stitched together in the panoramic view. Near center is a layered and streaked Mont Mercou. The peak of central Mount Sharp, rising over 5 kilometers above the floor of Gale Crater, is in the distant background on the left.</p>
+<p style="text-align: justify;">Braided and serpentine filaments of glowing gas suggest this nebula&#39;s popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa&#39;s transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend above and right of the bright crescent region. The Medusa Nebula is estimated to be over 4 light-years across.</p>
 
 
 
