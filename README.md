@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Medusa Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/Abell21-Drudis1024.jpg"">
+<h3>Exploring the Antennae</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/C60-61_PS2_CROP_FULL1024.jpg"">
 
 
-<p style="text-align: justify;">Braided and serpentine filaments of glowing gas suggest this nebula&#39;s popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa&#39;s transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend above and right of the bright crescent region. The Medusa Nebula is estimated to be over 4 light-years across.</p>
+<p style="text-align: justify;">Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies&#39; large clouds of molecular gas and dust often do, triggering furious episodes of star formationi near the center of the cosmic wreckage. Spanning over 500 thousand light-years, this stunning view also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image includes narrowband data that highlights the characteristic red glow of atomic hydrogen gas in star-forming regions. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair its popular name - The Antennae.</p>
 
 
 
