@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Red Sprite Lightning over the Andes</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/sprites_beletsky_960.jpg"">
+<h3>M87&#39;s Central Black Hole in Polarized Light</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2103/M87bhPolarized_Eht_960.jpg"">
 
 
-<p style="text-align: justify;">What are those red filaments in the sky? They are a rarely seen form of lightning confirmed only about 30 years ago: red sprites. Recent research has shown that following a powerful positive cloud-to-ground lightning strike, red sprites may start as 100-meter balls of ionized air that shoot down from about 80-km high at 10 percent the speed of light. They are quickly followed by a group of upward streaking ionized balls. The featured image was taken earlier this year from Las Campanas observatory in Chile over the Andes Mountains in Argentina. Red sprites take only a fraction of a second to occur and are best seen when powerful thunderstorms are visible from the side.    APOD via Instagram in: English, Indonesian, Persian, and Portuguese</p>
+<p style="text-align: justify;">To play on Carl Sagan’s famous words &quot;If you wish to make black hole jets, you must first create magnetic fields.&quot; The featured image represents the detected intrinsic spin direction (polarization) of radio waves.  The polarizationi is produced by the powerful magnetic field surrounding the supermassive black hole at the center of elliptical galaxy M87. The radio waves were detected by the Event Horizon Telescope (EHT), which combines data from radio telescopes distributed worldwide.  The polarization structure, mapped using computer generated flow lines, is overlaid on EHT’s famous black hole image, first published in 2019. The full 3-D magnetic field is complex.  Preliminary analyses indicate that parts of the field circle around the black hole along with the accreting matter, as expected.  However, another component seemingly veers vertically away from the black hole.  This component could explain how matter resists falling in and is instead launched into M87’s jet.</p>
 
 
 
