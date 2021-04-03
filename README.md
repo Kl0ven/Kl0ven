@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 3521: Galaxy in a Bubble</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/NGC3521-LRGB-1024c.jpg"">
+<h3>Ingenuity on Sol 39</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/PIA24449_1024.jpg"">
 
 
-<p style="text-align: justify;">Gorgeous spiral galaxy NGC 3521 is a mere 35 million light-years away, toward the constellation Leo. Relatively bright in planet Earth&#39;s sky, NGC 3521 is easily visible in small telescopes but often overlooked by amateur imagers in favor of other Leo spiral galaxies, like M66 and M65. It&#39;s hard to overlook in this colorful cosmic portr</p>
+<p style="text-align: justify;">The Mars Ingenuity Helicopter, all four landing legs down, was captured here on sol 39 (March 30) slung beneath the belly of the Perseverance rover. The near ground level view is a mosaic of images from the WATSON camera on the rover&#39;s SHERLOC robotic arm. Near the center of the frame the experimental helicopter is suspended just a few centimeters above the martian surface. Tracks from Perseverance extend beyond the rover&#39;s wheels with the rim of Jezero crater visible about 2 kilometers in the distance. Ingenuity has a weight of 1.8 kilograms or 4 pounds on Earth. That corresponds to a weight of 0.68 kilograms or 1.5 pounds on Mars. With rotor blades spanning 1.2 meters it will attempt to make the first powered flight of an aircraft on another planet in the thin martian atmosphere, 1 percent as dense as Earth&#39;s, no earlier than sol 48 (April 8).</p>
 
 
 
