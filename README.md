@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mars and the Pleiades Beyond Vinegar Hill</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/MartianSisters_Rose_960.jpg"">
+<h3>Threads of NGC 1947</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/NGC1947potw2051a_1024.jpg"">
 
 
-<p style="text-align: justify;">Is this just a lonely tree on an empty hill? To start, perhaps, but look beyond.  There, a busy universe may wait to be discovered. First, physically, to the left of the tree, is the planet Mars. The red planet, which is the new home to NASA&#39;s Perseverance rover, remains visible this month at sunset above the western horizon. To the tree&#39;s right is the Pleiades, a bright cluster of stars dominated by several bright blue stars. The featured picture is a composite of several separate foreground and background images taken within a few hours of each other, early last month, from the same location on Vinegar Hill in Milford, Nova Scotia, Canada. At that time, Mars was passing slowly, night after night, nearly in front of the distant Seven Sisters star cluster. The next time Mars will pass angularly as close to the Pleiades as it did in March will be in 2038.</p>
+<p style="text-align: justify;">Found in far southern skies, deep within the boundaries of the constellation Dorado, NGC 1947 is some 40 million light-years away. In silhouette against starlight, obscuring lanes of cosmic dust thread across the peculiar galaxy&#39;s bright central regions. Unlike the rotation of stars, gas, and dust tracing the arms of spiral galaxies, the motions of dust and gas don&#39;t follow the motions of stars in NGC 1947 though. Their more complicated disconnected motion suggest this galaxy&#39;s visible threads of dust and gas may have come from a donor galaxy, accreted by NGC 1947 during the last 3 billion years or so of the peculiar galaxy&#39;s evolution. With spiky foreground Milky Way stars and even more distant background galaxies scattered through the frame, this sharp Hubble image spans about 25,000 light-years near the center of NGC 1947.</p>
 
 
 
