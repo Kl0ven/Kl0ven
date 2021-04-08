@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Threads of NGC 1947</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/NGC1947potw2051a_1024.jpg"">
+<h3>3D Ingenuity</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/PIA24547_fig1_1024.jpg"">
 
 
-<p style="text-align: justify;">Found in far southern skies, deep within the boundaries of the constellation Dorado, NGC 1947 is some 40 million light-years away. In silhouette against starlight, obscuring lanes of cosmic dust thread across the peculiar galaxy&#39;s bright central regions. Unlike the rotation of stars, gas, and dust tracing the arms of spiral galaxies, the motions of dust and gas don&#39;t follow the motions of stars in NGC 1947 though. Their more complicated disconnected motion suggest this galaxy&#39;s visible threads of dust and gas may have come from a donor galaxy, accreted by NGC 1947 during the last 3 billion years or so of the peculiar galaxy&#39;s evolution. With spiky foreground Milky Way stars and even more distant background galaxies scattered through the frame, this sharp Hubble image spans about 25,000 light-years near the center of NGC 1947.</p>
+<p style="text-align: justify;">The multicolor, stereo imaging Mastcam-Z on the Perseverance rover zoomed in to captured this 3D close-up (get out your red&#x2F;blue glasses) of the Mars Ingenuity helicopter on mission sol 45, April 5. That&#39;s only a few sols before the technology demonstrating Ingenuity will attempt to fly in the thin martian atmosphere, making the first powered flight on another planet. The historic test flight is planned for no earlier than Sunday, April 11.  Casting its shadow on the martian surface, Ingenuity is standing alone on four landing legs next to the rover&#39;s wheel tracks. The experimental helicopter&#39;s solar panel, charging batteries that keep it warm through the cold martian nights and power its flight, sits above its two 1.2 meter (4 foot) long counter-rotating blades.</p>
 
 
 
