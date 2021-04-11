@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Zodiacal Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/ZodiacalNight1024.jpg"">
+<h3>When Black Holes Collide</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Qg6PwRI2uS8" target="_blank"><img src="http://img.youtube.com/vi/Qg6PwRI2uS8/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">An intense band of zodiacal light is captured in this serene mountain and night skyscape from April 7. The panoramic view was recorded after three hours of hiking from a vantage looking west after sunset across the Pyrenees in southern France. At 2838 meters altitude, Mont Valier is the tallest peak near center. In the sky above, the familiar stars of Orion and the northern winter Milky Way are approaching the rugged western horizon. At the shoulder of Orion, Betelgeuse is one of three bright yellowish celestial beacons. It forms a triangle with fellow red giant star Aldebaran located below Betelgeuse and to the right, and the red planet Mars. Mars shines just under the band of the Milky Way, still immersed in the bright zodiacal light.   Tournament Earth: Vote for your favorite image from NASA&#39;s Earth Observatory</p>
+<p style="text-align: justify;">What happens when two black holes collide? This extreme scenario occurs in the centers of many merging galaxies and multiple star systems. The featured video shows a computer animation of the final stages of such a merger, while highlighting the gravitational lensing effects that would appear on a background starfield. The black regions indicate the event horizons of the dynamic duo, while a surrounding ring of shifting background stars indicates the position of their combined Einstein ring. All background stars not only have images visible outside of this Einstein ring, but also have one or more companion images visible on the inside. Eventually the two black holes coalesce.  The end stages of such a merger is now known to produce a strong blast of gravitational radiation, providing a new way to see our universe.    This Week is: Black Hole Week at NASA</p>
 
 
 
