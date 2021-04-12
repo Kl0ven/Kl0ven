@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>When Black Holes Collide</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Qg6PwRI2uS8" target="_blank"><img src="http://img.youtube.com/vi/Qg6PwRI2uS8/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Alnitak and the Flame Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/Flame_ARO_960.jpg"">
 
 
-<p style="text-align: justify;">What happens when two black holes collide? This extreme scenario occurs in the centers of many merging galaxies and multiple star systems. The featured video shows a computer animation of the final stages of such a merger, while highlighting the gravitational lensing effects that would appear on a background starfield. The black regions indicate the event horizons of the dynamic duo, while a surrounding ring of shifting background stars indicates the position of their combined Einstein ring. All background stars not only have images visible outside of this Einstein ring, but also have one or more companion images visible on the inside. Eventually the two black holes coalesce.  The end stages of such a merger is now known to produce a strong blast of gravitational radiation, providing a new way to see our universe.    This Week is: Black Hole Week at NASA</p>
+<p style="text-align: justify;">What lights up the Flame Nebula?  Fifteen hundred light years away towards the constellation of Orion lies a nebula which, from its glow and dark dust lanes, appears, on the left, like a billowing fire.  But fire, the rapid acquisition of oxygen, is not what makes this Flame glow.  Rather the bright star Alnitak, the easternmost star in the Belt of Orion visible on the far left, shines energetic light into the Flame that knocks electrons away from the great clouds of hydrogen gas that reside there.  Much of the glow results when the electrons and ionized hydrogen recombine.  The featured picture of the Flame Nebula (NGC 2024) was taken across three visible color bands with detail added by a long duration exposure taken in light emitted only by hydrogen.  The Flame Nebula is part of the Orion Molecular Cloud Complex, a star-forming region that includes the famous Horsehead Nebula.</p>
 
 
 
