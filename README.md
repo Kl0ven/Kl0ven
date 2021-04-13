@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Alnitak and the Flame Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/Flame_ARO_960.jpg"">
+<h3>Confirmed Muon Wobble Remains Unexplained</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/Gminus2Ring_FNAL_1080.jpg"">
 
 
-<p style="text-align: justify;">What lights up the Flame Nebula?  Fifteen hundred light years away towards the constellation of Orion lies a nebula which, from its glow and dark dust lanes, appears, on the left, like a billowing fire.  But fire, the rapid acquisition of oxygen, is not what makes this Flame glow.  Rather the bright star Alnitak, the easternmost star in the Belt of Orion visible on the far left, shines energetic light into the Flame that knocks electrons away from the great clouds of hydrogen gas that reside there.  Much of the glow results when the electrons and ionized hydrogen recombine.  The featured picture of the Flame Nebula (NGC 2024) was taken across three visible color bands with detail added by a long duration exposure taken in light emitted only by hydrogen.  The Flame Nebula is part of the Orion Molecular Cloud Complex, a star-forming region that includes the famous Horsehead Nebula.</p>
+<p style="text-align: justify;">How fast do elementary particles wobble?  A surprising answer to this seemingly inconsequential question came out of Brookhaven National Laboratory in New York, USA in 2001, and indicated that the Standard Model of Particle Physics, adopted widely in physics, is incomplete. Specifically, the muon, a particle with similarities to a heavy electron, has had its relatively large wobble under scrutiny in a series of experiments known as g-2 (gee-minus-two). The Brookhaven result galvanized other experimental groups around the world to confirm it, and pressured theorists to better understand it.  Reporting in last week, the most sensitive muon wobble experiment yet, conducted at Fermi National Accelerator Laboratory (Fermilab) in Illinois and pictured here, agreed with the Brookhaven result. The unexpected wobble rate may indicate that an ever-present sea of  virtual particles includes types not currently known.  Alternatively, it may indicate that flaws exist in difficult theoretical prediction calculations. Future runs at Fermilab&#39;s g-2 experiment will further increase precision and, possibly, the statistical difference between the universe we measure and the universe we understand.</p>
 
 
 
