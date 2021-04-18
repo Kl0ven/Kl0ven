@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Inside the Flame Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/FlamenebulaIR1024.jpg"">
+<h3>Rainbow Airglow over the Azores</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/GravityWaves_Claro_960.jpg"">
 
 
-<p style="text-align: justify;">The Flame Nebula is a stand out in optical images of the dusty, crowded star forming regions toward Orion&#39;s belt and the easternmost belt star Alnitak, a mere 1,400 light-years away. Alnitak is the bright star at the right edge of this infrared image from the Spitzer Space Telescope. About 15 light-years across, the infrared view takes you inside the nebula&#39;s glowing gas and obscuring dust clouds though. It reveals many stars of the recently formed, embedded cluster NGC 2024 concentrated near the center. The stars of NGC 2024 range in age from 200,000 years to 1.5 million years young. In fact, data indicate that the youngest stars are concentrated near the middle of the Flame Nebula cluster. That&#39;s the opposite of the simplest models of star formation for a stellar nursery that predict star formation begins in the denser center of a molecular cloud core. The result requires a more complex model for star formation inside the Flame Nebula.</p>
+<p style="text-align: justify;">Why would the sky glow like a giant repeating rainbow?  Airglow.  Now air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth&#39;s atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water.  The long-duration exposure nearly along the vertical walls of airglow likely made the undulating structure particularly visible.  OK, but where do the colors originate?  The deep red glow likely originates from OH molecules about 87-kilometers high, excited by ultraviolet light from the Sun. The orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up.  The featured image was captured during a climb up Mount Pico in the Azores of Portugal.  Ground lights originate from the island of Faial in the Atlantic Ocean.  A spectacular sky is visible through this banded airglow, with the central band of our Milky Way Galaxy running up the image center, and M31, the Andromeda Galaxy, visible near the top left.   Explore Your Universe: Random APOD Generator</p>
 
 
 
