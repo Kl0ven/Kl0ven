@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rainbow Airglow over the Azores</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/GravityWaves_Claro_960.jpg"">
+<h3>The Galactic Center in Infrared</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/GalacticCore_SpitzerSchmidt_960.jpg"">
 
 
-<p style="text-align: justify;">Why would the sky glow like a giant repeating rainbow?  Airglow.  Now air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth&#39;s atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water.  The long-duration exposure nearly along the vertical walls of airglow likely made the undulating structure particularly visible.  OK, but where do the colors originate?  The deep red glow likely originates from OH molecules about 87-kilometers high, excited by ultraviolet light from the Sun. The orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up.  The featured image was captured during a climb up Mount Pico in the Azores of Portugal.  Ground lights originate from the island of Faial in the Atlantic Ocean.  A spectacular sky is visible through this banded airglow, with the central band of our Milky Way Galaxy running up the image center, and M31, the Andromeda Galaxy, visible near the top left.   Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">What does the center of our galaxy look like?  In visible light, the Milky Way&#39;s center is hidden by clouds of obscuring dust and gas. But in this stunning vista, the Spitzer Space Telescope&#39;s infrared cameras, penetrate much of the dust revealing the stars of the crowded galactic center region. A mosaic of many smaller snapshots, the detailed, false-color image shows older, cool stars in bluish hues. Red and brown glowing dust clouds are associated with young, hot stars in stellar nurseries. The very center of the Milky Way has recently been found capable of forming newborn stars. The galactic center lies some 26,700 light-years away, toward the constellation Sagittarius. At that distance, this picture spans about 900 light-years.</p>
 
 
 
