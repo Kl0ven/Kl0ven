@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Galactic Center in Infrared</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/GalacticCore_SpitzerSchmidt_960.jpg"">
+<h3>Ingenuity: First Flight over Mars</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=wMnOo2zcjXA" target="_blank"><img src="http://img.youtube.com/vi/wMnOo2zcjXA/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What does the center of our galaxy look like?  In visible light, the Milky Way&#39;s center is hidden by clouds of obscuring dust and gas. But in this stunning vista, the Spitzer Space Telescope&#39;s infrared cameras, penetrate much of the dust revealing the stars of the crowded galactic center region. A mosaic of many smaller snapshots, the detailed, false-color image shows older, cool stars in bluish hues. Red and brown glowing dust clouds are associated with young, hot stars in stellar nurseries. The very center of the Milky Way has recently been found capable of forming newborn stars. The galactic center lies some 26,700 light-years away, toward the constellation Sagittarius. At that distance, this picture spans about 900 light-years.</p>
+<p style="text-align: justify;">What&#39;s the best way to explore Mars? Perhaps there is no single best way, but a newly demonstrated method shows tremendous promise: flight. Powered flight has the promise to search vast regions and scout out particularly interesting areas for more detailed investigation.  Yesterday, for the first time, powered flight was demonstrated on Mars by a small helicopter named Ingenuity.  In the featured video, Ingenuity is first imaged by the Perseverance rover sitting quietly on the Martian surface.  After a few seconds, Ingenuity&#39;s long rotors begin to spin, and a few seconds after that -- history is made as Ingenuity actually takes off, hovers for a few seconds, and then lands safely.  More tests of Ingenuity&#39;s unprecedented ability are planned over the next few months.  Flight may help humanity better explore not only Mars, but Saturn&#39;s moon Titan over the next few decades.</p>
 
 
 
