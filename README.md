@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ingenuity: First Flight over Mars</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=wMnOo2zcjXA" target="_blank"><img src="http://img.youtube.com/vi/wMnOo2zcjXA/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Centaurus A&#39;s Warped Magnetic Fields</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/CenA_SofiaPlus_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s the best way to explore Mars? Perhaps there is no single best way, but a newly demonstrated method shows tremendous promise: flight. Powered flight has the promise to search vast regions and scout out particularly interesting areas for more detailed investigation.  Yesterday, for the first time, powered flight was demonstrated on Mars by a small helicopter named Ingenuity.  In the featured video, Ingenuity is first imaged by the Perseverance rover sitting quietly on the Martian surface.  After a few seconds, Ingenuity&#39;s long rotors begin to spin, and a few seconds after that -- history is made as Ingenuity actually takes off, hovers for a few seconds, and then lands safely.  More tests of Ingenuity&#39;s unprecedented ability are planned over the next few months.  Flight may help humanity better explore not only Mars, but Saturn&#39;s moon Titan over the next few decades.</p>
+<p style="text-align: justify;">When galaxies collide -- what happens to their magnetic fields? To help find out, NASA pointed SOFIA, its flying 747, at galactic neighbor Centaurus A to observe the emission of polarized dust -- which traces magnetic fields.  Cen A&#39;s unusual shape results from the clash of two galaxies with jets powered by gas accreting onto a central supermassive black hole.  In the resulting featured image, SOFIA-derived magnetic streamlines are superposed on ESO (visible: white), APEX (submillimeter: orange), Chandra (X-rays: blue), and Spitzer (infrared: red) images. The magnetic fields were found to be parallel to the dust lanes on the outskirts of the galaxy but distorted near the center.  Gravitational forces near the black hole accelerate ions and enhance the magnetic field.  In sum, the collision not only combined the galaxies’ masses -- but amplified their magnetic fields.  These results provide new insights into how magnetic fields evolved in the early universe when mergers were more common.</p>
 
 
 
