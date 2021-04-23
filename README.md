@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Planet Earth at Twilight</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/ISS002-E-7377_1024c.JPG"">
+<h3>Flying Over the Earth at Night II</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=zIqG42AD4Gw" target="_blank"><img src="http://img.youtube.com/vi/zIqG42AD4Gw/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">No sudden, sharp boundary marks the passage of day into night in this gorgeous view of ocean and clouds over our fair planet Earth. Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight. With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened sunlight filtered through the dusty troposphere, the lowest layer of the planet&#39;s nurturing atmosphere. A clear high altitude layer, visible along the dayside&#39;s upper edge, scatters blue sunlight and fades into the blackness of space. This picture was taken in June of 2001 from the International Space Station orbiting at an altitude of 211 nautical miles. But you can check out the vital signs of Planet Earth Now.  Celebrate: Earth Day</p>
+<p style="text-align: justify;">Recorded during 2017, timelapse sequences from the International Space Station are compiled in this serene video of planet Earth at Night. Fans of low Earth orbit can start by enjoying the view as green and red aurora borealis slather up the sky. The night scene tracks from northwest to southeast across North America, toward the Gulf of Mexico and the Florida coast. A second sequence follows European city lights, crosses the Mediterranean Sea, and passes over a bright Nile river in northern Africa. Seen from the orbital outpost, erratic flashes of lightning appear in thunder storms below and stars rise above the planet&#39;s curved horizon through a faint atmospheric airglow. Of course, from home you can always check out the vital signs of Planet Earth Now.  Celebrate: Earth Day</p>
 
 
 
