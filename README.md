@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Flying Over the Earth at Night II</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=zIqG42AD4Gw" target="_blank"><img src="http://img.youtube.com/vi/zIqG42AD4Gw/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Streak and Plume from SpaceX Crew-2 Launch</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=badXkJ6BnOs" target="_blank"><img src="http://img.youtube.com/vi/badXkJ6BnOs/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Recorded during 2017, timelapse sequences from the International Space Station are compiled in this serene video of planet Earth at Night. Fans of low Earth orbit can start by enjoying the view as green and red aurora borealis slather up the sky. The night scene tracks from northwest to southeast across North America, toward the Gulf of Mexico and the Florida coast. A second sequence follows European city lights, crosses the Mediterranean Sea, and passes over a bright Nile river in northern Africa. Seen from the orbital outpost, erratic flashes of lightning appear in thunder storms below and stars rise above the planet&#39;s curved horizon through a faint atmospheric airglow. Of course, from home you can always check out the vital signs of Planet Earth Now.  Celebrate: Earth Day</p>
+<p style="text-align: justify;">What&#39;s happening in the sky?  The pre-dawn sky first seemed relatively serene yesterday morning over Indian Harbor Beach in Florida, USA. But then it lit up with a rocket launch.  Just to the north, NASA&#39;s SpaceX Crew-2 Mission blasted into space aboard a powerful Falcon 9 rocket. The featured time-lapse video -- compressing 12-minutes into 8-seconds -- shows the bright launch plume starting on the far left.  The rocket rises into an increasingly thin atmosphere, causing its plume to spread out just as it is lit by the rising Sun. As the Crew-2 capsule disappears over the horizon, the landing plume of the returning first stage of the Falcon 9 descending toward the SpaceX barge in the Atlantic Ocean can be seen.  Up in space, the Endeavour crew capsule is expected to dock with the International Space Station (ISS) this morning, delivering four astronauts. The Crew-2 astronauts join Expedition 65 to help conduct, among other tasks, drug tests using tissue chips -- small microfluidic chips that simulate human organs -- that run rapidly in ISS&#39;s microgravity.</p>
 
 
 
