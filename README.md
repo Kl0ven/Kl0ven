@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Streak and Plume from SpaceX Crew-2 Launch</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=badXkJ6BnOs" target="_blank"><img src="http://img.youtube.com/vi/badXkJ6BnOs/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Planetary Nebula Mz3: The Ant Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/ant_hubble_1072.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happening in the sky?  The pre-dawn sky first seemed relatively serene yesterday morning over Indian Harbor Beach in Florida, USA. But then it lit up with a rocket launch.  Just to the north, NASA&#39;s SpaceX Crew-2 Mission blasted into space aboard a powerful Falcon 9 rocket. The featured time-lapse video -- compressing 12-minutes into 8-seconds -- shows the bright launch plume starting on the far left.  The rocket rises into an increasingly thin atmosphere, causing its plume to spread out just as it is lit by the rising Sun. As the Crew-2 capsule disappears over the horizon, the landing plume of the returning first stage of the Falcon 9 descending toward the SpaceX barge in the Atlantic Ocean can be seen.  Up in space, the Endeavour crew capsule is expected to dock with the International Space Station (ISS) this morning, delivering four astronauts. The Crew-2 astronauts join Expedition 65 to help conduct, among other tasks, drug tests using tissue chips -- small microfluidic chips that simulate human organs -- that run rapidly in ISS&#39;s microgravity.</p>
+<p style="text-align: justify;">Why isn&#39;t this ant a big sphere?  Planetary nebula Mz3 is being cast off by a star similar to our Sun that is, surely, round.  Why then would the gas that is streaming away create an ant-shaped nebula that is distinctly not round?  Clues might include the high 1000-kilometer per second speed of the expelled gas, the light-year long length of the structure, and the magnetism of the star featured here at the nebula&#39;s center.  One possible answer is that Mz3 is hiding a second, dimmer star that orbits close in to the bright star.  A competing hypothesis holds that the central star&#39;s own spin and magnetic field are channeling the gas.  Since the central star appears to be so similar to our own Sun, astronomers hope that increased understanding of the history of this giant space ant can provide useful insight into the likely future of our own Sun and Earth.</p>
 
 
 
