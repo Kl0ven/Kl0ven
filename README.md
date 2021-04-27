@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Sagittarius Triplet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/M8-M20_GabrielSantos_APOD1024.jpg"">
+<h3>Animation: Black Hole Destroys Star</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ubBzcSD8G8k" target="_blank"><img src="http://img.youtube.com/vi/ubBzcSD8G8k/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">These three bright nebulae are often featured on telescopic tours of the constellation Sagittarius and the crowded starfields of the central Milky Way. In fact, 18th century cosmic tourist Charles Messier cataloged two of them; M8, the large nebula below and right of center, and colorful M20 near the top of the frame. The third emission region includes NGC 6559, left of M8 and separated from the larger nebula by a dark dust lane. All three are stellar nurseries about five thousand light-years or so distant. Over a hundred light-years across the expansive M8 is also known as the Lagoon Nebula. M20&#39;s popular moniker is the Trifid. Glowing hydrogen gas creates the dominant red color of the emission nebulae. But for striking contrast, blue hues in the Trifid are due to dust reflected starlight. The broad interstellarscape spans almost 4 degrees or 8 full moons on the sky.</p>
+<p style="text-align: justify;">What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It&#39;s not the high gravitational attraction itself that&#39;s the problem -- it&#39;s the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star&#39;s outer atmosphere is ripped away during closest approach.  Much of the star&#39;s atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but create energetic neutrinos -- one of which may have been seen recently on Earth.</p>
 
 
 
