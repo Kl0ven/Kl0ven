@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Animation: Black Hole Destroys Star</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ubBzcSD8G8k" target="_blank"><img src="http://img.youtube.com/vi/ubBzcSD8G8k/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>North Star: Polaris and Surrounding Dust</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2104/Polaris_Falls_960.jpg"">
 
 
-<p style="text-align: justify;">What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It&#39;s not the high gravitational attraction itself that&#39;s the problem -- it&#39;s the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star&#39;s outer atmosphere is ripped away during closest approach.  Much of the star&#39;s atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but create energetic neutrinos -- one of which may have been seen recently on Earth.</p>
+<p style="text-align: justify;">Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no South Star.  Thousands of years ago, Earth&#39;s spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the eight-degree wide featured image, an image that has been digitally manipulated to suppress surrounding dim stars but accentuate the faint gas and dust of the Intergalactic Flux Nebula (IFN).  The surface of Cepheid Polaris slowly pulsates, causing the star to change its brightness by a few percent over the course of a few days.    Portal Universe: Random APOD Generator</p>
 
 
 
