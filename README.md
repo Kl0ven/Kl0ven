@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perseverance from Ingenuity</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/PIA24625fromIngenuity1024.jpg"">
+<h3>Clouds of the Carina Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/EtaCore_Ebersole_960.jpg"">
 
 
-<p style="text-align: justify;">Flying at an altitude of 5 meters (just over 16 feet), on April 25 the Ingenuity helicopter snapped this sharp image. On its second flight above the surface of Mars, its color camera was looking back toward Ingenuity&#39;s current base at Wright Brothers Field and Octavia E. Butler Landing marked by the tracks of the Perseverance rover at the top of the frame. Perseverance itself looks on from the upper left corner about 85 meters away. Tips of Ingenuity&#39;s landing legs just peek over the left and right edges of the camera&#39;s field of view. Its record setting fourth flight completed on April 30, Ingenuity collected images of a potential new landing zone before returning to Wright Brothers Field. Ingenuity&#39;s fifth flight would be one-way though as the Mars aircraft moves on to the new airfield, anticipating a new phase of operational demonstration flights.</p>
+<p style="text-align: justify;">What forms lurk in the mists of the Carina Nebula? The dark ominous figures are actually molecular clouds, knots of molecular gas and dust so thick they have become opaque.  In comparison, however,  these clouds are typically much less dense than Earth&#39;s atmosphere.  Featured here is a detailed image of the core of the Carina Nebula, a part where both dark and colorful clouds of gas and dust are particularly prominent.  The image was captured in mid-2016 from Siding Spring Observatory in Australia.  Although the nebula is predominantly composed of hydrogen gas -- here colored green, the image was assigned colors so that light emitted by trace amounts of sulfur and oxygen appear red and blue, respectively.  The entire Carina Nebula, cataloged as NGC 3372, spans over 300 light years and lies about 7,500 light-years away in the constellation of Carina. Eta Carinae, the most energetic star in the nebula, was one of the brightest stars in the sky in the 1830s, but then faded dramatically.</p>
 
 
 
