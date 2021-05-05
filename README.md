@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Space Station, Solar Prominences, Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/IssSun_Ergun_960.jpg"">
+<h3>STEVE over Copper Harbor</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/SteveMichigan_Kiczenski_960.jpg"">
 
 
-<p style="text-align: justify;">That&#39;s no sunspot. It&#39;s the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no Dragon capsules attached.  By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most complicated spacecraft ever created by humanity.  Also, sunspots circle the Sun, whereas the ISS orbits the Earth.  Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one&#39;s location, timing and equipment just right for a great image is rare.  The featured picture combined three images all taken from the same location and at nearly the same time. One image -- overexposed -- captured the faint prominences seen across the top of the Sun, a second image -- underexposed -- captured the complex texture of the Sun&#39;s chromosphere, while the third image -- the hardest to get -- captured the space station as it shot across the Sun in a fraction of a second.  Close inspection of the space station&#39;s silhouette even reveals a docked Dragon Crew capsule.</p>
+<p style="text-align: justify;">What creates STEVEs? Strong Thermal Emission Velocity Enhancements (STEVEs) have likely been seen since antiquity, but only in the past five years has it been realized that their colors and shapes make them different from auroras. Seen as single bright streaks of pink and purple, the origin of STEVEs remain an active topic of research. STEVEs may be related to subauroral ion drifts (SAIDs), a supersonic river of hot atmospheric ions. For reasons currently unknown, STEVEs are frequently accompanied by green &quot;picket-fence&quot; auroras. The featured STEVE image is a combination of foreground and background exposures taken consecutively in mid-March from Copper Harbor, Michigan, USA. This bright STEVE lasted several minutes, spanned from horizon to horizon, and appeared in between times of normal auroras.</p>
 
 
 
