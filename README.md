@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Horsehead and Orion Nebulas</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/orionwisps_colombari_1080.jpg"">
+<h3>Star Clusters M35 and NGC 2158</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/M35_CFHT_960.jpg"">
 
 
-<p style="text-align: justify;">The dark Horsehead Nebula and the glowing Orion Nebula are contrasting cosmic vistas. Adrift 1,500 light-years away in one of the night sky&#39;s most recognizable constellations, they appear in opposite corners of the above stunning mosaic. The familiar Horsehead nebula appears as a dark cloud, a small silhouette notched against the long red glow at the lower left. Alnitak is the easternmost star in Orion&#39;s belt and is seen as the brightest star to the left of the Horsehead. Below Alnitak is the Flame Nebula, with clouds of bright emission and dramatic dark dust lanes. The magnificent emission region, the Orion Nebula (aka M42), lies at the upper right. Immediately to its left is a prominent reflection nebula sometimes called the Running Man. Pervasive tendrils of glowing hydrogen gas are easily traced throughout the region.    Astrophysicists: Browse 2,500+ codes in the Astrophysics Source Code Library</p>
+<p style="text-align: justify;">Clusters of stars can be near or far, young or old, diffuse or compact.  The featured image shows two quite contrasting open star clusters in the same field. M35, on the lower left, is relatively nearby at 2800 light years distant, relatively young at 150 million years old, and relatively diffuse, with about 2500 stars spread out over a volume 30 light years across.  Bright blue stars frequently distinguish younger open clusters like M35. Contrastingly, NGC 2158, on the upper right, is four times more distant than M35, over 10 times older, and much more compact.  NGC 2158&#39;s bright blue stars have self-destructed, leaving cluster light to be dominated by older and yellower stars.  In general, open star clusters are found in the plane of our Milky Way Galaxy, and contain anywhere from 100 to 10,000 stars -- all of which formed at nearly the same time.  Both open clusters M35 and NGC 2158 can be found together with a small telescope toward the constellation of the Twins (Gemini).</p>
 
 
 
