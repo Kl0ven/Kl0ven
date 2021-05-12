@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lightning and Orion Beyond Uluru</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/UluruOrion_Liu_1080.jpg"">
+<h3>A Meteor and the Gegenschein</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/GegenscheinBolide_Casado_1080.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happening behind Uluru?  A United Nations World Heritage Site, Uluru  is an extraordinary 350-meter high mountain in central Australia that rises sharply from nearly flat surroundings. Composed of sandstone, Uluru has slowly formed over the past 300 million years as softer rock eroded away.  In the background of the featured image taken in mid-May, a raging thunderstorm is visible.  Far behind both Uluru and the thunderstorm is a star-filled sky highlighted by the constellation of Orion. The Uluru region has been a home to humans for over 22,000 years. Local indigenous people have long noted that when the stars that compose the modern constellation of Orion first appear in the night sky, a hot season involving lightning storms will soon be arriving.</p>
+<p style="text-align: justify;">Is the night sky darkest in the direction opposite the Sun? No. In fact, a rarely discernable faint glow known as the gegenschein (German for &quot;counter glow&quot;) can be seen 180 degrees around from the Sun in an extremely  dark sky. The gegenschein is sunlight back-scattered off small interplanetary dust particles.  These dust particles are millimeter sized splinters from asteroids and orbit in the ecliptic plane of the planets.  Pictured here from last March is one of the more spectacular pictures of the gegenschein yet taken. The deep exposure of an extremely dark sky over Teide Observatory in Spain&#39;s Canary Islands shows the gegenschein as part of extended zodiacal light.  Notable background objects include a bright meteor (on the left), the Big Dipper (top right), and Polaris (far right).  The meteor nearly points toward Mount Teide, Spain&#39;s highest mountain, while the Pyramid solar laboratory is visible on the right.  During the day, a phenomenon like the gegenschein called the glory can be seen in reflecting air or clouds opposite the Sun from an airplane.</p>
 
 
 
