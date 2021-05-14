@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Comet, the Whale, and the Hockey Stick</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/ATLASHockeyStickWhaleGalaxiesGrandMesa1024.jpg"">
+<h3>M104: The Sombrero Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/m104apodsub800c.jpg"">
 
 
-<p style="text-align: justify;">Closest to the Sun on March 1, and closest to planet Earth on April 23, this Comet ATLAS (C&#x2F;2020 R4) shows a faint greenish coma and short tail in this pretty, telescopic field of view. Captured at its position on May 5, the comet was within the boundaries of northern constellation Canes Venatici (the Hunting Dogs), and near the line-of-sight to intriguing background galaxies popularly known as the Whale and the Hockey Stick. Cetacean in appearance but Milky Way sized, NGC 4631 is a spiral galaxy seen edge-on at the top right, some 25 million light-years away. NGC 4656&#x2F;7 sports the bent-stick shape of interacting galaxies below and left of NGC 4631. In fact, the distortions and mingling trails of gas detected at other wavelengths suggest the cosmic Whale and Hockey Stick have had close encounters with each other in their distant past. Outbound and only about 7 light-minutes from Earth this Comet ATLAS should revisit the inner solar system in just under 1,000 years.</p>
+<p style="text-align: justify;">A gorgeous spiral galaxy, M104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. This sharp optical view of the well-known galaxy made from ground-based image data was processed to preserve details often lost in overwhelming glare of M104&#39;s bright central bulge. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum, and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still the colorful spiky foreground stars in this field of view lie well within our own Milky Way galaxy.</p>
 
 
 
