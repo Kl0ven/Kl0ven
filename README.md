@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M104: The Sombrero Galaxy</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/m104apodsub800c.jpg"">
+<h3>The Southern Cliff in the Lagoon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/M8_rim2geminicrop600.jpg"">
 
 
-<p style="text-align: justify;">A gorgeous spiral galaxy, M104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. This sharp optical view of the well-known galaxy made from ground-based image data was processed to preserve details often lost in overwhelming glare of M104&#39;s bright central bulge. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum, and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still the colorful spiky foreground stars in this field of view lie well within our own Milky Way galaxy.</p>
+<p style="text-align: justify;">Undulating bright ridges and dusty clouds cross this close-up of the nearby star forming region M8, also known as the Lagoon Nebula. A sharp, false-color composite of narrow band visible and broad band near-infrared data from the 8-meter Gemini South Telescope, the entire view spans about 20 light-years through a region of the nebula sometimes called the Southern Cliff. The highly detailed image explores the association of many newborn stars imbedded in the tips of the bright-rimmed clouds and Herbig-Haro objects. Abundant in star-forming regions, Herbig-Haro objects are produced as powerful jets emitted by young stars in the process of formation heat the surrounding clouds of gas and dust. The cosmic Lagoon is found some 5,000 light-years away toward the constellation Sagittarius and the center of our Milky Way Galaxy. (For location and scale, check out this image superimposing the close-up of the Southern Cliff within the larger Lagoon Nebula. The scale image is courtesy R. Barba&#39;.)</p>
 
 
 
