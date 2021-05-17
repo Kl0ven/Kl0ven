@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 602 and Beyond</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/Ngc602_Hubble_960.jpg"">
+<h3>NGC 4565: Galaxy on Edge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/NGC4565_CFHT_960.jpg"">
 
 
-<p style="text-align: justify;">The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this stunning Hubble image of the region. Fantastic ridges and swept back shapes strongly suggest that energetic radiation and shock waves from NGC 602&#39;s massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the cluster&#39;s center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp multi-colored view. The background galaxies are hundreds of millions of light-years or more beyond NGC 602.</p>
+<p style="text-align: justify;">Is our Milky Way Galaxy this thin?  Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the spiral galaxy&#39;s boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565&#39;s thin galactic plane. An assortment of other background galaxies is included in the pretty field of view. Thought similar in shape to our own Milky Way Galaxy, NGC 4565 lies about 40 million light-years distant and spans some 100,000 light-years.  Easily spotted with small telescopes, sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.</p>
 
 
 
