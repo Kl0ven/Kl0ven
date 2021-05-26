@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Moon During a Total Lunar Eclipse</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=eMmw7MqsEUo" target="_blank"><img src="http://img.youtube.com/vi/eMmw7MqsEUo/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>The Outburst Clouds of Star AG Car</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/AgCar_HubbleSchmidt_960.jpg"">
 
 
-<p style="text-align: justify;">How does the Moon&#39;s appearance change during a total lunar eclipse? The featured time-lapse video was digitally processed to keep the Moon bright and centered during the 5-hour eclipse of 2018 January 31.  At first the full moon is visible because only a full moon can undergo a lunar eclipse.  Stars move by in the background because the Moon orbits the Earth during the eclipse. The circular shadow of the Earth is then seen moving across the Moon. The light blue hue of the shadow&#39;s edge is related to why Earth&#39;s sky is blue, while the deep red hue of the shadow&#39;s center is related to why the Sun appears red when near the horizon.  Tomorrow, people living from southeast Asia, across the Pacific, to the southwest Americas may get to see a Blood Supermoon Total Lunar Eclipse.  Here the term blood refers to the (likely) red color of the fully eclipsed Moon, while the term supermoon indicates the Moon&#39;s slightly high angular size -- due to being relatively close to the Earth in its slightly elliptical orbit.   Details: Total Lunar Eclipse on 2021 May 26</p>
+<p style="text-align: justify;">What created these unusual clouds?  At the center of this 2021 Hubble image sits AG Carinae, a supergiant star located about 20,000 light-years away in the southern constellation Carina.  The star&#39;s emitted power is over a million times that of the Sun, making AG Carinae one of the most luminous stars in our Milky Way galaxy.  AG Carinae and its neighbor Eta Carinae belong to the scarce Luminous Blue Variable (LBV) class of stars, known for their rare but violent eruptions.  The nebula that surrounds AG Car is interpreted as a remnant of one or more such outbursts.  This nebula measures 5 light-years across, is estimated to contain about 10 solar masses of gas, and to be at least 10,000 years old.  This Hubble image, taken to commemorate Hubble&#39;s 31st launch anniversary, is the first to capture the whole nebula, offering a new perspective on its structure and dust content.  The LBVs represent a late and short stage in the lives of some supergiant stars, but explaining their restlessness remains a challenge to humanity&#39;s understanding of how massive stars work.    Your questions answered: Tonight&#39;s Blood Supermoon Total Lunar Eclipse</p>
 
 
 
