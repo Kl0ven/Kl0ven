@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Outburst Clouds of Star AG Car</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/AgCar_HubbleSchmidt_960.jpg"">
+<h3>Mid-Eclipse and Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/TLEMay2021Kraus1200.jpg"">
 
 
-<p style="text-align: justify;">What created these unusual clouds?  At the center of this 2021 Hubble image, processed by Judy Schmidt, sits AG Carinae, a supergiant star located about 20,000 light-years away in the southern constellation Carina.  The star&#39;s emitted power is over a million times that of the Sun, making AG Carinae one of the most luminous stars in our Milky Way galaxy.  AG Carinae and its neighbor Eta Carinae belong to the scarce Luminous Blue Variable (LBV) class of stars, known for their rare but violent eruptions.  The nebula that surrounds AG Car is interpreted as a remnant of one or more such outbursts.  This nebula measures 5 light-years across, is estimated to contain about 10 solar masses of gas, and to be at least 10,000 years old.  This Hubble image, taken to commemorate Hubble&#39;s 31st launch anniversary, is the first to capture the whole nebula, offering a new perspective on its structure and dust content.  The LBVs represent a late and short stage in the lives of some supergiant stars, but explaining their restlessness remains a challenge to humanity&#39;s understanding of how massive stars work.</p>
+<p style="text-align: justify;">May&#39;s perigee Full Moon slid through Earth&#39;s shadow yesterday entertaining night skygazers in regions around the Pacific. Seen from western North America, it sinks toward the rugged Sierra Nevada mountain range in this time-lapse series of the total lunar eclipse. Low on the western horizon the Moon was captured at mid-eclipse with two separate exposures. Combined they reveal the eclipsed Moon&#39;s reddened color against the dark night sky and the diffuse starlight band of the Milky Way. Frames taken every five minutes from the fixed camera follow the surrounding progression of the eclipse partial phases. In the foreground a radio telescope dish at California&#39;s Owen&#39;s Valley Radio Observatory points skyward.</p>
 
 
 
