@@ -37,7 +37,7 @@
  <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/TLEMay2021Kraus1200.jpg"">
 
 
-<p style="text-align: justify;">May&#39;s perigee Full Moon slid through Earth&#39;s shadow yesterday entertaining night skygazers in regions around the Pacific. Seen from western North America, it sinks toward the rugged Sierra Nevada mountain range in this time-lapse series of the total lunar eclipse. Low on the western horizon the Moon was captured at mid-eclipse with two separate exposures. Combined they reveal the eclipsed Moon&#39;s reddened color against the dark night sky and the diffuse starlight band of the Milky Way. Frames taken every five minutes from the fixed camera follow the surrounding progression of the eclipse partial phases. In the foreground a radio telescope dish at California&#39;s Owen&#39;s Valley Radio Observatory points skyward.</p>
+<p style="text-align: justify;">May&#39;s perigee Full Moon slid through Earth&#39;s shadow yesterday entertaining night skygazers in regions around the Pacific. Seen from western North America, it sinks toward the rugged Sierra Nevada mountain range in this time-lapse series of the total lunar eclipse. Low on the western horizon the Moon was captured at mid-eclipse with two separate exposures. Combined they reveal the eclipsed Moon&#39;s reddened color against the dark night sky and the diffuse starlight band of the Milky Way. Frames taken every five minutes from the fixed camera follow the surrounding progression of the eclipse partial phases. In the foreground a radio telescope dish at California&#39;s Owens Valley Radio Observatory points skyward.</p>
 
 
 
