@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mid-Eclipse and Milky Way</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/TLEMay2021Kraus1200.jpg"">
+<h3>Total Lunar Eclipse from Sydney</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/WardTLE2021c1024.jpg"">
 
 
-<p style="text-align: justify;">May&#39;s perigee Full Moon slid through Earth&#39;s shadow yesterday entertaining night skygazers in regions around the Pacific. Seen from western North America, it sinks toward the rugged Sierra Nevada mountain range in this time-lapse series of the total lunar eclipse. Low on the western horizon the Moon was captured at mid-eclipse with two separate exposures. Combined they reveal the eclipsed Moon&#39;s reddened color against the dark night sky and the diffuse starlight band of the Milky Way. Frames taken every five minutes from the fixed camera follow the surrounding progression of the eclipse partial phases. In the foreground a radio telescope dish at California&#39;s Owens Valley Radio Observatory points skyward.</p>
+<p style="text-align: justify;">The reddened shadow of planet Earth plays across the lunar disk in this telescopic image taken on May 26 near Sydney, New South Wales, Australia. On that crisp, clear autumn night a Perigee Full Moon slid through the northern edge of the shadow&#39;s dark central umbra. Short for a lunar eclipse, its total phase lasted only about 14 minutes. The Earth&#39;s shadow was not completely dark though. Instead it was suffused with a faint red light from all the planet&#39;s sunsets and sunrises seen from the perspective of an eclipsed Moon, the reddened sunlight scattered by Earth&#39;s atmosphere. The HDR composite of 6 exposures also shows the wide range of brightness variations within Earth&#39;s umbral shadow against a faint background of stars.</p>
 
 
 
