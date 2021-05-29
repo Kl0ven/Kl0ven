@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Total Lunar Eclipse from Sydney</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/WardTLE2021c1024.jpg"">
+<h3>Lunar Dust and Duct Tape</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2105/AS17-137-20979_1024.jpg"">
 
 
-<p style="text-align: justify;">The reddened shadow of planet Earth plays across the lunar disk in this telescopic image taken on May 26 near Sydney, New South Wales, Australia. On that crisp, clear autumn night a Perigee Full Moon slid through the northern edge of the shadow&#39;s dark central umbra. Short for a lunar eclipse, its total phase lasted only about 14 minutes. The Earth&#39;s shadow was not completely dark though. Instead it was suffused with a faint red light from all the planet&#39;s sunsets and sunrises seen from the perspective of an eclipsed Moon, the reddened sunlight scattered by Earth&#39;s atmosphere. The HDR composite of 6 exposures also shows the wide range of brightness variations within Earth&#39;s umbral shadow against a faint background of stars.</p>
+<p style="text-align: justify;">Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, the history of constant micrometeorite bombardment has blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem. On the lunar surface in December 1972, Apollo 17 astronauts Harrison Schmitt and Eugene Cernan needed to repair one of their rover&#39;s fenders in an effort to keep the rooster tails of dust away from themselves and their gear. This picture reveals the wheel and fender of their dust covered rover along with the ingenious application of spare maps, clamps, and a grey strip of &quot;duct tape&quot;.</p>
 
 
 
