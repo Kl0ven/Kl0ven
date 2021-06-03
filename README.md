@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Galactic Center in Stars, Gas, and Magnetism</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/gcenter_ChandraMeerKAT_960.jpg"">
+<h3>Millions of Stars in Omega Centauri</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/OmegaCent_LRGB_final1_1024.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s going on near the center of our galaxy? To help find out, a newly detailed panorama has been composed that explores regions just above and below the galactic plane in radio and X-ray light.  X-ray light taken by the orbiting Chandra Observatory is shown in orange (hot), green (hotter), and purple (hottest) and superposed with a highly detailed image in radio waves, shown in gray, acquired by the MeerKAT array.  Interactions are numerous and complex. Galactic beasts such as expanding supernova remnants, hot winds from newly formed stars, unusually strong and colliding magnetic fields, and a central supermassive black hole are all battling in a space only 1000 light years across.  Thin bright stripes appear to result from twisting and newly connecting magnetic fields in colliding regions, creating an energetic type of inner galactic space weather with similarities to that created by our Sun.  Continued observations and study hold promise to not only shed more light on the history and evolution of our own galaxy -- but all galaxies.</p>
+<p style="text-align: justify;">Globular star cluster Omega Centauri, also known as NGC 5139, is some 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It&#39;s the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. Omega Centauri&#39;s red giant stars (with a yellowish hue) are easy to pick out in this sharp, color telescopic view.</p>
 
 
 
