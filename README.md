@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Millions of Stars in Omega Centauri</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/OmegaCent_LRGB_final1_1024.jpg"">
+<h3>Blood Monster Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Lunareclipse_PinnaclesNationalPark1024.jpg"">
 
 
-<p style="text-align: justify;">Globular star cluster Omega Centauri, also known as NGC 5139, is some 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It&#39;s the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. Omega Centauri&#39;s red giant stars (with a yellowish hue) are easy to pick out in this sharp, color telescopic view.</p>
+<p style="text-align: justify;">On May 26, the Full Flower Moon was caught in this single exposure as it emerged from Earth&#39;s shadow and morning twilight began to wash over the western sky. Posing close to the horizon near the end of totality, an eclipsed lunar disk is framed against bare oak trees at Pinnacles National Park in central California. The Earth&#39;s shadow isn&#39;t completely dark though. Faintly suffused with sunlight scattered by the atmosphere, the inner shadow gives the totally eclipsed moon a reddened appearance and the very dramatic popular moniker of a Blood Moon. Still, the monstrous visage of a gnarled tree in silhouette made this view of a total lunar eclipse even scarier.</p>
 
 
 
