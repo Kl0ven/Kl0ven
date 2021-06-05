@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Blood Monster Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Lunareclipse_PinnaclesNationalPark1024.jpg"">
+<h3>The Shining Clouds of Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/PIA24622-Curiosity_Clouds_Mont_Mercou1100.jpg"">
 
 
-<p style="text-align: justify;">On May 26, the Full Flower Moon was caught in this single exposure as it emerged from Earth&#39;s shadow and morning twilight began to wash over the western sky. Posing close to the horizon near the end of totality, an eclipsed lunar disk is framed against bare oak trees at Pinnacles National Park in central California. The Earth&#39;s shadow isn&#39;t completely dark though. Faintly suffused with sunlight scattered by the atmosphere, the inner shadow gives the totally eclipsed moon a reddened appearance and the very dramatic popular moniker of a Blood Moon. Still, the monstrous visage of a gnarled tree in silhouette made this view of a total lunar eclipse even scarier.</p>
+<p style="text-align: justify;">The weathered and layered face of Mount Mercou looms in the foreground of this mosaic from the Curiosity Mars rover&#39;s Mast Camera. Made up of 21 individual images the scene was recorded just after sunset on March 19, the 3,063rd martian day of Curiosity&#39;s on going exploration of the Red Planet. In the martian twilight high altitude clouds still shine above, reflecting the light from the Sun below the local horizon like the noctilucent clouds of planet Earth. Though water ice clouds drift through the thin martian atmosphere, these wispy clouds are also at extreme altitudes and could be composed of frozen carbon dioxide, crystals of dry ice. Curiosity&#39;s Mast Cam has also imaged iridescent or mother of pearl clouds adding subtle colors to the martian sky.</p>
 
 
 
