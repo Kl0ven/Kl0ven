@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Shining Clouds of Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/PIA24622-Curiosity_Clouds_Mont_Mercou1100.jpg"">
+<h3>A Distorted Sunrise Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/DistortedSunrise_Chasiotis_1080.jpg"">
 
 
-<p style="text-align: justify;">The weathered and layered face of Mount Mercou looms in the foreground of this mosaic from the Curiosity Mars rover&#39;s Mast Camera. Made up of 21 individual images the scene was recorded just after sunset on March 19, the 3,063rd martian day of Curiosity&#39;s on going exploration of the Red Planet. In the martian twilight high altitude clouds still shine above, reflecting the light from the Sun below the local horizon like the noctilucent clouds of planet Earth. Though water ice clouds drift through the thin martian atmosphere, these wispy clouds are also at extreme altitudes and could be composed of frozen carbon dioxide, crystals of dry ice. Curiosity&#39;s Mast Cam has also imaged iridescent or mother of pearl clouds adding subtle colors to the martian sky.</p>
+<p style="text-align: justify;">Yes, but have you ever seen a sunrise like this?  Here, after initial cloudiness, the Sun appeared to rise in two pieces and during partial eclipse, causing the photographer to describe it as the most stunning sunrise of his life.  The dark circle near the top of the atmospherically-reddened Sun is the Moon -- but so is the dark peak just below it.  This is because along the way, the Earth&#39;s atmosphere had an inversion layer of unusually warm air which acted like a gigantic lens and created a second image.  For a normal sunrise or sunset, this rare phenomenon of atmospheric optics is known as the Etruscan vase effect. The featured picture was captured in December 2019 from Al Wakrah, Qatar.  Some observers in a narrow band of Earth to the east were able to see a full annular solar eclipse -- where the Moon appears completely surrounded by the background Sun in a ring of fire.  The next solar eclipse, also an annular eclipse for well-placed observers, will occur later this week on  June 10.</p>
 
 
 
