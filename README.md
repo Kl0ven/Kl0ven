@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Distorted Sunrise Eclipse</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/DistortedSunrise_Chasiotis_1080.jpg"">
+<h3>A Bright Nova in Cassiopeia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/NovaCasAndFriends_Ayoub_960.jpg"">
 
 
-<p style="text-align: justify;">Yes, but have you ever seen a sunrise like this?  Here, after initial cloudiness, the Sun appeared to rise in two pieces and during partial eclipse, causing the photographer to describe it as the most stunning sunrise of his life.  The dark circle near the top of the atmospherically-reddened Sun is the Moon -- but so is the dark peak just below it.  This is because along the way, the Earth&#39;s atmosphere had an inversion layer of unusually warm air which acted like a gigantic lens and created a second image.  For a normal sunrise or sunset, this rare phenomenon of atmospheric optics is known as the Etruscan vase effect. The featured picture was captured in December 2019 from Al Wakrah, Qatar.  Some observers in a narrow band of Earth to the east were able to see a full annular solar eclipse -- where the Moon appears completely surrounded by the background Sun in a ring of fire.  The next solar eclipse, also an annular eclipse for well-placed observers, will occur later this week on  June 10.</p>
+<p style="text-align: justify;">What’s that new spot of light in Cassiopeia? A nova.  Although novas occur frequently throughout the universe, this nova, known as Nova Cas 2021 or V1405 Cas, became so unusually bright in the skies of Earth last month that it was visible to the unaided eye.  Nova Cas 2021 first brightened in mid-March but then, unexpectedly, became even brighter in mid-May and remained quite bright for about a week.  The nova then faded back to early-May levels,  but now is slightly brightening again and remains visible through binoculars.  Identified by the arrow, the nova occurred toward the constellation of Cassiopeia, not far from the Bubble Nebula.  A nova is typically caused by a thermonuclear explosion on the surface of a white dwarf star that is accreting matter from a binary-star companion -- although details of this outburst are currently unknown.  Novas don&#39;t destroy the underlying star, and are sometimes seen to recur.  The featured image was created from 14 hours of imaging from Detroit, Michigan, USA.  Both professional and amateur astronomers will likely continue to monitor Nova Cas 2021 and hypothesize about details of its cause.</p>
 
 
 
