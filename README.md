@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Bright Nova in Cassiopeia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/NovaCasAndFriends_Ayoub_960.jpg"">
+<h3>A Face in the Clouds of Jupiter from Juno</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Jovey_JunoMajor_960.jpg"">
 
 
-<p style="text-align: justify;">What’s that new spot of light in Cassiopeia? A nova.  Although novas occur frequently throughout the universe, this nova, known as Nova Cas 2021 or V1405 Cas, became so unusually bright in the skies of Earth last month that it was visible to the unaided eye.  Nova Cas 2021 first brightened in mid-March but then, unexpectedly, became even brighter in mid-May and remained quite bright for about a week.  The nova then faded back to early-May levels,  but now is slightly brightening again and remains visible through binoculars.  Identified by the arrow, the nova occurred toward the constellation of Cassiopeia, not far from the Bubble Nebula.  A nova is typically caused by a thermonuclear explosion on the surface of a white dwarf star that is accreting matter from a binary-star companion -- although details of this outburst are currently unknown.  Novas don&#39;t destroy the underlying star, and are sometimes seen to recur.  The featured image was created from 14 hours of imaging from Detroit, Michigan, USA.  Both professional and amateur astronomers will likely continue to monitor Nova Cas 2021 and hypothesize about details of its cause.</p>
+<p style="text-align: justify;">What do you see in the clouds of Jupiter? On the largest scale, circling the planet, Jupiter has alternating light zones and reddish-brown belts. Rising zone gas, mostly hydrogen and helium, usually swirls around regions of high pressure. Conversely, falling belt gas usually whirls around regions of low pressure, like cyclones and hurricanes on Earth.  Belt storms can form into large and long-lasting white ovals and elongated red spots. NASA&#39;s robotic Juno spacecraft captured most of these cloud features in 2017 during perijove 6, its sixth pass over the giant planet in its looping 2-month orbit.  But it is surely not these clouds themselves that draws your attention to the displayed image, but rather their arrangement.  The face that stands out, nicknamed Jovey McJupiterFace, lasted perhaps a few weeks before the neighboring storm clouds rotated away. Juno has now completed 33 orbits around Jupiter and just yesterday made a close pass near Ganymede, our Solar System&#39;s largest moon.</p>
 
 
 
