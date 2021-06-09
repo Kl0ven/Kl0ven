@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Face in the Clouds of Jupiter from Juno</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Jovey_JunoMajor_960.jpg"">
+<h3>A Total Lunar Eclipse Corona</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/MultiEclipse_Eder_960.jpg"">
 
 
-<p style="text-align: justify;">What do you see in the clouds of Jupiter? On the largest scale, circling the planet, Jupiter has alternating light zones and reddish-brown belts. Rising zone gas, mostly hydrogen and helium, usually swirls around regions of high pressure. Conversely, falling belt gas usually whirls around regions of low pressure, like cyclones and hurricanes on Earth.  Belt storms can form into large and long-lasting white ovals and elongated red spots. NASA&#39;s robotic Juno spacecraft captured most of these cloud features in 2017 during perijove 6, its sixth pass over the giant planet in its looping 2-month orbit.  But it is surely not these clouds themselves that draws your attention to the displayed image, but rather their arrangement.  The face that stands out, nicknamed Jovey McJupiterFace, lasted perhaps a few weeks before the neighboring storm clouds rotated away. Juno has now completed 33 orbits around Jupiter and just yesterday made a close pass near Ganymede, our Solar System&#39;s largest moon.</p>
+<p style="text-align: justify;">This moon appears multiply strange.  This moon was a full moon, specifically called a Flower Moon at this time of the year.  But that didn&#39;t make it strange -- full moons occur once a month (moon-th).  This moon was a supermoon, meaning that it reached its full phase near its closest approach to the Earth in its slightly elliptical orbit.  Somewhat strange, a supermoon appears a bit larger and brighter than the average full moon -- and enables it to be called a Super Flower Moon.  This moon was undergoing a total lunar eclipse. An eclipsed moon can look quite strange, being dark, unevenly lit, and, frequently, red -- sometimes called blood red. Therefore, this moon could be called a Super Flower Blood Moon. This moon was seen through thin clouds. These clouds created a faint corona around the moon, making it look not only strange, but colorful.  This moon was imaged so deeply that the heart of the Milky Way galaxy, far in the background, was visible to its lower right.  This moon, this shadow, this galaxy and these colors were all captured last month near Cassilis, NSW, Australia -- with a single shot. (Merged later with two lower shots that better capture the Milky Way.)   Details: Annular Solar Eclipse Tomorrow  Gallery: Total Eclipse of the Super Flower Blood Moon</p>
 
 
 
