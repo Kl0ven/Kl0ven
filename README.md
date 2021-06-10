@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Total Lunar Eclipse Corona</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/MultiEclipse_Eder_960.jpg"">
+<h3>Circular Sun Halo</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Vincenzo_Mirabella_20210529_134459_1024px.jpg"">
 
 
-<p style="text-align: justify;">This moon appears multiply strange.  This moon was a full moon, specifically called a Flower Moon at this time of the year.  But that didn&#39;t make it strange -- full moons occur once a month (moon-th).  This moon was a supermoon, meaning that it reached its full phase near its closest approach to the Earth in its slightly elliptical orbit.  Somewhat strange, a supermoon appears a bit larger and brighter than the average full moon -- and enables it to be called a Super Flower Moon.  This moon was undergoing a total lunar eclipse. An eclipsed moon can look quite strange, being dark, unevenly lit, and, frequently, red -- sometimes called blood red. Therefore, this moon could be called a Super Flower Blood Moon. This moon was seen through thin clouds. These clouds created a faint corona around the moon, making it look not only strange, but colorful.  This moon was imaged so deeply that the heart of the Milky Way galaxy, far in the background, was visible to its lower right.  This moon, this shadow, this galaxy and these colors were all captured last month near Cassilis, NSW, Australia -- with a single shot. (Merged later with two lower shots that better capture the Milky Way.)   Details: Annular Solar Eclipse Tomorrow  Gallery: Total Eclipse of the Super Flower Blood Moon</p>
+<p style="text-align: justify;">Want to see a ring around the Sun? It&#39;s easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo&#39;s characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That&#39;s harder. The spectacular annular phase of today&#39;s (June 10) solar eclipse, known as a ring of fire, is briefly visible only if you&#39;re standing along the Moon&#39;s narrow shadow track that passes over parts of northern Canada, Greenland, the Arctic, and eastern Russia. The solar eclipse is partial though, when seen from broader regions, including northern Asia, Europe, and parts of the US.</p>
 
 
 
