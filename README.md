@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Circular Sun Halo</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Vincenzo_Mirabella_20210529_134459_1024px.jpg"">
+<h3>Eclipse Flyby</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/2021-06-10EclipseFlybywm1066.jpg"">
 
 
-<p style="text-align: justify;">Want to see a ring around the Sun? It&#39;s easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo&#39;s characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That&#39;s harder. The spectacular annular phase of today&#39;s (June 10) solar eclipse, known as a ring of fire, was briefly visible only when standing along the Moon&#39;s narrow shadow track that passes over parts of northern Canada, Greenland, the Arctic, and eastern Russia. The solar eclipse was partial though, when seen from broader regions, including northern Asia, Europe, and parts of the US.</p>
+<p style="text-align: justify;">On June 10 a New Moon passed in front of the Sun. In silhouette only two days after reaching apogee, the most distant point in its elliptical orbit, the Moon&#39;s small apparent size helped create an annular solar eclipse. The brief but spectacular annular phase of the eclipse shows a bright solar disk as a ring of fire when viewed along its narrow, northerly shadow track across planet Earth. Cloudy early morning skies along the US east coast held gorgeous views of a partially eclipsed Sun though. Rising together Moon and Sun are captured in a sequence of consecutive frames near maximum eclipse in this digital composite, seen from Quincy Beach south of Boston, Massachusetts. The serendipitous sequence follows the undulating path of a bird in flight joining the Moon in silhouette with the rising Sun.</p>
 
 
 
