@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Eclipse on the Water</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/JunSE_DSC_7477b_1024.jpg"">
+<h3>A Supercell Thunderstorm Over Texas</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the full and new phases of the Moon separated by just over 14 days create a lunar and a solar eclipse. Often partial eclipses are part of any eclipse season. But sometimes the alignment at both new moon and full moon phases during a single eclipse season is close enough to produce a pair of both total (or a total and an annular) lunar and solar eclipses. For this eclipse season, the New Moon following the Full Moon&#39;s total lunar eclipse on May 26 did produce an annular solar eclipse along its northerly shadow track. That eclipse is seen here in a partially eclipsed sunrise on June 10, photographed from a fishing pier in Stratford, Connecticut in the northeastern US.   Notable images submitted to APOD: June 10 solar eclipse</p>
+<p style="text-align: justify;">Is that a cloud or an alien spaceship?  It&#39;s an unusual and sometimes dangerous type of thunderstorm cloud called a supercell. Supercells may spawn damaging tornados, hail, downbursts of air, or drenching rain.  Or they may just look impressive. A supercell harbors a mesocyclone -- a rising column of air surrounded by drafts of falling air.  Supercells could occur over many places on Earth but are particularly common in  Tornado Alley of the USA. Featured here are four time-lapse sequences of a supercell in 2013 rotating above and moving across Booker, Texas.  Captured in the video are new clouds forming near the storm center, dust swirling on the ground, lightning flashing in the upper clouds, all while the impressively sculptured complex rotates ominously.  Finally, after a few hours, as shown in the final sequence, dense rain falls as the storm begins to die out.   Notable images submitted to APOD: Last week&#39;s solar eclipse</p>
 
 
 
