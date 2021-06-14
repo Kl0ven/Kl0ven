@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Supercell Thunderstorm Over Texas</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Ganymede from Juno</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Ganymede_JunoGill_960.jpg"">
 
 
-<p style="text-align: justify;">Is that a cloud or an alien spaceship?  It&#39;s an unusual and sometimes dangerous type of thunderstorm cloud called a supercell. Supercells may spawn damaging tornados, hail, downbursts of air, or drenching rain.  Or they may just look impressive. A supercell harbors a mesocyclone -- a rising column of air surrounded by drafts of falling air.  Supercells could occur over many places on Earth but are particularly common in  Tornado Alley of the USA. Featured here are four time-lapse sequences of a supercell in 2013 rotating above and moving across Booker, Texas.  Captured in the video are new clouds forming near the storm center, dust swirling on the ground, lightning flashing in the upper clouds, all while the impressively sculptured complex rotates ominously.  Finally, after a few hours, as shown in the final sequence, dense rain falls as the storm begins to die out.   Notable images submitted to APOD: Last week&#39;s solar eclipse</p>
+<p style="text-align: justify;">What does the largest moon in the Solar System look like?  Jupiter&#39;s moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth&#39;s Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured last week by NASA&#39;s robotic Juno spacecraft as it passed only about 1000 kilometers above the immense moon.  The close pass reduced Juno&#39;s orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet&#39;s high gravity, unusual magnetic field, and complex cloud structures.    Last week&#39;s solar eclipse: Notable images submitted to APOD</p>
 
 
 
