@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ganymede from Juno</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/Ganymede_JunoGill_960.jpg"">
+<h3>Zhurong: New Rover on Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1080.jpg"">
 
 
-<p style="text-align: justify;">What does the largest moon in the Solar System look like?  Jupiter&#39;s moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth&#39;s Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured last week by NASA&#39;s robotic Juno spacecraft as it passed only about 1000 kilometers above the immense moon.  The close pass reduced Juno&#39;s orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet&#39;s high gravity, unusual magnetic field, and complex cloud structures.    Last week&#39;s solar eclipse: Notable images submitted to APOD</p>
+<p style="text-align: justify;">There&#39;s a new rover on Mars. In mid-May, China&#39;s Tianwen-1 mission delivered the Zhurong rover onto the red planet.  As Mars means Planet of Fire in Chinese, the Zhurong rover&#39;s name means, roughly, God of Fire in Chinese mythology.  Zhurong landed in northern Utopia Planitia, the largest known impact basin in the Solar System, and an area reported to have much underground ice. Among many other scientific instruments, Zhurong carries ground-penetrating radar that can detect ice buried even 100-meters deep. Car-sized Zhurong is pictured here next to its landing base.  The image was snapped by a remote camera deployed by the rolling rover. Zhurong&#39;s planned 90-day mission includes studying the geology, soil, and atmosphere of Mars in Utopia Planitia.</p>
 
 
 
