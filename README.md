@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Zhurong: New Rover on Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1080.jpg"">
+<h3>Scorpius Enhanced</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/ScorpiusEnhanced_Lenz_1080.jpg"">
 
 
-<p style="text-align: justify;">There&#39;s a new rover on Mars. In mid-May, China&#39;s Tianwen-1 mission delivered the Zhurong rover onto the red planet.  As Mars means Planet of Fire in Chinese, the Zhurong rover&#39;s name means, roughly, God of Fire in Chinese mythology.  Zhurong landed in northern Utopia Planitia, the largest known impact basin in the Solar System, and an area reported to have much underground ice. Among many other scientific instruments, Zhurong carries ground-penetrating radar that can detect ice buried even 100-meters deep. Car-sized Zhurong is pictured here next to its landing base.  The image was snapped by a remote camera deployed by the rolling rover. Zhurong&#39;s planned 90-day mission includes studying the geology, soil, and atmosphere of Mars in Utopia Planitia.</p>
+<p style="text-align: justify;">If Scorpius looked this good to the unaided eye, humans might remember it better.  Scorpius more typically appears as a few bright stars in a well-known but rarely pointed out zodiacal constellation. To get a spectacular image like this, though, one needs a good camera, a dark sky, and some sophisticated image processing.  The resulting digitally-enhanced image shows many breathtaking features.  Diagonal across the image right is part of the plane of our Milky Way Galaxy.   Visible there are vast clouds of bright stars and long filaments of dark and intricate dust.  Rising vertically on the image left are dark dust bands known as the Dark River.  Several of the bright stars on the left are part of Scorpius&#39; head and claws, and include the bright star Antares.  Numerous red emission nebulas, blue reflection nebulas, and dark filaments became visible as the deep 17-hour expo image developed. Scorpius appears prominently in southern skies after sunset during the middle of the year.</p>
 
 
 
