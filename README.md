@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 6888: The Crescent Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/CrescentHOOcombinedFinalimage1024.jpg"">
+<h3>Devil Horns from a Ring of Fire</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/IMG_3915_1024.jpg"">
 
 
-<p style="text-align: justify;">NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across blown by winds from its central, bright, massive star. A triumvirate of astroimagers ( Joe, Glenn, Russell) created this sharp portrait of the cosmic bubble. Their telescopic collaboration collected over 30 hours of narrow band image data isolating light from hydrogen and oxygen atoms. The oxygen atoms produce the blue-green hue that seems to enshroud the detailed folds and filaments. Visible within the nebula, NGC 6888&#39;s central star is classified as a Wolf-Rayet star (WR 136). The star is shedding its outer envelope in a strong stellar wind, ejecting the equivalent of the Sun&#39;s mass every 10,000 years.  The nebula&#39;s complex structures are likely the result of this strong wind interacting with material ejected in an earlier phase. Burning fuel at a prodigious rate and near the end of its stellar life this star should ultimately go out with a bang in a spectacular supernova explosion. Found in the nebula rich constellation Cygnus, NGC 6888 is about 5,000 light-years away.</p>
+<p style="text-align: justify;">Atmospheric refraction flattened the solar disk and distorted its appearance in this telescopic view of an Atlantic sunrise on June 10. From Belmar, New Jersey on the US east coast, the scene was recorded at New Moon during this season&#39;s annular solar eclipse. The Moon in partial silhouette gives the rising Sun its crescent shape reminding some of the horns of the devil (or maybe a flying canoe ...). But at its full annular phase this eclipsed Sun looked like a ring of fire in the heavens. June&#39;s annular solar eclipse followed on the heels of the total lunar eclipse of late May&#39;s Full Moon. Of course, that total lunar eclipse was a dramatic red Blood Moon eclipse.</p>
 
 
 
