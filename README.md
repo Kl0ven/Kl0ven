@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Devil Horns from a Ring of Fire</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/IMG_3915_1024.jpg"">
+<h3>Northern Summer Twilight</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/IMG_1088_resize1024.jpg"">
 
 
-<p style="text-align: justify;">Atmospheric refraction flattened the solar disk and distorted its appearance in this telescopic view of an Atlantic sunrise on June 10. From Belmar, New Jersey on the US east coast, the scene was recorded at New Moon during this season&#39;s annular solar eclipse. The Moon in partial silhouette gives the rising Sun its crescent shape reminding some of the horns of the devil (or maybe a flying canoe ...). But at its full annular phase this eclipsed Sun looked like a ring of fire in the heavens. June&#39;s annular solar eclipse followed on the heels of the total lunar eclipse of late May&#39;s Full Moon. Of course, that total lunar eclipse was a dramatic red Blood Moon eclipse.</p>
+<p style="text-align: justify;">Nights grow shorter and days grow longer as the summer solstice approaches in the north. Usually seen at high latitudes in summer months, noctilucent or night shining clouds begin to make their appearance.  Drifting near the edge of space about 80 kilometers above the Earth&#39;s surface, these icy clouds were still reflecting the sunlight on June 14. Though the Sun was below the horizon as seen north of Forrest, Manitoba, Canada, they were caught in a single exposure of a near midnight twilight sky. Multiple exposures of the foreground track the lower altitude flash of fireflies, another fleeting apparition shining in the summer night.</p>
 
 
 
