@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Northern Summer Twilight</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/IMG_1088_resize1024.jpg"">
+<h3>Sunrise Solstice over Stonehenge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/StonehengeSun_alexander_960.jpg"">
 
 
-<p style="text-align: justify;">Nights grow shorter and days grow longer as the summer solstice approaches in the north. Usually seen at high latitudes in summer months, noctilucent or night shining clouds begin to make their appearance.  Drifting near the edge of space about 80 kilometers above the Earth&#39;s surface, these icy clouds were still reflecting the sunlight on June 14. Though the Sun was below the horizon as seen north of Forrest, Manitoba, Canada, they were caught in a single exposure of a near midnight twilight sky. Multiple exposures of the foreground track the lower altitude flash of fireflies, another fleeting apparition shining in the summer night.</p>
+<p style="text-align: justify;">Today the Sun reaches its northernmost point in planet Earth&#39;s sky.  Called a solstice, many cultures mark this date as a change of seasons -- from spring to summer in Earth&#39;s Northern Hemisphere and from fall to winter in Earth&#39;s Southern Hemisphere.  Precisely, the single time of solstice occurs today for some parts of the world, but tomorrow for other regions. The featured image was taken during the week of the 2008 summer solstice at Stonehenge in United Kingdom, and captures a picturesque sunrise involving fog, trees, clouds, stones placed about 4,500 years ago, and a 4.5 billion year old large glowing orb. Even given the precession of the Earth&#39;s rotational axis over the millennia, the Sun continues to rise over Stonehenge in an astronomically significant way.</p>
 
 
 
