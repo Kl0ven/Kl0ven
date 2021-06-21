@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Sunrise Solstice over Stonehenge</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/StonehengeSun_alexander_960.jpg"">
+<h3>The Tadpole Galaxy from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/tadpole_HubbleBiju_960.jpg"">
 
 
-<p style="text-align: justify;">Today the Sun reaches its northernmost point in planet Earth&#39;s sky.  Called a solstice, many cultures mark this date as a change of seasons -- from spring to summer in Earth&#39;s Northern Hemisphere and from fall to winter in Earth&#39;s Southern Hemisphere.  Precisely, the single time of solstice occurs today for some parts of the world, but tomorrow for other regions. The featured image was taken during the week of the 2008 summer solstice at Stonehenge in United Kingdom, and captures a picturesque sunrise involving fog, trees, clouds, stones placed about 4,500 years ago, and a 4.5 billion year old large glowing orb. Even given the precession of the Earth&#39;s rotational axis over the millennia, the Sun continues to rise over Stonehenge in an astronomically significant way.</p>
+<p style="text-align: justify;">Why does this galaxy have such a long tail?  In this stunning vista, based on image data from the Hubble Legacy Archive, distant galaxies form a dramatic backdrop for disrupted spiral galaxy Arp 188, the Tadpole Galaxy. The cosmic tadpole is a mere 420 million light-years distant toward the northern constellation of the Dragon (Draco). Its eye-catching tail is about 280 thousand light-years long and features massive, bright blue star clusters. One story goes that a more compact intruder galaxy crossed in front of Arp 188 - from right to left in this view - and was slung around behind the Tadpole by their gravitational attraction. During the close encounter, tidal forces drew out the spiral galaxy&#39;s stars, gas, and dust forming the spectacular tail. The intruder galaxy itself, estimated to lie about 300 thousand light-years behind the Tadpole, can be seen through foreground spiral arms at the upper right. Following its terrestrial namesake, the Tadpole Galaxy will likely lose its tail as it grows older, the tail&#39;s star clusters forming smaller satellites of the large spiral galaxy.   APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, Farsi, French, German, Hebrew, Indonesian, Japanese, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, Turkish, and  Ukrainian</p>
 
 
 
