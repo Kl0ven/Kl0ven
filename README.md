@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>STARFORGE: A Star Formation Simulation</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=BEckYJwCJno" target="_blank"><img src="http://img.youtube.com/vi/BEckYJwCJno/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Messier 99</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/M99_LeoShatz_cropped1024.jpg"">
 
 
-<p style="text-align: justify;">How do stars form?  Most form in giant molecular clouds located in the central disk of a galaxy.  The process is started, influenced, and limited by the stellar winds, jets, high energy starlight, and supernova explosions of previously existing stars. The featured video shows these complex interactions as computed by the STARFORGE simulation of a gas cloud 20,000 times the mass of our Sun. In the time-lapse visualization, lighter regions indicate denser gas, color encodes the gas speed (purple is slow, orange is fast), while dots indicate the positions of newly formed stars. As the video begins, a gas cloud spanning about 50 light years begins to condense under its own gravity.  Within 2 million years, the first stars form, while newly formed massive stars are seen to expel impressive jets. The simulation is frozen after 4.3 million years, and the volume then rotated to gain a three-dimensional perspective. Much remains unknown about star formation, including the effect of the jets in limiting the masses of subsequently formed stars.    Portal Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Grand design spiral galaxy Messier 99 looks majestic on a truly cosmic scale. This recently processed full galaxy portrait stretches over 70,000 light-years across M99. The sharp view is a combination of ultraviolet, visible, and infrared image data from the Hubble Space Telescope. About 50 million light-years distant toward the well-groomed constellation Coma Bernices, the face-on spiral is a member of the nearby Virgo Galaxy Cluster. Also cataloged as NGC 4254, a close encounter with another Virgo cluster member has likely influenced the shape of its well-defined, blue spiral arms.</p>
 
 
 
