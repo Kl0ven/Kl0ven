@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 99</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/M99_LeoShatz_cropped1024.jpg"">
+<h3>Andromeda in a Single Shot</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/AndromedaGalaxy-SingleShotMina-4688-net1200.jpg"">
 
 
-<p style="text-align: justify;">Grand design spiral galaxy Messier 99 looks majestic on a truly cosmic scale. This recently processed full galaxy portrait stretches over 70,000 light-years across M99. The sharp view is a combination of ultraviolet, visible, and infrared image data from the Hubble Space Telescope. About 50 million light-years distant toward the well-groomed constellation Coma Bernices, the face-on spiral is a member of the nearby Virgo Galaxy Cluster. Also cataloged as NGC 4254, a close encounter with another Virgo cluster member has likely influenced the shape of its well-defined, blue spiral arms.</p>
+<p style="text-align: justify;">How far can you see? The Andromeda Galaxy, 2.5 million light years away, is the most distant object easily seen by the unaided eye. Other denizens of the night sky, like stars, clusters, and nebulae, are typically hundreds to thousands of light-years distant. That&#39;s far beyond the Solar System but well within our own Milky Way Galaxy. Also known as M31, the external galaxy poses directly above a chimney in this well-planned deep night skyscape from an old mine in southern Portugal. The image was captured in a single exposure tracking the sky, so the foreground is slightly blurred by the camera&#39;s motion while Andromeda itself looms large. The galaxy&#39;s brighter central region, normally all that&#39;s visible to the naked-eye, can be seen extending to spiral arms with fainter outer reaches spanning over 4 full moons across the sky. Of course in only 5 billion years or so, the stars of Andromeda could span the entire night sky as the Andromeda Galaxy merges with the Milky Way.</p>
 
 
 
