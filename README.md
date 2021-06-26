@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Andromeda in a Single Shot</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/AndromedaGalaxy-SingleShotMina-4688-net1200.jpg"">
+<h3>Pixels in the Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/ISS_CSSsolarTransit_1070.jpg"">
 
 
-<p style="text-align: justify;">How far can you see? The Andromeda Galaxy, 2.5 million light years away, is the most distant object easily seen by the unaided eye. Other denizens of the night sky, like stars, clusters, and nebulae, are typically hundreds to thousands of light-years distant. That&#39;s far beyond the Solar System but well within our own Milky Way Galaxy. Also known as M31, the external galaxy poses directly above a chimney in this well-planned deep night skyscape from an old mine in southern Portugal. The image was captured in a single exposure tracking the sky, so the foreground is slightly blurred by the camera&#39;s motion while Andromeda itself looms large. The galaxy&#39;s brighter central region, normally all that&#39;s visible to the naked-eye, can be seen extending to spiral arms with fainter outer reaches spanning over 4 full moons across the sky. Of course in only 5 billion years or so, the stars of Andromeda could span the entire night sky as the Andromeda Galaxy merges with the Milky Way.</p>
+<p style="text-align: justify;">These two panels, composed of video frames made with a safe solar telescope and hydrogen alpha filter, show remarkably sharp details on the solar disk and giant prominences along the Sun&#39;s edge on June 6 (top) and June 18. Taken from Beijing, China, they also show a transit of the International Space Station and China&#39;s new Tiangong Space Station in silhouette against the bright Sun. The International Space Station is near center in the bottom panel, crossing the solar disk left of bright active region AR2833 and below a large looping solar filament. The Chinese space station is below solar active region AR2827 and right of center in the top panel, seen as a smaller, combined &quot;+&quot; and &quot;-&quot; shape. The pictures of the transiting orbital outposts were taken with the same equipment and at the same pixel scale, with the International Space Station some 492 kilometers away. The Chinese space station was over 400 kilometers from the camera.</p>
 
 
 
