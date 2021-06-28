@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Dancing Auroras of Saturn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/neonsaturnaurora_cassini_1080.jpg"">
+<h3>A Paper Moon Solar Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2106/PaperMoonSolarEclipse_Letian_960.jpg"">
 
 
-<p style="text-align: justify;">What drives auroras on Saturn? To help find out, scientists have sorted through hundreds of infrared images of Saturn taken by the Cassini spacecraft for other purposes, trying to find enough aurora images to correlate changes and make movies. Once made, some movies clearly show that Saturnian auroras can change not only with the angle of the Sun, but also as the planet rotates. Furthermore, some auroral changes appear related to waves in Saturn&#39;s magnetosphere likely caused by Saturn&#39;s moons. Pictured here, a false-colored image taken in 2007 shows Saturn in three bands of infrared light.  The rings reflect relatively blue sunlight, while the planet itself glows in comparatively low energy red.  A band of southern aurora in visible in green. In has recently been found that auroras heat Saturn&#39;s upper atmosphere. Understanding Saturn&#39;s auroras is a path toward a better understanding of Earth&#39;s auroras.</p>
+<p style="text-align: justify;">It may look like a paper Moon.  Sailing past a  canvas Sun.  But those are not cardboard clouds.  And it&#39;s not make believe.  The featured picture of an orange colored sky is real -- a digital composite of two exposures of the solar eclipse that occurred earlier this month.  The first exposure was taken with a regular telescope that captured an overexposed Sun and an underexposed Moon, while the second image was taken with a solar telescope that captured details of the chromosphere of the background Sun. The Sun&#39;s canvas-like texture was brought up by imaging in a very specific shade of red emitted by hydrogen.  Several prominences can be seen around the Sun&#39;s edge.  The image was captured just before sunset from Xilingol, Inner Mongolia, China. It&#39;s also not make-believe to imagine that the Moon is made of dense rock, the Sun is made of hot gas, and clouds are made of floating droplets of water and ice.</p>
 
 
 
