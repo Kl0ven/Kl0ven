@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Simulation: Formation of the First Stars</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=q9ZCBR-onRw" target="_blank"><img src="http://img.youtube.com/vi/q9ZCBR-onRw/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Perseverance Selfie with Ingenuity</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/PIA24542_fig2_1100c.jpg"">
 
 
-<p style="text-align: justify;">How did the first stars form? To help find out, the SPHINX computer simulation of star formation in the very early universe was created, some results of which are shown in the featured video. Time since the Big Bang is shown in millions of years on the upper left.  Even 100 million years after the Big Bang, matter was spread too uniformly across the cosmos for stars to be born.  Besides background radiation, the universe was dark. Soon, slight matter clumps rich in hydrogen gas begin to coalesce into the first stars. In the time-lapse video, purple denotes gas, white denotes light, and gold shows radiation so energetic that it ionizes hydrogen, breaking it up into charged electrons and protons.  The gold-colored regions also track the most massive stars that die with powerful supernovas. The inset circle highlights a central region that is becoming a galaxy.  The simulation continues until the universe was about 550 million years old.  To assess the accuracy of the SPHINX simulations and the assumptions that went into them, the results are not only being compared to current deep observations, but will also be compared with more direct observations of the early universe planned with NASA&#39;s pending James Webb Space Telescope.</p>
+<p style="text-align: justify;">On sol 46 (April 6, 2021) the Perseverance rover held out a robotic arm to take its first selfie on Mars. The WATSON camera at the end of the arm was designed to take close-ups of martian rocks and surface details though, and not a quick snap shot of friends and smiling faces. In the end, teamwork and weeks of planning on Mars time was required to program a complex series of exposures and camera motions to include Perseverance and its surroundings. The resulting 62 frames were composed into a detailed mosiac, one of the most complicated Mars rover selfies ever taken. In this version of the selfie, the rover&#39;s Mastcam-Z and SuperCam instruments are looking toward WATSON and the end of the rover&#39;s outstretched arm. About 4 meters (13 feet) from Perseverance is a robotic companion, the Mars Ingenuity helicopter.</p>
 
 
 
