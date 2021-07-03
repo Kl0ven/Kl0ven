@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>AR2835: Islands in the Photosphere</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/AR2835_20210701_W2x1024.jpg"">
+<h3>Along the Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/Walk_Milkyway_1024.jpg"">
 
 
-<p style="text-align: justify;">Awash in a sea of incandescent plasma and anchored in strong magnetic fields, sunspots are planet-sized dark islands in the solar photosphere, the bright surface of the Sun. Found in solar active regions, sunspots look dark only because they are slightly cooler though, with temperatures of about 4,000 kelvins compared to 6,000 kelvins for the surrounding solar surface. These sunspots lie in active region AR2835. The largest active region now crossing the Sun, AR2835 is captured in this sharp telescopic close-up from July 1 in a field of view that spans about 150,000 kilometers or over ten Earth diameters. With powerful magnetic fields, solar active regions are often responsible for solar flares and coronal mass ejections, storms which affect space weather near planet Earth.</p>
+<p style="text-align: justify;">You can&#39;t walk along the Milky Way. Still, under a dark sky you can explore it. To the eye the pale luminous trail of light arcing through the sky on a dark, moonless night does appear to be a path through the heavens. The glowing celestial band is the faint, collective light of distant stars cut by swaths of obscuring interstellar dust clouds. It lies along the plane of our home galaxy, so named because it looks like a milky way. Since Galileo&#39;s time, the Milky Way has been revealed to telescopic skygazers to be filled with congeries of innumerable stars and cosmic wonders.</p>
 
 
 
