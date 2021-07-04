@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Along the Milky Way</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/Walk_Milkyway_1024.jpg"">
+<h3>The Face on Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/MartianFace_Viking_960.jpg"">
 
 
-<p style="text-align: justify;">You can&#39;t walk along the Milky Way. Still, under a dark sky you can explore it. To the eye the pale luminous trail of light arcing through the sky on a dark, moonless night does appear to be a path through the heavens. The glowing celestial band is the faint, collective light of distant stars cut by swaths of obscuring interstellar dust clouds. It lies along the plane of our home galaxy, so named because it looks like a milky way. Since Galileo&#39;s time, the Milky Way has been revealed to telescopic skygazers to be filled with congeries of innumerable stars and cosmic wonders.</p>
+<p style="text-align: justify;">Wouldn&#39;t it be fun if clouds were castles?  Wouldn&#39;t it be fun if the laundry on the bedroom chair was a superhero?  Wouldn&#39;t it be fun if rock mesas on Mars were interplanetary monuments to the human face?  Clouds, though, are floating droplets of water and ice.  Laundry is cotton, wool, or plastic, woven into garments.  Famous Martian rock mesas known by names like the Face on Mars appear quite natural when seen more clearly on better images.  Is reality boring? Nobody knows why some clouds make rain.  Nobody knows if life ever developed on Mars.  Nobody knows why the laundry on the bedroom chair smells like root beer.  Scientific exploration can not only resolve mysteries, but uncover new knowledge, greater mysteries, and yet deeper questions.  As humanity explores our universe, perhaps fun -- through discovery --  is just beginning.</p>
 
 
 
