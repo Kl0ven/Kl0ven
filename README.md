@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Face on Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/MartianFace_Viking_960.jpg"">
+<h3>IC 4592: The Blue Horsehead Reflection Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/ic4592_block_960.jpg"">
 
 
-<p style="text-align: justify;">Wouldn&#39;t it be fun if clouds were castles?  Wouldn&#39;t it be fun if the laundry on the bedroom chair was a superhero?  Wouldn&#39;t it be fun if rock mesas on Mars were interplanetary monuments to the human face?  Clouds, though, are floating droplets of water and ice.  Laundry is cotton, wool, or plastic, woven into garments.  Famous Martian rock mesas known by names like the Face on Mars appear quite natural when seen more clearly on better images.  Is reality boring? Nobody knows why some clouds make rain.  Nobody knows if life ever developed on Mars.  Nobody knows why the laundry on the bedroom chair smells like root beer.  Scientific exploration can not only resolve mysteries, but uncover new knowledge, greater mysteries, and yet deeper questions.  As humanity explores our universe, perhaps fun -- through discovery --  is just beginning.</p>
+<p style="text-align: justify;">Do you see the horse&#39;s head?   What you are seeing is not the famous Horsehead nebula toward Orion but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here imaged molecular cloud complex is a reflection nebula cataloged as IC 4592.  Reflection nebulas are actually made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars to the right of the image center.   Almost Hyperspace: Random APOD Generator</p>
 
 
 
