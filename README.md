@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Flight Through the Orion Nebula in Infrared Light</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ix1lzur2QLQ" target="_blank"><img src="http://img.youtube.com/vi/ix1lzur2QLQ/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Perihelion to Aphelion</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/PeriAph2021_Jaworski1024.jpg"">
 
 
-<p style="text-align: justify;">What would it look like to fly into the Orion Nebula?  The exciting dynamic visualization of the Orion Nebula is based on real astronomical data and adept movie rendering techniques. Up close and personal with a famous stellar nursery normally seen from 1,500 light-years away, the digitally modeled representation based is based on infrared data from the Spitzer Space Telescope. The perspective moves along a valley over a light-year wide, in the wall of the region&#39;s giant molecular cloud. Orion&#39;s valley ends in a cavity carved by the energetic winds and radiation of the massive central stars of the Trapezium star cluster. The entire Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.</p>
+<p style="text-align: justify;">Aphelion for 2021 occurred on July 5th. That&#39;s the point in Earth&#39;s elliptical orbit when it is farthest from the Sun. Of course, the distance from the Sun doesn&#39;t determine the seasons. Those are governed by the tilt of Earth&#39;s axis of rotation, so July is still summer in the north and winter in the southern hemisphere. But it does mean that on July 5 the Sun was at its smallest apparent size when viewed from planet Earth. This composite neatly compares two pictures of the Sun, both taken with the same telescope and camera. The left half was captured close to the date of the 2021 perihelion (January 2), the closest point in Earth&#39;s orbit. The right was recorded just before the aphelion in 2021. Otherwise difficult to notice, the change in the Sun&#39;s apparent diameter between perihelion and aphelion amounts to a little over 3 percent.</p>
 
 
 
