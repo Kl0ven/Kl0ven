@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perihelion to Aphelion</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/PeriAph2021_Jaworski1024.jpg"">
+<h3>M82: Starburst Galaxy with a Superwind</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/LRVBPIX3M82Crop1024.jpg"">
 
 
-<p style="text-align: justify;">Aphelion for 2021 occurred on July 5th. That&#39;s the point in Earth&#39;s elliptical orbit when it is farthest from the Sun. Of course, the distance from the Sun doesn&#39;t determine the seasons. Those are governed by the tilt of Earth&#39;s axis of rotation, so July is still summer in the north and winter in the southern hemisphere. But it does mean that on July 5 the Sun was at its smallest apparent size when viewed from planet Earth. This composite neatly compares two pictures of the Sun, both taken with the same telescope and camera. The left half was captured close to the date of the 2021 perihelion (January 2), the closest point in Earth&#39;s orbit. The right was recorded just before the aphelion in 2021. Otherwise difficult to notice, the change in the Sun&#39;s apparent diameter between perihelion and aphelion amounts to a little over 3 percent.</p>
+<p style="text-align: justify;">M82 is a starburst galaxy with a superwind. In fact, through ensuing supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving a prodigious outflow. Evidence for the superwind from the galaxy&#39;s central regions is clear in sharp telescopic snapshot. The composite image highlights emission from long outflow filaments of atomic hydrogen gas in reddish hues. Some of the gas in the superwind, enriched in heavy elements forged in the massive stars, will eventually escape into intergalactic space. Triggered by a close encounter with nearby large galaxy M81, the furious burst of star formation in M82 should last about 100 million years or so. Also known as the Cigar Galaxy for its elongated visual appearance, M82 is about 30,000 light-years across. It lies 12 million light-years away near the northern boundary of Ursa Major.</p>
 
 
 
