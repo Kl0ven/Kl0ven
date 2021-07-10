@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M82: Starburst Galaxy with a Superwind</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/LRVBPIX3M82Crop1024.jpg"">
+<h3>Mercury and the Da Vinci Glow</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/IMG_2021_07_08_29558_APOD1024.jpg"">
 
 
-<p style="text-align: justify;">M82 is a starburst galaxy with a superwind. In fact, through ensuing supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving a prodigious outflow. Evidence for the superwind from the galaxy&#39;s central regions is clear in sharp telescopic snapshot. The composite image highlights emission from long outflow filaments of atomic hydrogen gas in reddish hues. Some of the gas in the superwind, enriched in heavy elements forged in the massive stars, will eventually escape into intergalactic space. Triggered by a close encounter with nearby large galaxy M81, the furious burst of star formation in M82 should last about 100 million years or so. Also known as the Cigar Galaxy for its elongated visual appearance, M82 is about 30,000 light-years across. It lies 12 million light-years away near the northern boundary of Ursa Major.</p>
+<p style="text-align: justify;">On July 8th early morning risers saw Mercury near an old Moon low on the eastern horizon. On that date bright planet, faint glow of lunar night side, and sunlit crescent were captured in this predawn skyscape from Tenerife&#39;s Teide National Park in the Canary Islands.  Never far from the Sun in planet Earth&#39;s sky, the fleeting inner planet shines near its brightest in the morning twilight scene. Mercury lies just below the zeta star of the constellation Taurus, Zeta Tauri, near the tip of the celestial bull&#39;s horn. Of course the Moon&#39;s ashen glow is earthshine, earthlight reflected from the Moon&#39;s night side. A description of earthshine, in terms of sunlight reflected by Earth&#39;s oceans illuminating the Moon&#39;s dark surface, was written over 500 years ago by Leonardo da Vinci. Waiting for the coming dawn in the foreground are the Teide Observatory&#39;s sentinels of the Sun, also known as (large domes left to right) the THEMIS, VTT, and GREGOR solar telescopes.</p>
 
 
 
