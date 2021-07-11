@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mercury and the Da Vinci Glow</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/IMG_2021_07_08_29558_APOD1024.jpg"">
+<h3>Find the Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/spotthemoon_westlake_960.jpg"">
 
 
-<p style="text-align: justify;">On July 8th early morning risers saw Mercury near an old Moon low on the eastern horizon. On that date bright planet, faint glow of lunar night side, and sunlit crescent were captured in this predawn skyscape from Tenerife&#39;s Teide National Park in the Canary Islands.  Never far from the Sun in planet Earth&#39;s sky, the fleeting inner planet shines near its brightest in the morning twilight scene. Mercury lies just below the zeta star of the constellation Taurus, Zeta Tauri, near the tip of the celestial bull&#39;s horn. Of course the Moon&#39;s ashen glow is earthshine, earthlight reflected from the Moon&#39;s night side. A description of earthshine, in terms of sunlight reflected by Earth&#39;s oceans illuminating the Moon&#39;s dark surface, was written over 500 years ago by Leonardo da Vinci. Waiting for the coming dawn in the foreground are the Teide Observatory&#39;s sentinels of the Sun, also known as (large domes left to right) the THEMIS, VTT, and GREGOR solar telescopes.</p>
+<p style="text-align: justify;">Where&#39;s the Moon? Somewhere in this image, the Earth&#39;s Moon is hiding.  The entire Moon is visible, in its completely full phase, in plain sight. Even the photographer&#39;s keen eye couldn&#39;t find it even though he knew exactly where to look -- only the long exposure of his camera picked it up -- barely.  Although by now you might be congratulating yourself on finding it, why was it so difficult to see? For one reason, this photograph was taken during a total lunar eclipse, when the Earth&#39;s shadow made the Moon much dimmer than a normal full Moon. For another, the image, taken in Colorado, USA, was captured just before sunrise. With the Moon on the exact opposite side of the sky from the Sun, this meant that the Sun was just below the horizon, but still slightly illuminating the sky. Last, as the Moon was only about two degrees above the horizon, the large volume of air between the camera and the horizon scattered a lot of light away from the background Moon. Twelve minutes after this image was acquired in 2012, the Sun peeked over the horizon and the Moon set.</p>
 
 
 
