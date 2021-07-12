@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Find the Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/spotthemoon_westlake_960.jpg"">
+<h3>M27: The Dumbbell Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/M27_Falls_960.jpg"">
 
 
-<p style="text-align: justify;">Where&#39;s the Moon? Somewhere in this image, the Earth&#39;s Moon is hiding.  The entire Moon is visible, in its completely full phase, in plain sight. Even the photographer&#39;s keen eye couldn&#39;t find it even though he knew exactly where to look -- only the long exposure of his camera picked it up -- barely.  Although by now you might be congratulating yourself on finding it, why was it so difficult to see? For one reason, this photograph was taken during a total lunar eclipse, when the Earth&#39;s shadow made the Moon much dimmer than a normal full Moon. For another, the image, taken in Colorado, USA, was captured just before sunrise. With the Moon on the exact opposite side of the sky from the Sun, this meant that the Sun was just below the horizon, but still slightly illuminating the sky. Last, as the Moon was only about two degrees above the horizon, the large volume of air between the camera and the horizon scattered a lot of light away from the background Moon. Twelve minutes after this image was acquired in 2012, the Sun peeked over the horizon and the Moon set.</p>
+<p style="text-align: justify;">What will become of our Sun? The first hint of our Sun&#39;s future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier&#39;s list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulae on the sky -- and visible toward the constellation of the Fox (Vulpecula) with binoculars. It takes light about 1000 years to reach us from M27, featured here in colors emitted by hydrogen and oxygen. We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.</p>
 
 
 
