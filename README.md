@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M27: The Dumbbell Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/M27_Falls_960.jpg"">
+<h3>Saturn&#39;s Iapetus: Painted Moon in 3D</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What will become of our Sun? The first hint of our Sun&#39;s future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier&#39;s list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulae on the sky -- and visible toward the constellation of the Fox (Vulpecula) with binoculars. It takes light about 1000 years to reach us from M27, featured here in colors emitted by hydrogen and oxygen. We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.</p>
+<p style="text-align: justify;">What has happened to Saturn&#39;s moon Iapetus?  Vast sections of this strange world are dark brown,  while others are as bright white.  The composition of the dark material is unknown, but infrared spectra indicate that it possibly contains some dark form of carbon. Iapetus also has an unusual equatorial ridge that makes it appear like a walnut.  To help better understand this seemingly painted moon, NASA directed the robotic Cassini spacecraft orbiting Saturn to swoop within 2,000 kilometers in 2007. Iapetus is pictured here in 3D.  A huge impact crater seen in the south spans a tremendous 450 kilometers and appears superposed on an older crater of similar size. The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  Close inspection indicates that the dark coating typically faces the moon&#39;s equator and is less than a meter thick. A leading hypothesis is that the dark material is mostly dirt leftover when relatively warm but dirty ice sublimates. An initial coating of dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.</p>
 
 
 
