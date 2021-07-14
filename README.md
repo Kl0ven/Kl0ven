@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Saturn&#39;s Iapetus: Painted Moon in 3D</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>GW200115: Simulation of a Black Hole Merging with a Neutron Star</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=V_Kd4YBNs7c" target="_blank"><img src="http://img.youtube.com/vi/V_Kd4YBNs7c/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What has happened to Saturn&#39;s moon Iapetus?  Vast sections of this strange world are dark brown,  while others are as bright white.  The composition of the dark material is unknown, but infrared spectra indicate that it possibly contains some dark form of carbon. Iapetus also has an unusual equatorial ridge that makes it appear like a walnut.  To help better understand this seemingly painted moon, NASA directed the robotic Cassini spacecraft orbiting Saturn to swoop within 2,000 kilometers in 2007. Iapetus is pictured here in 3D.  A huge impact crater seen in the south spans a tremendous 450 kilometers and appears superposed on an older crater of similar size. The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  Close inspection indicates that the dark coating typically faces the moon&#39;s equator and is less than a meter thick. A leading hypothesis is that the dark material is mostly dirt leftover when relatively warm but dirty ice sublimates. An initial coating of dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.</p>
+<p style="text-align: justify;">What happens when a black hole destroys a neutron star? Analyses indicate that just such an event created gravitational wave event GW200115, detected in 2020 January by LIGO and Virgo observatories. To better understand the unusual event, the featured visualization was created from a computer simulation. The visualization video starts with the black hole (about 6 times the Sun&#39;s mass) and neutron star (about 1.5 times the Sun&#39;s mass) circling each other, together emitting an increasing amount of gravitational radiation. The picturesque pattern of gravitational wave emission is shown in blue. The duo spiral together increasingly fast until the neutron star becomes completely absorbed by the black hole.  Since the neutron star did not break apart during the collision, little light escaped -- which matches the lack of an observed optical counterpart. The remaining black hole rings briefly, and as that dies down so do the emitted gravitational waves.  The 30-second time-lapse video may seem short, but it actually lasts about 1000 times longer than the real merger event.    Astrophysicists: Browse 2,500+ codes in the Astrophysics Source Code Library</p>
 
 
 
