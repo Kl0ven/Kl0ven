@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Dark Tower in Scorpius</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/Dark_Tower_MPRS_1100c.jpg"">
+<h3>Love and War by Moonlight</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/2021Jul11MarsVenusMoon_ShiHuan1024.jpg"">
 
 
-<p style="text-align: justify;">In silhouette against a crowded star field along the tail of the arachnalogical constellation Scorpius, this dusty cosmic cloud evokes for some the image of an ominous dark tower. In fact, clumps of dust and molecular gas collapsing to form stars may well lurk within the dark nebula, a structure that spans almost 40 light-years across this gorgeous telescopic portrait. Known as a cometary globule, the swept-back cloud, is shaped by intense ultraviolet radiation from the OB association of very hot stars in NGC 6231, off the upper edge of the scene. That energetic ultraviolet light also powers the globule&#39;s bordering reddish glow of hydrogen gas. Hot stars embedded in the dust can be seen as bluish reflection nebulae. This dark tower, NGC 6231, and associated nebulae are about 5,000 light-years away.</p>
+<p style="text-align: justify;">Venus, named for the Roman goddess of love, and Mars, the war god&#39;s namesake, come together by moonlight in this serene skyview, recorded on July 11 from Lualaba province, Democratic Republic of Congo, planet Earth. Taken in the western twilight sky shortly after sunset the exposure also records earthshine illuminating the otherwise dark surface of the young crescent Moon. Of course the Moon has moved on. Venus still shines in the west though as the evening star, third brightest object in Earth&#39;s sky, after the Sun and the Moon itself. Seen here above a brilliant Venus, Mars moved even closer to the brighter planet and by July 13 could be seen only about a Moon&#39;s width away. Mars has since slowly wandered away from much brighter Venus in the twilight, but both are sliding toward bright star Regulus. Alpha star of the constellation Leo, Regulus lies off the top of this frame and anticipates a visit from Venus and then Mars in twilight skies of the coming days.</p>
 
 
 
