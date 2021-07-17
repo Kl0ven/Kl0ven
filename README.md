@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Love and War by Moonlight</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/2021Jul11MarsVenusMoon_ShiHuan1024.jpg"">
+<h3>Alphonsus and Arzachel</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/AlphonseArzachelOwl_Donnard1088.jpg"">
 
 
-<p style="text-align: justify;">Venus, named for the Roman goddess of love, and Mars, the war god&#39;s namesake, come together by moonlight in this serene skyview, recorded on July 11 from Lualaba province, Democratic Republic of Congo, planet Earth. Taken in the western twilight sky shortly after sunset the exposure also records earthshine illuminating the otherwise dark surface of the young crescent Moon. Of course the Moon has moved on. Venus still shines in the west though as the evening star, third brightest object in Earth&#39;s sky, after the Sun and the Moon itself. Seen here above a brilliant Venus, Mars moved even closer to the brighter planet and by July 13 could be seen only about a Moon&#39;s width away. Mars has since slowly wandered away from much brighter Venus in the twilight, but both are sliding toward bright star Regulus. Alpha star of the constellation Leo, Regulus lies off the top of this frame and anticipates a visit from Venus and then Mars in twilight skies of the coming days.</p>
+<p style="text-align: justify;">Point your telescope at tonight&#39;s first quarter Moon. Along the terminator, the shadow line between night and day, you might find these two large craters staring back at you with an owlish gaze. Alphonsus (left) and Arzachel are ancient impact craters on the north eastern shores of Mare Nubium, the lunar Sea of Clouds. The larger Alphonsus is over 100 kilometers in diameter. A low sun angle highlights the crater&#39;s sharp 1.5 kilometer high central peak in bright sunlight and dark shadow. Scouting for potential Apollo moon landing sites, the Ranger 9 spacecraft returned closeup photographs of Alphonsus before it crashed in the crater just northeast (left) of its central mountain in 1965. Alpetragius, between Alphonsus and Arzachel, is the small crater with the deeply shadowed floor and overly large central peak.</p>
 
 
 
