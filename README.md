@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Alphonsus and Arzachel</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/AlphonseArzachelOwl_Donnard1088.jpg"">
+<h3>The Andromeda Galaxy in Ultraviolet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/M31_Galex_960.jpg"">
 
 
-<p style="text-align: justify;">Point your telescope at tonight&#39;s first quarter Moon. Along the terminator, the shadow line between night and day, you might find these two large craters staring back at you with an owlish gaze. Alphonsus (left) and Arzachel are ancient impact craters on the north eastern shores of Mare Nubium, the lunar Sea of Clouds. The larger Alphonsus is over 100 kilometers in diameter. A low sun angle highlights the crater&#39;s sharp 1.5 kilometer high central peak in bright sunlight and dark shadow. Scouting for potential Apollo moon landing sites, the Ranger 9 spacecraft returned closeup pictures of Alphonsus before it crashed in the crater just northeast (toward the upperleft) of its central mountain in 1965. Alpetragius, between Alphonsus and Arzachel, is the small crater with the deeply shadowed floor and overly large central beak.</p>
+<p style="text-align: justify;">What does the Andromeda galaxy look like in ultraviolet light? Young blue stars circling the galactic center dominate.  A mere 2.5 million light-years away, the Andromeda Galaxy, also known as M31, really is just next door as large galaxies go. Spanning about 230,000 light-years, it took 11 different image fields from NASA&#39;s Galaxy Evolution Explorer (GALEX) satellite telescope to produce this gorgeous portrait of the spiral galaxy in ultraviolet light in 2003. While its spiral arms stand out in visible light images, Andromeda&#39;s arms look more like rings in ultraviolet. The rings are sites of intense star formation and have been interpreted as evidence that Andromeda collided with its smaller neighboring elliptical galaxy M32 more than 200 million years ago. The Andromeda galaxy and our own comparable Milky Way galaxy are the most massive members of the Local Group of galaxies and are projected to collide in several billion years -- perhaps around the time that our Sun&#39;s atmosphere will expand to engulf the Earth.</p>
 
 
 
