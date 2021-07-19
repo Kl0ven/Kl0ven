@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Andromeda Galaxy in Ultraviolet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/M31_Galex_960.jpg"">
+<h3>Framed by Trees: A Window to the Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/ForestWindow_Godward_960.jpg"">
 
 
-<p style="text-align: justify;">What does the Andromeda galaxy look like in ultraviolet light? Young blue stars circling the galactic center dominate.  A mere 2.5 million light-years away, the Andromeda Galaxy, also known as M31, really is just next door as large galaxies go. Spanning about 230,000 light-years, it took 11 different image fields from NASA&#39;s Galaxy Evolution Explorer (GALEX) satellite telescope to produce this gorgeous portrait of the spiral galaxy in ultraviolet light in 2003. While its spiral arms stand out in visible light images, Andromeda&#39;s arms look more like rings in ultraviolet. The rings are sites of intense star formation and have been interpreted as evidence that Andromeda collided with its smaller neighboring elliptical galaxy M32 more than 200 million years ago. The Andromeda galaxy and our own comparable Milky Way galaxy are the most massive members of the Local Group of galaxies and are projected to collide in several billion years -- perhaps around the time that our Sun&#39;s atmosphere will expand to engulf the Earth.</p>
+<p style="text-align: justify;">The photographer had this shot in mind for some time. He knew that objects overhead are the brightest -- since their light is scattered the least by atmospheric air. He also that knew the core of our Milky Way Galaxy was just about straight up near midnight around this time of year in South Australia.  Chasing his mental picture, he ventured deep inside the Kuipto Forest where tall radiata pines blocked out much of the sky -- but not in this clearing.  There, through a window framed by trees, he captured his envisioned combination of local and distant nature. Sixteen exposures of both trees and the Milky Way Galaxy were recorded. Antares is the bright orange star to left of our Galaxy&#39;s central plane, while Alpha Centauri is the bright star just to the right of the image center.  The direction toward our Galaxy&#39;s center is below Antares.  Although in a few hours the Earth&#39;s rotation moved the Galactic plane up and to the left -- soon invisible behind the timber, his mental image was secured forever -- and is featured here.    Follow APOD on Instagram in: English, Farsi, Indonesian, Persian, Portuguese or Taiwanese</p>
 
 
 
