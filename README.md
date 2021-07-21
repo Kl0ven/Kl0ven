@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Thor&#39;s Helmet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_960.jpg"">
+<h3>Colors: Ring Nebula versus Stars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/RingColorsOH_Vanderbei_1080.jpg"">
 
 
-<p style="text-align: justify;">Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor&#39;s Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor&#39;s Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown with a fast wind from the bright, massive star near the bubble&#39;s center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This remarkably sharp image is a mixed cocktail of data from broadband and narrowband filters, capturing not only natural looking stars but details of the nebula&#39;s filamentary structures. The star in the center of Thor&#39;s Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.    Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">What if you could see, separately, all the colors of the Ring? And of the surrounding stars? There&#39;s technology for that. The featured image shows the Ring Nebula (M57) and nearby stars through such technology: in this case, a prism-like diffraction grating.  The Ring Nebula is seen only a few times because it emits light, primarily, in only a few colors. The two brightest emitted colors are hydrogen (red) and oxygen (blue), appearing as nearly overlapping images to the left of the image center.  The image just to the right of center is the color-combined icon normally seen.  Stars, on the other hand, emit most of their light in colors all across the visible spectrum.  These colors, combined, make a nearly continuous streak -- which is why stars appear accompanied by multicolored bars.  Breaking object light up into colors is scientifically useful because it can reveal the elements that compose that object, how fast that object is moving, and how distant that object is.</p>
 
 
 
