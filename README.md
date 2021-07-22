@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Colors: Ring Nebula versus Stars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/RingColorsOH_Vanderbei_1080.jpg"">
+<h3>NGC 7814: Little Sombrero with Supernova</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/NGC7814withSN2021rhuChart32_1024.jpg"">
 
 
-<p style="text-align: justify;">What if you could see, separately, all the colors of the Ring? And of the surrounding stars? There&#39;s technology for that. The featured image shows the Ring Nebula (M57) and nearby stars through such technology: in this case, a prism-like diffraction grating.  The Ring Nebula is seen only a few times because it emits light, primarily, in only a few colors. The two brightest emitted colors are hydrogen (red) and oxygen (blue), appearing as nearly overlapping images to the left of the image center.  The image just to the right of center is the color-combined icon normally seen.  Stars, on the other hand, emit most of their light in colors all across the visible spectrum.  These colors, combined, make a nearly continuous streak -- which is why stars appear accompanied by multicolored bars.  Breaking object light up into colors is scientifically useful because it can reveal the elements that compose that object, how fast that object is moving, and how distant that object is.</p>
+<p style="text-align: justify;">Point your telescope toward the high flying constellation Pegasus and you can find this expanse of Milky Way stars and distant galaxies. NGC 7814 is centered in the pretty field of view that would almost be covered by a full moon. NGC 7814 is sometimes called the Little Sombrero for its resemblance to the brighter more famous M104, the Sombrero Galaxy. Both Sombrero and Little Sombrero are spiral galaxies seen edge-on, and both have extensive halos and central bulges cut by a thin disk with thinner dust lanes in silhouette. In fact, NGC 7814 is some 40 million light-years away and an estimated 60,000 light-years across. That actually makes the Little Sombrero about the same physical size as its better known namesake, appearing smaller and fainter only because it is farther away. In this telescopic view from July 17, NGC 7814 is hosting a newly discovered supernova, dominant immediately to the left of the galaxy&#39;s core. Cataloged as SN 2021rhu, the stellar explosion has been identified as a Type Ia supernova, useful toward calibrating the distance scale of the universe.</p>
 
 
 
