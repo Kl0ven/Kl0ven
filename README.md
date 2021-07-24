@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Elephant, Bat, and Squid</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/IC1396SH2-129Ou4_50Hsieh_1024.jpg"">
+<h3>The Edge of Space</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/AuroraNoctilucent33k_rohner1024.jpg"">
 
 
-<p style="text-align: justify;">Sprawling emission nebulae IC 1396 and Sh2-129 mix glowing interstellar gas and dark dust clouds in this 10 degree wide field of view toward the northern constellation Cepheus the King. Energized by its bluish central star IC 1396 (left) is hundreds of light-years across and some 3,000 light-years distant. The nebula&#39;s intriguing dark shapes include a winding dark cloud popularly known as the Elephant&#39;s Trunk below and right of center. Tens of light-years long, it holds the raw raw material for star formation and is known to hide protostars within. Located a similar distance from planet Earth, the bright knots and swept back ridges of emission of Sh2-129 on the right suggest its popular name, the Flying Bat Nebula. Within the Flying Bat, the most recently recognized addition to this royal cosmic zoo is the faint bluish emission from Ou4, the Giant Squid nebula.</p>
+<p style="text-align: justify;">Where does space begin? For purposes of spaceflight some would say at the Karman line, currently defined as an altitude of 100 kilometers (60 miles). Others might place a line 80 kilometers (50 miles) above Earth&#39;s mean sea level. But there is no sharp physical boundary that marks the end of atmosphere and the beginning of space. In fact, the Karman line itself is near the transition between the upper mesophere and lower thermosphere. Night shining or noctilucent clouds are high-latitude summer apparitions formed at altitudes near the top of the mesophere, up to 80 kilometers or so, also known as polar mesopheric clouds. Auroral bands of the northern (and southern) lights caused by energetic particles exciting atoms in the thermosphere can extend above 80 kilometers to over 600 kilometers altitude. Taken from a cockpit while flying at an altitude of 10 kilometers (33,000 feet) in the realm of stratospheric aeronautics, this snapshot captures both noctilucent clouds and aurora borealis under a starry sky, looking toward planet Earth&#39;s horizon and the edge of space.</p>
 
 
 
