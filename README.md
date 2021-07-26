@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Crescent Neptune and Triton</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/neptunetriton_voyager_960.jpg"">
+<h3>CG4: A Ruptured Cometary Globule</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/CG4_Rolland_1080.jpg"">
 
 
-<p style="text-align: justify;">Gliding silently through the outer Solar System, the Voyager 2 spacecraft camera captured Neptune and Triton together in crescent phase.  The elegant picture of the ice-giant planet and its cloudy moon was taken from behind just after closest approach in 1989.  It could not have been taken from Earth because Neptune never shows a crescent phase to sunward Earth. The unusual vantage point also robs Neptune of its familiar blue hue, as sunlight seen from here is scattered forward, and so is reddened like the setting Sun.  Neptune is smaller but more massive than Uranus, has several dark rings, and emits more light than it receives from the Sun.</p>
+<p style="text-align: justify;">Can a gas cloud grab a galaxy?  It&#39;s not even close.  The &quot;claw&quot; of this odd looking &quot;creature&quot; in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.</p>
 
 
 
