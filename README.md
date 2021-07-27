@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>CG4: A Ruptured Cometary Globule</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/CG4_Rolland_1080.jpg"">
+<h3>Fleming&#39;s Triangular Wisp</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/FlemingsTriangle_Saab_960.jpg"">
 
 
-<p style="text-align: justify;">Can a gas cloud grab a galaxy?  It&#39;s not even close.  The &quot;claw&quot; of this odd looking &quot;creature&quot; in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.</p>
+<p style="text-align: justify;">Chaotic in appearance, these tangled filaments of shocked, glowing gas are spread across planet Earth&#39;s sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in blue and oxygen in red hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering&#39;s Triangle for a director of Harvard College Observatory, it is also named for its discoverer, astronomer Williamina Fleming, as Fleming&#39;s Triangular Wisp.</p>
 
 
 
