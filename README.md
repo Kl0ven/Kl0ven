@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fleming&#39;s Triangular Wisp</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/FlemingsTriangle_Saab_960.jpg"">
+<h3>Ring Galaxy AM 0644-741</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/AM0644-741Full1024.jpg"">
 
 
-<p style="text-align: justify;">Chaotic in appearance, these tangled filaments of shocked, glowing gas are spread across planet Earth&#39;s sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in blue and oxygen in red hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering&#39;s Triangle for a director of Harvard College Observatory, it is also named for its discoverer, astronomer Williamina Fleming, as Fleming&#39;s Triangular Wisp.</p>
+<p style="text-align: justify;"></p>
 
 
 
