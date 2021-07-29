@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ring Galaxy AM 0644-741</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/AM0644-741Full1024.jpg"">
+<h3>The Tulip and Cygnus X-1</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/sh2_101_04_1024.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">This tall telescopic field of view looks out along the plane of our Milky Way Galaxy toward the nebula rich constellation Cygnus the Swan.</p>
 
 
 
