@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mimas in Saturnlight</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/1908/MimasPIA17213_fig1_1024.jpg"">
+<h3>Remembering NEOWISE</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/2020_07_23_NEOWISE_Klondik_Combine1_Samostatne_1100px.jpg"">
 
 
-<p style="text-align: justify;">Peering from the shadows, the Saturn-facing hemisphere of Mimas lies in near darkness alongside a dramatic sunlit crescent. The mosaic was captured near the Cassini spacecraft&#39;s final close approach on January 30, 2017. Cassini&#39;s camera was pointed in a nearly sunward direction only 45,000 kilometers from Mimas. The result is one of the highest resolution views of the icy, crater-pocked, 400 kilometer diameter moon. An enhanced version better reveals the Saturn-facing hemisphere of the synchronously rotating moon lit by sunlight reflected from Saturn itself. To see it, slide your cursor over the image (or follow this link). Other Cassini images of Mimas include the small moon&#39;s large and ominous Herschel Crater.</p>
+<p style="text-align: justify;">It was just last July. If you could see the stars of the Big Dipper, you could find Comet NEOWISE in your evening sky. After sunset denizens of the north could look for the naked-eye comet below the bowl of that famous celestial kitchen utensil and above the northwestern horizon. The comet looked like a fuzzy &#39;star&#39; with a tail, though probably not so long a tail as in this memorable skyview recorded from the Czech Republic on July 23th, 2020, near the comet&#39;s closest approach to planet Earth. Photographs of C&#x2F;2020 F3 (NEOWISE) often did show the comet&#39;s broad dust tail and fainter but separate bluish ion tail extending farther than the eye could follow. Skygazers around the world were delighted to witness Comet NEOWISE, surprise visitor from the outer Solar System.   Notable Comet NEOWISE Images 2020: July 31 30, 29, 28, 27, 26, 25, 24</p>
 
 
 
