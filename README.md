@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Remembering NEOWISE</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2107/2020_07_23_NEOWISE_Klondik_Combine1_Samostatne_1100px.jpg"">
+<h3>Pluto in Enhanced Color</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PlutoEnhancedHiRes_NewHorizons_960.jpg"">
 
 
-<p style="text-align: justify;">It was just last July. If you could see the stars of the Big Dipper, you could find Comet NEOWISE in your evening sky. After sunset denizens of the north could look for the naked-eye comet below the bowl of that famous celestial kitchen utensil and above the northwestern horizon. The comet looked like a fuzzy &#39;star&#39; with a tail, though probably not so long a tail as in this memorable skyview recorded from the Czech Republic on July 23th, 2020, near the comet&#39;s closest approach to planet Earth. Photographs of C&#x2F;2020 F3 (NEOWISE) often did show the comet&#39;s broad dust tail and fainter but separate bluish ion tail extending farther than the eye could follow. Skygazers around the world were delighted to witness Comet NEOWISE, surprise visitor from the outer Solar System.   Notable Comet NEOWISE Images 2020: July 31 30, 29, 28, 27, 26, 25, 24</p>
+<p style="text-align: justify;">Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System&#39;s most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe Sputnik Planitia also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 and has enough speed to escape our Solar System completely.    Pluto-Related Images with Brief Explanations: APOD Pluto Search</p>
 
 
 
