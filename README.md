@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Hubble Ultra Deep Field in Light and Sound</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>A Perseid Fireball and the Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PerseusFireball_Dandan_960.jpg"">
 
 
-<p style="text-align: justify;">Have you heard about the Hubble Ultra-Deep Field?  Either way, you&#39;ve likely not heard about it like this -- please run your cursor over the featured image and listen!  The Hubble Ultra-Deep Field (HUDF) was created in 2003-2004 with the Hubble Space Telescope staring for a long time toward near-empty space so that distant, faint galaxies would become visible.  One of the most famous images in astronomy, the HUDF is featured here in a vibrant way -- with sonified distances. Pointing to a galaxy will play a note that indicates its approximate redshift. Because redshifts shift light toward the red end of the spectrum of light, they are depicted here by a shift of tone toward the low end of the spectrum of sound.  The further the galaxy, the greater its cosmological redshift (even if it appears blue), and the lower the tone that will be played. The average galaxy in the HUDF is about 10.6 billion light years away and sounds like an F#. What&#39;s the most distant galaxy you can find?   Note: Sounds will only play on some browsers.  This week at NASA: Hubble #DeepFieldWeek</p>
+<p style="text-align: justify;">It was bright and green and flashed as it moved quickly along the Milky Way. It left a trail that took 30 minutes to dissipate.  Given the day, August 12, and the direction, away from Perseus, it was likely a small bit from the nucleus of Comet Swift-Tuttle plowing through the Earth&#39;s atmosphere -- and therefore part of the annual Perseids meteor shower.  The astrophotographer captured the fireball as it shot across the sky in 2018 above a valley in Yichang, Hubei, China. The meteor&#39;s streak, also caught on video, ended near the direction of Mars on the lower left. Next week, the 2021 Perseids meteor shower will peak again.  This year the Moon will set shortly after the Sun, leaving a night sky ideal for seeing lots of Perseids from dark and clear locations across planet Earth.   Follow APOD in English on: Facebook,  Instagram, or Twitter</p>
 
 
 
