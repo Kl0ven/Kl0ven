@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Tycho and Clavius</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/Luna-Tycho-Clavius-high1024.jpg"">
+<h3>Stars and Dust Across Corona Australis</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/NGC6726_6723_2panel1100.jpg"">
 
 
-<p style="text-align: justify;">South is up in this detailed telescopic view across the Moon&#39;s rugged southern highlands. Captured on July 20, the lunar landscape features the Moon&#39;s young and old, the large craters Tycho and Clavius. About 100 million years young, Tycho is the sharp-walled 85 kilometer diameter crater near center, its 2 kilometer tall central peak in bright sunlight and dark shadow. Debris ejected during the impact that created Tycho still make it the stand out lunar crater when the Moon is near full, producing a highly visible radiating system of light streaks, bright rays that extend across much of the lunar near side. In fact, some of the material collected at the Apollo 17 landing site, about 2,000 kilometers away, likely originated from the Tycho impact.  One of the oldest and largest craters on the Moon&#39;s near side, 225 kilometer diameter Clavius is due south (above) of Tycho. Clavius crater&#39;s own ray system resulting from its original impact event would have faded long ago. The old crater&#39;s worn walls and smooth floor are now overlayed by smaller craters from impacts that occurred after Clavius was formed. Observations by the Stratospheric Observatory for Infrared Astronomy (SOFIA) published in 2020 found water at Clavius. Of course both young Tycho and old Clavius craters are lunar locations in the science fiction epic 2001: A Space Odyssey.</p>
+<p style="text-align: justify;">Cosmic dust clouds cross a rich field of stars in this telescopic vista near the northern boundary of Corona Australis, the Southern Crown. Less than 500 light-years away the dust clouds effectively block light from more distant background stars in the Milky Way. Top to bottom the frame spans about 2 degrees or over 15 light-years at the clouds&#39; estimated distance. At top right is a group of lovely reflection nebulae cataloged as NGC 6726, 6727, 6729, and IC 4812. A characteristic blue color is produced as light from hot stars is reflected by the cosmic dust. The dust also obscures from view stars in the region still in the process of formation. Just above the bluish reflection nebulae a smaller NGC 6729 surrounds young variable star R Coronae Australis. To its right are telltale reddish arcs and loops identified as Herbig Haro objects associated with energetic newborn stars. Magnificent globular star cluster NGC 6723 is at bottom left in the frame. Though NGC 6723 appears to be part of the group, its ancient stars actually lie nearly 30,000 light-years away, far beyond the young stars of the Corona Australis dust clouds.</p>
 
 
 
