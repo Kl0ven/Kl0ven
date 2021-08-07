@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Stars and Dust Across Corona Australis</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/NGC6726_6723_2panel1100.jpg"">
+<h3>Jezero Crater: Raised Ridges in 3D</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PIA24688_RTE_Anaglyph1024.jpg"">
 
 
-<p style="text-align: justify;">Cosmic dust clouds cross a rich field of stars in this telescopic vista near the northern boundary of Corona Australis, the Southern Crown. Less than 500 light-years away the dust clouds effectively block light from more distant background stars in the Milky Way. Top to bottom the frame spans about 2 degrees or over 15 light-years at the clouds&#39; estimated distance. At top right is a group of lovely reflection nebulae cataloged as NGC 6726, 6727, 6729, and IC 4812. A characteristic blue color is produced as light from hot stars is reflected by the cosmic dust. The dust also obscures from view stars in the region still in the process of formation. Just above the bluish reflection nebulae a smaller NGC 6729 surrounds young variable star R Coronae Australis. To its right are telltale reddish arcs and loops identified as Herbig Haro objects associated with energetic newborn stars. Magnificent globular star cluster NGC 6723 is at bottom left in the frame. Though NGC 6723 appears to be part of the group, its ancient stars actually lie nearly 30,000 light-years away, far beyond the young stars of the Corona Australis dust clouds.</p>
+<p style="text-align: justify;">Get out your red-blue glasses and hover over the surface of Mars. Taken on July 24, the 3D color view is from the Mars Ingenuity Helicopter&#39;s 10th flight above the Red Planet. Two images from Ingenuity&#39;s color camera, both captured at an altitude of 12 meters (40 feet), but a few meters apart to provide a stereo perspective, were used to construct the color anaglyph. Ingenuity&#39;s stereo images were made at the request of the Mars Perseverance rover science team. The team is considering a visit to these raised ridges on the floor of Jezero Crater during Perseverance&#39;s first science campaign.</p>
 
 
 
