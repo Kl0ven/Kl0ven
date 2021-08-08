@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jezero Crater: Raised Ridges in 3D</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PIA24688_RTE_Anaglyph1024.jpg"">
+<h3>A Perseid Below</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/perseid_iss_1080.jpg"">
 
 
-<p style="text-align: justify;">Get out your red-blue glasses and hover over the surface of Mars. Taken on July 24, the 3D color view is from the Mars Ingenuity Helicopter&#39;s 10th flight above the Red Planet. Two images from Ingenuity&#39;s color camera, both captured at an altitude of 12 meters (40 feet), but a few meters apart to provide a stereo perspective, were used to construct the color anaglyph. Ingenuity&#39;s stereo images were made at the request of the Mars Perseverance rover science team. The team is considering a visit to these raised ridges on the floor of Jezero Crater during Perseverance&#39;s first science campaign.</p>
+<p style="text-align: justify;">rthlings typically watch meteor showers by looking up. But this remarkable view, captured on August 13, 2011 by astronaut Ron Garan, caught a Perseid meteor by looking down. From Garan&#39;s perspective onboard the International Space Station orbiting at an altitude of about 380 kilometers, the Perseid meteors streak below, swept up dust left from comet Swift-Tuttle heated to incandescence. The glowing comet dust grains are traveling at about 60 kilometers per second through the denser atmosphere around 100 kilometers above Earth&#39;s surface. In this case, the foreshortened meteor flash is right of frame center, below the curving limb of the Earth and a layer of greenish airglow, just below bright star Arcturus. Want to look up at a meteor shower?  You&#39;re in luck, as the 2021 Perseids meteor shower peaks this week. This year, even relatively faint meteors should be visible through clear skies from a dark location as the bright Moon will mostly absent.   Notable Perseids Submissions to APOD: 2018, 2019, 2020</p>
 
 
 
