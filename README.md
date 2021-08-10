@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perseus and the Lost Meteors</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PerseidsLost_SlovinskyHoralek_1080.jpg"">
+<h3>Fire in Space</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/SpaceFlame_nasa_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s the best way to watch a meteor shower?  This question might come up later this week when the annual Perseid Meteor Shower peaks. One thing that is helpful is a dark sky, as demonstrated in the featured composite image of last year&#39;s Perseids.  Many more faint meteors are visible on the left image, taken through a very dark sky in Slovakia, than on the right image, taken through a moderately dark sky in the Czech Republic.  The band of the Milky Way Galaxy bridges the two coordinated images, while the meteor shower radiant in the constellation of Perseus is clearly visible on the left. In sum, many faint meteors are lost through a bright sky. Light pollution is shrinking areas across our Earth with dark skies, although inexpensive ways to combat this might be implemented.    Notable Perseids Submissions to APOD: 2018, 2019, 2020</p>
+<p style="text-align: justify;">What does fire look like in space? In the gravity on Earth, heated air rises and expands, causing flames to be teardrop shaped. In the microgravity of the air-filled International Space Station (ISS), however, flames are spheres. Fire is the rapid acquisition of oxygen, and space flames meet new oxygen molecules when they float by randomly from all directions -- creating the enveloping sphere.  In the featured image taken in the ISS&#39;s Combustion Integration Rack, a spherical flame envelopes clusters of hot glowing soot.  Without oxygen, say in the vacuum of empty space, a fire would go out immediately.  The many chemical reactions involved with fire are complex, and testing them in microgravity is helping humanity not only to better understand fire -- but how to put out fire, too.</p>
 
 
 
