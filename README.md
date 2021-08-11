@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fire in Space</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/SpaceFlame_nasa_960.jpg"">
+<h3>Mammatus Clouds over Saskatchewan</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/Mammatus_Johnston_960.jpg"">
 
 
-<p style="text-align: justify;">What does fire look like in space? In the gravity on Earth, heated air rises and expands, causing flames to be teardrop shaped. In the microgravity of the air-filled International Space Station (ISS), however, flames are spheres. Fire is the rapid acquisition of oxygen, and space flames meet new oxygen molecules when they float by randomly from all directions -- creating the enveloping sphere.  In the featured image taken in the ISS&#39;s Combustion Integration Rack, a spherical flame envelopes clusters of hot glowing soot.  Without oxygen, say in the vacuum of empty space, a fire would go out immediately.  The many chemical reactions involved with fire are complex, and testing them in microgravity is helping humanity not only to better understand fire -- but how to put out fire, too.</p>
+<p style="text-align: justify;">When do cloud bottoms appear like bubbles? Normally, cloud bottoms are flat. This is because moist warm air that rises and cools will condense into water droplets at a specific temperature, which usually corresponds to a very specific height.  As water droplets grow, an opaque cloud forms.  Under some conditions, however, cloud pockets can develop that contain large droplets of water or ice that fall into clear air as they evaporate.  Such pockets may occur in turbulent air near a thunderstorm.  Resulting mammatus clouds can appear especially dramatic if sunlit from the side.  The mammatus clouds pictured here, lasting only a few minutes, were photographed over Regina, Saskatchewan, Canada, just after a storm in 2012.    Meteor Shower Tonight: Peak of the Perseids</p>
 
 
 
