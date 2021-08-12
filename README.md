@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mammatus Clouds over Saskatchewan</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/Mammatus_Johnston_960.jpg"">
+<h3>A Beautiful Trifid</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/M20-SHO-crop-Rev-5-RGB-Ha-OIII-RiDK-700-19-July-2021-1024.jpg"">
 
 
-<p style="text-align: justify;">When do cloud bottoms appear like bubbles? Normally, cloud bottoms are flat. This is because moist warm air that rises and cools will condense into water droplets at a specific temperature, which usually corresponds to a very specific height.  As water droplets grow, an opaque cloud forms.  Under some conditions, however, cloud pockets can develop that contain large droplets of water or ice that fall into clear air as they evaporate.  Such pockets may occur in turbulent air near a thunderstorm.  Resulting mammatus clouds can appear especially dramatic if sunlit from the side.  The mammatus clouds pictured here, lasting only a few minutes, were photographed over Regina, Saskatchewan, Canada, just after a storm in 2012.    Meteor Shower Tonight: Peak of the Perseids</p>
+<p style="text-align: justify;">The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, below and left of the emission nebula&#39;s center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Just too faint to be seen by the unaided eye, it almost covers the area of a full moon in planet Earth&#39;s sky.</p>
 
 
 
