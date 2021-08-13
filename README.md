@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Beautiful Trifid</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/M20-SHO-crop-Rev-5-RGB-Ha-OIII-RiDK-700-19-July-2021-1024.jpg"">
+<h3>A Perfect Spiral</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/m74_APOD1024.jpg"">
 
 
-<p style="text-align: justify;">The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, below and left of the emission nebula&#39;s center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Just too faint to be seen by the unaided eye, it almost covers the area of a full moon in planet Earth&#39;s sky.</p>
+<p style="text-align: justify;">If not perfect then this spiral galaxy is at least one of the most photogenic. An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view. Classified as an Sc galaxy, the grand design of M74&#39;s graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes. This sharp composite was constructed from image data recorded by the Hubble Space Telescope&#39;s Advanced Camera for Surveys. Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy&#39;s large star-forming regions. With a lower surface brightness than most galaxies in the Messier catalog, M74 is sometimes known as the Phantom Galaxy.</p>
 
 
 
