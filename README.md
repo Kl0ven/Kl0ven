@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Perfect Spiral</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/m74_APOD1024.jpg"">
+<h3>Island Universe, Cosmic Sand</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/IMG_20210813_143919_1024.jpg"">
 
 
-<p style="text-align: justify;">If not perfect then this spiral galaxy is at least one of the most photogenic. An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view. Classified as an Sc galaxy, the grand design of M74&#39;s graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes. This sharp composite was constructed from image data recorded by the Hubble Space Telescope&#39;s Advanced Camera for Surveys. Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy&#39;s large star-forming regions. With a lower surface brightness than most galaxies in the Messier catalog, M74 is sometimes known as the Phantom Galaxy.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
+<p style="text-align: justify;">Stars in our own Milky Way Galaxy are scattered through this eye-catching field of view. From the early hours after midnight on August 13, the 30 second exposure of the night sky over Busko-Zdroj, Poland records the colorful and bright trail of a Perseid meteor. Seen near the peak of the annual Perseid meteor shower it flashes from lower left to upper right. The hurtling grain of cosmic sand, a piece of dust from periodic comet Swift-Tuttle, vaporized as it passed through planet Earth&#39;s atmosphere at almost 60 kilometers per second. Just above and right of center, well beyond the stars of the Milky Way, lies the island universe known as M31 or the Andromeda Galaxy. The Andromeda Galaxy is the most distant object easily visible to the naked-eye, about 2.5 million light-years away. The visible meteor trail begins only about 100 kilometers above Earth&#39;s surface, though. It points back to the meteor shower radiant in the constellation Perseus off the lower left edge of the frame. Follow this bright perseid meteor trail below and left to the stars of NGC 869and NGC 884, the double star cluster in Perseus.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
 
 
 
