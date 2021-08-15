@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Island Universe, Cosmic Sand</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/IMG_20210813_143919_1024.jpg"">
+<h3>Perseid Rain</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PerseidRain2021_Luo_960.jpg"">
 
 
-<p style="text-align: justify;">Stars in our own Milky Way Galaxy are scattered through this eye-catching field of view. From the early hours after midnight on August 13, the 30 second exposure of the night sky over Busko-Zdroj, Poland records the colorful and bright trail of a Perseid meteor. Seen near the peak of the annual Perseid meteor shower it flashes from lower left to upper right. The hurtling grain of cosmic sand, a piece of dust from periodic comet Swift-Tuttle, vaporized as it passed through planet Earth&#39;s atmosphere at almost 60 kilometers per second. Just above and right of center, well beyond the stars of the Milky Way, lies the island universe known as M31 or the Andromeda Galaxy. The Andromeda Galaxy is the most distant object easily visible to the naked-eye, about 2.5 million light-years away. The visible meteor trail begins only about 100 kilometers above Earth&#39;s surface, though. It points back to the meteor shower radiant in the constellation Perseus off the lower left edge of the frame. Follow this bright perseid meteor trail below and left to the stars of NGC 869and NGC 884, the double star cluster in Perseus.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
+<p style="text-align: justify;">Comet dust rained down on planet Earth last week, streaking through dark skies in the annual Perseid meteor shower. The featured picture is a composite of many images taken from the same location over the peak night of the Perseids. The umbrella was not needed as a shield from meteors, since they almost entirely evaporate high in the Earth&#39;s atmosphere. Many of the component images featured individual Perseids, while one image featured the foreground near Jiuquan City, Gansu Province, China. The stellar background includes the central band of our Milky Way Galaxy, appearing nearly vertical, as well as the planets Jupiter and Saturn on the left. Although the comet dust particles are traveling parallel to each other, the resulting shower meteors clearly seem to radiate from a single point on the sky -- the radiant in the eponymous constellation Perseus. The image captured so long an angular field that the curvature of the sky is visible in the trajectory of the Perseids.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
 
 
 
