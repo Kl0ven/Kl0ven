@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perseid Rain</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PerseidRain2021_Luo_960.jpg"">
+<h3>Perseid Meteor, Red Sprites, and Nova RS Ophiuchus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PerseidNovaSprites_Korona_960.jpg"">
 
 
-<p style="text-align: justify;">Comet dust rained down on planet Earth last week, streaking through dark skies in the annual Perseid meteor shower. The featured picture is a composite of many images taken from the same location over the peak night of the Perseids. The umbrella was not needed as a shield from meteors, since they almost entirely evaporate high in the Earth&#39;s atmosphere. Many of the component images featured individual Perseids, while one image featured the foreground near Jiuquan City, Gansu Province, China. The stellar background includes the central band of our Milky Way Galaxy, appearing nearly vertical, as well as the planets Jupiter and Saturn on the left. Although the comet dust particles are traveling parallel to each other, the resulting shower meteors clearly seem to radiate from a single point on the sky -- the radiant in the eponymous constellation Perseus. The image captured so long an angular field that the curvature of the sky is visible in the trajectory of the Perseids.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
+<p style="text-align: justify;">This was an unusual sky. It wasn&#39;t unusual because of the central band the Milky Way Galaxy, visible along the image left.  Most dark skies show part of the Milky Way. It wasn&#39;t unusual because of the bright meteor visible on the upper right. Many images taken during last week&#39;s Perseid Meteor Shower show meteors, although this Perseid was particularly bright. This sky wasn&#39;t unusual because of the red sprites, visible on the lower right. Although this type of lightning has only been noted in the past few decades, images of sprites are becoming more common. This sky wasn&#39;t unusual because of the nova, visible just above the image center. Novas bright enough to be seen with the unaided eye occur every few years, with pictured Nova RS Ophiuchus discovered about a week ago.  What was most unusual, though, was to capture all these things together, in a single night, on a single sky.  The unusual sky occurred above Zacatecas, Mexico.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
 
 
 
