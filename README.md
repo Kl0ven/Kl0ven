@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M57: The Ring Nebula from Hubble</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/Ring_HubbleSchmidt_960.jpg"">
+<h3>Rings Around the Ring Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/M57Ring_HubbleGendler_960.jpg"">
 
 
-<p style="text-align: justify;">cept for the rings of Saturn, the Ring Nebula (M57) is probably the most famous celestial circle. Its classic appearance is understood to be due to our own perspective, though. The recent mapping of the expanding nebula&#39;s 3-D structure, based in part on this clear Hubble image,indicates that the nebula is a relatively dense, donut-like ring wrapped around the middle of a (American) football-shaped cloud of glowing gas. The view from planet Earth looks down the long axis of the football, face-on to the ring. Of course, in this well-studied example of a planetary nebula, the glowing material does not come from planets. Instead, the gaseous shroud represents outer layers expelled from the dying, once sun-like star, now a tiny pinprick of light seen at the nebula&#39;s center. Intense ultraviolet light from the hot central star ionizes atoms in the gas. The Ring Nebula is about one light-year across and 2,500 light-years away.   Share the Sky: NASA Open API for APOD</p>
+<p style="text-align: justify;">The Ring Nebula (M57), is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula&#39;s central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere to become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Amateur Astronomers: Please take the Night Sky Network&#39;s Survey</p>
 
 
 
