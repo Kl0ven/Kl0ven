@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rings Around the Ring Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/M57Ring_HubbleGendler_960.jpg"">
+<h3>Bright Meteor, Starry Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/BrightMeteorPerseids2021-7337-crop-net1024.jpg"">
 
 
-<p style="text-align: justify;">The Ring Nebula (M57), is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula&#39;s central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere to become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Amateur Astronomers: Please take the Night Sky Network&#39;s Survey</p>
+<p style="text-align: justify;">Plowing through Earth&#39;s atmosphere at 60 kilometers per second, this bright perseid meteor streaks along a starry Milky Way. Captured in dark Portugal skies on August 12, it moves right to left through the frame. Its colorful trail starts near Deneb (alpha Cygni) and ends near Altair (alpha Aquilae), stars of the northern summer triangle. In fact this perseid meteor very briefly outshines both, two of the brightest stars in planet Earth&#39;s night. The trail&#39;s initial greenish glow is typical of the bright perseid shower meteors. The grains of cosmic sand, swept up dust from periodic comet Swift-Tuttle, are moving fast enough to excite the characteristic green emission of atomic oxygen at altitudes of 100 kilometers or so before vaporizing in an incandescent flash.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
 
 
 
