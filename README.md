@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Bright Meteor, Starry Sky</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/BrightMeteorPerseids2021-7337-crop-net1024.jpg"">
+<h3>Three Perseid Nights</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/ThreeNightsPerseids1024.jpg"">
 
 
-<p style="text-align: justify;">Plowing through Earth&#39;s atmosphere at 60 kilometers per second, this bright perseid meteor streaks along a starry Milky Way. Captured in dark Portugal skies on August 12, it moves right to left through the frame. Its colorful trail starts near Deneb (alpha Cygni) and ends near Altair (alpha Aquilae), stars of the northern summer triangle. In fact this perseid meteor very briefly outshines both, two of the brightest stars in planet Earth&#39;s night. The trail&#39;s initial greenish glow is typical of the bright perseid shower meteors. The grains of cosmic sand, swept up dust from periodic comet Swift-Tuttle, are moving fast enough to excite the characteristic green emission of atomic oxygen at altitudes of 100 kilometers or so before vaporizing in an incandescent flash.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
+<p style="text-align: justify;">Frames from a camera that spent three moonless nights under the stars create this composite night skyscape. They were recorded during August 11-13 while planet Earth was sweeping through the dusty trail of comet Swift-Tuttle. One long exposure, untracked for the foreground, and the many star tracking captures of Perseid shower meteors were taken from the village of Magyaregres, Hungary. Each aligned against the background stars, the meteor trails all point back to the annual shower&#39;s radiant in the constellation Perseus heroically standing above this rural horizon. Of course the comet dust particles are traveling along trajectories parallel to each other. The radiant effect is due only to perspective, as the parallel tracks appear to converge in the distance against the starry sky.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
 
 
 
