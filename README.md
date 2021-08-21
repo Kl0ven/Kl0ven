@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Three Perseid Nights</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/ThreeNightsPerseids1024.jpg"">
+<h3>Triple Transit and Mutual Events</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/j20210815a_cgo_crop1200.jpg"">
 
 
-<p style="text-align: justify;">Frames from a camera that spent three moonless nights under the stars create this composite night skyscape. They were recorded during August 11-13 while planet Earth was sweeping through the dusty trail of comet Swift-Tuttle. One long exposure, untracked for the foreground, and the many star tracking captures of Perseid shower meteors were taken from the village of Magyaregres, Hungary. Each aligned against the background stars, the meteor trails all point back to the annual shower&#39;s radiant in the constellation Perseus heroically standing above this rural horizon. Of course the comet dust particles are traveling along trajectories parallel to each other. The radiant effect is due only to perspective, as the parallel tracks appear to converge in the distance against the starry sky.   Notable APOD Image Submissions: Perseid Meteor Shower 2021</p>
+<p style="text-align: justify;">These three panels feature the Solar System&#39;s ruling gas giant Jupiter on August 15 as seen from Cebu City, Phillipines, planet Earth. On that date the well-timed telescopic views detail some remarkable performances, transits and mutual events, by Jupiter&#39;s Galilean moons. In the top panel, Io is just disappearing into Jupiter&#39;s shadow at the far right, but the three other large Jovian moons appear against the planet&#39;s banded disk. Brighter Europa and darker Ganymede are at the far left, also casting their two shadows on the gas giant&#39;s cloud tops. Callisto is below and right near the planet&#39;s edge, the three moons in a triple transit across the face of Jupiter. Moving to the middle panel, shadows of Europa and Ganymede are still visible near center but Ganymede has occulted or passed in front of Europa. The bottom panel captures a rare view of Jovian moons in eclipse while transiting Jupiter, Ganymede&#39;s shadow falling on Europa itself. From planet Earth&#39;s perspective, similar mutual events, when Galilean moons occult and eclipse each other, can be seen every six years or so when Jupiter is near its own equinox.</p>
 
 
 
