@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Triple Transit and Mutual Events</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/j20210815a_cgo_crop1200.jpg"">
+<h3>Explosions from White Dwarf Star RS Oph</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/rsoph_pparc_960.jpg"">
 
 
-<p style="text-align: justify;">These three panels feature the Solar System&#39;s ruling gas giant Jupiter on August 15 as seen from Cebu City, Phillipines, planet Earth. On that date the well-timed telescopic views detail some remarkable performances, transits and mutual events, by Jupiter&#39;s Galilean moons. In the top panel, Io is just disappearing into Jupiter&#39;s shadow at the far right, but the three other large Jovian moons appear against the planet&#39;s banded disk. Brighter Europa and darker Ganymede are at the far left, also casting their two shadows on the gas giant&#39;s cloud tops. Callisto is below and right near the planet&#39;s edge, the three moons in a triple transit across the face of Jupiter. Moving to the middle panel, shadows of Europa and Ganymede are still visible near center but Ganymede has occulted or passed in front of Europa. The bottom panel captures a rare view of Jovian moons in eclipse while transiting Jupiter, Ganymede&#39;s shadow falling on Europa itself. From planet Earth&#39;s perspective, similar mutual events, when Galilean moons occult and eclipse each other, can be seen every six years or so when Jupiter is near its own equinox.</p>
+<p style="text-align: justify;">Spectacular explosions keep occurring in the binary star system named RS Ophiuchi.  Every 20 years or so, the red giant star dumps enough hydrogen gas onto its companion white dwarf star to set off a brilliant thermonuclear explosion on the white dwarf&#39;s surface.  At about 5,000 light years distant, the resulting nova explosions cause the RS Oph system to brighten up by a huge factor and become visible to the unaided eye.  The red giant star is depicted on the right of the above drawing, while the white dwarf is at the center of the bright accretion disk on the left.  As the stars orbit each other, a stream of gas moves from the giant star to the white dwarf.  Astronomers speculate that at some time in the next 100,000 years, enough matter will have accumulated on the white dwarf to push it over the Chandrasekhar Limit, causing a much more powerful and final explosion known as a supernova. Starting early this month, RS Oph was again seen exploding in a bright nova.</p>
 
 
 
