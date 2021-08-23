@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Explosions from White Dwarf Star RS Oph</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/rsoph_pparc_960.jpg"">
+<h3>Abell 3827: Cannibal Cluster Gravitational Lens</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/Abell3827Lens_Hubble_960.jpg"">
 
 
-<p style="text-align: justify;">Spectacular explosions keep occurring in the binary star system named RS Ophiuchi.  Every 20 years or so, the red giant star dumps enough hydrogen gas onto its companion white dwarf star to set off a brilliant thermonuclear explosion on the white dwarf&#39;s surface.  At about 5,000 light years distant, the resulting nova explosions cause the RS Oph system to brighten up by a huge factor and become visible to the unaided eye.  The red giant star is depicted on the right of the above drawing, while the white dwarf is at the center of the bright accretion disk on the left.  As the stars orbit each other, a stream of gas moves from the giant star to the white dwarf.  Astronomers speculate that at some time in the next 100,000 years, enough matter will have accumulated on the white dwarf to push it over the Chandrasekhar Limit, causing a much more powerful and final explosion known as a supernova. Starting early this month, RS Oph was again seen exploding in a bright nova.</p>
+<p style="text-align: justify;">Is that one galaxy or three? Toward the right of the featured Hubble image of the massive galaxy cluster Abell 3827 is what appears to be a most unusual galaxy -- curved and with three centers.  A detailed analysis, however, finds that these are three images of the same background galaxy -- and that there are at least four more images.  Light we see from the single background blue galaxy takes multiple paths through the complex gravity of the cluster, just like a single distant light can take multiple paths through the stem of a wine glass. Studying how clusters like Abell 3827 and their component galaxies deflect distant light gives information about how mass and dark matter are distributed. Abell 3827 is so distant, having a redshift of 0.1, that the light we see from it left about 1.3 billion years ago -- before dinosaurs roamed the Earth. Therefore, the cluster&#39;s central galaxies have now surely all coalesced -- in a feast of galactic cannibalism -- into one huge galaxy near the cluster&#39;s center.</p>
 
 
 
