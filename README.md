@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>PDS 70: Disk, Planets, and Moons</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PDS70_ALMA_960.jpg"">
+<h3>Solar System Ball Drop</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uHhQrplIm8g" target="_blank"><img src="http://img.youtube.com/vi/uHhQrplIm8g/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">It&#39;s not the big disk that&#39;s attracting the most attention. Although the big planet-forming disk around the star PDS 70 is clearly imaged and itself quite interesting. It&#39;s also not the planet on the right, just inside the big disk, that’s being talked about the most.  Although the planet PDS 70c is a newly formed and, interestingly, similar in size and mass to Jupiter. It&#39;s the fuzzy patch around the planet PDS 70c that&#39;s causing the commotion. That fuzzy patch is thought to be itself a dusty disk that is now forming into moons -- and that has never been seen before. The featured image was taken by the Atacama Large Millimeter Array (ALMA) of 66 radio telescopes in the high Atacama Desert of northern Chile.  Based on ALMA data, astronomers infer that the moon-forming exoplanetary disk has a radius similar to our Earth&#39;s orbit, and may one day form three or so Luna-sized moons -- not very different from our Jupiter&#39;s four.</p>
+<p style="text-align: justify;">Does a ball drop faster on Earth, Jupiter, or Uranus?  The featured animation shows a ball dropping from one kilometer high toward the surfaces of famous solar system bodies, assuming no air resistance.  The force of gravity depends on the mass of the attracting object, with higher masses pulling down with greater forces. But gravitational force also depends on distance from the center of gravity, with shorter distances causing the ball to drop faster.  Combining both mass and distance, it might be surprising to see that Uranus pulls the ball down slightly slower than Earth, despite containing over 14 times more mass. This happens because Uranus has a much lower density, which puts its cloud tops further away from its center of mass.  Although the falling ball always speeds up, if you were on the ball you would not feel this acceleration because you would be in free-fall. Of the three planets mentioned, the video demonstrates a ball drops even faster on Jupiter than either Earth and Uranus.</p>
 
 
 
