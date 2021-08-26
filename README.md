@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Solar System Ball Drop</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uHhQrplIm8g" target="_blank"><img src="http://img.youtube.com/vi/uHhQrplIm8g/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>A Blue Hour Full Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/luna_antelao_Hofer1024.jpg"">
 
 
-<p style="text-align: justify;">Does a ball drop faster on Earth, Jupiter, or Uranus?  The featured animation shows a ball dropping from one kilometer high toward the surfaces of famous solar system bodies, assuming no air resistance.  The force of gravity depends on the mass of the attracting object, with higher masses pulling down with greater forces. But gravitational force also depends on distance from the center of gravity, with shorter distances causing the ball to drop faster.  Combining both mass and distance, it might be surprising to see that Uranus pulls the ball down slightly slower than Earth, despite containing over 14 times more mass. This happens because Uranus has a much lower density, which puts its cloud tops further away from its center of mass.  Although the falling ball always speeds up, if you were on the ball you would not feel this acceleration because you would be in free-fall. Of the three planets mentioned, the video demonstrates a ball drops even faster on Jupiter than either Earth and Uranus.</p>
+<p style="text-align: justify;">Nature photographers and other fans of planet Earth always look forward to the blue hour. That&#39;s the transition in twilight, just before sunrise or after sunset, when the Sun is below the horizon but land and sky are still suffused with a beautiful blue light. After sunset on August 21, this blue hour snapshot captured the nearly full Moon as it rose opposite the Sun, above the rugged Italian Alps from Cortina d&#39;Ampezzo, Italy. Sharing bluish hues with the sky, the rocky pyramid of Monte Antelao, also known as the King of the Dolomites, is the region&#39;s prominent alpine peak. The moonlight is yellow, but even so this full Moon was known to some as a seasonal Blue Moon. That&#39;s because by one definition the third full Moon of a season with four full moons in it is called a Blue Moon. Recognizing a season as the time between a solstice and an equinox, this season&#39;s fourth full Moon will be rising in the blue hour of September 20, just before September&#39;s equinox.</p>
 
 
 
