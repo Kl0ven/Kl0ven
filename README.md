@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Blue Hour Full Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/luna_antelao_Hofer1024.jpg"">
+<h3>Elephant&#39;s Trunk and Caravan</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/ElephantTrunkCaravan1024.jpg"">
 
 
-<p style="text-align: justify;">Nature photographers and other fans of planet Earth always look forward to the blue hour. That&#39;s the transition in twilight, just before sunrise or after sunset, when the Sun is below the horizon but land and sky are still suffused with a beautiful blue light. After sunset on August 21, this blue hour snapshot captured the nearly full Moon as it rose opposite the Sun, above the rugged Italian Alps from Cortina d&#39;Ampezzo, Italy. Sharing bluish hues with the sky, the rocky pyramid of Monte Antelao, also known as the King of the Dolomites, is the region&#39;s prominent alpine peak. The moonlight is yellow, but even so this full Moon was known to some as a seasonal Blue Moon. That&#39;s because by one definition the third full Moon of a season with four full moons in it is called a Blue Moon. Recognizing a season as the time between a solstice and an equinox, this season&#39;s fourth full Moon will be rising in the blue hour of September 20, just before September&#39;s equinox.</p>
+<p style="text-align: justify;">Like an illustration in a galactic Just So Story, the Elephant&#39;s Trunk Nebula winds through the emission nebula and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, seen on the left the cosmic elephant&#39;s trunk is over 20 light-years long. Removed by digital processing, no visible stars are in this detailed telescopic close-up view highlighting the bright swept-back ridges that outline pockets of cool interstellar dust and gas. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 comple</p>
 
 
 
