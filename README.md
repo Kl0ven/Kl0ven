@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Elephant&#39;s Trunk and Caravan</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/ElephantTrunkCaravan1024.jpg"">
+<h3>Mars Rock Rochette</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/PIA24767_1067.jpg"">
 
 
-<p style="text-align: justify;">Like an illustration in a galactic Just So Story, the Elephant&#39;s Trunk Nebula winds through the emission nebula and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, seen on the left the cosmic elephant&#39;s trunk is over 20 light-years long. Removed by digital processing, no visible stars are in this detailed telescopic close-up view highlighting the bright swept-back ridges that outline pockets of cool interstellar dust and gas. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 comple</p>
+<p style="text-align: justify;">Taken on mission sol 180 (August 22) this sharp image from a Hazard Camera on the Perseverance rover looks out across a rock strewn floor of Jezero crater on Mars. At 52.5 centimeters (21 inches) in diameter, one of the rover&#39;s steerable front wheels is at lower left in the frame. Near center is a large rock nicknamed Rochette. Mission planners don&#39;t want to avoid Rochette though. Instead Perseverance will be instructed to reach out with its 2 meter long robotic arm and abrade the rock&#39;s surface, to determine whether it has a consistency suitable for obtaining a sample, slightly thicker than a pencil, using the rover&#39;s coring bit. Samples collected by Perseverance would be returned to Earth by a future Mars mission.</p>
 
 
 
