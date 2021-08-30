@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Orbits of Potentially Hazardous Asteroids</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/phas_jpl_960.jpg"">
+<h3>A Fire Rainbow over West Virginia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2108/FireRainbow_Harbig_960.jpg"">
 
 
-<p style="text-align: justify;">Are asteroids dangerous? Some are, but the likelihood of a dangerous asteroid striking the Earth during any given year is low. Because some past mass extinction events have been linked to asteroid impacts, however, humanity has made it a priority to find and catalog those asteroids that may one day affect life on Earth. Pictured here are the orbits of the over 1,000 known Potentially Hazardous Asteroids (PHAs). These documented tumbling boulders of rock and ice are over 140 meters across and will pass within 7.5 million kilometers of Earth -- about 20 times the distance to the Moon. Although none of them will strike the Earth in the next 100 years -- not all PHAs have been discovered, and past 100 years, many orbits become hard to predict. Were an asteroid of this size to impact the Earth, it could raise dangerous tsunamis, for example. To investigate Earth-saving strategies, NASA&#39;s  Double Asteroid Redirection Test (DART) is planned for launch later this year. Of course rocks and ice bits of much smaller size strike the Earth every day, usually pose no danger, and sometimes creating memorable fireball and meteor displays.</p>
+<p style="text-align: justify;">What&#39;s happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds present below --  in this case cirrus fibrates.  The numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner.  Therefore, circumhorizontal arcs are somewhat unusual to see.  The featured fire rainbow was photographed earlier this month near North Fork Mountain in West Virginia, USA.</p>
 
 
 
