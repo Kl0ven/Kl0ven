@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Falcon 9 Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/DSC06988copy2_1024.jpg"">
+<h3>Earth and Moon</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=tvB0mdkrG3Q" target="_blank"><img src="http://img.youtube.com/vi/tvB0mdkrG3Q/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Not the Hubble Space Telescope&#39;s latest view of a distant galactic nebula, this illuminated cloud of gas and dust dazzled early morning spacecoast skygazers on August 29. The snapshot was taken at 3:17am from Space View Park in Titusville, Florida. That&#39;s about 3 minutes after the launch of a SpaceX Falcon 9 rocket on the CRS-23 mission to resupply the International Space Station. It captures drifting plumes and exhaust from the separated first and second stage of the rocket rising through still dark skies. The lower bright dot is the second stage continuing on to low Earth orbit. The upper one is the rocket&#39;s first stage performing a boostback burn. Of course the first stage booster returned to make the first landing on the latest autonomous drone ship to arrive in the Atlantic, A Short Fall of Gravitas.</p>
+<p style="text-align: justify;">The Earth and Moon are rarely photographed together. One of most spectacular times this occurred was about 30 years ago when the Jupiter-bound Galileo spacecraft zoomed past our home planetary system.  Then, robotic Galileo watched from about 15-times the Earth-Moon separation as our only natural satellite glided past our home world.  The featured video combines 52 historic color-enhanced images. Although our Moon may appear small next to the Earth, no other planet in our Solar System has a satellite so comparable in size .  The Sun, far off to the right, illuminated about half of each sphere, and shows the spinning Earth&#39;s white clouds, blue oceans, and tan continents.</p>
 
 
 
