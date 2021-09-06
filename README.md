@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Earth and Moon</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=tvB0mdkrG3Q" target="_blank"><img src="http://img.youtube.com/vi/tvB0mdkrG3Q/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Firefly Milky Way over Russia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg"">
 
 
-<p style="text-align: justify;">The Earth and Moon are rarely photographed together. One of most spectacular times this occurred was about 30 years ago when the Jupiter-bound Galileo spacecraft zoomed past our home planetary system.  Then, robotic Galileo watched from about 15-times the Earth-Moon separation as our only natural satellite glided past our home world.  The featured video combines 52 historic color-enhanced images. Although our Moon may appear small next to the Earth, no other planet in our Solar System has a satellite so comparable in size .  The Sun, far off to the right, illuminated about half of each sphere, and shows the spinning Earth&#39;s white clouds, blue oceans, and tan continents.</p>
+<p style="text-align: justify;">It started with a pine tree. The idea was to photograph a statuesque pine in front of the central band of our Milky Way Galaxy. And the plan, carried out two months ago, was successful -- they both appear prominently. But the resulting 3-frame panorama captured much more. Colorful stars, for example, dot the distant background, with bright Altair visible on the upper left. The planet Saturn, a bit closer, was captured just over the horizon on the far left. Just beyond the Earth&#39;s atmosphere, seen in the upper right, an Earth-orbiting satellite was caught leaving a streak during the 25-second exposure. The Earth&#39;s atmosphere itself was surprisingly visible -- as green airglow across the image top. Finally, just by chance, there was a firefly. Do you see it? Near the image bottom, the firefly blinked in yellow several times as it fluttered before the rolling hills above Milogradovka River in Primorsky Krai, Russia.    Explore Your Universe: Random APOD Generator</p>
 
 
 
