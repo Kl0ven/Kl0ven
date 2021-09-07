@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Firefly Milky Way over Russia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg"">
+<h3>NGC 520: Colliding Galaxies from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/NGC520_HubbleOstling_960.jpg"">
 
 
-<p style="text-align: justify;">It started with a pine tree. The idea was to photograph a statuesque pine in front of the central band of our Milky Way Galaxy. And the plan, carried out two months ago, was successful -- they both appear prominently. But the resulting 3-frame panorama captured much more. Colorful stars, for example, dot the distant background, with bright Altair visible on the upper left. The planet Saturn, a bit closer, was captured just over the horizon on the far left. Just beyond the Earth&#39;s atmosphere, seen in the upper right, an Earth-orbiting satellite was caught leaving a streak during the 25-second exposure. The Earth&#39;s atmosphere itself was surprisingly visible -- as green airglow across the image top. Finally, just by chance, there was a firefly. Do you see it? Near the image bottom, the firefly blinked in yellow several times as it fluttered before the rolling hills above Milogradovka River in Primorsky Krai, Russia.    Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Is this one galaxy or two?  The jumble of stars, gas, and dust that is NGC 520 is now thought to incorporate the remains of two separate disk galaxies.  A defining component of NGC 520 -- as seen in great detail in the featured image from the Hubble Space Telescope -- is its band of intricately interlaced dust running vertically down the spine of the colliding galaxies. A similar looking collision might be expected in a few billion years when our disk  Milky Way Galaxy to collides with our large-disk galactic neighbor Andromeda (M31).  The collision that defines NGC 520 started about 300 million years ago.  Also known as Arp 157, NGC 520 lies about 100 million light years distant, spans about 100 thousand light years, and can be seen with a small telescope toward the constellation of the Fish (Pisces). Although the speeds of stars in NGC 520 are fast, the distances are so vast that the battling pair will surely not change its shape noticeably during our lifetimes.</p>
 
 
 
