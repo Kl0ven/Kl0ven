@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 520: Colliding Galaxies from Hubble</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/NGC520_HubbleOstling_960.jpg"">
+<h3>The Deep Sky Toward Andromeda</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/M31WideField_Ziegenbalg_960.jpg"">
 
 
-<p style="text-align: justify;">Is this one galaxy or two?  The jumble of stars, gas, and dust that is NGC 520 is now thought to incorporate the remains of two separate disk galaxies.  A defining component of NGC 520 -- as seen in great detail in the featured image from the Hubble Space Telescope -- is its band of intricately interlaced dust running vertically down the spine of the colliding galaxies. A similar looking collision might be expected in a few billion years when our disk  Milky Way Galaxy to collides with our large-disk galactic neighbor Andromeda (M31).  The collision that defines NGC 520 started about 300 million years ago.  Also known as Arp 157, NGC 520 lies about 100 million light years distant, spans about 100 thousand light years, and can be seen with a small telescope toward the constellation of the Fish (Pisces). Although the speeds of stars in NGC 520 are fast, the distances are so vast that the battling pair will surely not change its shape noticeably during our lifetimes.</p>
+<p style="text-align: justify;">What surrounds the Andromeda galaxy?  Out in space, Andromeda (M31) is closely surrounded by several small satellite galaxies, and further out it is part of the Local Group of Galaxies -- of which our Milky Way galaxy is also a member. On the sky, however, gas clouds local to our Milky Way appear to surround M31 -- not unlike how water clouds in Earth&#39;s atmosphere may appear to encompass our Moon.  The gas clouds toward Andromeda, however, are usually too faint to see.  Enter the featured 45-degree long image -- one of the deeper images yet taken of the broader Andromeda region. This image, sensitive to light specifically emitted by hydrogen gas, shows these faint and unfamiliar clouds in tremendous detail. But the image captures more.  At the image top is the Triangulum galaxy (M33), the third largest galaxy in the Local Group and the furthest object that can be seen with the unaided eye.  Below M33 is the bright Milky-Way star Mirach. The image is the digital accumulation of several long exposures taken from 2018 to 2021 from Pulsnitz, Germany.</p>
 
 
 
