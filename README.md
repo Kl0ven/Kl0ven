@@ -33,7 +33,7 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M16 Cose Up</h3>
+<h3>M16 Close Up</h3>
  <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/M16SHO_1024.jpg"">
 
 
