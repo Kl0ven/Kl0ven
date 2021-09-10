@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M16 Close Up</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/M16SHO_1024.jpg"">
+<h3>Rosetta&#39;s Comet in View</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/67P_210907_1024.jpg"">
 
 
-<p style="text-align: justify;">A star cluster around 2 million years young surrounded by natal clouds of dust and glowing gas, M16 is also known as The Eagle Nebula. This beautifully detailed image of the region adopts the colorful Hubble palette and includes cosmic sculptures made famous in Hubble Space Telescope close-ups of the starforming complex. Described as elephant trunks or Pillars of Creation, dense, dusty columns rising near the center are light-years in length but are gravitationally contracting to form stars. Energetic radiation from the cluster stars erodes material near the tips, eventually exposing the embedded new stars. Extending from the ridge of bright emission left of center is another dusty starforming column known as the Fairy of Eagle Nebula. M16 lies about 7,000 light-years away, an easy target for binoculars or small telescopes in a nebula rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).</p>
+<p style="text-align: justify;">Faint comet Churyumov-Gerasimenko (67P) sweeps past background stars in the constellation Taurus and even fainter distant galaxies in this telescopic frame from September 7. About 5 years ago, this comet&#39;s 4 kilometer spanning, double-lobed nucleus became the final resting place of robots from planet Earth, following the completion of the historic Rosetta mission to the comet. After wandering out beyond the orbit of Jupiter, Churyumov-Gerasimenko is now returning along its 6.4 year periodic orbit toward its next perihelion or closest approach to the Sun, on November 2. On November 12, the comet&#39;s perigee, its closest approach to Earth, will bring it within about 0.42 astronomical units. Telescopes should still be required to view it even at its brightest, predicted to be in late November and December. On September 7 Rosetta&#39;s comet was about 0.65 astronomical units away or about 5.4 light-minutes from our fair planet.</p>
 
 
 
