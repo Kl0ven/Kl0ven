@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Saturn at Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/LastRingPortrait_Cassini_1080.jpg"">
+<h3>A Spiral Aurora over Iceland</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/AuroraIceland_Necchi_960.jpg"">
 
 
-<p style="text-align: justify;">Still bright in planet Earth&#39;s night skies, good telescopic views of Saturn and its beautiful rings often make it a star at star parties. But this stunning view of Saturn&#39;s rings and night side just isn&#39;t possible from telescopes closer to the Sun than the outer planet. They can only bring Saturn&#39;s day into view. In fact, this image of Saturn&#39;s slender sunlit crescent with night&#39;s shadow cast across its broad and complex ring system was captured by the Cassini spacecraft. A robot spacecraft from planet Earth, Cassini called Saturn orbit home for 13 years before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini&#39;s wide-angle camera only two days before its grand final plunge. Saturn&#39;s night will not be seen again until another spaceship from Earth calls.</p>
+<p style="text-align: justify;">What&#39;s happened to the sky? Aurora! Captured in 2015, this aurora was noted by Icelanders for its great brightness and quick development. The aurora resulted from a solar storm, with high energy particles bursting out from the Sun and through a crack in Earth&#39;s protective magnetosphere a few days later. Although a spiral pattern can be discerned, creative humans might imagine the complex glow as an atmospheric apparition of any number of common icons. In the foreground of the featured image is the Ölfusá River while the lights illuminate a bridge in Selfoss City. Just beyond the low clouds is a nearly full Moon. The liveliness of the Sun -- and likely the resulting auroras on Earth -- is slowly increasing as the Sun emerges from a Solar minimum, a historically quiet period in its 11-year cycle.</p>
 
 
 
