@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Spiral Aurora over Iceland</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/AuroraIceland_Necchi_960.jpg"">
+<h3>Night Sky Reflected</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/GalaxySkyMirror_Egon_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happened to the sky? Aurora! Captured in 2015, this aurora was noted by Icelanders for its great brightness and quick development. The aurora resulted from a solar storm, with high energy particles bursting out from the Sun and through a crack in Earth&#39;s protective magnetosphere a few days later. Although a spiral pattern can be discerned, creative humans might imagine the complex glow as an atmospheric apparition of any number of common icons. In the foreground of the featured image is the Ölfusá River while the lights illuminate a bridge in Selfoss City. Just beyond the low clouds is a nearly full Moon. The liveliness of the Sun -- and likely the resulting auroras on Earth -- is slowly increasing as the Sun emerges from a Solar minimum, a historically quiet period in its 11-year cycle.</p>
+<p style="text-align: justify;">What&#39;s that in the mirror? In the featured image of the dark southern sky, the three brightest galaxies of the night are all relatively easy to identify. Starting from the left, these are the Small Magellanic Cloud (SMC), the Large Magellanic Cloud (LMC), and part of the central band of our Milky Way Galaxy. All three are also seen reflected in a shallow pool of water. But what is seen in the mirror being positioned by the playful astrophotographer? Dust clouds near the center of our Milky Way -- and the planet Jupiter.  The composite was carefully planned and composed from images captured from the same camera in the same location and during the same night in mid-2019 in Mostardas, south Brazil.  The picture won first place in the Connecting to the Dark division of the International Dark-Sky Association&#39;s Capture the Dark contest for 2021.   Quiz: What is pictured in the double-reflection below the main mirror?</p>
 
 
 
