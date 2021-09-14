@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Night Sky Reflected</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/GalaxySkyMirror_Egon_960.jpg"">
+<h3>Mars Panorama 360 from Curiosity</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/MarsPanCompressed_Curiosity_1080.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that in the mirror? In the featured image of the dark southern sky, the three brightest galaxies of the night are all relatively easy to identify. Starting from the left, these are the Small Magellanic Cloud (SMC), the Large Magellanic Cloud (LMC), and part of the central band of our Milky Way Galaxy. All three are also seen reflected in a shallow pool of water. But what is seen in the mirror being positioned by the playful astrophotographer? Dust clouds near the center of our Milky Way -- and the planet Jupiter.  The composite was carefully planned and composed from images captured from the same camera in the same location and during the same night in mid-2019 in Mostardas, south Brazil.  The picture won first place in the Connecting to the Dark division of the International Dark-Sky Association&#39;s Capture the Dark contest for 2021.   Quiz: What is pictured in the double-reflection below the main mirror?</p>
+<p style="text-align: justify;">Which way up Mount Sharp? In early September, the robotic rover Curiosity continued its ascent up the central peak of Gale Crater, searching for more clues about ancient water and further evidence that Mars could once have been capable of supporting life.  On this recent Martian morning, before exploratory drilling, the rolling rover took this 360-degree panorama, in part to help Curiosity&#39;s human team back on Earth access the landscape and chart possible future routes.  In the horizontally-compressed featured image, an amazing vista across Mars was captured, complete with layered hills, red rocky ground, gray drifting sand, and a dusty atmosphere. The hill just left of center has been dubbed Maria Gordon Notch in honor of a famous Scottish geologist.  The current plan is to direct Curiosity to approach, study, and pass just to the right of Gordon Notch on its exploratory trek.</p>
 
 
 
