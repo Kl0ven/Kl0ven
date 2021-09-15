@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mars Panorama 360 from Curiosity</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/MarsPanCompressed_Curiosity_1080.jpg"">
+<h3>Cyclone Paths on Planet Earth</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/StormPaths_NHC_1080.jpg"">
 
 
-<p style="text-align: justify;">Which way up Mount Sharp? In early September, the robotic rover Curiosity continued its ascent up the central peak of Gale Crater, searching for more clues about ancient water and further evidence that Mars could once have been capable of supporting life.  On this recent Martian morning, before exploratory drilling, the rolling rover took this 360-degree panorama, in part to help Curiosity&#39;s human team back on Earth access the landscape and chart possible future routes.  In the horizontally-compressed featured image, an amazing vista across Mars was captured, complete with layered hills, red rocky ground, gray drifting sand, and a dusty atmosphere. The hill just left of center has been dubbed Maria Gordon Notch in honor of a famous Scottish geologist.  The current plan is to direct Curiosity to approach, study, and pass just to the right of Gordon Notch on its exploratory trek.</p>
+<p style="text-align: justify;">Where on Earth do cyclones go? Known as hurricanes when in the Atlantic Ocean and typhoons when in the Pacific, the featured map shows the path of all major storms from 1985 through 2005.  The map shows graphically that cyclones usually occur over water, which makes sense since evaporating warm water gives them energy. The map also shows that cyclones never cross -- and rarely approach -- the Earth&#39;s equator, since the Coriolis effect goes to zero there, and cyclones need the Coriolis force to circulate. The Coriolis force also causes cyclone paths to arc away from the equator. Although long-term trends remain a topic of research, evidence indicates that hurricanes have become, on the average, more powerful in the North Atlantic over the past 30 years, and their power is projected to keep increasing.   Follow APOD on Instagram in: English, Farsi, Indonesian, Persian, or Portuguese</p>
 
 
 
