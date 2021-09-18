@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Video: Flash on Jupiter</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ImVl_TfTFEY" target="_blank"><img src="http://img.youtube.com/vi/ImVl_TfTFEY/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Rubin&#39;s Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/RubinsGalaxy_hst1024.jpg"">
 
 
-<p style="text-align: justify;">There has been a flash on Jupiter. A few days ago, several groups monitoring our Solar System&#39;s largest planet noticed a two-second long burst of light. Such flashes have been seen before, with the most famous being a series of impactor strikes in 1994. Then, fragments of Comet Shoemaker-Levy 9 struck  Jupiter leaving dark patches that lasted for months. Since then, at least seven impacts have been recorded on Jupiter -- usually discovered by amateur astronomers. In the featured video, variations in the Earth&#39;s atmosphere cause Jupiter&#39;s image to shimmer when, suddenly, a bright flash appears just left of center.  Io and its shadow are visible on the right. What hit Jupiter will likely never be known, but considering what we do know of the nearby Solar System, it was likely a piece of rock and ice -- perhaps the size of a bus -- that broke off long-ago from a passing comet or asteroid.</p>
+<p style="text-align: justify;">In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way&#39;s diameter of 100,000 light-years or so, it has around 1 trillion stars. That&#39;s about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and astronomer Vera Rubin&#39;s pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe.</p>
 
 
 
