@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rings and Seasons of Saturn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/saturn2004to2015_peach_960.jpg"">
+<h3>Lynds Dark Nebula 1251</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/LDN1251Gualco1024.jpg"">
 
 
-<p style="text-align: justify;">On Saturn, the rings tell you the season. On Earth, Wednesday marks an equinox, the time when the  Earth&#39;s equator tilts directly toward the Sun. Since Saturn&#39;s grand rings orbit along the planet&#39;s equator, these rings appear most prominent -- from the direction of the Sun -- when the spin axis of Saturn points toward the Sun. Conversely, when Saturn&#39;s spin axis points to the side, an equinox occurs and the edge-on rings are hard to see from not only the Sun -- but Earth. In the featured montage, images of Saturn between the years of 2004 and 2015 have been superposed to show the giant planet passing from southern summer toward northern summer. Saturn was as close as it can get to planet Earth last month, and this month the ringed giant is still bright and visible throughout much of the night</p>
+<p style="text-align: justify;">Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, the dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk on the scene, almost buried behind the dusty expanse. This alluring view spans over two full moons on the sky, or 17 light-years at the estimated distance of LDN 1251.</p>
 
 
 
