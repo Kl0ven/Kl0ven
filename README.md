@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Sun Spot Hill</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/SunSpotHill_Coy_960.jpg"">
+<h3>Equinox on a Spinning Earth</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=LUW51lvIFjg" target="_blank"><img src="http://img.youtube.com/vi/LUW51lvIFjg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Is this giant orange ball about to roll down that tree-lined hill? No, because the giant orange ball is actually the Sun. Our Solar System&#39;s central star was captured rising beyond a hill on Earth twelve days ago complete with a delightfully detailed foreground.  The Sun&#39;s disk showed five sunspots, quite a lot considering that during the solar minimum in solar activity of the past few years, most days showed no spots. A close look at the hill -- Sierra del Cid in Perter, Spain -- reveals not only silhouetted pine trees, but silhouetted people -- by coincidence three brothers of the photographer.  The trees and brothers were about 3.5-kilometers away during the morning of the well-planned, single-exposure image. A dark filter muted the usually brilliant Sun and brought up great detail on the lower sunspots.  Within a few minutes, the Sun rose far above the hill, while within a week, the sunspots rotated around the Sun, out of view. The captured scene, however, is now frozen in time for all to enjoy.</p>
+<p style="text-align: justify;">When does the line between night and day become vertical? Today. Today is an equinox on planet Earth, a time of year when day and night are most nearly equal. At an equinox, the Earth&#39;s terminator -- the dividing line between day and night -- becomes vertical and connects the north and south poles. The featured time-lapse video demonstrates this by displaying an entire year on planet Earth in twelve seconds. From geosynchronous orbit, the Meteosat 9 satellite recorded these infrared images of the Earth every day at the same local time.  The video started at the September 2010 equinox with the terminator line being vertical. As the Earth revolved around the Sun, the terminator was seen to tilt in a way that provides less daily sunlight to the northern hemisphere, causing winter in the north. As the year progressed, the March 2011 equinox arrived halfway through the video, followed by the terminator tilting the other way, causing winter in the southern hemisphere -- and summer in the north. The captured year ends again with the September equinox, concluding another of billions of trips the Earth has taken -- and will take -- around the Sun.</p>
 
 
 
