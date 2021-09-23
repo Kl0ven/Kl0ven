@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Equinox on a Spinning Earth</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=LUW51lvIFjg" target="_blank"><img src="http://img.youtube.com/vi/LUW51lvIFjg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Harvest Moon Trail</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/Cohea_APOD_HarvestMoon1067.jpg"">
 
 
-<p style="text-align: justify;">When does the line between night and day become vertical? Today. Today is an equinox on planet Earth, a time of year when day and night are most nearly equal. At an equinox, the Earth&#39;s terminator -- the dividing line between day and night -- becomes vertical and connects the north and south poles. The featured time-lapse video demonstrates this by displaying an entire year on planet Earth in twelve seconds. From geosynchronous orbit, the Meteosat 9 satellite recorded these infrared images of the Earth every day at the same local time.  The video started at the September 2010 equinox with the terminator line being vertical. As the Earth revolved around the Sun, the terminator was seen to tilt in a way that provides less daily sunlight to the northern hemisphere, causing winter in the north. As the year progressed, the March 2011 equinox arrived halfway through the video, followed by the terminator tilting the other way, causing winter in the southern hemisphere -- and summer in the north. The captured year ends again with the September equinox, concluding another of billions of trips the Earth has taken -- and will take -- around the Sun.</p>
+<p style="text-align: justify;">Famed in festival, story, and song the best known full moon is the Harvest Moon. For northern hemisphere dwellers that&#39;s a traditional name of the full moon nearest the September equinox. Seen from Saunderstown, Rhode Island, planet Earth, this Harvest Moon left a broad streak of warm hues as it rose through a twilight sky over the Newport Bridge. On September 20 its trail was captured in a single 22 minute exposure using a dense filter and a digital camera. Only two days later the September equinox marked a change of season and the beginning of autumn in the north. In fact, recognizing a season as the time between solstice and equinox, this Harvest Moon was the fourth full moon of the season, coming just before the astronomical end of northern summer.</p>
 
 
 
