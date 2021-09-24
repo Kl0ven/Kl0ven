@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Harvest Moon Trail</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/Cohea_APOD_HarvestMoon1067.jpg"">
+<h3>Perseid Outburst at Westmeath Lookout</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/IMG_9365-Aug1314-2021-282-meteors1024.jpg"">
 
 
-<p style="text-align: justify;">Famed in festival, story, and song the best known full moon is the Harvest Moon. For northern hemisphere dwellers that&#39;s a traditional name of the full moon nearest the September equinox. Seen from Saunderstown, Rhode Island, planet Earth, this Harvest Moon left a broad streak of warm hues as it rose through a twilight sky over the Newport Bridge. On September 20 its trail was captured in a single 22 minute exposure using a dense filter and a digital camera. Only two days later the September equinox marked a change of season and the beginning of autumn in the north. In fact, recognizing a season as the time between solstice and equinox, this Harvest Moon was the fourth full moon of the season, coming just before the astronomical end of northern summer.</p>
+<p style="text-align: justify;">This year an outburst of Perseid meteors surprised skywatchers. The reliable meteor shower&#39;s peak was predicted for the night of August 12&#x2F;13. But persistent visual observers in North America were deluged with a startling Perseid shower outburst a day later, with reports of multiple meteors per minute and sometimes per second in the early hours of August 14. The shower radiant is high in a dark night sky in this composite image. It painstakingly registers the trails of 282 Perseids captured during the stunning outburst activity between 0650 UT (02:50am EDT) and 0900 UT (05:00am EDT) on August 14 from Westmeath Lookout, Ontario. Of course the annual Perseid meteor shower is associated with planet Earth&#39;s passage through dusty debris from periodic comet 109P&#x2F;Swift-Tuttle. The 2021 outburst could have been caused by an unanticipated encounter with the Perseid Filament, a denser ribbon of dust inside the broader debris zone.</p>
 
 
 
