@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perseid Outburst at Westmeath Lookout</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/IMG_9365-Aug1314-2021-282-meteors1024.jpg"">
+<h3>The Bubble and the Star Cluster</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/241_lorand_fenyes_bubble_m52_1120.jpg"">
 
 
-<p style="text-align: justify;">This year an outburst of Perseid meteors surprised skywatchers. The reliable meteor shower&#39;s peak was predicted for the night of August 12&#x2F;13. But persistent visual observers in North America were deluged with a startling Perseid shower outburst a day later, with reports of multiple meteors per minute and sometimes per second in the early hours of August 14. The shower radiant is high in a dark night sky in this composite image. It painstakingly registers the trails of 282 Perseids captured during the stunning outburst activity between 0650 UT (02:50am EDT) and 0900 UT (05:00am EDT) on August 14 from Westmeath Lookout, Ontario. Of course the annual Perseid meteor shower is associated with planet Earth&#39;s passage through dusty debris from periodic comet 109P&#x2F;Swift-Tuttle. The 2021 outburst could have been caused by an unanticipated encounter with the Perseid Filament, a denser ribbon of dust inside the broader debris zone.</p>
+<p style="text-align: justify;">To the eye, this cosmic composition nicely balances the Bubble Nebula at the right with open star cluster M52. The pair would be lopsided on other scales, though. Embedded in a complex of interstellar dust and gas and blown by the winds from a single, massive O-type star, the Bubble Nebula, also known as NGC 7635, is a mere 10 light-years wide.  On the other hand, M52 is a rich open cluster of around a thousand stars. The cluster is about 25 light-years across. Seen toward the northern boundary of Cassiopeia, distance estimates for the Bubble Nebula and associated cloud complex are around 11,000 light-years, while star cluster M52 lies nearly 5,000 light-years away. The wide telescopic field of view spans about 1.5 degrees on the sky or three times the apparent size of a full Moon.</p>
 
 
 
