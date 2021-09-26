@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Bubble and the Star Cluster</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/241_lorand_fenyes_bubble_m52_1120.jpg"">
+<h3>The Red Square Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/RedSquare_Tuthill_960.jpg"">
 
 
-<p style="text-align: justify;">To the eye, this cosmic composition nicely balances the Bubble Nebula at the right with open star cluster M52. The pair would be lopsided on other scales, though. Embedded in a complex of interstellar dust and gas and blown by the winds from a single, massive O-type star, the Bubble Nebula, also known as NGC 7635, is a mere 10 light-years wide.  On the other hand, M52 is a rich open cluster of around a thousand stars. The cluster is about 25 light-years across. Seen toward the northern boundary of Cassiopeia, distance estimates for the Bubble Nebula and associated cloud complex are around 11,000 light-years, while star cluster M52 lies nearly 5,000 light-years away. The wide telescopic field of view spans about 1.5 degrees on the sky or three times the apparent size of a full Moon.</p>
+<p style="text-align: justify;">How did a round star create this square nebula? No one is quite sure. The round star, known as MWC 922 and possibly part of a multiple star system, appears at the center of the Red Square Nebula.  The featured image combines infrared exposures from the Hale Telescope on Mt. Palomar in California, and the Keck-2 Telescope on Mauna Kea in Hawaii.  A leading progenitor hypothesis for the square nebula is that the central star or stars somehow expelled cones of gas during a late developmental stage. For MWC 922, these cones happen to incorporate nearly right angles and be visible from the sides.  Supporting evidence for the cone hypothesis includes radial spokes in the image that might run along the cone walls. Researchers speculate that the cones viewed from another angle would appear similar to the gigantic rings of supernova 1987A, possibly indicating that a star in MWC 922 might one day itself explode in a similar supernova.</p>
 
 
 
