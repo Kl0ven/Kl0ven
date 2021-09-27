@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Red Square Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/RedSquare_Tuthill_960.jpg"">
+<h3>Unwrapped: Five Decade Old Lunar Selfie</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/AldrinVisorCrop_Apollo11_1080.jpg"">
 
 
-<p style="text-align: justify;">How did a round star create this square nebula? No one is quite sure. The round star, known as MWC 922 and possibly part of a multiple star system, appears at the center of the Red Square Nebula.  The featured image combines infrared exposures from the Hale Telescope on Mt. Palomar in California, and the Keck-2 Telescope on Mauna Kea in Hawaii.  A leading progenitor hypothesis for the square nebula is that the central star or stars somehow expelled cones of gas during a late developmental stage. For MWC 922, these cones happen to incorporate nearly right angles and be visible from the sides.  Supporting evidence for the cone hypothesis includes radial spokes in the image that might run along the cone walls. Researchers speculate that the cones viewed from another angle would appear similar to the gigantic rings of supernova 1987A, possibly indicating that a star in MWC 922 might one day itself explode in a similar supernova.</p>
+<p style="text-align: justify;">Here is one of the most famous pictures from the Moon -- but digitally reversed. Apollo 11 landed on the moon in 1969 and soon thereafter many pictures were taken, including an iconic picture of Buzz Aldrin taken by Neil Armstrong. The original image captured not only the magnificent desolation of an unfamiliar world, but Armstrong himself reflected in Aldrin&#39;s curved visor.  Enter modern digital technology. In the featured image, the spherical distortion from Aldrin&#39;s helmet has been reversed.  The result is the famous picture -- but now featuring Armstrong himself from Aldrin&#39;s perspective. Even so, since Armstrong took the picture, the image is effectively a five-decade old lunar selfie.  The original visor reflection is shown on the left, while Earth hangs in the lunar sky on the upper right. A foil-wrapped leg of the Eagle lander is prominently visible.  Preparations to return humans to the Moon in the next few years include the Artemis program, an international collaboration led by NASA.</p>
 
 
 
