@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Unwrapped: Five Decade Old Lunar Selfie</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/AldrinVisorCrop_Apollo11_1080.jpg"">
+<h3>Night of the Perseids</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=tLC6Sy8f06s" target="_blank"><img src="http://img.youtube.com/vi/tLC6Sy8f06s/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Here is one of the most famous pictures from the Moon -- but digitally reversed. Apollo 11 landed on the moon in 1969 and soon thereafter many pictures were taken, including an iconic picture of Buzz Aldrin taken by Neil Armstrong. The original image captured not only the magnificent desolation of an unfamiliar world, but Armstrong himself reflected in Aldrin&#39;s curved visor.  Enter modern digital technology. In the featured image, the spherical distortion from Aldrin&#39;s helmet has been reversed.  The result is the famous picture -- but now featuring Armstrong himself from Aldrin&#39;s perspective. Even so, since Armstrong took the picture, the image is effectively a five-decade old lunar selfie.  The original visor reflection is shown on the left, while Earth hangs in the lunar sky on the upper right. A foil-wrapped leg of the Eagle lander is prominently visible.  Preparations to return humans to the Moon in the next few years include the Artemis program, an international collaboration led by NASA.</p>
+<p style="text-align: justify;">Have you ever experienced a meteor shower? To help capture the wonder, a video was taken during the peak of the recent Perseid meteor shower above the Indian Astronomical Observatory in Hanle, India, high up in the Himalayan mountains.  Night descends as the video begins, with the central plane of our Milky Way Galaxy approaching from the left and Earth-orbiting satellites zipping by overhead. During the night, the flash of meteors that usually takes less than a second is artificially extended.  The green glow of most meteors is typically caused by vaporizing nickel. As the video continues, Orion rises and meteors flare above the 2-meter Himalayan Chandra Telescope and the seven barrels of the High Energy Gamma Ray Telescope (Hagar). The 2 minute 30 second movie ends with the Sun rising, preceded by a false dawn of zodiacal light.</p>
 
 
 
