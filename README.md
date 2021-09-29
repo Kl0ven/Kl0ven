@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Night of the Perseids</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=tLC6Sy8f06s" target="_blank"><img src="http://img.youtube.com/vi/tLC6Sy8f06s/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Gigantic Jet Lightning from Puerto Rico</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=wUdGPOx3zAk" target="_blank"><img src="http://img.youtube.com/vi/wUdGPOx3zAk/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Have you ever experienced a meteor shower? To help capture the wonder, a video was taken during the peak of the recent Perseid meteor shower above the Indian Astronomical Observatory in Hanle, India, high up in the Himalayan mountains.  Night descends as the video begins, with the central plane of our Milky Way Galaxy approaching from the left and Earth-orbiting satellites zipping by overhead. During the night, the flash of meteors that usually takes less than a second is artificially extended.  The green glow of most meteors is typically caused by vaporizing nickel. As the video continues, Orion rises and meteors flare above the 2-meter Himalayan Chandra Telescope and the seven barrels of the High Energy Gamma Ray Telescope (Hagar). The 2 minute 30 second movie ends with the Sun rising, preceded by a false dawn of zodiacal light.</p>
+<p style="text-align: justify;">Have you ever seen a gigantic jet?  They are extremely rare but tremendously powerful. Gigantic jets are a type of lightning discharge documented only this century that occur between some thunderstorms and the Earth&#39;s ionosphere high above them.  Pictured above is the middle and top of one such jet caught last week by a lightning and meteor camera from Puerto Rico, USA.  The jet traversed perhaps 70 kilometers in just under one second.  Gigantic jets are much different from regular cloud-to-cloud and cloud-to-ground lightning. The bottoms of gigantic jets appear similar in appearance to another type cloud-to-above strike called blue jets, while the tops appear similar to upper-atmosphere red sprites. Although the mechanism and trigger that causes gigantic jets is a topic of research, it is clear that the jets reduce charge imbalance between different parts of Earth&#39;s atmosphere.  A good way to look for gigantic jets is to watch a powerful but distant thunderstorm from a clear location.    Almost Hyperspace: Random APOD Generator</p>
 
 
 
