@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Gigantic Jet Lightning from Puerto Rico</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=wUdGPOx3zAk" target="_blank"><img src="http://img.youtube.com/vi/wUdGPOx3zAk/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>The Hydrogen Clouds of M33</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/NebulaeTriangulumM33-1179.jpg"">
 
 
-<p style="text-align: justify;">Have you ever seen a gigantic jet?  They are extremely rare but tremendously powerful. Gigantic jets are a type of lightning discharge documented only this century that occur between some thunderstorms and the Earth&#39;s ionosphere high above them.  Pictured above is the middle and top of one such jet caught last week by a lightning and meteor camera from Puerto Rico, USA.  The jet traversed perhaps 70 kilometers in just under one second.  Gigantic jets are much different from regular cloud-to-cloud and cloud-to-ground lightning. The bottoms of gigantic jets appear similar in appearance to another type cloud-to-above strike called blue jets, while the tops appear similar to upper-atmosphere red sprites. Although the mechanism and trigger that causes gigantic jets is a topic of research, it is clear that the jets reduce charge imbalance between different parts of Earth&#39;s atmosphere.  A good way to look for gigantic jets is to watch a powerful but distant thunderstorm from a clear location.    Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">Gorgeous spiral galaxy M33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  Sprawling along loose spiral arms that wind toward the core, M33&#39;s giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. To highlight the HII regions in this telescopic image, broadband data used to produce a color view of the galaxy were combined with narrowband data recorded through a hydrogen-alpha filter, transmitting the light of the strongest hydrogen emission line. Close-ups of cataloged HII regions appear in the sidebar insets. Use the individual reference number to find their location within the Triangulum Galaxy. For example, giant HII region NGC604 is identified in an inset on the right and appears at position number 15. That&#39;s about 4 o&#39;clock from galaxy center in this portrait of M33.</p>
 
 
 
