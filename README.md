@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Hydrogen Clouds of M33</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2109/NebulaeTriangulumM33-1179.jpg"">
+<h3>The Central Milky Way from Lagoon to Pipe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/M8-Pipe_APOD_GabrielSantosSmall.jpg"">
 
 
-<p style="text-align: justify;">Gorgeous spiral galaxy M33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  Sprawling along loose spiral arms that wind toward the core, M33&#39;s giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. To highlight the HII regions in this telescopic image, broadband data used to produce a color view of the galaxy were combined with narrowband data recorded through a hydrogen-alpha filter, transmitting the light of the strongest hydrogen emission line. Close-ups of cataloged HII regions appear in the sidebar insets. Use the individual reference number to find their location within the Triangulum Galaxy. For example, giant HII region NGC604 is identified in an inset on the right and appears at position number 15. That&#39;s about 4 o&#39;clock from galaxy center in this portrait of M33.</p>
+<p style="text-align: justify;">Dark markings and colorful clouds inhabit this stellar landscape. The deep and expansive view spans more than 30 full moons across crowded star fields toward the center of our Milky Way Galaxy. Cataloged in the early 20th century by astronomer E. E. Barnard, the obscuring interstellar dust clouds seen toward the right include B59, B72, B77 and B78, part of the Ophiuchus molecular cloud complex a mere 450 light-years away. To the eye their combined shape suggests a pipe stem and bowl, and so the dark nebula&#39;s popular name is the Pipe Nebula. Three bright nebulae gathered on the left are stellar nurseries some 5,000 light-years distant toward the constellation Sagittarius. In the 18th century astronomer Charles Messier included two of them in his catalog of bright clusters and nebulae; M8, the largest of the triplet, and colorful M20 just above. The third prominent emission region includes NGC 6559 at the far left. Itself divided by obscuring dust lanes, M20 is also known as the Trifid. M8&#39;s popular moniker is the Lagoon Nebula.</p>
 
 
 
