@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Central Milky Way from Lagoon to Pipe</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/M8-Pipe_APOD_GabrielSantosSmall.jpg"">
+<h3>A Light and Dusty Night</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/ArcsOfLightAndDust1024.jpg"">
 
 
-<p style="text-align: justify;">Dark markings and colorful clouds inhabit this stellar landscape. The deep and expansive view spans more than 30 full moons across crowded star fields toward the center of our Milky Way Galaxy. Cataloged in the early 20th century by astronomer E. E. Barnard, the obscuring interstellar dust clouds seen toward the right include B59, B72, B77 and B78, part of the Ophiuchus molecular cloud complex a mere 450 light-years away. To the eye their combined shape suggests a pipe stem and bowl, and so the dark nebula&#39;s popular name is the Pipe Nebula. Three bright nebulae gathered on the left are stellar nurseries some 5,000 light-years distant toward the constellation Sagittarius. In the 18th century astronomer Charles Messier included two of them in his catalog of bright clusters and nebulae; M8, the largest of the triplet, and colorful M20 just above. The third prominent emission region includes NGC 6559 at the far left. Itself divided by obscuring dust lanes, M20 is also known as the Trifid. M8&#39;s popular moniker is the Lagoon Nebula.</p>
+<p style="text-align: justify;">Posing as a brilliant evening star, Venus lies near the western horizon in this southern hemisphere, early spring, night skyscape. To create the composite view exposures tracking the sky and fixed for the foreground were taken on September 25 from Cascavel in southern Brazil. In view after sunset, Venus appears immersed in a cone of zodiacal light, sunlight scattered from dust along the Solar System&#39;s ecliptic plane. In fact from either hemisphere of planet Earth, zodiacal light is most visible after sunset near a spring equinox, (or before sunrise near an autumn equinox) when its luminous arc lies at steep angles to the horizon. Extending above the sunset on this night, the zodiacal light reaches toward rich starfields and immense interstellar dust clouds in the bulge of the central Milky Way. Follow along the Milky Way from the central bulge back toward the horizon and you&#39;ll spot the closest star system to the Sun, Alpha Centauri, a mere 4.37 light-years away.</p>
 
 
 
