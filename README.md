@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Light and Dusty Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/ArcsOfLightAndDust1024.jpg"">
+<h3>The Holographic Principle and a Teapot</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/teapotsirds_winfree_960.jpg"">
 
 
-<p style="text-align: justify;">Posing as a brilliant evening star, Venus lies near the western horizon in this southern hemisphere, early spring, night skyscape. To create the composite view exposures tracking the sky and fixed for the foreground were taken on September 25 from Cascavel in southern Brazil. In view after sunset, Venus appears immersed in a cone of zodiacal light, sunlight scattered from dust along the Solar System&#39;s ecliptic plane. In fact from either hemisphere of planet Earth, zodiacal light is most visible after sunset near a spring equinox, (or before sunrise near an autumn equinox) when its luminous arc lies at steep angles to the horizon. Extending above the sunset on this night, the zodiacal light reaches toward rich starfields and immense interstellar dust clouds in the bulge of the central Milky Way. Follow along the Milky Way from the central bulge back toward the horizon and you&#39;ll spot the closest star system to the Sun, Alpha Centauri, a mere 4.37 light-years away.</p>
+<p style="text-align: justify;">Sure, you can see the 2D rectangle of colors, but can you see deeper?  Counting color patches in the featured image, you might estimate that the most information that this 2D digital image can hold is about 60 (horizontal) x 50(vertical) x 256 (possible colors) &#x3D; 768,000 bits.  However, the yet-unproven Holographic Principle states that,  counter-intuitively, the information in a 2D panel can include all of the information in a 3D room that can be enclosed by the panel.  The principle derives from the idea that the Planck length, the length scale where quantum mechanics begins to dominate classical gravity, is one side of an area that can hold only about one bit of information.  The limit was first postulated by physicist Gerard &#39;t Hooft in 1993.  It can arise from generalizations from seemingly distant speculation that the information held by a black hole is determined not by its enclosed volume but by the surface area of its event horizon.  The term &quot;holographic&quot; arises from a hologram analogy where three-dimension images are created by projecting light through a flat screen.  Beware, some people staring at the featured image may not think it encodes just 768,000 bits -- nor even 2563,000 bit permutations -- rather they might claim it  encodes a three-dimensional teapot.</p>
 
 
 
