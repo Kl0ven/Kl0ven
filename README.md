@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Full Moon Silhouettes</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Juno Flyby of Ganymede and Jupiter</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=CC7OJ7gFLvE" target="_blank"><img src="http://img.youtube.com/vi/CC7OJ7gFLvE/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Have you ever watched the Moon rise? The slow rise of a nearly full moon over a clear horizon can be an impressive sight. One impressive moonrise was imaged in early 2013 over Mount Victoria Lookout in Wellington, New Zealand. With detailed planning, an industrious astrophotographer placed a camera about two kilometers away and pointed it across the lookout to where the Moon would surely soon be making its nightly debut. The featured single shot sequence is unedited and shown in real time -- it is not a time lapse. People on Mount Victoria Lookout can be seen in silhouette themselves admiring the dawn of Earth&#39;s largest satellite. Seeing a moonrise yourself is not difficult: it happens every day, although only half the time at night. Each day the Moon rises about fifty minutes later than the previous day, with a full moon always rising at sunset.  This Saturday, October 16, is International Observe the Moon Night, where you observe a first-quarter Moon along with other lunar enthusiasts.</p>
+<p style="text-align: justify;">What would it be like to fly over the largest moon in the Solar System? In June, the robotic Juno spacecraft flew past Jupiter&#39;s huge moon Ganymede and took images that have been digitally constructed into a detailed flyby. As the featured video begins, Juno swoops over the two-toned surface of the 2,000-km wide moon, revealing an icy alien landscape filled with grooves and craters. The grooves are likely caused by shifting surface plates, while the craters are caused by violent impacts. Continuing on in its orbit, Juno then performed its 34th close pass over Jupiter&#39;s clouds. The digitally-constructed video shows numerous swirling clouds in the north, colorful planet-circling zones and bands across the middle -- featuring several white-oval clouds from the String of Pearls, and finally more swirling clouds in the south.  Next September, Juno is scheduled to make a close pass over another of Jupiter&#39;s large moons: Europa.</p>
 
 
 
