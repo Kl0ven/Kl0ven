@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 7293: The Helix Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/Helix_Oxygen_crop2_1024.jpg"">
+<h3>NGC 289: Swirl in the Southern Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/NGC289Selby1024.jpg"">
 
 
-<p style="text-align: justify;">A mere seven hundred light years from Earth, toward the constellation Aquarius, a sun-like star is dying. Its last few thousand years have produced the Helix Nebula (NGC 7293), a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution.  A total of 90 hours of exposure time have gone in to creating this expansive view of the nebula. Combining narrow band image data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, it shows remarkable details of the Helix&#39;s brighter inner region about 3 light-years across. The white dot at the Helix&#39;s center is this Planetary Nebula&#39;s hot, central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry.</p>
+<p style="text-align: justify;">About 70 million light-years distant, gorgeous spiral galaxy NGC 289 is larger than our own Milky Way. Seen nearly face-on, its bright core and colorful central disk give way to remarkably faint, bluish spiral arms. The extensive arms sweep well over 100 thousand light-years from the galaxy&#39;s center. At the lower right in this sharp, telescopic galaxy portrait the main spiral arm seems to encounter a small, fuzzy elliptical companion galaxy interacting with enormous NGC 289. Of course spiky stars are in the foreground of the scene. They lie within the Milky Way toward the southern constellation Sculptor.</p>
 
 
 
