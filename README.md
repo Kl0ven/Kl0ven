@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 289: Swirl in the Southern Sky</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/NGC289Selby1024.jpg"">
+<h3>The Moona Lisa</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/Moonalisa_Example1024.jpg"">
 
 
-<p style="text-align: justify;">About 70 million light-years distant, gorgeous spiral galaxy NGC 289 is larger than our own Milky Way. Seen nearly face-on, its bright core and colorful central disk give way to remarkably faint, bluish spiral arms. The extensive arms sweep well over 100 thousand light-years from the galaxy&#39;s center. At the lower right in this sharp, telescopic galaxy portrait the main spiral arm seems to encounter a small, fuzzy elliptical companion galaxy interacting with enormous NGC 289. Of course spiky stars are in the foreground of the scene. They lie within the Milky Way toward the southern constellation Sculptor.</p>
+<p style="text-align: justify;">Only natural colors of the Moon in planet Earth&#39;s sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth&#39;s oceans illuminating the Moon&#39;s dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your monitor or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci&#39;s most famous works of art.  Tonight: International Observe the Moon Night</p>
 
 
 
