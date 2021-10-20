@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Palomar 6: Globular Star Cluster</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/Palomar6_Hubble_960.jpg"">
+<h3>Lucy Launches to Eight Asteroids</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_960.jpg"">
 
 
-<p style="text-align: justify;">Where did this big ball of stars come from? Palomar 6 is one of about 200 globular clusters of stars that survive in our Milky Way Galaxy. These spherical star-balls are older than our Sun as well as older than most stars that orbit in our galaxy&#39;s disk.  Palomar 6 itself is estimated to be about 12.5 billion years old, so old that it is close to -- and so constrains -- the age of the entire universe.  Containing about 500,000 stars, Palomar 6 lies about 25,000 light years away, but not very far from our galaxy&#39;s center.  At that distance, this sharp image from the Hubble Space Telescope spans about 15 light-years.  After much study including images from Hubble, a leading origin hypothesis is that Palomar 6 was created -- and survives today -- in the central bulge of stars that surround the Milky Way&#39;s center, not in the distant galactic halo where most other globular clusters are now found.</p>
+<p style="text-align: justify;">Why would this mission go out as far as Jupiter -- but then not visit Jupiter? Lucy&#39;s plan is to follow different leads about the origin of our Solar System than can be found at Jupiter -- where Juno now orbits. Jupiter is such a massive planet that its gravity captures numerous asteroids that orbit the Sun ahead of it -- and behind. These trojan asteroids formed all over our Solar System and some may have been trapped there for billions of years. Flying by these trojan asteroids enables studying them as fossils that likely hold unique clues about our early Solar System. Lucy, named after a famous fossil skeleton which was named after a famous song, is scheduled to visit eight asteroids from 2025 to 2033.  Pictured, Lucy&#39;s launch was captured with reflection last week aboard a powerful Atlas V rocket from Cape Canaveral, Florida, USA.</p>
 
 
 
