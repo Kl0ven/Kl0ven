@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lucy Launches to Eight Asteroids</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_960.jpg"">
+<h3>SH2-308: The Dolphin-Head Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/SH2-308NS_1024.jpg"">
 
 
-<p style="text-align: justify;">Why would this mission go out as far as Jupiter -- but then not visit Jupiter? Lucy&#39;s plan is to follow different leads about the origin of our Solar System than can be found at Jupiter -- where Juno now orbits. Jupiter is such a massive planet that its gravity captures numerous asteroids that orbit the Sun ahead of it -- and behind. These trojan asteroids formed all over our Solar System and some may have been trapped there for billions of years. Flying by these trojan asteroids enables studying them as fossils that likely hold unique clues about our early Solar System. Lucy, named after a famous fossil skeleton which was named after a famous song, is scheduled to visit eight asteroids from 2025 to 2033.  Pictured, Lucy&#39;s launch was captured with reflection last week aboard a powerful Atlas V rocket from Cape Canaveral, Florida, USA.</p>
+<p style="text-align: justify;">Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the constellation of the Big Dog (Canis Major) and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.</p>
 
 
 
