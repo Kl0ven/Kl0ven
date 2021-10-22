@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>SH2-308: The Dolphin-Head Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/SH2-308NS_1024.jpg"">
+<h3>A Comet and a Crab</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/67p_m1_vdb47_1024.jpg"">
 
 
-<p style="text-align: justify;">Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the constellation of the Big Dog (Canis Major) and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.</p>
+<p style="text-align: justify;">This pretty field of view spans over 2 degrees or 4 full moons on the sky, filled with stars toward the constellation Taurus, the Bull. Above and right of center in the frame you can spot the faint fuzzy reddish appearance of Messier 1 (M1), also known as the Crab Nebula. M1 is the first object in 18th century comet hunter Charles Messier&#39;s famous catalog of things which are definitely not comets. Made from image data captured this October 11, there is a comet in the picture though. Below center and left lies the faint greenish coma and dusty tail of periodic comet 67P Churyumov-Gerasimenko, also known as Rosetta&#39;s comet. In the 21st century, it became the final resting place of robots from planet Earth. Rosetta&#39;s comet is now returning to the inner solar system, sweeping toward its next perihelion or closest approach to the Sun, on November 2. Too faint to be seen by eye alone, the comet&#39;s next perigee or closest approach to Earth will be November 12.</p>
 
 
 
