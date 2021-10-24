@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>3D Bennu</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/ana03BennuVantuyne1024c.jpg"">
+<h3>Halloween and the Ghost Head Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/ngc2080_hubble_960.jpg"">
 
 
-<p style="text-align: justify;">Put on your red&#x2F;blue glasses and float next to asteroid 101955 Bennu. Shaped like a spinning toy top with boulders littering its rough surface, the tiny Solar System world is about one Empire State Building (less than 500 meters) across. Frames used to construct this 3D anaglyph were taken by PolyCam on the OSIRIS_REx spacecraft on December 3, 2018 from a distance of about 80 kilometers. With a sample from the asteroid&#39;s rocky surface on board, OSIRIS_REx departed Bennu&#39;s vicinity this May and is now enroute to planet Earth. The robotic spacecraft is scheduled to return the sample to Earth in September 2023.</p>
+<p style="text-align: justify;">Halloween&#39;s origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day &#x2F; equal night) and a solstice (minimum day &#x2F; maximum night in the northern hemisphere).  With a modern calendar however, even though Halloween occurs next week, the real cross-quarter day will occur the week after.  Another cross-quarter day is Groundhog Day. Halloween&#39;s modern celebration retains historic roots in dressing to scare away the spirits of the dead.  Perhaps a fitting tribute to this ancient holiday is this view of the Ghost Head Nebula taken with the Hubble Space Telescope.  Similar to the icon of a fictional ghost, NGC 2080 is actually a star forming region in the Large Magellanic Cloud, a satellite galaxy of our own Milky Way Galaxy.  The Ghost Head Nebula (NGC 2080) spans about 50 light-years and is shown in representative colors.</p>
 
 
 
