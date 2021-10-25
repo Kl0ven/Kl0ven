@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Halloween and the Ghost Head Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/ngc2080_hubble_960.jpg"">
+<h3>Road to the Galactic Center</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/MonumentValleyRoad_Abramyan_960.jpg"">
 
 
-<p style="text-align: justify;">Halloween&#39;s origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day &#x2F; equal night) and a solstice (minimum day &#x2F; maximum night in the northern hemisphere).  With a modern calendar however, even though Halloween occurs next week, the real cross-quarter day will occur the week after.  Another cross-quarter day is Groundhog Day. Halloween&#39;s modern celebration retains historic roots in dressing to scare away the spirits of the dead.  Perhaps a fitting tribute to this ancient holiday is this view of the Ghost Head Nebula taken with the Hubble Space Telescope.  Similar to the icon of a fictional ghost, NGC 2080 is actually a star forming region in the Large Magellanic Cloud, a satellite galaxy of our own Milky Way Galaxy.  The Ghost Head Nebula (NGC 2080) spans about 50 light-years and is shown in representative colors.</p>
+<p style="text-align: justify;">Does the road to our galaxy&#39;s center go through Monument Valley? It doesn&#39;t have to, but if your road does -- take a picture. In this case, the road is US Route 163 and iconic buttes on the Navajo National Reservation populate the horizon.  The band of Milky Way Galaxy stretches down from the sky and appears to be a continuation of the road on Earth. Filaments of dust darken the Milky Way, in contrast to billions of bright stars and several colorful glowing gas clouds including the Lagoon and Trifid nebulas. The featured picture is a composite of images taken with the same camera and from the same location -- Forest Gump Point in Utah, USA. The foreground was taken just after sunset in early September during the blue hour, while the background is a mosaic of four exposures captured a few hours later.    Discovery + Outreach: Graduate student research position open for APOD</p>
 
 
 
