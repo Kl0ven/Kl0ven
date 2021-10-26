@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Road to the Galactic Center</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/MonumentValleyRoad_Abramyan_960.jpg"">
+<h3>Jupiter Rotates</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=QSXgDiS2H_A" target="_blank"><img src="http://img.youtube.com/vi/QSXgDiS2H_A/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Does the road to our galaxy&#39;s center go through Monument Valley? It doesn&#39;t have to, but if your road does -- take a picture. In this case, the road is US Route 163 and iconic buttes on the Navajo National Reservation populate the horizon.  The band of Milky Way Galaxy stretches down from the sky and appears to be a continuation of the road on Earth. Filaments of dust darken the Milky Way, in contrast to billions of bright stars and several colorful glowing gas clouds including the Lagoon and Trifid nebulas. The featured picture is a composite of images taken with the same camera and from the same location -- Forest Gump Point in Utah, USA. The foreground was taken just after sunset in early September during the blue hour, while the background is a mosaic of four exposures captured a few hours later.    Discovery + Outreach: Graduate student research position open for APOD</p>
+<p style="text-align: justify;">Observe the graceful twirl of our Solar System&#39;s largest planet. Many interesting features of Jupiter&#39;s enigmatic atmosphere, including dark belts and light zones, can be followed in detail. A careful inspection will reveal that different cloud layers rotate at slightly different speeds. The famous Great Red Spot is not visible at first -- but soon rotates into view. Other smaller storm systems occasionally appear. As large as Jupiter is, it rotates in only 10 hours. Our small Earth, by comparison, takes 24 hours to complete a spin cycle. The featured high-resolution time-lapse video was captured over five nights earlier this month by a mid-sized telescope on an apartment balcony in Paris, France.  Since hydrogen and helium gas are colorless, and those elements compose most of Jupiter&#39;s expansive atmosphere, what trace elements create the observed colors of Jupiter&#39;s clouds remains a topic of research.    Discovery + Outreach: Graduate student research position open for APOD</p>
 
 
 
