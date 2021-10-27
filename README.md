@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jupiter Rotates</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=QSXgDiS2H_A" target="_blank"><img src="http://img.youtube.com/vi/QSXgDiS2H_A/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>NGC 6995: The Bat Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/Bat6995_Trottier_960.jpg"">
 
 
-<p style="text-align: justify;">Observe the graceful twirl of our Solar System&#39;s largest planet. Many interesting features of Jupiter&#39;s enigmatic atmosphere, including dark belts and light zones, can be followed in detail. A careful inspection will reveal that different cloud layers rotate at slightly different speeds. The famous Great Red Spot is not visible at first -- but soon rotates into view. Other smaller storm systems occasionally appear. As large as Jupiter is, it rotates in only 10 hours. Our small Earth, by comparison, takes 24 hours to complete a spin cycle. The featured high-resolution time-lapse video was captured over five nights earlier this month by a mid-sized telescope on an apartment balcony in Paris, France.  Since hydrogen and helium gas are colorless, and those elements compose most of Jupiter&#39;s expansive atmosphere, what trace elements create the observed colors of Jupiter&#39;s clouds remains a topic of research.    Discovery + Outreach: Graduate student research position open for APOD</p>
+<p style="text-align: justify;">Do you see the bat?  It haunts this cosmic close-up of the eastern Veil Nebula.  The Veil Nebula itself is a large supernova remnant, the expanding debris cloud from the death explosion of a massive star. While the Veil is roughly circular in shape and covers nearly 3 degrees on the sky toward the constellation of the Swan (Cygnus), NGC 6995, known informally as the Bat Nebula, spans only 1&#x2F;2 degree, about the apparent size of the Moon. That translates to 12 light-years at the Veil&#39;s estimated distance, a reassuring 1,400 light-years from planet Earth. In the composite of image data recorded through narrow band filters, emission from hydrogen atoms in the remnant is shown in red with strong emission from oxygen atoms shown in hues of blue. Of course, in the western part of the Veil lies another seasonal apparition: the Witch&#39;s Broom Nebula.   Explore Your Universe: Random APOD Generator</p>
 
 
 
