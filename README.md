@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Rorschach Aurora</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/GS_20210917_Handol_5651_Pan1024.jpg"">
+<h3>Dark Matter in a Simulated Universe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2110/DarkMatter_KipacAmnh_960.jpg"">
 
 
-<p style="text-align: justify;">If you see this as a monster&#39;s face, don&#39;t panic. It&#39;s only pareidolia, often experienced as the tendency to see faces in patterns of light and shadow. In fact, the startling visual scene is actually a 180 degree panorama of Northern Lights, digitally mirrored like inkblots on a folded piece of paper. Frames used to construct it were captured on a September night from the middle of a waterfall-crossing suspension bridge in Jamtland, Sweden. With geomagnetic storms triggered by recent solar activity, auroral displays could be very active at planet Earth&#39;s high latitudes in the coming days. But if you see a monster&#39;s face in your own neighborhood tomorrow night, it might just be Halloween.</p>
+<p style="text-align: justify;">Is our universe haunted?  It might look that way on this dark matter map.  The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and why visible matter is distributed as it is both in the local universe and on the cosmic microwave background.  The featured image from the American Museum of Natural History&#39;s Hayden Planetarium Space Show Dark Universe highlights one example of how pervasive dark matter might haunt our universe.  In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations.  In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.   Not only Halloween: Today is Dark Matter Day.</p>
 
 
 
