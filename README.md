@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Horsehead and Flame Nebulas</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/HorseFlame_Ayoub_960.jpg"">
+<h3>NGC 147 and NGC 185</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/NGC147NGC185satellites1024.jpg"">
 
 
-<p style="text-align: justify;">The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the orange emission nebula at the far right of the featured picture.  The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright emission nebula. Like clouds in Earth&#39;s atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will surely alter its appearance.  The emission nebula&#39;s orange color is caused by electrons recombining with protons to form hydrogen atoms.  Toward the lower left of the image is the Flame Nebula, an orange-tinged nebula that also contains intricate filaments of dark dust. Two prominent reflection nebulas are visible: round IC 432 on the far left, and blue NGC 2023 just to the lower left of the Horsehead nebula.  Each glows primarily by reflecting the light of their central star.   Discovery + Outreach: Graduate student research position open for APOD</p>
+<p style="text-align: justify;">Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this sharp telescopic portrait. The two are not-often-imaged satellites of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view, translates to only about 35 thousand light-years at Andromeda&#39;s distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda&#39;s intriguing population of small satellite galaxies.</p>
 
 
 
