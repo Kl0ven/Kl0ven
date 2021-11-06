@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Dark Seahorse in Cepheus</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/b150_avitabile1092c.jpg"">
+<h3>The Galaxy Between Two Friends</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/panohugoetmoiAPODjpg-standard1024.jpg"">
 
 
-<p style="text-align: justify;">Light-years across, this suggestive shape known as the Seahorse Nebula appears in silhouette against a rich, luminous background of stars. Seen toward the royal northern constellation of Cepheus, the dusty, obscuring clouds are part of a Milky Way molecular cloud some 1,200 light-years distant. It is also listed as Barnard 150 (B150), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Packs of low mass stars are forming within, but their collapsing cores are only visible at long infrared wavelengths. Still, the colorful stars of Cepheus add to this pretty, galactic skyscape.</p>
+<p style="text-align: justify;">On an August night two friends enjoyed this view after a day&#39;s hike on the Plateau d&#39;Emparis in the French Alps. At 2400 meters altitude the sky was clear. Light from a setting moon illuminates the foreground captured in the simple vertical panorama of images. Along the plane of our Milky Way galaxy stars of Cassiopeia and Perseus shine along the panorama&#39;s left edge. But seen as a faint cloud with a brighter core, the Andromeda galaxy, stands directly above the two friends in the night. The nearest large spiral galaxy, Andromeda is about 2.5 million light-years beyond the stars of the Milky Way. Adding to the evening&#39;s shared extragalactic perspective, the fainter fuzzy spot in the sky right between them is M33, also known as the Triangulum galaxy. Third largest in the local galaxy group, after Andromeda and Milky Way, the Triangulum galaxy is about 3 million light-years distant. On that night, the two friends stood about 3 light-nanoseconds apart.</p>
 
 
 
