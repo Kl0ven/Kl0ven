@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>All of These Space Images are Fake Except One</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/AIapods01_Geach_960.jpg"">
+<h3>Video of a Green Flash</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=25FfQ9MEQE8" target="_blank"><img src="http://img.youtube.com/vi/25FfQ9MEQE8/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Why would you want to fake a universe? For one reason -- to better understand our real universe. Many astronomical projects seeking to learn properties of our universe now start with a robotic telescope taking sequential images of the night sky. Next, sophisticated computer algorithms crunch these digital images to find stars and galaxies and measure their properties.  To calibrate these algorithms, it is useful to test them on fake images from a fake universe to see if the algorithms can correctly deduce purposely imprinted properties. The featured mosaic of fake images was created to specifically mimic the images that have appeared on NASA&#39;s Astronomy Picture of the Day (APOD).  Only one image of the 225 images is real -- can you find it? The accomplished deceptors have made available individual fake APOD images that can be displayed by accessing their ThisIsNotAnAPOD webpage or Twitter feed. More useful for calibrating and understanding our distant universe, however, are fake galaxies -- a sampling of which can be seen at their ThisIsNotAGalaxy webpage.    Astrophysicists: Browse 2,600+ codes in the Astrophysics Source Code Library</p>
+<p style="text-align: justify;">Many think it is just a myth.  Others think it is true but its cause isn&#39;t known.  Adventurers pride themselves on having seen it.  It&#39;s a green flash from the Sun.  The truth is the green flash does exist and its cause is well understood.  Just as the setting Sun disappears completely from view, a last glimmer appears startlingly green.  The effect is typically visible only from locations with a low, distant horizon, and lasts just a few seconds. A green flash is also visible for a rising Sun, but takes better timing to spot.  A dramatic green flash was caught on video last month as the Sun set beyond the Ligurian Sea from Tuscany, Italy. The second sequence in the featured video shows the green flash in real time, while the first is sped up and the last is in slow motion. The Sun itself does not turn partly green -- the effect is caused by layers of the Earth&#39;s atmosphere acting like a prism.   Discovery + Outreach: Graduate student research position open for APOD</p>
 
 
 
