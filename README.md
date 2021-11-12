@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 1333: Stellar Nursery in Perseus</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/ngc1333_RGB-c21024.jpg"">
+<h3>M33: The Triangulum Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/M33_PS1_CROP_INSIGHT1024.jpg"">
 
 
-<p style="text-align: justify;">NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans about two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.</p>
+<p style="text-align: justify;">The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, M33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other&#39;s grand spiral star systems. As for the view from planet Earth, this sharp image shows off M33&#39;s blue star clusters and pinkish star forming regions along the galaxy&#39;s loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 4 o&#39;clock position from the galaxy center. Like M31, M33&#39;s population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.</p>
 
 
 
