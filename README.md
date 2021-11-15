@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>How to Identify that Light in the Sky</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/astronomy101_hk_960.jpg"">
+<h3>Light Pillar over Volcanic Etna</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/EtnaLightPillar_Tine_960.jpg"">
 
 
-<p style="text-align: justify;">What is that light in the sky? Perhaps one of humanity&#39;s more common questions, an answer may result from a few quick observations.  For example -- is it moving or blinking? If so, and if you live near a city, the answer is typically an airplane, since planes are so numerous and so few stars and satellites are bright enough to be seen over the din of artificial city lights. If not, and if you live far from a city, that bright light is likely a planet such as Venus or Mars -- the former of which is constrained to appear near the horizon just before dawn or after dusk.  Sometimes the low apparent motion of a distant airplane near the horizon makes it hard to tell from a bright planet, but even this can usually be discerned by the plane&#39;s motion over a few minutes. Still unsure?   The featured chart gives a sometimes-humorous but mostly-accurate assessment.  Dedicated sky enthusiasts will likely note -- and are encouraged to provide -- polite corrections.   Chart translations: Spanish, Italian, Polish, Kannada, Latvian, Norwegian, and Turkish</p>
+<p style="text-align: justify;">What happening above that volcano? Something very unusual -- a volcanic light pillar. More typically, light pillars are caused by sunlight and so appear as a bright column that extends upward above a rising or setting Sun. Alternatively, other light pillars -- some quite colorful -- have been recorded above street and house lights. This light pillar, though, was illuminated by the red light emitted by the glowing magma of an erupting volcano. The volcano is Italy&#39;s Mount Etna, and the featured image was captured with a single shot a few hours after sunset in mid-June. Freezing temperatures above the volcano&#39;s ash cloud created ice-crystals either in cirrus clouds high above the volcano -- or in condensed water vapor expelled by Mount Etna. These ice crystals -- mostly flat toward the ground but fluttering -- then reflected away light from the volcano&#39;s caldera.   Explore Your Universe: Random APOD Generator</p>
 
 
 
