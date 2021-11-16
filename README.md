@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Light Pillar over Volcanic Etna</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/EtnaLightPillar_Tine_960.jpg"">
+<h3>Geminids from Gemini</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/Geminids2020_WangJin_960.jpg"">
 
 
-<p style="text-align: justify;">What happening above that volcano? Something very unusual -- a volcanic light pillar. More typically, light pillars are caused by sunlight and so appear as a bright column that extends upward above a rising or setting Sun. Alternatively, other light pillars -- some quite colorful -- have been recorded above street and house lights. This light pillar, though, was illuminated by the red light emitted by the glowing magma of an erupting volcano. The volcano is Italy&#39;s Mount Etna, and the featured image was captured with a single shot a few hours after sunset in mid-June. Freezing temperatures above the volcano&#39;s ash cloud created ice-crystals either in cirrus clouds high above the volcano -- or in condensed water vapor expelled by Mount Etna. These ice crystals -- mostly flat toward the ground but fluttering -- then reflected away light from the volcano&#39;s caldera.   Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini.  Featured here, a composite of many images taken during the 2020 Geminids meteor shower shows over 200 bright meteorss that streaked through the sky during the night December 14.  The best meteor shower in November, the Leonids, peaks tonight and tomorrow. Unfortunately, this year, dim meteors during the early-morning peak will be hard to see against a sky lit by a bright gibbous moon.  Still, a few bright Leonid meteors should be visible each hour.</p>
 
 
 
