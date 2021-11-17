@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Geminids from Gemini</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/Geminids2020_WangJin_960.jpg"">
+<h3>NGC 3314: When Galaxies Overlap</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/NGC3314_HubbleOstling_960.jpg"">
 
 
-<p style="text-align: justify;">Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini.  Featured here, a composite of many images taken during the 2020 Geminids meteor shower shows over 200 bright meteors that streaked through the sky during the night December 14.  The best meteor shower in November, the Leonids, peaks tonight and tomorrow. Unfortunately, this year, dim meteors during the early-morning peak will be hard to see against a sky lit by a bright gibbous moon.  Still, a few bright Leonid meteors should be visible each hour.</p>
+<p style="text-align: justify;">Why doesn&#39;t the nearby galaxy create a gravitational lensing effect on the background galaxy? It does, but since both galaxies are so nearby, the angular shift is much smaller than the angular sizes of the galaxies themselves.  The featured Hubble image of NGC 3314 shows two large spiral galaxies which happen to line up exactly.  The foreground spiral NGC 3314a appears nearly face-on with its pinwheel shape defined by young bright star clusters.  Against the glow of the background galaxy NGC 3314b, though, dark swirling lanes of interstellar dust can also be seen tracing the nearer spiral&#39;s structure.  Both galaxies appear on the edge of the Hydra Cluster of Galaxies, a cluster that is about 200 million light years away. Gravitational lens distortions are much easier to see when the lensing galaxy is smaller and further away. Then, the background galaxy may even be distorted into a ring around the nearer. Fast gravitational lens flashes due to stars in the foreground galaxy momentarily magnifying the light from stars in the background galaxy might one day be visible in future observing campaigns with high-resolution telescopes.</p>
 
 
 
