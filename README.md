@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 3314: When Galaxies Overlap</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/NGC3314_HubbleOstling_960.jpg"">
+<h3>Full Moonlight</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/moonwalk1c1024.jpg"">
 
 
-<p style="text-align: justify;">Why doesn&#39;t the nearby galaxy create a gravitational lensing effect on the background galaxy? It does, but since both galaxies are so nearby, the angular shift is much smaller than the angular sizes of the galaxies themselves.  The featured Hubble image of NGC 3314 shows two large spiral galaxies which happen to line up exactly.  The foreground spiral NGC 3314a appears nearly face-on with its pinwheel shape defined by young bright star clusters.  Against the glow of the background galaxy NGC 3314b, though, dark swirling lanes of interstellar dust can also be seen tracing the nearer spiral&#39;s structure.  Both galaxies appear on the edge of the Hydra Cluster of Galaxies, a cluster that is about 200 million light years away. Gravitational lens distortions are much easier to see when the lensing galaxy is smaller and further away. Then, the background galaxy may even be distorted into a ring around the nearer. Fast gravitational lens flashes due to stars in the foreground galaxy momentarily magnifying the light from stars in the background galaxy might one day be visible in future observing campaigns with high-resolution telescopes.</p>
+<p style="text-align: justify;">A photographer in silhouette stands in bright moonlight as the Full Moon rises in this well-planned telephoto image. Of course, the Full Moon is normally the brightest lunar phase. But on November 18&#x2F;19, the Full Moon&#39;s light will be dimmed during a deep partial lunar eclipse seen across much of planet Earth. At maximum eclipse only a few percent of the lunar disk&#39;s diameter should remain outside the Earth&#39;s dark umbral shadow when the Moon slides close to the shadow&#39;s southern edge. Near apogee, the farthest point in its orbit, the Moon&#39;s motion will be slow. That should make this second lunar eclipse of 2021 an exceptionally long partial lunar eclipse. For most of North America the eclipse partial phases will be visible in predawn hours. Since eclipses tend to come in pairs, this lunar eclipse will be followed by a solar eclipse in two weeks on December 4.</p>
 
 
 
