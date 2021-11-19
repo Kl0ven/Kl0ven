@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Full Moonlight</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/moonwalk1c1024.jpg"">
+<h3>NGC 281: Starless with Stars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/starless_color_1024.jpg"">
 
 
-<p style="text-align: justify;">A photographer in silhouette stands in bright moonlight as the Full Moon rises in this well-planned telephoto image. Of course, the Full Moon is normally the brightest lunar phase. But on November 18&#x2F;19, the Full Moon&#39;s light will be dimmed during a deep partial lunar eclipse seen across much of planet Earth. At maximum eclipse only a few percent of the lunar disk&#39;s diameter should remain outside the Earth&#39;s dark umbral shadow when the Moon slides close to the shadow&#39;s southern edge. Near apogee, the farthest point in its orbit, the Moon&#39;s motion will be slow. That should make this second lunar eclipse of 2021 an exceptionally long partial lunar eclipse. For most of North America the eclipse partial phases will be visible in predawn hours. Since eclipses tend to come in pairs, this lunar eclipse will be followed by a solar eclipse in two weeks on December 4.</p>
+<p style="text-align: justify;">In visible light the stars have been removed from this narrow-band image of NGC 281, a star forming region some 10,000 light-years away toward the constellation Cassiopeia. Stars were digitally added back to the resulting starless image though. But instead of using visible light image data, the stars were added with X-ray data (in purple) from the Chandra X-ray Observatory and infrared data (in red) from the Spitzer Space Telescope. The merged multiwavelength view reveals a multitude of stars in the region&#39;s embedded star cluster IC 1590. The young stars are normally hidden in visible light images by the natal cloud&#39;s gas and obscuring dust. Also known to backyard astro-imagers as the Pacman Nebula for its overall appearance in visible light, NGC 281 is about 80 light-years across.</p>
 
 
 
