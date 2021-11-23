@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lunar Eclipse over a Skyscraper</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/LunarEclipseBuilding_Beletsky_960.jpg"">
+<h3>The Sun in X-rays from NuSTAR</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/ActiveSun_NuSTAR_960.jpg"">
 
 
-<p style="text-align: justify;">Why is the Moon on top of this building? Planning. It took the astrophotographer careful planning -- including figuring out exactly where to place the camera and exactly when to take the shot -- to create this striking superposition. The single image featured was taken in the early morning hours of November 19, near the peak of the partial lunar eclipse that was occurring as the Moon passed through the Earth&#39;s shadow.  At this time, almost the entire Moon -- 99.1 percent of its area -- was in the darkest part of the Earth&#39;s shadow.  The building is the Gran Torre Santiago building in Chile, the tallest building in South America.  Although the entire eclipse lasted an impressive six hours, this image had to be taken within just a few seconds to get the alignment right -- the Earth&#39;s rotation soon moved the building out of alignment. The next Earth-Moon eclipse will be a total eclipse of the Sun that will occur on December 4 -- but only be visible from the bottom of our world.    APOD Editor (RJN) Online Monday: NASA&#39;s Best Space Images (&amp; Videos)  Notable APOD Submissions: Lunar Eclipse of 2021 November 19</p>
+<p style="text-align: justify;">Why are the regions above sunspots so hot? Sunspots themselves are a bit cooler than the surrounding solar surface because the magnetic fields that create them reduce convective heating.  It is therefore unusual that regions overhead -- even much higher up in the Sun&#39;s corona -- can be hundreds of times hotter. To help find the cause, NASA directed the Earth-orbiting Nuclear Spectroscopic Telescope Array (NuSTAR) satellite to point its very sensitive X-ray telescope at the Sun. Featured here is the Sun in ultraviolet light, shown in a red hue as taken by the orbiting Solar Dynamics Observatory (SDO).  Superimposed in false-colored green and blue is emission above sunspots detected by NuSTAR in different bands of high-energy X-rays, highlighting regions of extremely high temperature. Clues about the Sun&#39;s atmospheric heating mechanisms come from NuSTAR images like this and shed light on solar nanoflares and microflares as brief bursts of energy that may drive the unusual heating.</p>
 
 
 
