@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Pleiades: The Seven Sisters Star Cluster</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/PleiadesB_Cannane_960.jpg"">
+<h3>At the Shadow&#39;s Edge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/Gout_EclipseCollage-1024.jpg"">
 
 
-<p style="text-align: justify;">Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen without binoculars from even the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured exposure, taken from Florida, USA, covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer&#39;s eyesight.   Volunteer Opportunity: Someone to Update APOD&#39;s RSS Feed</p>
+<p style="text-align: justify;">Shaped like a cone tapering into space, the Earth&#39;s dark central shadow or umbra has a circular cross-section. It&#39;s wider than the Moon at the distance of the Moon&#39;s orbit though. But during the lunar eclipse of November 18&#x2F;19, part of the Moon remained just outside the umbral shadow. The successive pictures in this composite of 5 images from that almost total lunar eclipse were taken over a period of about 1.5 hours. The series is aligned to trace part of the cross-section&#39;s circular arc, with the central image at maximum eclipse. It shows a bright, thin sliver of the lunar disk still beyond the shadow&#39;s curved edge. Of course, even within the shadow the Moon&#39;s surface is not completely dark, reflecting the reddish hues of filtered sunlight scattered into the shadow by Earth&#39;s atmosphere.   Notable APOD Submissions: Lunar Eclipse of 2021 November 19</p>
 
 
 
