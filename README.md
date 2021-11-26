@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>At the Shadow&#39;s Edge</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/Gout_EclipseCollage-1024.jpg"">
+<h3>Great Refractor and Lunar Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/LH7528_36EclipsePartialWithPlieades_1024x1024.jpg"">
 
 
-<p style="text-align: justify;">Shaped like a cone tapering into space, the Earth&#39;s dark central shadow or umbra has a circular cross-section. It&#39;s wider than the Moon at the distance of the Moon&#39;s orbit though. But during the lunar eclipse of November 18&#x2F;19, part of the Moon remained just outside the umbral shadow. The successive pictures in this composite of 5 images from that almost total lunar eclipse were taken over a period of about 1.5 hours. The series is aligned to trace part of the cross-section&#39;s circular arc, with the central image at maximum eclipse. It shows a bright, thin sliver of the lunar disk still beyond the shadow&#39;s curved edge. Of course, even within the shadow the Moon&#39;s surface is not completely dark, reflecting the reddish hues of filtered sunlight scattered into the shadow by Earth&#39;s atmosphere.   Notable APOD Submissions: Lunar Eclipse of 2021 November 19</p>
+<p style="text-align: justify;">Rain clouds passed and the dome of the Lick Observatory&#39;s 36 inch Great Refractor opened on November 19. The historic telescope was pointed toward a partially eclipsed Moon. Illuminated by dim red lighting to preserve an astronomer&#39;s night vision, telescope controls, coordinate dials, and the refractor&#39;s 57 foot long barrel were captured in this high dynamic range image. Visible beyond the foreshortened barrel and dome slit, growing brighter after its almost total eclipse phase, the lunar disk created a colorful halo through lingering clouds. From the open dome, the view of the clearing sky above includes the Pleiades star cluster about 5 degrees from Moon and Earth&#39;s shadow.   Notable APOD Submissions: Lunar Eclipse of 2021 November 19</p>
 
 
 
