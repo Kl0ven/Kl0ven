@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 101</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/M101_hst1280.jpg"">
+<h3>A High Cliff on Comet Churyumov-Gerasimenko</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/cometcliffs_RosettaAtkinson_960.jpg"">
 
 
-<p style="text-align: justify;">Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier&#39;s famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way. M101 was also one of the original spiral nebulae observed by Lord Rosse&#39;s large 19th century telescope, the Leviathan of Parsontown. Assembled from 51 exposures recorded by the Hubble Space Telescope in the 20th and 21st centuries, with additional data from ground based telescopes, this mosaic spans about 40,000 light-years across the central region of M101 in one of the highest definition spiral galaxy portraits ever released from Hubble. The sharp image shows stunning features of the galaxy&#39;s face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.</p>
+<p style="text-align: justify;">This high cliff occurs not on a planet, not on a moon, but on a comet. It was discovered to be part of the dark nucleus of Comet Churyumov-Gerasimenko (CG) by Rosetta, a robotic spacecraft launched by ESA that rendezvoused with the Sun-orbiting comet in 2014.  The ragged cliff, as featured here, was imaged by Rosetta in 2014. Although towering about one kilometer high, the low surface gravity of Comet CG would likely make it an accessible climb -- and even a jump from the cliff survivable.  At the foot of the cliff is relatively smooth terrain dotted with boulders as large as 20 meters across. Data from Rosetta indicates that the ice in Comet CG has a significantly different deuterium fraction -- and hence likely a different origin -- than the water in Earth&#39;s oceans.  Rosetta ended its mission with a controlled impact onto Comet CG in 2016. Comet CG has just completed another close approach to Earth and remains visible through a small telescope.</p>
 
 
 
