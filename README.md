@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Extraordinary Spiral in LL Pegasi</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2111/LLPegasi_HubbleLodge_960.jpg"">
+<h3>In Motion: Uranus and Moons</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=VYWjxvm14Pk" target="_blank"><img src="http://img.youtube.com/vi/VYWjxvm14Pk/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What created the strange spiral structure on the upper left?  No one is sure, although it is likely related to a star in a binary star system entering the planetary nebula phase, when its outer atmosphere is ejected.  The huge spiral spans about a third of a light year across and, winding four or five complete turns, has a regularity that is without precedent.  Given the expansion rate of the spiral gas, a new layer must appear about every 800 years, a close match to the time it takes for the two stars to orbit each other. The star system that created it is most commonly known as LL Pegasi, but also AFGL 3068 and IRAS 23166+1655.  The featured image was taken in near-infrared light by the Hubble Space Telescope. Why the spiral glows is itself a mystery, with a leading hypothesis being illumination by light reflected from nearby stars.</p>
+<p style="text-align: justify;">What&#39;s that moving across the sky? A planet just a bit too faint to see with the unaided eye: Uranus. The gas giant out past Saturn was tracked earlier this month near opposition -- when it was closest to Earth and at its brightest. The featured video captured by the Bayfordbury Observatory in Hertfordshire, UK is a four-hour time-lapse showing Uranus with its four largest moons in tow: Titania, Oberon, Umbriel and Ariel. Uranus&#39; apparent motion past background stars is really dominated by Earth&#39;s own orbital motion around our Sun. 	 The cross seen centered on Uranus is called a diffraction spike and is caused by light diffracting around the four arms that hold one of the telescope&#39;s mirrors in place.  The rotation of the diffraction spikes is not caused by the rotation of Uranus but, essentially, by the rotation of the Earth. During the next few months Uranus itself will be visible with binoculars, but, as always, to see its moons will require a telescope.</p>
 
 
 
