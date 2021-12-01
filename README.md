@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>In Motion: Uranus and Moons</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=VYWjxvm14Pk" target="_blank"><img src="http://img.youtube.com/vi/VYWjxvm14Pk/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>A Blue-Banded Blood Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/BlueRedMoon_Yu_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that moving across the sky? A planet just a bit too faint to see with the unaided eye: Uranus. The gas giant out past Saturn was tracked earlier this month near opposition -- when it was closest to Earth and at its brightest. The featured video captured by the Bayfordbury Observatory in Hertfordshire, UK is a four-hour time-lapse showing Uranus with its four largest moons in tow: Titania, Oberon, Umbriel and Ariel. Uranus&#39; apparent motion past background stars is really dominated by Earth&#39;s own orbital motion around our Sun. 	 The cross seen centered on Uranus is called a diffraction spike and is caused by light diffracting around the four arms that hold one of the telescope&#39;s mirrors in place.  The rotation of the diffraction spikes is not caused by the rotation of Uranus but, essentially, by the rotation of the Earth. During the next few months Uranus itself will be visible with binoculars, but, as always, to see its moons will require a telescope.</p>
+<p style="text-align: justify;">What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week&#39;s lunar eclipse, however -- taken from Yancheng, China -- has been digitally processed to equalize the Moon&#39;s brightness and exaggerate  the colors.  The gray color of the bottom right is the Moon&#39;s natural color, directly illuminated by sunlight. The upper left part of the Moon is not directly lit by the Sun since it is being eclipsed -- it in the Earth&#39;s shadow. It is faintly lit, though, by sunlight that has passed deep through Earth&#39;s atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth&#39;s sunsets are red: because air scatters away more blue light than red. The unusual blue band is different -- its color is created by sunlight that has passed high through Earth&#39;s atmosphere, where red light is better absorbed by ozone than blue. A total eclipse of the Sun will occur tomorrow but, unfortunately, totality be visible only near the Earth&#39;s South Pole.   Almost Hyperspace: Random APOD Generator</p>
 
 
 
