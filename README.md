@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Blue-Banded Blood Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/BlueRedMoon_Yu_960.jpg"">
+<h3>NGC 6822: Barnard&#39;s Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/NGC6822LRGB1024.jpg"">
 
 
-<p style="text-align: justify;">What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week&#39;s lunar eclipse, however -- taken from Yancheng, China -- has been digitally processed to equalize the Moon&#39;s brightness and exaggerate  the colors.  The gray color of the bottom right is the Moon&#39;s natural color, directly illuminated by sunlight. The upper left part of the Moon is not directly lit by the Sun since it is being eclipsed -- it in the Earth&#39;s shadow. It is faintly lit, though, by sunlight that has passed deep through Earth&#39;s atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth&#39;s sunsets are red: because air scatters away more blue light than red. The unusual blue band is different -- its color is created by sunlight that has passed high through Earth&#39;s atmosphere, where red light is better absorbed by ozone than blue. A total eclipse of the Sun will occur this weekend but, unfortunately, totality be visible only near the Earth&#39;s South Pole.   Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small galaxies form stars too, like nearby NGC 6822, also known as Barnard&#39;s Galaxy. Beyond the rich starfields in the constellation Sagittarius, NGC 6822 is a mere 1.5 million light-years away, a member of our Local Group of galaxies. A dwarf irregular galaxy similar to the Small Magellanic Cloud, NGC 6822 is about 7,000 light-years across. Brighter foreground stars in our Milky Way have a spiky appearance. Behind them, Barnard&#39;s Galaxy is seen to be filled with young blue stars and mottled with the telltale pinkish hydrogen glow of star forming regions in this deep color composite image.</p>
 
 
 
