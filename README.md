@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3></h3>
- <img class="fit-picture" src=""">
+<h3>Comet Leonard and the Whale Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/ngc4656_4631_A1-LRGB_112421_1024px.jpg"">
 
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Sweeping through northern predawn skies, on November 24 Comet Leonard (C&#x2F;2021 A1) was caught between two galaxies in this composite telescopic image. Sporting a greenish coma the comet&#39;s dusty tail seems to harpoon the heart of NGC 4631 (top) also known as the Whale Galaxy. Of course NGC 4631 and NGC 4656 (bottom, aka the Hockey Stick) are background galaxies some 25 million light-years away. On that date the comet was about 6 light-minutes from our fair planet. Its closest approach to Earth (and even closer approach to Venus) still to come, Comet Leonard will grow brighter in December. Already a good object for binoculars and small telescopes, this comet will likely not return to the inner Solar System. Its perihelion, or closest approach to the Sun, will be on January 3, 2022.</p>
 
 
 
