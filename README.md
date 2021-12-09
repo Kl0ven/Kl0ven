@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet Hale-Bopp Over Val Parola Pass</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/halebopp_dimai_960.jpg"">
+<h3>A Total Eclipse of the Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/SOLARECLIPSE2021FORDISTROHighRes1024.jpg"">
 
 
-<p style="text-align: justify;">Comet Hale-Bopp, the Great Comet of 1997, became much brighter than any surrounding stars. It was seen even over bright city lights. Away from city lights, however, it put on quite a spectacular show. Here Comet Hale-Bopp was photographed above Val Parola Pass in the Dolomite mountains surrounding Cortina d&#39;Ampezzo, Italy. Comet Hale-Bopp&#39;s blue ion tail, consisting of ions from the comet&#39;s nucleus, is pushed out by the solar wind. The white dust tail is composed of larger particles of dust from the nucleus driven by the pressure of sunlight, that orbit behind the comet. Comet Hale-Bopp (C&#x2F;1995 O1) remained visible to the unaided eye for 18 months -- longer than any other comet in recorded history. The large comet is next expected to return around the year 4385.  This month, Comet Leonard is brightening and may soon become visible to the unaided eye.</p>
+<p style="text-align: justify;">Few were able to stand in the Moon&#39;s shadow and watch the December 4 total eclipse of the Sun. Determined by celestial mechanics and not geographical boundaries, the narrow path of totality tracked across planet Earth&#39;s relatively inaccessible southernmost continent. Still, some enthusiastic and well-insulated eclipse chasers were rewarded with the dazzling spectacle in Antarctica&#39;s cold but clear skies. Taken just before the brief totality began, this image from a ground-based telescope inside the edge of the shadow path at Union Glacier catches a glimmer of sunlight near the top of the silhouetted lunar disk. Look closely for the pinkish solar prominences arcing above the Sun&#39;s limb. During totality, the magnificent solar corona, the Sun&#39;s outer atmosphere, made its much anticipated appearance, seen in the composite view streaming far from the Sun&#39;s edge.</p>
 
 
 
