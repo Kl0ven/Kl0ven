@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Total Eclipse of the Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/SOLARECLIPSE2021FORDISTROHighRes1024.jpg"">
+<h3>Eclipse on a Polar Day</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/Eclipseclock-final2_1024c.JPG"">
 
 
-<p style="text-align: justify;">Few were able to stand in the Moon&#39;s shadow and watch the December 4 total eclipse of the Sun. Determined by celestial mechanics and not geographical boundaries, the narrow path of totality tracked across planet Earth&#39;s relatively inaccessible southernmost continent. Still, some enthusiastic and well-insulated eclipse chasers were rewarded with the dazzling spectacle in Antarctica&#39;s cold but clear skies. Taken just before the brief totality began, this image from a ground-based telescope inside the edge of the shadow path at Union Glacier catches a glimmer of sunlight near the top of the silhouetted lunar disk. Look closely for the pinkish solar prominences arcing above the Sun&#39;s limb. During totality, the magnificent solar corona, the Sun&#39;s outer atmosphere, made its much anticipated appearance, seen in the composite view streaming far from the Sun&#39;s edge.</p>
+<p style="text-align: justify;">During polar day, in Arctic and Antarctic summer, the Sun stays above the horizon for periods of 24 hours or more. Recorded on December 4, this fisheye timelapse image tracks the Sun in multiple frames as it completes a circle in the summer sky above Union Glacier, Antarctica. Of course on that date, Union Glacier&#39;s sky did grow dark even though the Sun was above the horizon. Captured during the brief period of totality, an eclipsed Sun is at bottom center of the composite view. Near the edge of the total eclipse path across planet Earth, the Moon&#39;s shadow darkens the sky above.</p>
 
 
 
