@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Eclipse on a Polar Day</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/Eclipseclock-final2_1024c.JPG"">
+<h3>Postcard from the South Pole</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/eclipse_apod1024.jpg"">
 
 
-<p style="text-align: justify;">During polar day, in Arctic and Antarctic summer, the Sun stays above the horizon for periods of 24 hours or more. Recorded on December 4, this fisheye timelapse image tracks the Sun in multiple frames as it completes a circle in the summer sky above Union Glacier, Antarctica. Of course on that date, Union Glacier&#39;s sky did grow dark even though the Sun was above the horizon. Captured during the brief period of totality, an eclipsed Sun is at bottom center of the composite view. Near the edge of the total eclipse path across planet Earth, the Moon&#39;s shadow darkens the sky above.</p>
+<p style="text-align: justify;">From this vantage point about three quarters of a mile from planet Earth&#39;s geographic South Pole, the December 4 eclipse of the Sun was seen as a partial eclipse. At maximum eclipse the New Moon blocked 90 percent of the solar disk. Of course, crews at the South Pole Telescope (left) and BICEP telescope (right) climbed to the roof of Amundsen-Scott station&#39;s Dark Sector Laboratory to watch. Centered near the local eclipse maximum, the composite timelapse view features an image of the Sun in cold antarctic skies taken every four minutes. Left to right along the roof line it also features the raised arms of Brandon Amat, Aman Chokshi, Cheng Zhang, James Bevington and Allen Forster.</p>
 
 
 
