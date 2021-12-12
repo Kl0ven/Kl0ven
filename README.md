@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Postcard from the South Pole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/eclipse_apod1024.jpg"">
+<h3>Comet Leonard Before Star Cluster M3</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/M3Leonard_Bartlett_960.jpg"">
 
 
-<p style="text-align: justify;">From this vantage point about three quarters of a mile from planet Earth&#39;s geographic South Pole, the December 4 eclipse of the Sun was seen as a partial eclipse. At maximum eclipse the New Moon blocked 90 percent of the solar disk. Of course, crews at the South Pole Telescope (left) and BICEP telescope (right) climbed to the roof of Amundsen-Scott station&#39;s Dark Sector Laboratory to watch. Centered near the local eclipse maximum, the composite timelapse view features an image of the Sun in cold antarctic skies taken every four minutes. Left to right along the roof line it also features the raised arms of Brandon Amat, Aman Chokshi, Cheng Zhang, James Bevington and Allen Forster.</p>
+<p style="text-align: justify;">Comet Leonard is now visible to the unaided eye -- but just barely.  Passing nearest to the Earth today, the comet is best seen this week soon after sunset, toward the west, low on the horizon.  Currently best visible in the north, by late December the comet will best be seen from south of Earth&#39;s equator. The featured image of Comet C&#x2F;2021 A1 (Leonard) was taken a week ago from California, USA. The deep exposure shows in great detail the comet&#39;s green gas coma and developing dust tail. The comet -- across our inner Solar System and only light-minutes away -- was captured passing nearly in front of globular star cluster M3. In contrast, M3 is about 35,000 light-years away.  In a week, Comet Leonard will pass unusually close to Venus, but will continue on and be at its closest to the Sun in early January.</p>
 
 
 
