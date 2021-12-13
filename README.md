@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet Leonard Before Star Cluster M3</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/M3Leonard_Bartlett_960.jpg"">
+<h3>Meteors and Auroras over Iceland</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/auroraemeteors_boardman_1080.jpg"">
 
 
-<p style="text-align: justify;">Comet Leonard is now visible to the unaided eye -- but just barely.  Passing nearest to the Earth today, the comet is best seen this week soon after sunset, toward the west, low on the horizon.  Currently best visible in the north, by late December the comet will best be seen from south of Earth&#39;s equator. The featured image of Comet C&#x2F;2021 A1 (Leonard) was taken a week ago from California, USA. The deep exposure shows in great detail the comet&#39;s green gas coma and developing dust tail. The comet -- across our inner Solar System and only light-minutes away -- was captured passing nearly in front of globular star cluster M3. In contrast, M3 is about 35,000 light-years away.  In a week, Comet Leonard will pass unusually close to Venus, but will continue on and be at its closest to the Sun in early January.</p>
+<p style="text-align: justify;">What&#39;s going on behind that mountain? Quite a bit.  First of all, the mountain itself, named Kirkjufell, is quite old and located in western Iceland near the town of  Grundarfjörður.  In front of the steeply-sloped structure lies a fjord that had just begun to freeze when the above image was taken -- in mid-December of 2012. Although quite faint to the unaided eye, the beautiful colors of background aurorae became quite apparent on the 25-second exposure. What makes this image of particular note, though, is that it also captures streaks from the Geminids meteor shower -- meteors that might not have been evident were the aurora much brighter. Far in the distance, on the left, is the band of our Milky Way Galaxy, while stars from our local part of the Milky Way appear spread across the background.  Tonight the Geminids meteor shower peaks again and may well provide sky enthusiasts with their own memorable visual experiences.</p>
 
 
 
