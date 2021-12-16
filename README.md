@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet Leonard from Space</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/LeonardSpace_Yangwang1_960_annotated.jpg"">
+<h3>Geminids of the South</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/geminids_2021_fefo_bouvier1024.jpg"">
 
 
-<p style="text-align: justify;">What does Comet Leonard look like from space?  Today&#39;s featured image from Origin.Space&#39;s Yangwang-1 space telescope shows not only the currently bright comet -- but several other space delights as well. Taken in optical and ultraviolet light, C&#x2F;2021 A1 (Leonard) is visible with an extended tail near the image center as it appeared five days ago.  The Earth is visible on the lower right, while layers of the Earth&#39;s atmosphere glow diagonally from the lower left to the upper right. The trails of two satellites can be seen in front of a myriad of distant stars that dot the background on the upper left. The faint bands of light running diagonally from the lower right to the upper left are auroras. Finally, the image also caught a meteor streaking just below the airglow. To see Comet Leonard yourself from the Earth&#39;s surface during the next few days, look toward the western horizon just after sunset or just before sunrise.</p>
+<p style="text-align: justify;">Fireflies flash along a moonlit countryside in this scene taken on the night of December 13&#x2F;14 from southern Uruguay, planet Earth. On that night meteors fell in the partly cloudy skies above during the annual Geminid meteor shower. Frames recorded over a period of 1.5 hours are aligned in the composite image made with the camera facing south. That direction was opposite the shower&#39;s radiant toward the north and so the Geminid meteor streaks appear to converge at an antiradiant below the southern horizon. The shower&#39;s apparent radiant (and antiradiant) is just due to perspective though. As Earth sweeps through the dust trail of mysterious asteroid 3200 Phaethon, the dust grains that create the Geminid shower meteors are really moving along parallel tracks. They enter Earth&#39;s atmosphere traveling at about 22 kilometers per second.</p>
 
 
 
