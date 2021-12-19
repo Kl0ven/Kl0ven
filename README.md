@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Stephan&#39;s Quintet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/HUBBLE_NGC7318_PS2_CROP_INSIGHT1024.jpg"">
+<h3>Planetary Alignment over Italy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/PlanetsAligned_Finazzi_1080.jpg"">
 
 
-<p style="text-align: justify;">The first identified compact galaxy group, Stephan&#39;s Quintet is featured in this eye-catching image constructed with data drawn from the extensive Hubble Legacy Archive. About 300 million light-years away, only four of these five galaxies are actually locked in a cosmic dance of repeated close encounters. The odd man out is easy to spot, though. The interacting galaxies, NGC 7319, 7318A, 7318B, and 7317 have an overall yellowish cast. They also tend to have distorted loops and tails, grown under the influence of disruptive gravitational tides. But the predominantly bluish galaxy, NGC 7320, is closer, just 40 million light-years distant, and isn&#39;t part of the interacting group. Stephan&#39;s Quintet lies within the boundaries of the high flying constellation Pegasus. At the estimated distance of the quartet of interacting galaxies, this field of view spans about 500,000 light-years. But moving just beyond this field, up and to the right, astronomers can identify another galaxy, NGC 7320C, that is also 300 million light-years distant. Including it would bring the interacting quartet back up to quintet status.</p>
+<p style="text-align: justify;">It is not a coincidence that planets line up. That&#39;s because all of the planets orbit the Sun in (nearly) a single sheet called the plane of the ecliptic. When viewed from inside that plane -- as Earth dwellers are likely to do -- the planets all appear confined to a single band. It is a coincidence, though, when three of the brightest planets all appear in nearly the same direction.  Such a coincidence was captured earlier this month.  Featured above (right to left), Venus, Saturn, and Jupiter were all imaged together in a line just after sunset, from the San Fermo Hills, Bergamo, Italy. Joining the alignment are Earth&#39;s Moon, and the position of the more distant Uranus. Bands of clouds streak across the sky toward the setting Sun.  As Comet Leonard fades, this planetary alignment -- absent the Moon -- should persist for the rest of the month.   Discovery + Outreach: Graduate student research position open for APOD</p>
 
 
 
