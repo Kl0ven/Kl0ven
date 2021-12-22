@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Solstice Sun and Milky Way</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/WinterSolsticeMW_Seip_1079.jpg"">
+<h3>Launch of the IXPE Observatory</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/IxpeLaunch_Sirokie_960.jpg"">
 
 
-<p style="text-align: justify;">Welcome to December&#39;s solstice, first day of winter in the north and summer for the southern hemisphere. Astronomical markers of the seasons, solstice and equinox dates are based on the Sun&#39;s place in its annual journey along the ecliptic, through planet Earth&#39;s sky. At this solstice, the Sun reaches its maximum southern declination of -23.5 degrees today at 15:59 UTC, while its right ascension coordinate on the celestial sphere is 18 hours. That puts the Sun in the constellation Sagittarius in a direction near the center of our Milky Way galaxy. In fact, if you could see today&#39;s Solstice Sun against faint background stars and nebulae (that&#39;s really hard to do, especially in the daytime ...) your view might look something like this composited panorama. To make it, images of our fair galaxy were taken under dark Namibian night skies, then stitched together in a panoramic view. From a snapshot made on 2015 December 21, the Sun was digitally overlayed as a brilliant star at today&#39;s northern winter solstice position, close to the center of the Milky Way.   Discovery + Outreach: Graduate student research position open for APOD</p>
+<p style="text-align: justify;">Birds don&#39;t fly this high.  Airplanes don&#39;t go this fast.  The Statue of Liberty weighs less.  No species other than human can even comprehend what is going on, nor could any human just a millennium ago. The launch of a rocket bound for space is an event that inspires awe and challenges description.  Pictured here, a SpaceX Falcon 9 rocket lifted off from Kennedy Space Center, Florida earlier this month carrying the Imaging X-ray Polarimetry Explorer (IXPE).  IXPE is scheduled to observe high-energy objects such as neutron stars, black holes, and the centers of distant galaxies to better determine the physics and geometries that create and control them.  From a standing start, the 300,000+ kilogram rocket ship lifted IXPE up to circle the Earth, where the outside air is too thin to breathe. Rockets bound for space are now launched from somewhere on Earth every few days.    Launch Update: James Webb Space Telescope</p>
 
 
 
