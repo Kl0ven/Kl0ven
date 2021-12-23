@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Launch of the IXPE Observatory</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/IxpeLaunch_Sirokie_960.jpg"">
+<h3>Three Planets and a Comet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/20211221Tezel1024c.jpg"">
 
 
-<p style="text-align: justify;">Birds don&#39;t fly this high.  Airplanes don&#39;t go this fast.  The Statue of Liberty weighs less.  No species other than human can even comprehend what is going on, nor could any human just a millennium ago. The launch of a rocket bound for space is an event that inspires awe and challenges description.  Pictured here, a SpaceX Falcon 9 rocket lifted off from Kennedy Space Center, Florida earlier this month carrying the Imaging X-ray Polarimetry Explorer (IXPE).  IXPE is scheduled to observe high-energy objects such as neutron stars, black holes, and the centers of distant galaxies to better determine the physics and geometries that create and control them.  From a standing start, the 300,000+ kilogram rocket ship lifted IXPE up to circle the Earth, where the outside air is too thin to breathe. Rockets bound for space are now launched from somewhere on Earth every few days.    Launch Update: James Webb Space Telescope</p>
+<p style="text-align: justify;">Are you still looking for that perfect holiday gift for an astronomer? If your night sky is dark and horizon clear enough, the Solar System may have done your shopping for you. Send them outside after sunset to see three planets and a comet. In this snapshot of the December solstice evening sky from the village of Kirazli, Turkey the brightest celestial beacon is Venus, close to the southwestern horizon at the right. Look left and up to find Saturn shining between clouds. Follow that line farther left and up to bright Jupiter, the Solar System&#39;s ruling gas giant. This year&#39;s surprise visitor to the inner Solar System, Comet Leonard (C&#x2F;2021 A1), is near the horizon too. The comet is fainter but forms a nearly equilateral triangle with planets Venus and Saturn in this view. After a dramatic brightening in recent days the comet is just visible to the unaided eye, though a nice pair of binoculars is always a good idea.</p>
 
 
 
