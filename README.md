@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Tail of a Christmas Comet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/C2021A1_211221_1024.jpg"">
+<h3>James Webb Space Telescope over Earth</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/JwstLaunch_Arianespace_1080.jpg"">
 
 
-<p style="text-align: justify;">The tail of a comet streams across this three degree wide telescopic field of view captured under dark Namibian skies on December 21. In outburst only a few days ago and just reaching naked eye visibility Comet Leonard (C&#x2F;2021 A1) is this year&#39;s brightest comet. Binoculars will make the diffuse comet easier to spot though, close to the western horizon after sunset. Details revealed in the sharp image show the comet&#39;s coma with a greenish tinge, and follow the interaction of the comet&#39;s ion tail with magnetic fields in the solar wind. After passing closest to Earth on December 12 and Venus on December 18, Comet Leonard is heading toward perihelion, its closest approach to the Sun on January 3rd. Appearing in late December&#39;s beautiful evening skies Comet Leonard has also become known as 2021&#39;s Christmas Comet.   Launch Update: James Webb Space Telescope</p>
+<p style="text-align: justify;">There&#39;s a big new telescope in space. This one, the James Webb Space Telescope (JWST), not only has a mirror over five times larger than Hubble&#39;s in area, but can see better in infrared light. The featured picture shows JWST high above the Earth just after being released by the upper stage of an Ariane V rocket, launched yesterday from French Guiana. Over the next month, JWST will move out near the Sun-Earth L2 point where it will co-orbit the Sun with the Earth. During this time and for the next five months, JWST will unravel its segmented mirror and an array of sophisticated scientific instruments -- and test them. If all goes well, JWST will start examining galaxies across the universe and planets orbiting stars across our Milky Way Galaxy in the summer of 2022.   APOD Gallery: Webb Space Telescope Launch</p>
 
 
 
