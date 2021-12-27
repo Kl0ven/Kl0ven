@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>James Webb Space Telescope over Earth</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/JwstLaunch_Arianespace_1080.jpg"">
+<h3>Comet Leonard behind JWST Launch Plume</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/CometJwst_Matipon_1080.jpg"">
 
 
-<p style="text-align: justify;">There&#39;s a big new telescope in space. This one, the James Webb Space Telescope (JWST), not only has a mirror over five times larger than Hubble&#39;s in area, but can see better in infrared light. The featured picture shows JWST high above the Earth just after being released by the upper stage of an Ariane V rocket, launched yesterday from French Guiana. Over the next month, JWST will move out near the Sun-Earth L2 point where it will co-orbit the Sun with the Earth. During this time and for the next five months, JWST will unravel its segmented mirror and an array of sophisticated scientific instruments -- and test them. If all goes well, JWST will start examining galaxies across the universe and planets orbiting stars across our Milky Way Galaxy in the summer of 2022.   APOD Gallery: Webb Space Telescope Launch</p>
+<p style="text-align: justify;">Which one of these two streaks is a comet? Although they both have comet-like features, the lower streak is the only real comet. This lower streak shows the coma and tail of Comet Leonard, a city-sized block of rocky ice that is passing through the inner Solar System as it continues its looping orbit around the Sun.  Comet Leonard has recently passed its closest to both the Earth and Venus and will round the Sun next week.  The comet, still visible to the unaided eye, has developed a long and changing tail in recent weeks.  In contrast, the upper streak is the launch plume of the Ariane V rocket that lifted the James Webb Space Telescope (JWST) off the Earth two days ago. The featured single-exposure image was taken from Thailand, and the foreground spire is atop a pagoda in Doi Inthanon National Park. JWST, NASA&#39;s largest and most powerful space telescope so far, will orbit the Sun near the Earth-Sun L2 point and is scheduled to start science observations in the summer of 2022.    Gallery: Comet Leonard 2021  Gallery: Webb Space Telescope Launch: 2021 December 25</p>
 
 
 
