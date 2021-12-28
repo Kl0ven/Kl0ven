@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet Leonard behind JWST Launch Plume</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/CometJwst_Matipon_1080.jpg"">
+<h3>Sun Halo over Sweden</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=2SnbMTQwDKM" target="_blank"><img src="http://img.youtube.com/vi/2SnbMTQwDKM/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Which one of these two streaks is a comet? Although they both have comet-like features, the lower streak is the only real comet. This lower streak shows the coma and tail of Comet Leonard, a city-sized block of rocky ice that is passing through the inner Solar System as it continues its looping orbit around the Sun.  Comet Leonard has recently passed its closest to both the Earth and Venus and will round the Sun next week.  The comet, still visible to the unaided eye, has developed a long and changing tail in recent weeks.  In contrast, the upper streak is the launch plume of the Ariane V rocket that lifted the James Webb Space Telescope (JWST) off the Earth two days ago. The featured single-exposure image was taken from Thailand, and the foreground spire is atop a pagoda in Doi Inthanon National Park. JWST, NASA&#39;s largest and most powerful space telescope so far, will orbit the Sun near the Earth-Sun L2 point and is scheduled to start science observations in the summer of 2022.    Gallery: Comet Leonard 2021  Gallery: Webb Space Telescope Launch: 2021 December 25</p>
+<p style="text-align: justify;">What&#39;s happened to the Sun?  Sometimes it looks like the Sun is being viewed through a giant  lens.  In the featured video, however, there are actually millions of tiny lenses: ice crystals.  Water may freeze in the  atmosphere into small, flat, six-sided, ice crystals.  As these crystals flutter to the ground, much time is spent with their faces flat and parallel to the ground.  An observer may find themselves in the same plane as many of the falling ice crystals near sunrise or sunset.  During this alignment, each crystal can act like a miniature lens, refracting sunlight into our view and creating phenomena like parhelia, the technical term for sundogs.  The featured video was taken in late 2017 on the side of a ski hill at the Vemdalen Ski Resort in central  Sweden. Visible in the center is the most direct image of the Sun, while two bright sundogs glow prominently from both the left and the right.  Also visible is the bright 22 degree halo -- as well as the rarer and much fainter 46 degree halo -- also created by sunlight refracting through atmospheric ice crystals.</p>
 
 
 
