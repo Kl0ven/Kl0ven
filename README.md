@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Further Tail of Comet Leonard</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/tail_gasparri_web1024.jpg"">
+<h3>JWST on the Road to L2</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2112/JWSTcrop1024.gif"">
 
 
-<p style="text-align: justify;">Comet Leonard, brightest comet of 2021, is at the lower left of these two panels captured on December 29 in dark Atacama desert skies. Heading for its perihelion on January 3 Comet Leonard&#39;s visible tail has grown. Stacked exposures with a wide angle lens (also displayed in a reversed B&#x2F;W scheme for contrast), trace the complicated ion tail for an amazing 60 degrees, with bright Jupiter shining near the horizon at lower right. Material vaporizing from Comet Leonard&#39;s nucleus, a mass of dust, rock, and ices about 1 kilometer across, has produced the long tail of ionized gas fluorescing in the sunlight. Likely flares on the comet&#39;s nucleus and buffeting by magnetic fields and the solar wind in recent weeks have resulted in the tail&#39;s irregular pinched and twisted appearance. Still days from its closest approach to the Sun, Comet Leonard&#39;s activity should continue. The comet is south of the Solar System&#39;s ecliptic plane as it sweeps through the southern constellation Microscopium.</p>
+<p style="text-align: justify;">This timelapse gif tracks the James Webb Space Telescope as it streaks across the stars of Orion on its journey to a destination beyond the Moon. Recorded on December 28, 12 consecutive exposures each 10 minutes long were aligned and combined with a subsequent color image of the background stars to create the animation. About 2.5 days after its December 25 launch, JWST cruised past the altitude of the Moon&#39;s orbit as it climbed up the gravity ridge from Earth to reach a halo orbit around L2, an Earth-Sun Lagrange point. Lagrange points are convenient locations in space where the combined gravitational attraction of one massive body (Earth) orbiting another massive body (Sun) is in balance with the centripetal force needed to move along with them. So much smaller masses, like spacecraft, will tend to stay there. One of 5 Lagrange points, L2 is about 1.5 million kilometers from Earth directly along the Earth-Sun line. JWST will arrive at L2 on January 23, 29 days after launch. While relaxing in Earth&#39;s surface gravity you can follow the James Webb Space Telescope&#39;s progress and complicated deployment online.</p>
 
 
 
