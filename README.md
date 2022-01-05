@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Moons Beyond Rings at Saturn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/RheaJanus_Cassini_1020.jpg"">
+<h3>A Year of Sunrises</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/SunriseYear_Vanzella_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happened to that moon of Saturn? Nothing -- Saturn&#39;s moon Rhea is just partly hidden behind Saturn&#39;s rings. In 2010, the robotic Cassini spacecraft then orbiting Saturn took this narrow-angle view looking across the Solar System&#39;s most famous rings. Rings visible in the foreground include the thin F ring on the outside and the much wider A and B rings just interior to it. Although it seems to be hovering over the rings, Saturn&#39;s moon Janus is actually far behind them.  Janus is one of Saturn&#39;s smaller moons and measures only about 180 kilometers across. Farther out from the camera is the heavily cratered Rhea, a much larger moon measuring 1,500 kilometers across. The top of Rhea is visible only through gaps in the rings. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 and was directed to enter Saturn&#39;s atmosphere, where it surely melted.   Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Does the Sun always rise in the same direction?  No.  As the months change, the direction toward the rising Sun changes, too.  The featured image shows the direction of sunrise every month during 2021 as seen from the city of Edmonton, Alberta, Canada. The camera in the image is always facing due east, with north toward the left and south toward the right.  As shown in an accompanying video, the top image was taken in 2020 December, while the bottom image was captured in 2021 December, making 13 images in total. Although the Sun always rises in the east in general, it rises furthest to the south of east on the December solstice, and furthest north of east on the June solstice. In many countries, the December Solstice is considered an official change in season: for example the first day of winter in the North.  Solar heating and stored energy in the Earth&#39;s surface and atmosphere are near their lowest during winter, making the winter season the coldest of the year.    Status Updates: Deploying the James Webb Space Telescope</p>
 
 
 
