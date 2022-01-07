@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Last Days of Venus as the Evening Star</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/venus_220101_ladanyi_web1024.jpg"">
+<h3>Ecstatic Solar Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/eclipse_EV1024.jpg"">
 
 
-<p style="text-align: justify;">That&#39;s not a young crescent Moon posing behind cathedral towers after sunset. It&#39;s Venus in a crescent phase. About 40 million kilometers away and about 2 percent illuminated by sunlight, it was captured with camera and telephoto lens in this series of exposures as it set in western skies on January 1 from Veszprem, Hungary. The bright celestial beacon was languishing in the evening twilight, its days as the Evening Star coming to a close as 2022 began. But it was also growing larger in apparent size and becoming an ever thinner crescent in telescopic views. Heading toward a (non-judgemental) inferior conjunction, the inner planet will be positioned between Earth and Sun on January 9 and generally lost from view in the solar glare. A crescent Venus will soon reappear though. Rising in the east by mid-month just before the Sun as the brilliant Morning Star.   Status Updates: Deploying the James Webb Space Telescope</p>
+<p style="text-align: justify;">A male Adelie penguin performed this Ecstatic Vocalization in silhouette during the December 4 solar eclipse, the final eclipse of 2021. Of course his Ecstatic Vocalization is a special display that male penguins use to claim their territory and advertise their condition. This penguin&#39;s territory, at Cape Crozier Antarctica, is located in one of the largest Adelie penguin colonies. The colony has been studied by researchers for over 25 years. From there, last December&#39;s eclipse was about 80 percent total when seen at its maximum phase as the Moon&#39;s shadow crossed planet Earth&#39;s southernmost continent.   Status Updates: Deploying the James Webb Space Telescope</p>
 
 
 
