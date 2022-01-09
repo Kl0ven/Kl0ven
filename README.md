@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Quadrantids of the North</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/QuadrantidsnorthernskyRadioTelescopeArray1024.jpg"">
+<h3>Hubble&#39;s Jupiter and the Shrinking Great Red Spot</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/JupiterOpal_HubbleMasztalerz_960.jpg"">
 
 
-<p style="text-align: justify;">Named for a forgotten constellation, the Quadrantid Meteor Shower puts on an annual show for planet Earth&#39;s northern hemisphere skygazers. The shower&#39;s radiant on the sky lies within the old, astronomically obsolete constellation Quadrans Muralis. That location is not far from the Big Dipper, at the boundaries of the modern constellations Bootes and Draco. In fact north star Polaris is just below center in this frame and the Big Dipper asterism (known to some as the Plough) is above it, with the meteor shower radiant to the right. Pointing back toward the radiant, Quadrantid meteors streak through the night in the panoramic skyscape, a composite of images taken in the hours around the shower&#39;s peak on January 4, 2022. Arrayed in the foreground are radio telescopes of the Chinese Spectral Radioheliograph, Mingantu Observing Station, Inner Mongolia, China. A likely source of the dust stream that produces Quadrantid meteors was identified in 2003 as an asteroid.   Status Updates: Deploying the James Webb Space Telescope</p>
+<p style="text-align: justify;">What will become of Jupiter&#39;s Great Red Spot?  Gas giant Jupiter is the solar system&#39;s largest world with about 320 times the mass of planet Earth. Jupiter is home to one of the largest and longest lasting storm systems known, the Great Red Spot (GRS), visible to the left. The GRS is so large it could swallow Earth, although it has been shrinking.  Comparison with historical notes indicate that the storm spans only about one third of the exposed surface area it had 150 years ago. NASA&#39;s Outer Planets Atmospheres Legacy (OPAL) program has been monitoring the storm more recently using the Hubble Space Telescope. The featured Hubble OPAL image shows Jupiter as it appeared in 2016, processed in a way that makes red hues appear quite vibrant. Modern GRS data indicate that the storm continues to constrict its surface area, but is also becoming slightly taller, vertically.  No one knows the future of the GRS, including the possibility that if the shrinking trend continues, the GRS might one day even do what smaller spots on Jupiter have done -- disappear completely.    Tuesday over Zoom: APOD editor to present the Best APOD Space Images of 2021</p>
 
 
 
