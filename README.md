@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Orion&#39;s Belt Region in Gas and Dust</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/OrionStarFree3_Harbison_1080.jpg"">
+<h3>Comet Leonard Closeup from Australia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/CometLeonard_Estes_960.jpg"">
 
 
-<p style="text-align: justify;">You may have seen Orion&#39;s belt before -- but not like this. The three bright stars across this image are, from left to right, Mintaka, Alnilam, and Alnitak: the iconic belt stars of Orion. The rest of the stars in the frame have been digitally removed to highlight the surrounding clouds of glowing gas and dark dust. Some of these clouds have intriguing shapes, including the Horsehead and Flame Nebulas, both near Alnitak on the lower right.  This deep image, taken last month from the Marathon Skypark and Observatory in Marathon, Texas, USA, spans about 5 degrees, required about 20 hours of exposure, and was processed to reveal the gas and dust that we would really see if we were much closer. The famous Orion Nebula is off to the upper right of this colorful field.  The entire region lies only about 1,500 light-years distant and so is one of the closest and best studied star formation nurseries known.    Tonight: APOD Editor to Present the Best Space Images of 2021</p>
+<p style="text-align: justify;">What does Comet Leonard look like up close? Although we can&#39;t go there, imaging the comet&#39;s coma and inner tails through a small telescope gives us a good idea.  As the name implies, the ion tail is made of ionized gas -- gas energized by ultraviolet light from the Sun and pushed outward by the solar wind.  The solar wind is quite structured and sculpted by the Sun&#39;s complex and ever changing magnetic field. The effect of the variable solar wind combined with different gas jets venting from the comet&#39;s nucleus accounts for the tail&#39;s complex structure.  Following the wind, structure in Comet Leonard&#39;s tail can be seen to move outward from the Sun even alter its wavy appearance over time.  The blue color of the ion tail is dominated by recombining carbon monoxide molecules, while the green color of the coma surrounding the head of the comet is created mostly by a slight amount of recombining diatomic carbon molecules. Diatomic carbon is destroyed by sunlight in about 50 hours -- which is why its green glow does not make it far into the ion tail. The featured imagae was taken on January 2 from Siding Spring Observatory in Australia.  Comet Leonard, presently best viewed from Earth&#39;s Southern Hemisphere, has rounded the Sun and is now headed out of the Solar System.</p>
 
 
 
