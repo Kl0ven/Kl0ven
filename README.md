@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet Leonard Closeup from Australia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/CometLeonard_Estes_960.jpg"">
+<h3>Supernova Remnant Simeis 147</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/HOOClassicBinned_ps1024.jpg"">
 
 
-<p style="text-align: justify;">What does Comet Leonard look like up close? Although we can&#39;t go there, imaging the comet&#39;s coma and inner tails through a small telescope gives us a good idea.  As the name implies, the ion tail is made of ionized gas -- gas energized by ultraviolet light from the Sun and pushed outward by the solar wind.  The solar wind is quite structured and sculpted by the Sun&#39;s complex and ever changing magnetic field. The effect of the variable solar wind combined with different gas jets venting from the comet&#39;s nucleus accounts for the tail&#39;s complex structure.  Following the wind, structure in Comet Leonard&#39;s tail can be seen to move outward from the Sun even alter its wavy appearance over time.  The blue color of the ion tail is dominated by recombining carbon monoxide molecules, while the green color of the coma surrounding the head of the comet is created mostly by a slight amount of recombining diatomic carbon molecules. Diatomic carbon is destroyed by sunlight in about 50 hours -- which is why its green glow does not make it far into the ion tail. The featured image was taken on January 2 from Siding Spring Observatory in Australia.  Comet Leonard, presently best viewed from Earth&#39;s Southern Hemisphere, has rounded the Sun and is now headed out of the Solar System.</p>
+<p style="text-align: justify;">It&#39;s easy to get lost following the intricate, looping, twisting filaments in this detailed image of supernova remnant Simeis 147. Also cataloged as Sharpless 2-240 it goes by the popular nickname, the Spaghetti Nebula. Seen toward the boundary of the constellations Taurus and Auriga, it covers nearly 3 degrees or 6 full moons on the sky. That&#39;s about 150 light-years at the stellar debris cloud&#39;s estimated distance of 3,000 light-years. This composite includes image data taken through narrow-band filters where reddish emission from ionized hydrogen atoms and doubly ionized oxygen atoms in faint blue-green hues trace the shocked, glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from the massive stellar explosion first reached Earth 40,000 years ago. But the expanding remnant is not the only aftermath. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the original star&#39;s core.</p>
 
 
 
