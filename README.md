@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 1566: The Spanish Dancer Spiral Galaxy</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/NGC1566LRGBHa-Hanson-SelbyFinal1024.jpg"">
+<h3>Galileo&#39;s Europa</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/PIA19048europa1024.jpg"">
 
 
-<p style="text-align: justify;">An island universe of billions of stars, NGC 1566 lies about 60 million light-years away in the southern constellation Dorado. Popularly known as the Spanish Dancer galaxy, it&#39;s seen face-on from our Milky Way perspective. A gorgeous grand design spiral, this galaxy&#39;s two graceful spiral arms span over 100,000 light-years, traced by bright blue star clusters, pinkish starforming regions, and swirling cosmic dust lanes. NGC 1566&#39;s flaring center makes the spiral one of the closest and brightest Seyfert galaxies. It likely houses a central supermassive black hole wreaking havoc on surrounding stars, gas, and dust. In this sharp southern galaxy portrait, the spiky stars lie well within the Milky Way.</p>
+<p style="text-align: justify;">Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon&#39;s icy surface likely hides a deep, global ocean. Galileo&#39;s Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa&#39;s long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. What kind of life could thrive in a deep, dark, subsurface ocean? Consider planet Earth&#39;s own extreme shrimp.</p>
 
 
 
