@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M31: The Andromeda Galaxy</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/M31_HstSubaruGendler_960.jpg"">
+<h3>NGC 7822 in Cepheus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/IMG_9447_1024.jpg"">
 
 
-<p style="text-align: justify;">The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy. Even at some two and a half million light-years distant, this immense spiral galaxy -- spanning over 200,000 light years -- is visible, although as a faint, nebulous cloud in the constellation Andromeda. In contrast, a bright yellow nucleus, dark winding dust lanes, and expansive spiral arms dotted with blue star clusters and red nebulae, are recorded in this stunning telescopic image which combines data from orbiting Hubble with ground-based images from Subaru and Mayall. In only about 5 billion years, the Andromeda galaxy may be even easier to see -- as it will likely span the entire night sky -- just before it merges with our Milky Way Galaxy.</p>
+<p style="text-align: justify;">Hot, young stars and cosmic pillars of gas and dust seem to crowd into NGC 7822. At the edge of a giant molecular cloud toward the northern constellation Cepheus, the glowing star forming region lies about 3,000 light-years away. Within the nebula, bright edges and dark shapes stand out in this colorful telescopic skyscape. The image includes data from narrowband filters, mapping emission from atomic oxygen, hydrogen, and sulfur into blue, green, and red hues. The emission line and color combination has become well-known as the Hubble palette.  The atomic emission is powered by energetic radiation from the central hot stars. Their powerful winds and radiation sculpt and erode the denser pillar shapes and clear out a characteristic cavity light-years across the center of the natal cloud. Stars could still be forming inside the pillars by gravitational collapse but as the pillars are eroded away, any forming stars will ultimately be cutoff from their reservoir of star stuff. This field of view spans about 40 light-years at the estimated distance of NGC 7822.</p>
 
 
 
