@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Young Star Jet MHO 2147</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/noirlab2204a_1024.jpg"">
+<h3>The Full Moon and the Dancer</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/IMG_4039copia2_1024.jpg"">
 
 
-<p style="text-align: justify;">Laser guide stars and adaptive optics sharpened this stunning ground-based image of stellar jets from the Gemini South Observatory, Chilean Andes, planet Earth. These twin outflows of MHO 2147 are from a young star in formation. It lies toward the central Milky Way and the boundary of the constellations Sagittarius and Ophiuchus at an estimated distance of some 10,000 light-years. At center, the star itself is obscured by a dense region of cold dust. But the infrared image still traces the sinuous jets across a frame that would span about 5 light-years at the system&#39;s estimated distance. Driven outward by the young rotating star, the apparent wandering direction of the jets is likely due to precession. Part of a multiple star system, the young star&#39;s rotational axis would slowly precess or wobble like a top under the gravitation influence of its nearby companions.</p>
+<p style="text-align: justify;">On Monday, January&#39;s Full Moon rose as the Sun set. Spotted near the eastern horizon, its warm hues are seen in this photo taken near Cagliari, capital city of the Italian island of Sardinia. Of course the familiar patterns of light and dark across the Moon&#39;s nearside are created by bright rugged highlands and dark smooth lunar maria. Traditionally the patterns are seen as pareidolia, giving the visual illusion of a human face like the Man in the Moon, or familiar animal like the Moon rabbit. But for a moment the swarming murmuration, also known as a flock of starlings, frozen in the snapshot&#39;s field of view lends another pareidolic element to the scene. Some see the graceful figure of a dancer enchanted by moonlight.</p>
 
 
 
