@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rigel and the Witch Head Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/RigelWitchHead_Mtanous_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">By starlight this eerie visage shines in the dark, a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that the witch has fixed her gaze on Orion&#39;s bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel&#39;s starlight. The blue color of the Witch Head Nebula and of the dust surrounding Rigel is caused not only by Rigel&#39;s intense blue starlight but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth&#39;s daytime sky to appear blue, although the scatterers in Earth&#39;s atmosphere are molecules of nitrogen and oxygen. Rigel, the Witch Head Nebula, and gas and dust that surrounds them lie about 800 light-years away.</p>
+<p style="text-align: justify;"></p>
 
 
 
