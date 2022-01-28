@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Western Moon, Eastern Sea</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/Mare_Orientale_Nov_27_2021_TGlenn_1024.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it&#39;s very difficult to see from an earthbound perspective. Still, taken during a period of favorable tilt, or libration of the lunar nearside, the Eastern Sea can be found near top center in this sharp telescopic view, extremely foreshortened along the Moon&#39;s western edge. Formed by the impact of an asteroid over 3 billion years ago and nearly 1000 kilometers across, the impact basin&#39;s concentric circular features, ripples in the lunar crust, are a little easier to spot in spacecraft images of the Moon, though. So why is the Eastern Sea at the Moon&#39;s western edge? The Mare Orientale lunar feature was named before 1961. That&#39;s when the convention labeling east and west on lunar maps was reversed.</p>
+<p style="text-align: justify;"></p>
 
 
 
