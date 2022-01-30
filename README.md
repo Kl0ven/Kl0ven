@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Solar Prominence from SOHO</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2201/sunprom3_soho_960.jpg"">
+<h3></h3>
+ <img class="fit-picture" src=""">
 
 
-<p style="text-align: justify;">How can gas float above the Sun?   Twisted magnetic fields arching from the solar surface can trap ionized gas, suspending it in huge looping structures.  These majestic plasma arches are seen as prominences above the solar limb.  In 1999, this dramatic and detailed image was recorded by the Extreme ultraviolet Image Telescope (EIT) on board the space-based SOHO observatory in the light emitted by ionized Helium.  It shows hot plasma escaping into space as a fiery prominence breaks free from magnetic confinement a hundred thousand kilometers above the Sun.  These awesome events bear watching as they can affect communications and power systems over 100 million kilometers away on planet Earth. In late 2020 our Sun passed the solar minimum of its 11-year cycle and is now showing  increased surface activity.</p>
+<p style="text-align: justify;"></p>
 
 
 
