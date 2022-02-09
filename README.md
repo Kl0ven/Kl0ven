@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Aurora and Light Pillars over Norway</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/AuroraPillars_Correia_960.jpg"">
+<h3>Eta Car: 3D Model of the Most Dangerous Star Known</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=NS71ppsk7n0" target="_blank"><img src="http://img.youtube.com/vi/NS71ppsk7n0/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Which half of this sky is your favorite? On the left, the night sky is lit up by particles expelled from the Sun that later collided with Earth&#39;s upper atmosphere — creating bright auroras.  On the right, the night glows with ground lights reflected by millions of tiny ice crystals falling from the sky — creating  light pillars.  And in the center, the astrophotographer presents your choices. The light pillars are vertical columns because the fluttering ice-crystals are mostly flat to the ground, and their colors are those of the ground lights. The auroras cover the sky and ground in the green hue of glowing oxygen, while their transparency is clear because you can see stars right through them. Distant stars dot the background, including bright stars from the iconic constellation of Orion.  The featured image was captured in a single exposure two months ago near Kautokeino, Norway.   Favorite sky half: Left half (aurora) | Right half (light pillars)</p>
+<p style="text-align: justify;">What&#39;s the most dangerous star near earth?  Many believe it&#39;s Eta Carinae, a binary star system about 100 times the mass of the Sun, just 10,000 light years from earth.  Eta Carinae is a ticking time bomb, set to explode as a supernova in only a few million years, when it may bathe the earth in dangerous gamma rays.  The star suffered a notorious outburst in the 1840s when it became the brightest star in the southern sky, only to fade to obscurity within decades.  The star was not destroyed, but lies hidden behind a thick, expanding, double-lobed structure called the Homunculus which now surrounds the binary.  Studies of this ejecta provide forensic clues about the explosion.  Using observations from NASA satellites we can now visualize the 3D distribution of the shrapnel, all the way from the infrared, through optical and UV, to the outermost shell of million-degree material, visible only in X-rays.</p>
 
 
 
