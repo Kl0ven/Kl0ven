@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Earth at Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/EarthAtNight2016_SuomiNPP_1080.jpg"">
+<h3>In the Heart of the Heart Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/HeartB_Jensen_960.jpg"">
 
 
-<p style="text-align: justify;">This is what the Earth looks like at night.  Can you find your favorite country or city?  Surprisingly, city lights make this task quite possible.  Human-made lights highlight particularly developed or populated areas of the Earth&#39;s surface, including the seaboards of Europe, the eastern United States, and Japan.  Many large cities are located near rivers or oceans so that they can exchange goods cheaply by boat.  Particularly dark areas include the central parts of South America, Africa, Asia, and Australia. The featured image, nicknamed Black Marble, is actually a composite of hundreds of pictures remade in 2016 from data taken by the orbiting Suomi NPP satellite.</p>
+<p style="text-align: justify;">What excites the Heart Nebula? First, the large emission nebula dubbed IC 1805 looks, in whole, like a human heart.  Its shape perhaps fitting of the Valentine&#39;s Day, this heart glows brightly in red light emitted by its most prominent element: excited hydrogen.  The red glow and the larger shape are all created by a small group of stars near the nebula&#39;s center.  In the heart of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their energetic light and winds. The open cluster of stars contains a few bright stars nearly 50 times the mass of our Sun, many dim stars only a fraction of the mass of our Sun, and an absent microquasar that was expelled millions of years ago.  The Heart Nebula is located about 7,500 light years away toward the constellation of the mythological Queen of Aethiopia (Cassiopeia).</p>
 
 
 
