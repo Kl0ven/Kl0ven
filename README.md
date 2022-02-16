@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Terminator Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/TerminatorMoon_Shet_960.jpg"">
+<h3>Eiffel Tower Prominence on the Sun</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=liapnqj9GDc" target="_blank"><img src="http://img.youtube.com/vi/liapnqj9GDc/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What&#39;s different about this Moon? It&#39;s the terminators. In the featured image, you can&#39;t directly see any terminator -- the line that divides the light of day from the dark of night. That&#39;s because the image is a digital composite of 29 near-terminator lunar strips.  Terminator regions show the longest and most prominent shadows -- shadows which, by their contrast and length, allow a flat photograph to appear three-dimensional. The original images and data were taken near the Moon by NASA&#39;s Lunar Reconnaissance Orbiter.  Many of the Moon&#39;s craters stand out because of the shadows they all cast to the right. The image shows in graphic detail that the darker regions known as maria are not just darker than the rest of the Moon -- they are flatter.   Dial-A-Moon: Find the phase of the Moon on your birthday.</p>
+<p style="text-align: justify;">What&#39;s that on the Sun? Although it may look like a flowing version of the Eiffel Tower, it is a solar prominence that is actually much bigger -- about the height of Jupiter. The huge prominence emerged about ten days ago, hovered over the Sun&#39;s surface for about two days, and then erupted -- throwing a coronal mass ejection (CME) into the Solar System. The featured video, captured from the astrophotographer&#39;s backyard in Hendersonville, Tennessee, USA, shows an hour time-lapse played both forwards and backwards. That CME did not impact the Earth, but our Sun had unleashed  other recent CMEs that not only triggered Earthly auroras, but puffed out the Earth&#39;s atmosphere enough to cause just-launched Starlink satellites to fall back. Activity on the Sun, including sunspots, prominences, CMEs and flares, continues to increase as the Sun evolves away from a deep minimum in its 11-year magnetic cycle.   Birthday Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
