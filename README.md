@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Nearby Spiral Galaxy NGC 4945</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/NGC4945-Dietmar-Eric-crop1024.jpg"">
+<h3>Earthrise 1: Historic Image Remastered</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/Earthrise1_Apollo8AndersWeigang_960.jpg"">
 
 
-<p style="text-align: justify;">Large spiral galaxy NGC 4945 is seen nearly edge-on in this cosmic galaxy close-up. It&#39;s almost the size of our Milky Way Galaxy. NGC 4945&#39;s own dusty disk, young blue star clusters, and pink star forming regions stand out in the colorful telescopic frame. About 13 million light-years distant toward the expansive southern constellation Centaurus, NGC 4945 is only about six times farther away than Andromeda, the nearest large spiral galaxy to the Milky Way. Though this galaxy&#39;s central region is largely hidden from view for optical telescopes, X-ray and infrared observations indicate significant high energy emission and star formation in the core of NGC 4945. Its obscured but active nucleus qualifies the gorgeous island universe as a Seyfert galaxy and home to a central supermassive black hole.</p>
+<p style="text-align: justify;">&quot;Oh my God! Look at that picture over there! Here&#39;s the Earth coming up. Wow is that pretty!&quot; Soon after that pronouncement, 50 years ago today, one of the most famous images ever taken was snapped from the orbit of the Moon. Now known as &quot;Earthrise&quot;, the iconic image shows the Earth rising above the limb of the Moon, as taken by the crew of Apollo 8.  But the well-known Earthrise image was actually the  second image taken of the Earth rising above the lunar limb -- it was just the first in color.  With modern digital technology, however, the real first Earthrise image -- originally in black and white -- has now been remastered to have the combined resolution and color of the first three images.  Behold! The featured image is a close-up of the picture that Apollo 8 astronaut Bill Anders was talking about. Thanks to modern technology and human ingenuity, now we can all see it. (Historical note: A different historic black &amp; white image of the Earth setting behind the lunar limb was taken by the robotic Lunar Orbiter 1 two years earlier.)</p>
 
 
 
