@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Earthrise 1: Historic Image Remastered</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/Earthrise1_Apollo8AndersWeigang_960.jpg"">
+<h3>Direct Projection: The Moon in My Hands</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/MoonHands_Graphy_960.jpg"">
 
 
-<p style="text-align: justify;">&quot;Oh my God! Look at that picture over there! Here&#39;s the Earth coming up. Wow is that pretty!&quot; Soon after that pronouncement, about 53 years ago, one of the most famous images ever taken was snapped from the orbit of the Moon. Now known as &quot;Earthrise&quot;, the iconic image shows the Earth rising above the limb of the Moon, as taken by the crew of Apollo 8.  But the well-known Earthrise image was actually the  second image taken of the Earth rising above the lunar limb -- it was just the first in color.  With modern digital technology, however, the real first Earthrise image -- originally in black and white -- has now been remastered to have the combined resolution and color of the first three images.  Behold! The featured image is a close-up of the picture that Apollo 8 astronaut Bill Anders was talking about. Thanks to modern technology and human ingenuity, now we can all see it. (Historical note: A different historic black &amp; white image of the Earth setting behind the lunar limb was taken by the robotic Lunar Orbiter 1 two years earlier.)</p>
+<p style="text-align: justify;">You don&#39;t have to look through a telescope to know where it&#39;s pointing. Allowing the telescope to project its image onto a large surface can be useful because it dilutes the intense brightness of very bright sources. Such dilution is useful for looking at the Sun, for example during a solar eclipse. In the featured single-exposure image, though, it is a too-bright full moon that is projected. This February full moon occurred two weeks ago and is called the Snow Moon by some northern cultures.  The projecting instrument is the main 62-centimeter telescope at the Saint-Véran Observatory high in the French Alps. Seeing a full moon directly is easier because it is not too bright, although you won&#39;t see this level of detail.  Your next chance will occur on March 17.</p>
 
 
 
