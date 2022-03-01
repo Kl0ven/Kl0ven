@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Direct Projection: The Moon in My Hands</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2202/MoonHands_Graphy_960.jpg"">
+<h3>Dueling Bands in the Night</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/DuelingBands_Dai_960.jpg"">
 
 
-<p style="text-align: justify;">You don&#39;t have to look through a telescope to know where it&#39;s pointing. Allowing the telescope to project its image onto a large surface can be useful because it dilutes the intense brightness of very bright sources. Such dilution is useful for looking at the Sun, for example during a solar eclipse. In the featured single-exposure image, though, it is a too-bright full moon that is projected. This February full moon occurred two weeks ago and is called the Snow Moon by some northern cultures.  The projecting instrument is the main 62-centimeter telescope at the Saint-Véran Observatory high in the French Alps. Seeing a full moon directly is easier because it is not too bright, although you won&#39;t see this level of detail.  Your next chance will occur on March 17.</p>
+<p style="text-align: justify;">What are these two bands in the sky? The more commonly seen band is the one on the right and is the central band of our Milky Way galaxy. Our Sun orbits in the disk of this spiral galaxy, so that from inside, this disk appears as a band of comparable brightness all the way around the sky. The Milky Way band can also be seen all year -- if out away from city lights.  The less commonly seem band, on the left, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings in the north, particularly during the months of March and April, this ribbon of zodiacal light can appear quite prominent after sunset.  It was determined only this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  Only on certain times of the year will the two bands be seen side by side, in parts of the sky, like this.  The featured image, including the Andromeda galaxy and a meteor, was captured in late January over a frozen lake in Kanding, Sichuan, China.</p>
 
 
 
