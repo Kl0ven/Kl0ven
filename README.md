@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Dueling Bands in the Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/DuelingBands_Dai_960.jpg"">
+<h3>Record Prominence Imaged by Solar Orbiter</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/SunEruption_SolarOrbiter_960.jpg"">
 
 
-<p style="text-align: justify;">What are these two bands in the sky? The more commonly seen band is the one on the right and is the central band of our Milky Way galaxy. Our Sun orbits in the disk of this spiral galaxy, so that from inside, this disk appears as a band of comparable brightness all the way around the sky. The Milky Way band can also be seen all year -- if out away from city lights.  The less commonly seem band, on the left, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings in the north, particularly during the months of March and April, this ribbon of zodiacal light can appear quite prominent after sunset.  It was determined only this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  Only on certain times of the year will the two bands be seen side by side, in parts of the sky, like this.  The featured image, including the Andromeda galaxy and a meteor, was captured in late January over a frozen lake in Kanding, Sichuan, China.</p>
+<p style="text-align: justify;">What&#39;s happened to our Sun?  Last month, it produced the largest prominence ever imaged together with a complete solar disk. The record image, featured, was captured in ultraviolet light by the Sun-orbiting Solar Orbiter spacecraft. A quiescent solar prominence is a cloud of hot gas held above the Sun&#39;s surface by the Sun&#39;s magnetic field.  This solar prominence was huge -- spanning a length rivaling the diameter of the Sun itself. Solar prominences may erupt unpredictably and expel hot gas into the Solar System via a Coronal Mass Ejection (CME).  When a CME strikes the Earth and its magnetosphere, bright auroras may occur. This prominence did produce a CME, but it was directed well away from the Earth. Although surely related to the Sun&#39;s changing magnetic field, the energy mechanism that creates and sustains a solar prominence remains a topic of research.</p>
 
 
 
