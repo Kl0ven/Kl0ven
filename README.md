@@ -33,11 +33,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Interstellar Comet 2I Borisov</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/borisovStsci1315.jpg"">
+<h3>Venus and the Triply Ultraviolet Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/SunVenusUv3_SdoDove_960.jpg"">
 
 
-<p style="text-align: justify;">From somewhere else in the Milky Way galaxy, Comet 2I&#x2F;Borisov was just visiting the Solar System. Discovered by amateur astronomer Gennady Borisov on August 30, 2019, the first known interstellar comet is seen in these two Hubble Space Telescope images from November and December 2019. On the left, a distant background galaxy near the line-of-sight to Borisov is blurred as Hubble tracked the speeding comet and dust tail about 327 million kilometers from Earth. At right, 2I&#x2F;Borisov appears shortly after perihelion, its closest approach to Sun. European Southern Observatory observations indicate that this comet may never have passed close to any star before its 2019 perihelion passage. Borisov&#39;s closest approach to our fair planet, a distance of about 290 million kilometers, came on December 28, 2019. Even though Hubble&#39;s sharp images don&#39;t resolve the comet&#39;s nucleus, they did lead to estimates of less than 1 kilometer for its diameter.</p>
+<p style="text-align: justify;">This was a very unusual type of solar eclipse.  Typically, it is the Earth&#39;s Moon that eclipses the Sun.  In 2012, though, the planet Venus took a turn.  Like a solar eclipse by the Moon, the phase of Venus became a continually thinner crescent as Venus became increasingly better aligned with the Sun.  Eventually the alignment became perfect and the phase of Venus dropped to zero.  The dark spot of Venus crossed our parent star.  The situation could technically be labeled a Venusian annular eclipse with an extraordinarily large ring of fire.  Pictured here during the occultation, the Sun was imaged in three colors of ultraviolet light by the Earth-orbiting Solar Dynamics Observatory, with the dark region toward the right corresponding to a coronal hole. Hours later, as Venus continued in its orbit, a slight crescent phase appeared again.  The next Venusian transit across the Sun will occur in 2117.</p>
 
 
 
