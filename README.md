@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Star Formation in the Eagle Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/Pillars_HstBibillo_1097.jpg"">
+<h3>A Road to the Stars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/Road2Stars_EsoHoralek_1080.jpg"">
 
 
-<p style="text-align: justify;">Where do stars form?  One place, star forming regions known as &quot;EGGs&quot;, are being uncovered at the end of this giant pillar of gas and dust in the Eagle Nebula (M16).  Short for evaporating gaseous globules, EGGs are dense regions of mostly molecular hydrogen gas that fragment and gravitationally collapse to form stars.  Light from the hottest and brightest of these new stars heats the end of the pillar and causes further evaporation of gas and dust -- revealing yet more EGGs and more young stars.  This featured picture was created from exposures spanning over 30 hours with the Earth-orbiting Hubble Space Telescope in 2014, and digitally processed with modern software by experienced volunteers in Argentina. Newborn stars will gradually destroy their birth pillars over the next 100,000 years or so -- if a supernova doesn&#39;t destroy them first.</p>
+<p style="text-align: justify;">Pictured -- a very scenic road to the stars.  The road approaches La Silla Observatory in Chile, with the ESO&#39;s 3.6-meter telescope just up ahead. To the left are some futuristic-looking support structures for the planned BlackGEM telescopes, an array of optical telescopes that will help locate optical counterparts to gravitational waves detections by LIGO and other detectors.  But there is much more. Red airglow illuminates the night sky on the right, while the central band of our Milky Way Galaxy slants across the image center. Jupiter can be seen just above the band near the image center, while Saturn is visible just above the 3.6-meter telescope dome. The two largest satellite galaxies of our Milky Way Galaxy, the LMC and SMC, are seen on the far right. The featured image panorama was built up from multiple 15-second exposures that were captured on 2019 June 30.  Two days later, La Silla experienced a rare total eclipse of the Sun.</p>
 
 
 
