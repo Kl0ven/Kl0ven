@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>2MASS J17554042+6551277</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/telescope_alignment_evaluation_image_labeled1024.jpg"">
+<h3>A Picturesque Equinox Sunset</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/EquinoxSunset_Christen_960.jpg"">
 
 
-<p style="text-align: justify;">2MASS J17554042+6551277 doesn&#39;t exactly roll off the tongue but that&#39;s the name, a coordinate-based catalog designation, of the star centered in this sharp field of view. Fans of the distant universe should get used to its spiky appearance though. The diffraction pattern is created by the 18 hexagonal mirror segments of the James Webb Space Telescope. After unfolding, the segments have now been adjusted to achieve a diffraction limited alignment at infrared wavelengths while operating in concert as a single 6.5 meter diameter primary mirror. The resulting image taken by Webb&#39;s NIRcam demonstrates their precise alignment is the best physics will allow. 2MASS J17554042+6551277 is about 2,000 light-years away and well within our own galaxy. But the galaxies scattered across the background of the Webb telescope alignment evaluation image are likely billions of light-years distant, far beyond the Milky Way.</p>
+<p style="text-align: justify;">What&#39;s that at the end of the road? The Sun. Many towns have roads that run east - west, and on two days each year, the Sun rises and sets right down the middle. Today is one of those days: an equinox. Not only is today a day of equal night (&quot;aequus&quot;-&quot;nox&quot;) and day time, but also a day when the sun rises precisely to the east and sets due west. Featured here is a picturesque road in northwest Illinois, USA that runs approximately east -west. The image was taken during the March Equinox of 2015, and shows the Sun down the road at sunset. In many cultures, this March equinox is taken to be the first day of a season, typically spring in Earth&#39;s northern hemisphere, and autumn in the south. Does your favorite street run east - west? Tonight, at sunset, you can find out with a quick glance.</p>
 
 
 
