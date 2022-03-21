@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Picturesque Equinox Sunset</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/EquinoxSunset_Christen_960.jpg"">
+<h3>The Sky in 2021</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/YearOfSky_Bassa_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that at the end of the road? The Sun. Many towns have roads that run east - west, and on two days each year, the Sun rises and sets right down the middle. Today is one of those days: an equinox. Not only is today a day of equal night (&quot;aequus&quot;-&quot;nox&quot;) and day time, but also a day when the sun rises precisely to the east and sets due west. Featured here is a picturesque road in northwest Illinois, USA that runs approximately east -west. The image was taken during the March Equinox of 2015, and shows the Sun down the road at sunset. In many cultures, this March equinox is taken to be the first day of a season, typically spring in Earth&#39;s northern hemisphere, and autumn in the south. Does your favorite street run east - west? Tonight, at sunset, you can find out with a quick glance.</p>
+<p style="text-align: justify;">What if you could see the entire sky -- all at once -- for an entire year? That, very nearly, is what is pictured here.  Every 15 minutes during 2021, an all-sky camera took an image of the sky over the Netherlands. Central columns from these images were then aligned and combined to create the featured keogram, with January at the top, December at the bottom, and the middle of the night running vertically just left of center. What do we see?  Most obviously, the daytime sky is mostly blue, while the nighttime sky is mostly black.  The twelve light bands crossing the night sky are caused by the glow of the Moon. The thinnest part of the black hourglass shape occurs during the summer solstice when days are the longest, while the thickest part occurs at the winter solstice. Yesterday was an equinox -- when night and day were equal -- and the northern-spring equinox from one year ago can actually be located in the keogram -- about three-quarters of the way up.    Follow APOD on Instagram in: English, Indonesian, Persian, Portuguese or Taiwanese</p>
 
 
 
