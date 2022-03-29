@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Gems of a Maldivean Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/SouthIsland_Horalek_960.jpg"">
+<h3>Venus and Mars: Passing in the Night</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/VenusMars_Fairbairn_960.jpg"">
 
 
-<p style="text-align: justify;">The southernmost part of the Milky Way contains not only the stars of the Southern Cross, but the closest star system to our Sun -- Alpha Centauri.  The Southern Cross itself is topped by the bright, yellowish star Gamma Crucis.  A line from Gamma Crucis through the blue star at the bottom of the cross, Acrux, points toward the south celestial pole, located just above the small island in the featured picture -- taken in early March.  That island is Madivaru of the Maldives in the Indian Ocean. Against faint Milky Way starlight, the dark Coal Sack Nebula lies just left of the cross, while farther left along the Milky Way are the bright stars Alpha Centauri (left) and Beta Centauri (Hadar).  Alpha Centauri A, a Sun-like star anchoring a three-star system with exoplanets, is a mere 4.3 light-years distant.  Seen from Alpha Centauri, our own Sun would be a bright yellowish star in the otherwise recognizable constellation Cassiopeia.   Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">When two planets pass on the night sky, they can usually be seen near each other for a week or more. In the case of this planetary conjunction, Venus and Mars passed within 4 degrees of each other earlier this month. The featured image was taken a few days prior, when Venus was slowing rising in the pre-dawn sky, night by night, while Mars was slowly setting. The image, a four-part mosaic, was captured in Brazil from the small town Teresópolis. Besides Venus and Mars, the morning sky now also includes the more distant planet Saturn.  Of course, these conjunctions are only angular -- Venus, Mars, and Saturn continue to orbit the Sun in very different parts of our Solar System.  Next week, the angle between Saturn and Mars will drop to below a quarter of a degree.</p>
 
 
 
