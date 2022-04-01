@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Exploring the Antennae</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2203/Arp244-LRGB1024.jpg"">
+<h3>Leaning Tower, Active Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/sunspotsleaningtowerofpisa1024.jpg"">
 
 
-<p style="text-align: justify;">Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies&#39; large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning over 500 thousand light-years, this stunning view also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image, an accumulation of 88 hours of exposure captured during 2012-2021, follows the faint tidal tails and distant background galaxies in the field of view. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair, also known as Arp 244, its popular name - The Antennae.</p>
+<p style="text-align: justify;">The natural filter of a hazy atmosphere offered this recognizable architecture and sunset view on March 27. Dark against the solar disk, large sunspots in solar active regions 2975 and 2976 are wedged between the Duomo of Pisa and its famous Leaning Tower. Only one day later, Sun-staring spacecraft watched active region 2975 unleash a frenzy of solar flares along with two coronal mass ejections. The largest impacted the magnetosphere on March 31 triggering a geomagnetic storm and aurorae in high-latitude night skies. On March 30, active region 2975 erupted again with a powerful X-class solar flare that caused a temporary radio blackout on planet Earth.</p>
 
 
 
