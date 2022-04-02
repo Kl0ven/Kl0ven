@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Leaning Tower, Active Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/sunspotsleaningtowerofpisa1024.jpg"">
+<h3>Nova Scotia Northern Lights</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/Z62_5747-Edit1090.jpg"">
 
 
-<p style="text-align: justify;">The natural filter of a hazy atmosphere offered this recognizable architecture and sunset view on March 27. Dark against the solar disk, large sunspots in solar active regions 2975 and 2976 are wedged between the Duomo of Pisa and its famous Leaning Tower. Only one day later, Sun-staring spacecraft watched active region 2975 unleash a frenzy of solar flares along with two coronal mass ejections. The largest impacted the magnetosphere on March 31 triggering a geomagnetic storm and aurorae in high-latitude night skies. On March 30, active region 2975 erupted again with a powerful X-class solar flare that caused a temporary radio blackout on planet Earth.</p>
+<p style="text-align: justify;">This almost otherworldly display of northern lights was captured in clear skies during the early hours of March 31 from 44 degrees north latitude, planet Earth. In a five second exposure the scene looks north from Martinique Beach Provincial Park in Nova Scotia, Canada. Stars of the W-shaped constellation Cassiopeia shine well above the horizon, through the red tint of the higher altitude auroral glow. Auroral activity was anticipated by skywatchers alerted to the possibility of stormy space weather by Sun-staring spacecraft. The predicted geomagnetic storm was sparked as a coronal mass ejection, launched from prolific solar active region 2975, impacted our fair planet&#39;s magnetosphere.</p>
 
 
 
