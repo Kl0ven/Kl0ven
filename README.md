@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>CMB Dipole: Speeding Through the Universe</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/CmbDipole_cobe_960.jpg"">
+<h3>A Vortex Aurora over Iceland</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/VortexAurora_Suarez_1080.jpg"">
 
 
-<p style="text-align: justify;">Our Earth is not at rest.  The Earth moves around the Sun.  The Sun orbits the center of the Milky Way Galaxy.  The Milky Way Galaxy orbits in the Local Group of Galaxies.  The Local Group falls toward the Virgo Cluster of Galaxies.  But these speeds are less than the speed that all of these objects together move relative to the cosmic microwave background radiation (CMBR).  In the featured all-sky map from the COBE satellite in 1993, microwave light in the Earth&#39;s direction of motion appears blueshifted and hence hotter, while microwave light on the opposite side of the sky is redshifted and colder.  The map indicates that the Local Group moves at about 600 kilometers per second relative to this primordial radiation.  This high speed was initially unexpected and its magnitude is still unexplained.  Why are we moving so fast?  What is out there?</p>
+<p style="text-align: justify;">No, the car was not in danger of being vacuumed into space by the big sky vortex. For one reason, the vortex was really an aurora, and since auroras are created by particles striking the Earth from space, they do not create a vacuum. This rapidly developing auroral display was caused by a Coronal Mass Ejection from the Sun that passed by the Earth closely enough to cause a ripple in Earth&#39;s magnetosphere.  The upper red parts of the aurora occur over 250 kilometers high with its red glow created by atmospheric atomic oxygen directly energized by incoming particles. The lower green parts of the aurora occur over 100 kilometers high with its green glow created by atmospheric atomic oxygen energized indirectly by collisions with first-energized molecular nitrogen.  Below 100 kilometers, there is little atomic oxygen, which is why auroras end abruptly. The concentric cylinders depict a dramatic auroral corona as seen from the side. The featured image was created from a single 3-second exposure taken in mid-March over Lake Myvatn in Iceland.    April is: Global Astronomy Month</p>
 
 
 
