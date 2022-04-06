@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Seven Sisters versus California</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/Calif2Pleiades_Krcmarek_1080.jpg"">
+<h3>Earendel: A Star in the Early Universe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/LensedStar_Hubble_960.jpg"">
 
 
-<p style="text-align: justify;">On the upper right, dressed in blue, is the Pleiades.  Also known as the Seven Sisters and M45, the Pleiades is one of the brightest and most easily visible open clusters on the sky. The Pleiades contains over 3,000 stars, is about 400 light years away, and only 13 light years across. Surrounding the stars is a spectacular blue reflection nebula made of fine dust.  A common legend is that one of the brighter stars faded since the cluster was named. On the lower left, shining in red, is the California Nebula.  Named for its shape, the California Nebula is much dimmer and hence harder to see than the Pleiades.  Also known as NGC 1499, this mass of red glowing hydrogen gas is about 1,500 light years away. Although about 25 full moons could fit between them, the featured wide angle, deep field image composite has captured them both.  A careful inspection of the deep image will also reveal the star forming region IC 348 and the molecular cloud LBN 777 (the Baby Eagle Nebula).</p>
+<p style="text-align: justify;">Is Earendel the farthest star yet discovered? This scientific possibility started when the Hubble Space Telescope observed a huge cluster of galaxies. The gravitational lens effect of this cluster was seen to magnify and distort a galaxy far in the background. This distorted background galaxy -- so far away it has a redshift of 6.2 -- appears in the featured image as a long red string, while beads on that string are likely to be star clusters.   The galaxy cluster lens creates a line of maximum magnification line where superposed background objects may appear magnified many thousands of times. On the intersection between the galaxy line and the maximum magnification line is one &quot;bead&quot; which shows evidence of originating from a single bright star in the early universe -- now named Earendel. Future investigations may include more imaging by Hubble to see how Earendel&#39;s brightness varies, and, quite possibly, by the new James Webb Space Telescope when it becomes operational later this year.  Earendel&#39;s  great distance exceeds that of any known stable star -- although the star that exploded creating GRB 090423 had a redshift of 8.2.</p>
 
 
 
