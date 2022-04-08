@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 24: Sagittarius Star Cloud</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/M24_APOD_GabrielRodriguesSantosAPOD1100.jpg"">
+<h3>Hale-Bopp: The Great Comet of 1997</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/HaleBoppSeip_c1024.jpg"">
 
 
-<p style="text-align: justify;">Unlike most entries in Charles Messier&#39;s famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It&#39;s a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. When you gaze at the star cloud with binoculars or small telescope you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24&#39;s luminous stars fill this gorgeous starscape. Covering over 3 degrees or the width of 6 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 just above center, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.</p>
+<p style="text-align: justify;">Only twenty-five years ago, Comet Hale-Bopp rounded the Sun and offered a dazzling spectacle in planet Earth&#39;s night skies. Digitized from the original astrophoto on 35mm color slide film, this classic image of the Great Comet of 1997 was recorded a few days after its perihelion passage on April 1, 1997. Made with a camera and telephoto lens piggy-backed on a small telescope, the 10 minute long, hand-guided exposure features the memorable tails of Hale-Bopp, a whitish dust tail and blue ion tail. Here, the ion tail extends well over ten degrees across the northern sky. In all, Hale-Bopp was reported as visible to the naked eye from late May 1996 through September 1997. Also known as C&#x2F;1995 O1, Hale-Bopp is recognized as one of the most compositionally pristine comets to pass through the inner Solar System. A visitor from the distant Oort cloud, the comet&#39;s next perihelion passage should be around the year 4380 AD. Do you remember Hale-Bopp?</p>
 
 
 
