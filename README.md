@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>N11: Star Clouds of the LMC</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/N11_HubbleLake_960.jpg"">
+<h3>Milky Way over Devils Tower</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/DevilsWay_Kiczenski_960.jpg"">
 
 
-<p style="text-align: justify;">Massive stars, abrasive winds, mountains of dust, and energetic light sculpt one of the largest and most picturesque regions of star formation in the Local Group of Galaxies.  Known as N11, the region is visible on the upper right of many images of its home galaxy, the Milky Way neighbor known as the Large Magellanic Cloud (LMC).  The featured image was taken for scientific purposes by the Hubble Space Telescope and reprocessed for artistry.  Although the section imaged above is known as NGC 1763, the entire N11 emission nebula is second in LMC size only to the Tarantula Nebula.  Compact globules of dark dust housing emerging young stars are also visible around the image.  A recent study of variable stars in the LMC with Hubble has helped to recalibrate the distance scale of the  observable universe, but resulted in a slightly different scale than found using the pervasive cosmic microwave background.   Astrophysicists: Browse 2,700+ codes in the Astrophysics Source Code Library</p>
+<p style="text-align: justify;">What created Devils Tower? The origin of this extraordinary rock monolith in Wyoming, USA is still debated, with a leading hypothesis holding that it is a hardened lava plume that never reached the surface to become a volcano.  In this theory, the lighter rock that once surrounded the dense volcanic neck has now eroded away, leaving the dramatic tower. Known by Native Americans by names including  Bear&#39;s Lodge and Great Gray Horn, the dense rock includes the longest hexagonal columns known, some over 180-meters tall. High above, the central band of the Milky Way galaxy arches across the sky.  Many notable sky objects are visible, including dark strands of the Pipe Nebula and the reddish Lagoon Nebula to the tower&#39;s right.  Green grass and trees line the foreground, while clouds appear near the horizon to the tower&#39;s left.  Unlike many other international landmarks, mountaineers are permitted to climb Devils Tower.   Birthday Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
