@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 96</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/M_96_LRGB_CDK_1000_8April2022HansonSelbyFinal1024.jpg"">
+<h3>The Gator-back Rocks of Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/PIA25175_1053.jpg"">
 
 
-<p style="text-align: justify;">Spiral arms seem to swirl around the core of Messier 96 in this colorful, detailed portrait of a beautiful island universe. Of course M96 is a spiral galaxy, and counting the faint arms extending beyond the brighter central region it spans 100 thousand light-years or so. That&#39;s about the size of our own Milky Way. M96 is known to be 38 million light-years distant, a dominant member of the Leo I galaxy group. Background galaxies and smaller Leo I group members can be found by examining the picture. The most intriguing one is itself a spiral galaxy seen nearly edge on behind the outer spiral arm near the 1 o&#39;clock position from center. Its bright central bulge cut by its own dark dust clouds, the edge-on background spiral appears to be about 1&#x2F;5 the size of M96. If that background galaxy is similar in actual size to M96, then it would be about 5 times farther away.</p>
+<p style="text-align: justify;">Wind-sharpened rocks known as ventifacts, cover this broad sloping plain in the foot hills of Mount Sharp, Gale crater, Mars. Dubbed gator-back rocks their rugged, scaly appearance is captured in these digitally stitched Mastcam frames from the Curiosity rover on mission sol 3,415 (March 15, 2022). Driving over gator-back rocks before has resulted in damage to the rover&#39;s wheels, so Curiosity team members decided to turn around and take another path to continue the rover&#39;s climb. Curiosity has been on an ascent of Gale crater&#39;s central 5.5 kilometer high mountain since 2014. As it climbs, it&#39;s been able to study layers shaped by water on Mars billions of years ago.</p>
 
 
 
