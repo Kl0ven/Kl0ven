@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Stars and Planets over Portugal</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/MwMertola_Claro_1080.jpg"">
+<h3>Stars and Globules in the Running Chicken Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/IC2944_Bemmerl_1080.jpg"">
 
 
-<p style="text-align: justify;">The mission was to document night-flying birds -- but it ended up also documenting a beautiful sky. The featured wide-angle mosaic was taken over the steppe golden fields in Mértola, Portugal in 2020. From such a dark location, an immediately-evident breathtaking glow arched over the night sky: the central band of our Milky Way galaxy.  But this sky had much more. Thin clouds crossed the sky like golden ribbons. The planet Mars appeared on the far left, while the planets Saturn and Jupiter were also simultaneously visible -- but on the opposite side of the sky, here seen on the far right.  Near the top of the image the bright star Vega can be found, while the far-distant and faint Andromeda Galaxy can be seen toward the left, just below Milky Way&#39;s arch.  As the current month progresses, several planets are lining up in the pre-dawn sky: Jupiter, Venus, Mars, and Saturn.   Did you know? Many APODs have links for adventure &amp; humor</p>
+<p style="text-align: justify;">The eggs from this gigantic chicken may form into stars.  The featured emission nebula, shown in scientifically assigned colors, is cataloged as IC 2944 but known as the Running Chicken Nebula for the shape of its greater appearance.  Seen toward the bottom of the image are small, dark molecular clouds rich in obscuring cosmic dust. Called Thackeray&#39;s Globules for their discoverer, these &quot;eggs&quot; are potential sites for the gravitational condensation of new stars, although their fates are uncertain as they are also being rapidly eroded away by the intense radiation from nearby young stars. Together with patchy glowing gas and complex regions of reflecting dust, these massive and energetic stars form the open cluster Collinder 249. This gorgeous skyscape spans about 60 light-years at the nebula&#39;s estimated 6,500 light-year distance.</p>
 
 
 
