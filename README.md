@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Split the Universe</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/1704/SatelliteSale_NASA_960_split3.jpg"">
+<h3>The Great Nebula in Carina</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/CarinaMosaic_Bobillo_960.jpg"">
 
 
-<p style="text-align: justify;">Just now, before you hit the button, two future universes are possible.  After pressing the button, though, you will live in only one.  A real-web version of the famous Schrödinger&#39;s cat experiment clicking the red button in the featured astronaut image should transform that image into a picture of the same astronaut holding one of two cats -- one living, or one dead.  The timing of your click, combined with the wiring of your brain and the millisecond timing of your device, will all conspire together to create a result dominated, potentially, by the randomness of quantum mechanics.  Some believe that your personally-initiated quantum decision will split the universe in two, and that both the live-cat and dead-cat universes exist in separate parts of a larger multiverse. Others believe that the result of your click will collapse the two possible universes into one -- in a way that could not have been predicted beforehand.  Yet others believe that the universe is classically deterministic, so that by pressing the button you did not really split the universe, but just carried out an action predestined since time began.   We at APOD believe that however silly you may feel clicking the red button, and regardless of the outcome,  you should have a thought-provoking day.  Or two.</p>
+<p style="text-align: justify;">In one of the brightest parts of Milky Way lies a nebula where some of the oddest things occur. NGC 3372, known as the Great Nebula in Carina, is home to massive stars and changing nebulas. The Keyhole Nebula (NGC 3324), the bright structure just below the image center, houses several of these massive stars. The entire Carina Nebula, captured here, spans over 300 light years and lies about 7,500 light-years away in the constellation of Carina.  Eta Carinae, the most energetic star in the nebula, was one of the brightest stars in the sky in the 1830s, but then faded dramatically. While Eta Carinae itself maybe on the verge of a supernova explosion, X-ray images indicate that much of the Great Nebula in Carina has been a veritable supernova factory.</p>
 
 
 
