@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Great Nebula in Carina</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/CarinaMosaic_Bobillo_960.jpg"">
+<h3>Planet Parade over Sydney Opera House</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/PlanetParadeSydney_Agrawal_960_ann.jpg"">
 
 
-<p style="text-align: justify;">In one of the brightest parts of Milky Way lies a nebula where some of the oddest things occur. NGC 3372, known as the Great Nebula in Carina, is home to massive stars and changing nebulas. The Keyhole Nebula (NGC 3324), the bright structure just below the image center, houses several of these massive stars. The entire Carina Nebula, captured here, spans over 300 light years and lies about 7,500 light-years away in the constellation of Carina.  Eta Carinae, the most energetic star in the nebula, was one of the brightest stars in the sky in the 1830s, but then faded dramatically. While Eta Carinae itself maybe on the verge of a supernova explosion, X-ray images indicate that much of the Great Nebula in Carina has been a veritable supernova factory.</p>
+<p style="text-align: justify;">The world is waking up to a picturesque planet parade. Just before dawn, the eastern skies over much of planet Earth are decorated by a notable line of familiar planets. In much of Earth&#39;s northern hemisphere, this line of planets appears most nearly horizontal, but in much of Earth&#39;s southern hemisphere, the line appears more nearly vertical. Pictured over the Sydney Opera House in southern Australia, the planet line was captured nearly vertical about five days ago.  From top to bottom, the morning planets are Saturn, Mars, Venus, and Jupiter.  As April ends, the angular distance between Venus and Jupiter will gradually pass below a degree as they switch places.  Then, as May ends, Jupiter will pass near Mars as those two planets switch places.  In June, the parade will briefly expand to include Mercury.   Notable Submissions to APOD: Morning Planet Parade 2022</p>
 
 
 
