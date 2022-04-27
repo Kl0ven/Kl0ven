@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Planet Parade over Sydney Opera House</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/PlanetParadeSydney_Agrawal_960_ann.jpg"">
+<h3>Moon Shadow on Jupiter</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/JupiterDarkSpot_JunoTT_1080.jpg"">
 
 
-<p style="text-align: justify;">The world is waking up to a picturesque planet parade. Just before dawn, the eastern skies over much of planet Earth are decorated by a notable line of familiar planets. In much of Earth&#39;s northern hemisphere, this line of planets appears most nearly horizontal, but in much of Earth&#39;s southern hemisphere, the line appears more nearly vertical. Pictured over the Sydney Opera House in southern Australia, the planet line was captured nearly vertical about five days ago.  From top to bottom, the morning planets are Saturn, Mars, Venus, and Jupiter.  As April ends, the angular distance between Venus and Jupiter will gradually pass below a degree as they switch places.  Then, as May ends, Jupiter will pass near Mars as those two planets switch places.  In June, the parade will briefly expand to include Mercury.   Notable Submissions to APOD: Morning Planet Parade 2022</p>
+<p style="text-align: justify;">What is that large dark spot on Jupiter? It&#39;s the shadow of Io, one of Jupiter&#39;s largest moons. When Jupiter&#39;s moons cross between the Jovian giant and the Sun, they created shadows just like when the Earth&#39;s moon crosses between the Earth and the Sun. Also like on Earth, if you were in a dark shadow on Jupiter, you would see a moon completely eclipse the Sun. Unlike on Earth, moon shadows occur most days on Jupiter -- what&#39;s more unusual is that a spacecraft was close enough to record one with a high-resolution image.  That spacecraft, Juno, was passing so close to Jupiter in late February that nearby clouds and the dark eclipse shadow appear relatively large. Juno has made many discoveries about our Solar System&#39;s largest planet, including, recently, rapidly expanding circular auroras.   Explore Your Universe: Random APOD Generator</p>
 
 
 
