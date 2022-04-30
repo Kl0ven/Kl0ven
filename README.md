@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Portrait of NGC 3628</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/NGC3628-crop1024.jpg"">
+<h3>M44: The Beehive Cluster</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/M44-resized1024.jpg"">
 
 
-<p style="text-align: justify;">Sharp telescopic views of NGC 3628 show a puffy galactic disk divided by dark dust lanes. Of course, this portrait of the magnificent, edge-on spiral galaxy puts some astronomers in mind of its popular moniker, the Hamburger Galaxy. It also reveals a small galaxy nearby (below), likely a satellite of NGC 3628, and a very faint but extensive tidal tail. The drawn out tail stretches for about 300,000 light-years, even beyond the upper left edge of the frame. NGC 3628 shares its neighborhood in the local universe with two other large spirals M65 and M66 in a grouping otherwise known as the Leo Triplet. Gravitational interactions with its cosmic neighbors are likely responsible for creating the tidal tail, as well as the extended flare and warp of this spiral&#39;s disk. The tantalizing island universe itself is about 100,000 light-years across and 35 million light-years away in the northern springtime constellation Leo.</p>
+<p style="text-align: justify;">A mere 600 light-years away, M44 is one of the closest star clusters to our solar system. Also known as the Praesepe or the Beehive cluster its stars are young though, about 600 million years old compared to our Sun&#39;s 4.5 billion years. Based on similar ages and motion through space, M44 and the even closer Hyades star cluster in Taurus are thought to have been born together in the same large molecular cloud. An open cluster spanning some 15 light-years, M44 holds 1,000 stars or so and covers about 3 full moons (1.5 degrees) on the sky in the constellation Cancer. Visible to the unaided eye, M44 has been recognized since antiquity. Described as a faint cloud or celestial mist long before being included as the 44th entry in Charles Messier&#39;s 18th century catalog, the cluster was not resolved into its individual stars until telescopes were available. A popular target for modern, binocular-equipped sky gazers, the cluster&#39;s few yellowish tinted, cool, red giants are scattered through the field of its brighter hot blue main sequence stars in this telescopic group snapshot. Dramatic diffraction spikes highlighting the brighter cluster members were created with string crossed in front of the telescope&#39;s objective lens.</p>
 
 
 
