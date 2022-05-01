@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M44: The Beehive Cluster</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2204/M44-resized1024.jpg"">
+<h3>Astronomy Picture of the Day</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/M87bh_EHT_960.jpg"">
 
 
-<p style="text-align: justify;">A mere 600 light-years away, M44 is one of the closest star clusters to our solar system. Also known as the Praesepe or the Beehive cluster its stars are young though, about 600 million years old compared to our Sun&#39;s 4.5 billion years. Based on similar ages and motion through space, M44 and the even closer Hyades star cluster in Taurus are thought to have been born together in the same large molecular cloud. An open cluster spanning some 15 light-years, M44 holds 1,000 stars or so and covers about 3 full moons (1.5 degrees) on the sky in the constellation Cancer. Visible to the unaided eye, M44 has been recognized since antiquity. Described as a faint cloud or celestial mist long before being included as the 44th entry in Charles Messier&#39;s 18th century catalog, the cluster was not resolved into its individual stars until telescopes were available. A popular target for modern, binocular-equipped sky gazers, the cluster&#39;s few yellowish tinted, cool, red giants are scattered through the field of its brighter hot blue main sequence stars in this telescopic group snapshot. Dramatic diffraction spikes highlighting the brighter cluster members were created with string crossed in front of the telescope&#39;s objective lens.</p>
+<p style="text-align: justify;">What does a black hole look like? To find out, radio telescopes from around the Earth coordinated observations of black holes with the largest known event horizons on the sky.  Alone, black holes are just black, but these monster attractors are known to be surrounded by glowing gas.  This first image resolves the area around the black hole at the center of galaxy M87 on a scale below that expected for its event horizon.  Pictured, the dark central region is not the event horizon, but rather the black hole&#39;s shadow -- the central region of emitting gas darkened by the central black hole&#39;s gravity. The size and shape of the shadow is determined by bright gas near the event horizon, by strong gravitational lensing deflections, and by the black hole&#39;s spin.  In resolving this black hole&#39;s shadow, the Event Horizon Telescope (EHT) bolstered evidence that Einstein&#39;s gravity works even in extreme regions, and gave clear evidence that M87 has a central spinning black hole of about 6 billion solar masses.  Since releasing this featured image in 2019, the EHT has expanded to include more telescopes, observe more black holes, track polarized light,and is working to observe the immediately vicinity of the black hole</p>
 
 
 
