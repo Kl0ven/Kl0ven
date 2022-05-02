@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>First Horizon-Scale Image of a Black Hole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/M87bh_EHT_960.jpg"">
+<h3>Partial Solar Eclipse over Argentina</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/PartialEclipse_Andrada_960.jpg"">
 
 
-<p style="text-align: justify;">What does a black hole look like? To find out, radio telescopes from around the Earth coordinated observations of black holes with the largest known event horizons on the sky.  Alone, black holes are just black, but these monster attractors are known to be surrounded by glowing gas.  This first image resolves the area around the black hole at the center of galaxy M87 on a scale below that expected for its event horizon.  Pictured, the dark central region is not the event horizon, but rather the black hole&#39;s shadow -- the central region of emitting gas darkened by the central black hole&#39;s gravity. The size and shape of the shadow is determined by bright gas near the event horizon, by strong gravitational lensing deflections, and by the black hole&#39;s spin.  In resolving this black hole&#39;s shadow, the Event Horizon Telescope (EHT) bolstered evidence that Einstein&#39;s gravity works even in extreme regions, and gave clear evidence that M87 has a central spinning black hole of about 6 billion solar masses.  Since releasing this featured image in 2019, the EHT has expanded to include more telescopes, observe more black holes, track polarized light,and is working to observe the immediately vicinity of the black hole in the center of our Milky Way Galaxy.    This week is: Black Hole Week  New EHT Results to be Announced: Next Thursday</p>
+<p style="text-align: justify;">What&#39;s happened to the Sun? Two days ago, parts of South America were treated to a partial solar eclipse -- where the Moon blocked out part of the Sun.  The featured image shows an image of the partially eclipsed Sun through clouds as it was setting over Patagonia, Argentina. In the tilted image, Earth is toward the right. During the eclipse, the Moon moved partly between Earth and the Sun. Although a visually impressive sight, the slight dimming of surroundings  during this partial eclipse was less noticeable than dimming created by a thick cloud. In about two weeks, all of South America and part of North America will experience a total lunar eclipse -- where the Earth moves completely between the Moon and the Sun.  In about two years, a total solar eclipse will cross North America.</p>
 
 
 
