@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Partial Solar Eclipse over Argentina</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/PartialEclipse_Andrada_960.jpg"">
+<h3>Mercury&#39;s Sodium Tail</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/MercuryTailPleiades_Voltmer_960_annotated.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happened to the Sun? Two days ago, parts of South America were treated to a partial solar eclipse -- where the Moon blocked out part of the Sun.  The featured image shows an image of the partially eclipsed Sun through clouds as it was setting over Patagonia, Argentina. In the tilted image, Earth is toward the right. During the eclipse, the Moon moved partly between Earth and the Sun. Although a visually impressive sight, the slight dimming of surroundings  during this partial eclipse was less noticeable than dimming created by a thick cloud. In about two weeks, all of South America and part of North America will experience a total lunar eclipse -- where the Earth moves completely between the Moon and the Sun.  In about two years, a total solar eclipse will cross North America.</p>
+<p style="text-align: justify;">That&#39;s no comet.  Below the Pleiades star cluster is actually a planet: Mercury. Long exposures of our Solar System&#39;s innermost planet may reveal something unexpected: a tail. Mercury&#39;s thin atmosphere contains small amounts of sodium that glow when excited by light from the Sun. Sunlight also liberates these molecules from Mercury&#39;s surface and pushes them away. The yellow glow from sodium, in particular, is relatively bright.  Pictured, Mercury and its sodium tail are visible in a deep image taken last week from La Palma, Spain through a filter that primarily transmits yellow light emitted by sodium. First predicted in the 1980s, Mercury&#39;s tail was first discovered in 2001. Many tail details were revealed in multiple observations by NASA&#39;s robotic MESSENGER spacecraft that orbited Mercury between 2011 and 2015.  Tails, of course, are usually associated with comets.</p>
 
 
 
