@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Planets Over Egyptian Pyramid</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/PyramidPlanets_Fatehi_1080.jpg"">
+<h3>NGC 3521: Galaxy in a Bubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/NGC3521LRGBHaAPOD-20_1024.jpg"">
 
 
-<p style="text-align: justify;">The early morning planet parade continues. Visible the world over, the planets Jupiter, Venus, Mars and Saturn have been lining up in the pre-dawn sky since mid-April. In the featured image taken last month, these planets were captured over the Step Pyramid of Djoser, a UNESCO World Heritage Site. Located in the Saqqara necropolis of Egypt, the pyramid was constructed in the 27th century BC and is one of the oldest pyramids known.  The two-image composite includes a foreground image taken during evening blue hour, and a background image captured from the same location the following morning.  The morning planet line-up is slowly changing.  At the end of last month, planets Jupiter and Venus switched places, while at the end of this month, Jupiter and Mars will switch after passing within one-degree of each other. Of course, this picturesque planetary angular alignment is a coincidence, as all of these worlds continue to orbit the Sun as they have for billions of years, well before even the ancient Pyramid of Djoser was built.   Notable Submissions to APOD: Morning Planet Parade 2022</p>
+<p style="text-align: justify;">Gorgeous spiral galaxy NGC 3521 is a mere 35 million light-years away, toward the northern springtime constellation Leo. Relatively bright in planet Earth&#39;s sky, NGC 3521 is easily visible in small telescopes but often overlooked by amateur imagers in favor of other Leo spiral galaxies, like M66 and M65. It&#39;s hard to overlook in this colorful cosmic portrait though. Spanning some 50,000 light-years the galaxy sports characteristic patchy, irregular spiral arms laced with dust, pink star forming regions, and clusters of young, blue stars. This deep image also finds NGC 3521 embedded in fainter, gigantic, bubble-like shells. The shells are likely tidal debris, streams of stars torn from satellite galaxies that have undergone mergers with NGC 3521 in the distant past.</p>
 
 
 
