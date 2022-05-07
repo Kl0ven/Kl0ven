@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 3572 and the Southern Tadpoles</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/NGC3572SouthernTadpolesCarlosTaylor1024.jpg"">
+<h3>Firefall by Moonlight</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/2021-04-15_443amLunarFirefall1080P.jpg"">
 
 
-<p style="text-align: justify;">This cosmic skyscape features glowing gas and dark dust clouds along side the young stars of NGC 3572. A beautiful emission nebula and star cluster it sails far southern skies within the nautical constellation Carina. Stars from NGC 3572 are toward top center in the telescopic frame that would measure about 100 light-years across at the cluster&#39;s estimated distance of 9,000 light-years. The visible interstellar gas and dust is part of the star cluster&#39;s natal molecular cloud. Dense streamers of material within the nebula, eroded by stellar winds and radiation, clearly trail away from the energetic young stars. They are likely sites of ongoing star formation with shapes reminiscent of the Tadpoles of IC 410 better known to northern skygazers.  In the coming tens to hundreds of millions of years, gas and stars in the cluster will be dispersed though, by gravitational tides and by violent supernova explosions that end the short lives of the massive cluster stars.</p>
+<p style="text-align: justify;">On certain dates in February, an elusive firefall can be spotted at sunset in Yosemite National Park, when water flows, the weather cooperates and the direction to the setting Sun is just right. Often photographed from vantage points below, at the right moment the park&#39;s seasonal Horsetail Fall is isolated in the shadows of the steep walls of El Capitan. Then, still illuminated with rays of reddened sunlight the waterfall briefly takes on a dramatic, fiery appearance. But a Horsetail firefall can be photographed by moonlight too. Even more elusive by moonlight, the firefall effect can also be seen when a bright Moon sets at the right direction along the western horizon. And skies were clear enough for this well-planned imaging of an ephemeral Horsetail firefall, lit by a bright gibbous Moon setting in the early morning hours of April 15.</p>
 
 
 
