@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Spiral Galaxy NGC 1512: The Inner Rings</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/NGC1512inner_Hubble_960.jpg"">
+<h3>A Martian Eclipse: Phobos Crosses the Sun</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aKK7vS2CHC8" target="_blank"><img src="http://img.youtube.com/vi/aKK7vS2CHC8/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Most galaxies don&#39;t have any rings -- why does this galaxy have two?  To begin, the bright band near NGC 1512&#39;s center is a nuclear ring, a ring that surrounds the galaxy center and glows brightly with recently formed stars. Most stars and accompanying gas and dust, however, orbit the galactic center in a ring much further out -- here seen near the image edge. This ring is called, counter-intuitively, the inner ring.  If you look closely, you will see this the inner ring connects ends of a diffuse central bar that runs horizontally across the galaxy. These ring structures are thought to be caused by NGC 1512&#39;s own asymmetries in a drawn-out process called secular evolution.  The gravity of these galaxy asymmetries, including the bar of stars, cause gas and dust to fall from the inner ring to the nuclear ring, enhancing this ring&#39;s rate of star formation.  Some spiral galaxies also have a third ring -- an outer ring that circles the galaxy even further out.</p>
+<p style="text-align: justify;">What&#39;s that passing in front of the Sun? It looks like a moon, but it can&#39;t be Earth&#39;s Moon, because it isn&#39;t round. It&#39;s the Martian moon Phobos.  The featured video was taken from the surface of Mars a month ago by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds,as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life.   New Social Mirror: APOD now available on mastodon</p>
 
 
 
