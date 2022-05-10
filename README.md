@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Martian Eclipse: Phobos Crosses the Sun</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aKK7vS2CHC8" target="_blank"><img src="http://img.youtube.com/vi/aKK7vS2CHC8/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>NGC 6334: The Cat&#39;s Paw Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/CatsPaw_Bemmerl_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that passing in front of the Sun? It looks like a moon, but it can&#39;t be Earth&#39;s Moon, because it isn&#39;t round. It&#39;s the Martian moon Phobos.  The featured video was taken from the surface of Mars a month ago by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds,as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life.   New Social Mirror: APOD now available on mastodon</p>
+<p style="text-align: justify;">Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat&#39;s Paw Nebula visible toward the constellation of the Scorpion  (Scorpius.  At 5,500 light years distant, Cat&#39;s Paw is an emission nebula with a red color that originates from an abundance of ionized hydrogen atoms.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is  a deep field image of the  Cat&#39;s Paw Nebula in light emitted by hydrogen, oxygen, and sulfur.    Explore Your Universe: Random APOD Generator</p>
 
 
 
