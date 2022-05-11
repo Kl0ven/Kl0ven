@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 6334: The Cat&#39;s Paw Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/CatsPaw_Bemmerl_960.jpg"">
+<h3>Gravity&#39;s Grin</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/cheshirecat_chandra_complg_1024.jpg"">
 
 
-<p style="text-align: justify;">Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat&#39;s Paw Nebula visible toward the constellation of the Scorpion  (Scorpius.  At 5,500 light years distant, Cat&#39;s Paw is an emission nebula with a red color that originates from an abundance of ionized hydrogen atoms.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is  a deep field image of the  Cat&#39;s Paw Nebula in light emitted by hydrogen, oxygen, and sulfur.    Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Albert Einstein&#39;s general theory of relativity, published over 100 years ago, predicted the phenomenon of gravitational lensing. And that&#39;s what gives these distant galaxies such a whimsical appearance, seen through the looking glass of X-ray and optical image data from the Chandra and Hubble space telescopes. Nicknamed the Cheshire Cat galaxy group, the group&#39;s two large elliptical galaxies are suggestively framed by arcs. The arcs are optical images of distant background galaxies lensed by the foreground group&#39;s total distribution of gravitational mass. Of course, that gravitational mass is dominated by dark matter. The two large elliptical &quot;eye&quot; galaxies represent the brightest members of their own galaxy groups which are merging. Their relative collisional speed of nearly 1,350 kilometers&#x2F;second heats gas to millions of degrees producing the X-ray glow shown in purple hues. Curiouser about galaxy group mergers? The Cheshire Cat group grins in the constellation Ursa Major, some 4.6 billion light-years away.</p>
 
 
 
