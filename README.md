@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Gravity&#39;s Grin</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/cheshirecat_chandra_complg_1024.jpg"">
+<h3>Young Stars of NGC 346</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/ngc346_hst_b1024.jpg"">
 
 
-<p style="text-align: justify;">Albert Einstein&#39;s general theory of relativity, published over 100 years ago, predicted the phenomenon of gravitational lensing. And that&#39;s what gives these distant galaxies such a whimsical appearance, seen through the looking glass of X-ray and optical image data from the Chandra and Hubble space telescopes. Nicknamed the Cheshire Cat galaxy group, the group&#39;s two large elliptical galaxies are suggestively framed by arcs. The arcs are optical images of distant background galaxies lensed by the foreground group&#39;s total distribution of gravitational mass. Of course, that gravitational mass is dominated by dark matter. The two large elliptical &quot;eye&quot; galaxies represent the brightest members of their own galaxy groups which are merging. Their relative collisional speed of nearly 1,350 kilometers&#x2F;second heats gas to millions of degrees producing the X-ray glow shown in purple hues. Curiouser about galaxy group mergers? The Cheshire Cat group grins in the constellation Ursa Major, some 4.6 billion light-years away.</p>
+<p style="text-align: justify;">The massive stars of NGC 346 are short lived, but very energetic. The star cluster is embedded in the largest star forming region in the Small Magellanic Cloud, some 210,000 light-years distant. Their winds and radiation sweep out an interstellar cavern in the gas and dust cloud about 200 light-years across, triggering star formation and sculpting the region&#39;s dense inner edge. Cataloged as N66, the star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. In this false-color Hubble Space Telescope image, visible and near-infrared light are seen as blue and green, while light from atomic hydrogen emission is red.</p>
 
 
 
