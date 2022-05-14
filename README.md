@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Milky Way&#39;s Black Hole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/sgra_1024.jpg"">
+<h3>Ice Halos by Moonlight</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/LunarHaloComplexLabels1024.jpg"">
 
 
-<p style="text-align: justify;">There&#39;s a black hole at the center of the Milky Way. Stars are observed to orbit a very massive and compact object there known as Sgr A* (say &quot;sadge-ay-star&quot;). But this just released radio image (inset) from planet Earth&#39;s Event Horizon Telescope is the first direct evidence of the Milky Way&#39;s central black hole. As predicted by Einstein&#39;s Theory of General Relativity, the four million solar mass black hole&#39;s strong gravity is bending light and creating a shadow-like dark central region surrounded by a bright ring-like structure. Supporting observations made by space-based telescopes and ground-based observatories provide a wider view of the galactic center&#39;s dynamic environment and an important context for the Event Horizon Telescope&#39;s black hole image. The main panel image shows the X-ray data from Chandra and infrared data from Hubble. While the main panel is about 7 light-years across, the Event Horizon Telescope inset image itself spans a mere 10 light-minutes at the center of our galaxy, some 27,000 light-years away.</p>
+<p style="text-align: justify;">An almost full moon on April 15 brought these luminous apparitions to a northern spring night over Alberta Canada. On that night, bright moonlight refracted and reflected by hexagonal ice crystals in high clouds created a complex of halos and arcs more commonly seen by sunlight in daytime skies. While the colors of the arcs and moondogs or paraselenae were just visible to the unaided eye, a blend of exposures ranging from 30 seconds to 1&#x2F;20 second was used to render this moonlit wide-angle skyscape. The Big Dipper at the top of the frame sits just above a smiling and rainbow-hued circumzenithal arc. With Arcturus left and Regulus toward the right the Moon is centered in its often spotted 22 degree halo. May 15 will also see the bright light of a Full Moon shining in Earth&#39;s night skies. Tomorrow&#39;s Full Moon will be dimmed for a while though, as it slides through Earth&#39;s shadow in a total lunar eclipse.  Watch: May 15-16 Total Lunar Eclipse</p>
 
 
 
