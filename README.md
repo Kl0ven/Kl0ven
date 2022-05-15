@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ice Halos by Moonlight</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/LunarHaloComplexLabels1024.jpg"">
+<h3>Colors of the Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg"">
 
 
-<p style="text-align: justify;">An almost full moon on April 15 brought these luminous apparitions to a northern spring night over Alberta Canada. On that night, bright moonlight refracted and reflected by hexagonal ice crystals in high clouds created a complex of halos and arcs more commonly seen by sunlight in daytime skies. While the colors of the arcs and moondogs or paraselenae were just visible to the unaided eye, a blend of exposures ranging from 30 seconds to 1&#x2F;20 second was used to render this moonlit wide-angle skyscape. The Big Dipper at the top of the frame sits just above a smiling and rainbow-hued circumzenithal arc. With Arcturus left and Regulus toward the right the Moon is centered in its often spotted 22 degree halo. May 15 will also see the bright light of a Full Moon shining in Earth&#39;s night skies. Tomorrow&#39;s Full Moon will be dimmed for a while though, as it slides through Earth&#39;s shadow in a total lunar eclipse.  Watch: May 15-16 Total Lunar Eclipse</p>
+<p style="text-align: justify;">What color is the Moon? It depends on the night.  Outside of the Earth&#39;s atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray.  Viewed from inside the Earth&#39;s atmosphere, though, the moon can appear quite different.  The featured image highlights a collection of apparent colors of the full moon documented by one astrophotographer over 10 years from different locations across Italy. A red or yellow colored moon usually indicates a moon seen near the horizon.  There, some of the blue light has been scattered away by a long path through the Earth&#39;s atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate a moon seen through an atmosphere carrying larger dust particles.  What created the purple moon is unclear -- it may be a combination of several effects.  The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth&#39;s shadow, appeared a faint red -- due to light refracted through air around the Earth.  Today there is not only another full moon but a total lunar eclipse visible to observers in North and South America -- an occurrence that may lead to some unexpected lunar colorings.</p>
 
 
 
