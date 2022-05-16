@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Colors of the Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg"">
+<h3>Milky Way over French Alp Hoodoos</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/CoiffeesMW_Barakat_960.jpg"">
 
 
-<p style="text-align: justify;">What color is the Moon? It depends on the night.  Outside of the Earth&#39;s atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray.  Viewed from inside the Earth&#39;s atmosphere, though, the moon can appear quite different.  The featured image highlights a collection of apparent colors of the full moon documented by one astrophotographer over 10 years from different locations across Italy. A red or yellow colored moon usually indicates a moon seen near the horizon.  There, some of the blue light has been scattered away by a long path through the Earth&#39;s atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate a moon seen through an atmosphere carrying larger dust particles.  What created the purple moon is unclear -- it may be a combination of several effects.  The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth&#39;s shadow, appeared a faint red -- due to light refracted through air around the Earth.  Today there is not only another full moon but a total lunar eclipse visible to observers in North and South America -- an occurrence that may lead to some unexpected lunar colorings.</p>
+<p style="text-align: justify;">Real castles aren&#39;t this old.  And the background galaxy is even older. Looking a bit like an alien castle, the pictured rock spires are called hoodoos and are likely millions of years old. Rare, but found around the world, hoodoos form when dense rocks slow the erosion of softer rock underneath.  The pictured hoodoos survive in the French Alps and are named Demoiselles Coiffées -- which translates to English as &quot;Ladies with Hairdos&quot;. The background galaxy is part of the central disk of our own Milky Way galaxy and contains stars that are typically billions of years old. The photogenic Cygnus sky region -- rich in dusty dark clouds and red glowing nebulas -- appears just above and behind the hoodoos. The featured image was taken in two stages: the foreground was captured during the evening blue hour, while the background was acquired from the same location later that night.</p>
 
 
 
