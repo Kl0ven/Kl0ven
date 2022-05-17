@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Milky Way over French Alp Hoodoos</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/CoiffeesMW_Barakat_960.jpg"">
+<h3>NGC 1316: After Galaxies Collide</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/Ngc1316_Turgeon_960.jpg"">
 
 
-<p style="text-align: justify;">Real castles aren&#39;t this old.  And the background galaxy is even older. Looking a bit like an alien castle, the pictured rock spires are called hoodoos and are likely millions of years old. Rare, but found around the world, hoodoos form when dense rocks slow the erosion of softer rock underneath.  The pictured hoodoos survive in the French Alps and are named Demoiselles Coiffées -- which translates to English as &quot;Ladies with Hairdos&quot;. The background galaxy is part of the central disk of our own Milky Way galaxy and contains stars that are typically billions of years old. The photogenic Cygnus sky region -- rich in dusty dark clouds and red glowing nebulas -- appears just above and behind the hoodoos. The featured image was taken in two stages: the foreground was captured during the evening blue hour, while the background was acquired from the same location later that night.</p>
+<p style="text-align: justify;">Astronomers turn detectives when trying to figure out the cause of startling sights like NGC 1316.  Investigations indicate that NGC 1316 is an enormous elliptical galaxy that started, about 100 million years ago, to devour a smaller spiral galaxy neighbor, NGC 1317, just on the upper right. Supporting evidence includes the dark dust lanes characteristic of a spiral galaxy, and faint swirls and shells of stars and gas visible in this wide and deep image. One thing that &gt;remains unexplained is the unusually small globular star clusters, seen as faint dots on the image. Most elliptical galaxies have more and brighter globular clusters than NGC 1316.  Yet the observed globulars are too old to have been created by the recent spiral collision.  One hypothesis is that these globulars survive from an even earlier galaxy that was subsumed into NGC 1316. Another surprising attribute of NGC 1316, also known as Fornax A, is its giant lobes of gas that glow brightly in radio waves.</p>
 
 
 
