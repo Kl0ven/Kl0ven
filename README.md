@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 1316: After Galaxies Collide</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/Ngc1316_Turgeon_960.jpg"">
+<h3>A Jewel on the Flower Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/DiamondMoonWSMALL1024.jpg"">
 
 
-<p style="text-align: justify;">Astronomers turn detectives when trying to figure out the cause of startling sights like NGC 1316.  Investigations indicate that NGC 1316 is an enormous elliptical galaxy that started, about 100 million years ago, to devour a smaller spiral galaxy neighbor, NGC 1317, just on the upper right. Supporting evidence includes the dark dust lanes characteristic of a spiral galaxy, and faint swirls and shells of stars and gas visible in this wide and deep image. One thing that &gt;remains unexplained is the unusually small globular star clusters, seen as faint dots on the image. Most elliptical galaxies have more and brighter globular clusters than NGC 1316.  Yet the observed globulars are too old to have been created by the recent spiral collision.  One hypothesis is that these globulars survive from an even earlier galaxy that was subsumed into NGC 1316. Another surprising attribute of NGC 1316, also known as Fornax A, is its giant lobes of gas that glow brightly in radio waves.</p>
+<p style="text-align: justify;">Cloudy skies plagued some sky watchers on Sunday as May&#39;s Full Flower Moon slipped through Earth&#39;s shadow in a total lunar eclipse. In skies above Chile&#39;s Atacama desert this telephoto snapshot still captured an awesome spectacle though. Seen through thin high cirrus clouds just before totality began, a last sliver of sunlit crescent glistens like a hazy jewel atop the mostly shadowed lunar disk. This full moon was near perigee, the closest point in its elliptical orbit. It passed near the center of Earth&#39;s dark umbral shadow during the 90 minute long total eclipse phase. Faintly suffused with sunlight scattered by the atmosphere, the umbral shadow itself gave the eclipsed moon a reddened appearance and the very dramatic popular moniker of a Blood Moon.</p>
 
 
 
