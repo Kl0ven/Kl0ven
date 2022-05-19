@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Jewel on the Flower Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/DiamondMoonWSMALL1024.jpg"">
+<h3>A Digital Lunar Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/TLE_2022-05-16-02-59-35s1024.jpg"">
 
 
-<p style="text-align: justify;">Cloudy skies plagued some sky watchers on Sunday as May&#39;s Full Flower Moon slipped through Earth&#39;s shadow in a total lunar eclipse. In skies above Chile&#39;s Atacama desert this telephoto snapshot still captured an awesome spectacle though. Seen through thin high cirrus clouds just before totality began, a last sliver of sunlit crescent glistens like a hazy jewel atop the mostly shadowed lunar disk. This full moon was near perigee, the closest point in its elliptical orbit. It passed near the center of Earth&#39;s dark umbral shadow during the 90 minute long total eclipse phase. Faintly suffused with sunlight scattered by the atmosphere, the umbral shadow itself gave the eclipsed moon a reddened appearance and the very dramatic popular moniker of a Blood Moon.</p>
+<p style="text-align: justify;">Recorded on May 15&#x2F;16 this sequence of exposures follows the Full Moon during a total lunar eclipse as it arcs above treetops in the clearing skies of central Florida. A frame taken every 5 minutes by a digital camera shows the progression of the eclipse over three hours. The bright lunar disk grows dark and red as it glides through planet Earth&#39;s shadow. In fact, counting the central frames in the sequence measures the roughly 90 minute duration of the total phase of this eclipse. Around 270 BC, the Greek astronomer Aristarchus also measured the duration of total lunar eclipses, but probably without the benefit of digital watches and cameras. Still, using geometry he devised a simple and impressively accurate way to calculate the Moon&#39;s distance in terms of the radius of planet Earth, from the eclipse duration.</p>
 
 
 
