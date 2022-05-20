@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Digital Lunar Eclipse</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/TLE_2022-05-16-02-59-35s1024.jpg"">
+<h3>A View from Earth&#39;s Shadow</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/eclipse-lune-2022c1024.jpg"">
 
 
-<p style="text-align: justify;">Recorded on May 15&#x2F;16 this sequence of exposures follows the Full Moon during a total lunar eclipse as it arcs above treetops in the clearing skies of central Florida. A frame taken every 5 minutes by a digital camera shows the progression of the eclipse over three hours. The bright lunar disk grows dark and red as it glides through planet Earth&#39;s shadow. In fact, counting the central frames in the sequence measures the roughly 90 minute duration of the total phase of this eclipse. Around 270 BC, the Greek astronomer Aristarchus also measured the duration of total lunar eclipses, but probably without the benefit of digital watches and cameras. Still, using geometry he devised a simple and impressively accurate way to calculate the Moon&#39;s distance in terms of the radius of planet Earth, from the eclipse duration.</p>
+<p style="text-align: justify;">This serene sand and skyscape finds the Dune of Pilat on the coast of France still in Earth&#39;s shadow during the early morning hours of May 16. Extending into space, the planet&#39;s dark umbral shadow covered the Moon on that date. From that location the total phase of a lunar eclipse had begun before moonset. Still in sunlight though, the International Space Station crossed from the western horizon and Earth&#39;s largest artificial moon traced the bright flat arc through the sky over 400 km above. Simply constructed, the well-planned panoramic scene was captured over a 5 minutes in a series of consecutive images.</p>
 
 
 
