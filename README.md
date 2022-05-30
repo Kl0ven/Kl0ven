@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Simulation TNG50: A Galaxy Cluster Forms</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=cNT5yAqpBmI" target="_blank"><img src="http://img.youtube.com/vi/cNT5yAqpBmI/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Red Crepuscular Rays from an Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/EclipseRays_Bouvier_960.jpg"">
 
 
-<p style="text-align: justify;">How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out. A recent effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (mostly hydrogen) as it evolves into galaxies and galaxy clusters from the early universe to today, with brighter colors marking faster moving gas.  As the universe matures, gas falls into gravitational wells, galaxies forms, galaxies spin, galaxies collide and merge, all while black holes form in galaxy centers and expel surrounding gas at high speeds. The second half of the video switches to tracking stars, showing a galaxy cluster coming together complete with tidal tails and stellar streams. The outflow from black holes in TNG50 is surprisingly complex and details are being compared with our real universe.  Studying how gas coalesced in the early universe helps humanity better understand how our Earth, Sun, and Solar System originally formed.</p>
+<p style="text-align: justify;">What&#39;s happening behind that island? Things both expected and unexpected. Expected, perhaps, the pictured rays of light -- called crepuscular rays -- originate from the Sun. Unexpected, though, the Sun was being partially eclipsed by the Moon at the time -- late last month. Expected, perhaps, the Sun&#39;s rays are quite bright as they shine through gaps in below-horizon clouds. Unexpected, though, the crepuscular rays are quite red, likely the result an abundance of aerosols in Earth&#39;s atmosphere scattering away much of the blue light.  Expected, with hope, a memorable scene featuring both the Moon and the Sun, superposed. Unfortunately, from this location -- in Uruguay looking toward Argentina -- clouds obscured the eclipse -- which wasn&#39;t completely unexpected.  However, after packing up to go home, the beauty of bright red crepuscular rays emerged -- quite unexpectedly.  Oh -- and that island on the horizon -- it&#39;s really two islands.</p>
 
 
 
