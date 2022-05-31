@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Red Crepuscular Rays from an Eclipse</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/EclipseRays_Bouvier_960.jpg"">
+<h3>Rocket Transits Rippling Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/FalconSun_Cain_960.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happening behind that island? Things both expected and unexpected. Expected, perhaps, the pictured rays of light -- called crepuscular rays -- originate from the Sun. Unexpected, though, the Sun was being partially eclipsed by the Moon at the time -- late last month. Expected, perhaps, the Sun&#39;s rays are quite bright as they shine through gaps in below-horizon clouds. Unexpected, though, the crepuscular rays are quite red, likely the result an abundance of aerosols in Earth&#39;s atmosphere scattering away much of the blue light.  Expected, with hope, a memorable scene featuring both the Moon and the Sun, superposed. Unfortunately, from this location -- in Uruguay looking toward Argentina -- clouds obscured the eclipse -- which wasn&#39;t completely unexpected.  However, after packing up to go home, the beauty of bright red crepuscular rays emerged -- quite unexpectedly.  Oh -- and that island on the horizon -- it&#39;s really two islands.</p>
+<p style="text-align: justify;">The launch of a rocket at sunrise can result in unusual but intriguing images that feature both the rocket and the Sun. Such was the case last month when a SpaceX Falcon 9 rocket blasted off from NASA&#39;s Kennedy Space Center carrying 53 more Starlink satellites into low Earth orbit. In the featured launch picture, the rocket&#39;s exhaust plume glows beyond its projection onto the distant Sun, the rocket itself appears oddly jagged, and the Sun&#39;s lower edge shows peculiar drip-like ripples. The physical cause of all of these effects is pockets of relatively hot or rarefied air deflecting sunlight less strongly than pockets relatively cool or compressed air: refraction.  Unaware of the Earthly show, active sunspot region 3014 -- on the upper left -- slowly crosses the Sun.</p>
 
 
 
