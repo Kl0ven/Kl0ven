@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rocket Transits Rippling Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2205/FalconSun_Cain_960.jpg"">
+<h3>Tau Herculids Meteors over Kitt Peak Telescopes</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/TauHerMeteors_Lyu_1080.jpg"">
 
 
-<p style="text-align: justify;">The launch of a rocket at sunrise can result in unusual but intriguing images that feature both the rocket and the Sun. Such was the case last month when a SpaceX Falcon 9 rocket blasted off from NASA&#39;s Kennedy Space Center carrying 53 more Starlink satellites into low Earth orbit. In the featured launch picture, the rocket&#39;s exhaust plume glows beyond its projection onto the distant Sun, the rocket itself appears oddly jagged, and the Sun&#39;s lower edge shows peculiar drip-like ripples. The physical cause of all of these effects is pockets of relatively hot or rarefied air deflecting sunlight less strongly than pockets relatively cool or compressed air: refraction.  Unaware of the Earthly show, active sunspot region 3014 -- on the upper left -- slowly crosses the Sun.</p>
+<p style="text-align: justify;">It wasn&#39;t the storm of the century -- but it was a night to remember. Last night was the peak of the Tau Herculids meteor shower, a usually modest dribble of occasional meteors originating from the disintegrating Comet 73P&#x2F;Schwassmann-Wachmann 3. This year, calculations showed that the Earth might be passing through a particularly dense stream of comet debris -- at best creating a storm of bright meteors streaking out from the constellation of Hercules. What actually happened fell short of a meteor storm, but could be called a decent meteor shower. Featured here is a composite image taken at Kitt Peak National Observatory in Arizona, USA accumulated over 2.5 hours very late on May 30.  Over that time, 19 Tau Herculids meteors were captured, along with 4 unrelated meteors. (Can you find them?)  In the near foreground is the Bok 2.3-meter Telescope with the 4.0-meter Mayall Telescope just behind it. Next year, the annual Tau Herculids are expected to return to its normal low rate, with the next active night forecast for 2049.</p>
 
 
 
