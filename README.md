@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Tau Herculids Meteors over Kitt Peak Telescopes</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/TauHerMeteors_Lyu_1080.jpg"">
+<h3>Lunar Occultation of Venus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/OccultationVenusQuentinGineys1024.gif"">
 
 
-<p style="text-align: justify;">It wasn&#39;t the storm of the century -- but it was a night to remember. Last night was the peak of the Tau Herculids meteor shower, a usually modest dribble of occasional meteors originating from the disintegrating Comet 73P&#x2F;Schwassmann-Wachmann 3. This year, calculations showed that the Earth might be passing through a particularly dense stream of comet debris -- at best creating a storm of bright meteors streaking out from the constellation of Hercules. What actually happened fell short of a meteor storm, but could be called a decent meteor shower. Featured here is a composite image taken at Kitt Peak National Observatory in Arizona, USA accumulated over 2.5 hours very late on May 30.  Over that time, 19 Tau Herculids meteors were captured, along with 4 unrelated meteors. (Can you find them?)  In the near foreground is the Bok 2.3-meter Telescope with the 4.0-meter Mayall Telescope just behind it. Next year, the annual Tau Herculids are expected to return to its normal low rate, with the next active night forecast for 2049.</p>
+<p style="text-align: justify;">On May 27 Venus rose as the morning star, near the waning crescent Moon in a predawn sky already full of planets. It was close on the sky to the Moon&#39;s crescent and a conjunction of the second an third brightest celestial beacons were enjoyed by skygazers around the world. But seen from locations along a track through southeast Asia and the Indian Ocean the Moon actually passed in front of Venus in a lunar occultation. In this animated gif the 75 percent illuminated disk of Venus approaches and just begins to disappear behind the sunlit southwestern lunar limb. The telescopic frames used to construct it were captured from Reunion Island in the Indian Ocean around 4:50am local time, with the Moon and Venus very close to the eastern horizon. At the time Venus was over 180 million kilometers from Reunion Island, compared to a lunar distance of a mere 400 thousand kilometers or so. About 50 minutes later Venus emerged from behind the Moon.</p>
 
 
 
