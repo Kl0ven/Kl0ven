@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lunar Occultation of Venus</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/OccultationVenusQuentinGineys1024.gif"">
+<h3>A 10,000 Kilometer Galactic Bridge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Oudoux-and-Jeff-Graphy-with10000km_c.jpg"">
 
 
-<p style="text-align: justify;">On May 27 Venus rose as the morning star, near the waning crescent Moon in a predawn sky already full of planets. It was close on the sky to the Moon&#39;s crescent and a conjunction of the second and third brightest celestial beacons was enjoyed by skygazers around the world. But seen from locations along a track through southeast Asia and the Indian Ocean the Moon actually passed in front of Venus in a lunar occultation. In this animated gif the 75 percent illuminated disk of Venus approaches and just begins to disappear behind the sunlit southwestern lunar limb. The telescopic frames used to construct it were captured from Reunion Island in the Indian Ocean around 4:50am local time, with the Moon and Venus very close to the eastern horizon. At the time Venus was over 180 million kilometers from Reunion Island, compared to a lunar distance of a mere 400 thousand kilometers or so. About 50 minutes later Venus emerged from behind the Moon.</p>
+<p style="text-align: justify;">With this creative astro-collaboration you can follow the plane of our Milky Way Galaxy as it bridges northern and southern hemisphere skies. To construct the expansive composite nightscape, skies over Observatorio El Sauce in Chile (top) were imaged on the same date but 6 hours later than the skies over the Saint-Veran observatory in the French Alps. The 6 hour time-lag allowed Earth&#39;s rotation to align the Milky Way above domes at the two sites. All exposures were made with similar cameras and lenses mounted on simple tripods. A faint greenish airglow is visible in the dark Chilean sky that also features the Large and Small Magellanic Clouds near the observatory dome. In the French Alps light pollution is apparent, but the distant Andromeda Galaxy can still be spotted near the horizon in the northern night. On planet Earth the two observatories are separated by about 10,000 kilometers.</p>
 
 
 
