@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A 10,000 Kilometer Galactic Bridge</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Oudoux-and-Jeff-Graphy-with10000km_c.jpg"">
+<h3>Tau Herculids from Space</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/20220531_0343HerTau_submit1024.jpg"">
 
 
-<p style="text-align: justify;">With this creative astro-collaboration you can follow the plane of our Milky Way Galaxy as it bridges northern and southern hemisphere skies. To construct the expansive composite nightscape, skies over Observatorio El Sauce in Chile (top) were imaged on the same date but 6 hours later than the skies over the Saint-Veran observatory in the French Alps. The 6 hour time-lag allowed Earth&#39;s rotation to align the Milky Way above domes at the two sites. All exposures were made with similar cameras and lenses mounted on simple tripods. A faint greenish airglow is visible in the dark Chilean sky that also features the Large and Small Magellanic Clouds near the observatory dome. In the French Alps light pollution is apparent, but the distant Andromeda Galaxy can still be spotted near the horizon in the northern night. On planet Earth the two observatories are separated by about 10,000 kilometers.</p>
+<p style="text-align: justify;">On May 31 tens of parallel meteor streaks were recorded in this 8 degree wide field of view of planet Earth&#39;s limb from space. The image is one of a series of 5 minute long observations by the orbiting Yangwang-1 space telescope. It was captured at 03:43 UT, near the peak of the Tau Herculid meteor shower. As predicted, the meteor shower was an active one this year, caused as Earth swept through a relatively dense stream of debris from disintegrating Comet 73P&#x2F;Schwassmann-Wachmann 3, but was lacking bright meteors. Nearly all of the Tau Herculid meteors in the Yangwang-1 image are too faint to be detected by groundbased instruments. But on that date patient earthbound skywatchers under clear skies still enjoyed a memorable showing of the Tau Herculids.</p>
 
 
 
