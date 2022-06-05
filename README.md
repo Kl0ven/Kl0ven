@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Tau Herculids from Space</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/20220531_0343HerTau_submit1024.jpg"">
+<h3>Two Black Holes Dancing in 3C 75</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/3c75_chandraNRAO_960.jpg"">
 
 
-<p style="text-align: justify;">On May 31 tens of parallel meteor streaks were recorded in this 8 degree wide field of view of planet Earth&#39;s limb from space. The image is one of a series of 5 minute long observations by the orbiting Yangwang-1 space telescope. It was captured at 03:43 UT, near the peak of the Tau Herculid meteor shower. As predicted, the meteor shower was an active one this year, caused as Earth swept through a relatively dense stream of debris from disintegrating Comet 73P&#x2F;Schwassmann-Wachmann 3, but was lacking bright meteors. Nearly all of the Tau Herculid meteors in the Yangwang-1 image are too faint to be detected by groundbased instruments. But on that date patient earthbound skywatchers under clear skies still enjoyed a memorable showing of the Tau Herculids.</p>
+<p style="text-align: justify;">What&#39;s happening at the center of active galaxy 3C 75?  The two bright sources at the center of this composite x-ray (blue)&#x2F; radio (pink) image are co-orbiting supermassive black holes powering the giant radio source 3C 75. Surrounded by multimillion degree x-ray emitting gas, and blasting out jets of relativistic particles the supermassive black holes are separated by 25,000 light-years. At the cores of two merging galaxies in the Abell 400 galaxy cluster they are some 300 million light-years away. Astronomers conclude that these two supermassive black holes are bound together by gravity in a binary system in part because the jets&#39; consistent swept back appearance is most likely due to their common motion as they speed through the hot cluster gas at about 1200 kilometers per second. Such spectacular cosmic mergers are thought to be common in crowded galaxy cluster environments in the distant universe. In their final stages, the mergers are expected to be intense sources of gravitational waves.</p>
 
 
 
