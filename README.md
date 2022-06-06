@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Two Black Holes Dancing in 3C 75</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/3c75_chandraNRAO_960.jpg"">
+<h3>Milky Way Galaxy Doomed: Collision with Andromeda Pending</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/M31MwBang_NASA_1080.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happening at the center of active galaxy 3C 75?  The two bright sources at the center of this composite x-ray (blue)&#x2F; radio (pink) image are co-orbiting supermassive black holes powering the giant radio source 3C 75. Surrounded by multimillion degree x-ray emitting gas, and blasting out jets of relativistic particles the supermassive black holes are separated by 25,000 light-years. At the cores of two merging galaxies in the Abell 400 galaxy cluster they are some 300 million light-years away. Astronomers conclude that these two supermassive black holes are bound together by gravity in a binary system in part because the jets&#39; consistent swept back appearance is most likely due to their common motion as they speed through the hot cluster gas at about 1200 kilometers per second. Such spectacular cosmic mergers are thought to be common in crowded galaxy cluster environments in the distant universe. In their final stages, the mergers are expected to be intense sources of gravitational waves.</p>
+<p style="text-align: justify;">Will our Milky Way Galaxy collide one day with its larger neighbor, the Andromeda Galaxy? Most likely, yes.  Careful plotting of slight displacements of M31&#39;s stars relative to background galaxies on recent Hubble Space Telescope images indicate that the center of M31 could be on a direct collision course with the center of our home galaxy. Still, the errors in sideways velocity appear sufficiently large to admit a good chance that the central parts of the two galaxies will miss, slightly, but will become close enough for their outer halos to become gravitationally entangled. Once that happens, the two galaxies will become bound, dance around, and eventually merge to become one large elliptical galaxy -- over the next few billion years. Pictured here is a combination of images depicting the sky of a world (Earth?) in the distant future when the outer parts of each galaxy begin to collide. The exact future of our Milky Way and the entire surrounding Local Group of Galaxies is likely to remain an active topic of research for years to come.</p>
 
 
 
