@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Milky Way Galaxy Doomed: Collision with Andromeda Pending</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/M31MwBang_NASA_1080.jpg"">
+<h3>NGC 6188: Dragons of Ara</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Ngc6188_Robertson_960.jpg"">
 
 
-<p style="text-align: justify;">Will our Milky Way Galaxy collide one day with its larger neighbor, the Andromeda Galaxy? Most likely, yes.  Careful plotting of slight displacements of M31&#39;s stars relative to background galaxies on recent Hubble Space Telescope images indicate that the center of M31 could be on a direct collision course with the center of our home galaxy. Still, the errors in sideways velocity appear sufficiently large to admit a good chance that the central parts of the two galaxies will miss, slightly, but will become close enough for their outer halos to become gravitationally entangled. Once that happens, the two galaxies will become bound, dance around, and eventually merge to become one large elliptical galaxy -- over the next few billion years. Pictured here is a combination of images depicting the sky of a world (Earth?) in the distant future when the outer parts of each galaxy begin to collide. The exact future of our Milky Way and the entire surrounding Local Group of Galaxies is likely to remain an active topic of research for years to come.</p>
+<p style="text-align: justify;">Do dragons fight on the altar of the sky?  Although it might appear that way, these dragons are illusions made of thin gas and dust. The emission nebula NGC 6188, home to the glowing clouds, is found about 4,000 light years away near the edge of a large molecular cloud unseen at visible wavelengths, in the southern constellation Ara (the Altar). Massive, young stars of the embedded Ara OB1 association were formed in that region only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation. The recent star formation itself was likely triggered by winds and supernova explosions, from previous generations of massive stars, that swept up and compressed the molecular gas. Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is rare emission nebula NGC 6164, also created by one of the region&#39;s massive O-type stars. Similar in appearance to many planetary nebulae, NGC 6164&#39;s striking, symmetric gaseous shroud and faint halo surround its bright central star near the bottom edge. This impressively wide field of view spans over 2 degrees (four full Moons), corresponding to over 150 light years at the estimated distance of NGC 6188.</p>
 
 
 
