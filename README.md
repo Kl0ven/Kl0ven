@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 6188: Dragons of Ara</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Ngc6188_Robertson_960.jpg"">
+<h3>Ship Tracks over the Pacific Ocean</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/ShipTracks_Terra_960.jpg"">
 
 
-<p style="text-align: justify;">Do dragons fight on the altar of the sky?  Although it might appear that way, these dragons are illusions made of thin gas and dust. The emission nebula NGC 6188, home to the glowing clouds, is found about 4,000 light years away near the edge of a large molecular cloud unseen at visible wavelengths, in the southern constellation Ara (the Altar). Massive, young stars of the embedded Ara OB1 association were formed in that region only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation. The recent star formation itself was likely triggered by winds and supernova explosions, from previous generations of massive stars, that swept up and compressed the molecular gas. Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is rare emission nebula NGC 6164, also created by one of the region&#39;s massive O-type stars. Similar in appearance to many planetary nebulae, NGC 6164&#39;s striking, symmetric gaseous shroud and faint halo surround its bright central star near the bottom edge. This impressively wide field of view spans over 2 degrees (four full Moons), corresponding to over 150 light years at the estimated distance of NGC 6188.</p>
+<p style="text-align: justify;">What are those unusual streaks? Some images of planet Earth show clear bright streaks that follow the paths of ships.  Known as ship tracks, these low and narrow bands are caused by the ship&#39;s engine exhaust. Water vapor condenses around small bits of exhaust known as aerosols, which soon grow into floating water drops that efficiently reflect sunlight. Ship tracks were first discovered in 1965 in Earth images taken by NASA&#39;s TIROS satellites.  Multiple ship tracks are visible across the featured image that was captured in 2009 over the Pacific Ocean by the MODIS instrument on NASA&#39;s Terra satellite. Inspired by ship-tracks, some scientists have suggested deploying a network of floating buoys in the worlds&#39; oceans that spray salt-aerosol containing sea-water into the air so that, with the help of the wind, streams of sunlight-reflecting clouds would also form.  Why do this?  These human-made clouds could reflect so much sunlight they might help fight global warming.    Today is: World Oceans Day</p>
 
 
 
