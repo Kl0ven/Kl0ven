@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ship Tracks over the Pacific Ocean</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/ShipTracks_Terra_960.jpg"">
+<h3>Cosmic Clouds in Cygnus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/CygWideHa-OIIIBiColorImage2_crop2_1024.jpg"">
 
 
-<p style="text-align: justify;">What are those unusual streaks? Some images of planet Earth show clear bright streaks that follow the paths of ships.  Known as ship tracks, these low and narrow bands are caused by the ship&#39;s engine exhaust. Water vapor condenses around small bits of exhaust known as aerosols, which soon grow into floating water drops that efficiently reflect sunlight. Ship tracks were first discovered in 1965 in Earth images taken by NASA&#39;s TIROS satellites.  Multiple ship tracks are visible across the featured image that was captured in 2009 over the Pacific Ocean by the MODIS instrument on NASA&#39;s Terra satellite. Inspired by ship-tracks, some scientists have suggested deploying a network of floating buoys in the worlds&#39; oceans that spray salt-aerosol containing sea-water into the air so that, with the help of the wind, streams of sunlight-reflecting clouds would also form.  Why do this?  These human-made clouds could reflect so much sunlight they might help fight global warming.    Today is: World Oceans Day</p>
+<p style="text-align: justify;">These cosmic clouds of gas and dust drift through rich star fields along the plane of our Milky Way Galaxy toward the high flying constellation Cygnus. They&#39;re too faint to be seen with the unaided eye though, even on a clear, dark night. Image data from a camera and telephoto lens using narrowband filters was used to construct this 10 degree wide field of view. The deep mosaic reveals a region that includes star forming dust clouds seen in silhouette against the characteristic glow of atomic hydrogen and oxygen gas. NGC 6888 is the standout emission nebula near the top. Blown by winds from an massive Wolf-Rayet star it&#39;s about 25 light-years across and known as the Crescent Nebula. A faint bluish curl just below center in the frame is also the signature of a Wolf-Rayet star. Burning fuel at a prodigious rate and near the end of their stellar lives, both stars will ultimately go out with a bang in a spectacular supernova explosion. Toward the right, a massive, young O type star powers the glow of Sh2-101, the Tulip Nebula.</p>
 
 
 
