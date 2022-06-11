@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Arp 286: Trio in Virgo</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Arp286-202203-CDK24-FLIPL9000-LRGB_NicolasROLLAND_signature_LD1024.jpg"">
+<h3>The Road and the Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/MilkyWayArchCumeada-fb1200.jpg"">
 
 
-<p style="text-align: justify;">This colorful telescopic field of view features a trio of interacting galaxies almost 90 million light-years away, toward the constellation Virgo. On the right two spiky, foreground Milky Way stars echo the extragalactic hues, a reminder that stars in our own galaxy are like those in distant island universes. With sweeping spiral arms and obscuring dust lanes, the dominant member of the trio, NGC 5566, is enormous, about 150,000 light-years across. Just above it lies smaller, bluish NGC 5569. Near center a third galaxy, NGC 5560, is apparently stretched and distorted by its interaction with massive NGC 5566. The trio is also included in Halton Arp&#39;s 1966 Atlas of Peculiar Galaxies as Arp 286. Of course, such cosmic interactions are now appreciated as part of the evolution of galaxies.</p>
+<p style="text-align: justify;">At night you can follow this road as it passes through the Dark Sky Alqueva reserve not too far from Alentejo, Portugal. Or you could stop, look up, and follow the Milky Way through the sky. Both stretch from horizon to horizon in this 180 degree panorama recorded on June 3. Our galaxy&#39;s name, the Milky Way, does refer to its appearance as a milky path in the sky. The word galaxy itself derives from the Greek for milk. From our fair planet the arc of the Milky Way is most easily visible on moonless nights from dark sky areas, though not quite so bright or colorful as in this image. The glowing celestial band is due to the collective light of myriad stars along the galactic plane too faint to be distinguished individually. The diffuse starlight is cut by dark swaths of the galaxy&#39;s obscuring interstellar dust clouds. Standing above the Milky Way arc near the top of this panoramic nightscape is bright star Vega, with the galaxy&#39;s central bulge near the horizon at the right.</p>
 
 
 
