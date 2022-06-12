@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Road and the Milky Way</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/MilkyWayArchCumeada-fb1200.jpg"">
+<h3>Find the Man in the Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/1602/ManInMoon_Caxete_1080.jpg"">
 
 
-<p style="text-align: justify;">At night you can follow this road as it passes through the Dark Sky Alqueva reserve not too far from Alentejo, Portugal. Or you could stop, look up, and follow the Milky Way through the sky. Both stretch from horizon to horizon in this 180 degree panorama recorded on June 3. Our galaxy&#39;s name, the Milky Way, does refer to its appearance as a milky path in the sky. The word galaxy itself derives from the Greek for milk. From our fair planet the arc of the Milky Way is most easily visible on moonless nights from dark sky areas, though not quite so bright or colorful as in this image. The glowing celestial band is due to the collective light of myriad stars along the galactic plane too faint to be distinguished individually. The diffuse starlight is cut by dark swaths of the galaxy&#39;s obscuring interstellar dust clouds. Standing above the Milky Way arc near the top of this panoramic nightscape is bright star Vega, with the galaxy&#39;s central bulge near the horizon at the right.</p>
+<p style="text-align: justify;">Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don&#39;t actually exist. The textured surface of Earth&#39;s full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon&#39;s perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon&#39;s center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This featured well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain. Do you have a favorite object that you see in the Moon?</p>
 
 
 
