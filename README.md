@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Find the Man in the Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/1602/ManInMoon_Caxete_1080.jpg"">
+<h3>M51: The Whirlpool Galaxy from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/M51_HubbleMiller_1080.jpg"">
 
 
-<p style="text-align: justify;">Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don&#39;t actually exist. The textured surface of Earth&#39;s full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon&#39;s perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon&#39;s center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This featured well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain. Do you have a favorite object that you see in the Moon?</p>
+<p style="text-align: justify;">The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured image is a digital combination of images taken in different colors by the Earth-orbiting Hubble Space Telescope, highlighting many sharp features. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51&#39;s spiral structure is primarily due to its gravitational interaction with the smaller galaxy on the image left.</p>
 
 
 
