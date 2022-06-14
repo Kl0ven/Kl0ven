@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M51: The Whirlpool Galaxy from Hubble</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/M51_HubbleMiller_1080.jpg"">
+<h3>Satellites Behind Pinnacles</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/StarTrailsPinnacles_Rozells_960.jpg"">
 
 
-<p style="text-align: justify;">The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured image is a digital combination of images taken in different colors by the Earth-orbiting Hubble Space Telescope, highlighting many sharp features. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51&#39;s spiral structure is primarily due to its gravitational interaction with the smaller galaxy on the image left.</p>
+<p style="text-align: justify;">What are all those streaks across the background? Satellite trails. First, the foreground features picturesque rock mounds known as Pinnacles.  Found in the Nambung National Park in Western Australia, these human-sized spires are made by unknown processes from ancient sea shells (limestone). Perhaps more eye-catching, though, is the sky behind. Created by low-Earth orbit satellites reflecting sunlight, all of these streaks were captured in less than two hours and digitally combined onto the single featured image, with the foreground taken consecutively by the same camera and from the same location.  Most of the streaks were made by the developing Starlink constellation of communication satellites, but some are not. In general, the streaks are indicative of an increasing number of satellites nearly continuously visible above the Earth after dusk and before dawn.  Understanding and removing the effects of satellite trails on images from Earth&#39;s ground-based cameras and telescopes is now important not only for elegant astrophotography, but for humanity&#39;s scientific understanding of the distant universe.   Astrophysicists: Browse 2,800+ codes in the Astrophysics Source Code Library</p>
 
 
 
