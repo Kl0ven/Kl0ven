@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Satellites Behind Pinnacles</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/StarTrailsPinnacles_Rozells_960.jpg"">
+<h3>In the Heart of the Virgo Cluster</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/VirgoCentral_Adomaitis_960.jpg"">
 
 
-<p style="text-align: justify;">What are all those streaks across the background? Satellite trails. First, the foreground features picturesque rock mounds known as Pinnacles.  Found in the Nambung National Park in Western Australia, these human-sized spires are made by unknown processes from ancient sea shells (limestone). Perhaps more eye-catching, though, is the sky behind. Created by low-Earth orbit satellites reflecting sunlight, all of these streaks were captured in less than two hours and digitally combined onto the single featured image, with the foreground taken consecutively by the same camera and from the same location.  Most of the streaks were made by the developing Starlink constellation of communication satellites, but some are not. In general, the streaks are indicative of an increasing number of satellites nearly continuously visible above the Earth after dusk and before dawn.  Understanding and removing the effects of satellite trails on images from Earth&#39;s ground-based cameras and telescopes is now important not only for elegant astrophotography, but for humanity&#39;s scientific understanding of the distant universe.   Astrophysicists: Browse 2,800+ codes in the Astrophysics Source Code Library</p>
+<p style="text-align: justify;">The Virgo Cluster of Galaxies is the closest cluster of galaxies to our Milky Way Galaxy.  The Virgo Cluster is so close that it spans more than 5 degrees on the sky - about 10 times the angle made by a full Moon. With its heart lying about 70 million light years distant, the Virgo Cluster is the nearest cluster of galaxies, contains over 2,000 galaxies, and has a noticeable gravitational pull on the galaxies of the Local Group of Galaxies surrounding our Milky Way Galaxy.  The cluster contains not only galaxies filled with stars but also gas so hot it glows in X-rays.  Motions of galaxies in and around clusters indicate that they contain more dark matter than any visible matter we can see.  Pictured here, the heart of the Virgo Cluster includes bright Messier galaxies such as Markarian&#39;s Eyes on the upper left, M86 just to the upper right of center, M84 on the far right, as well as spiral galaxy NGC 4388 at the bottom right.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995) Birthday?</p>
 
 
 
