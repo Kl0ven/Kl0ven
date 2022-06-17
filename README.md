@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Strawberry Supermoon from China</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/StrawberrySupermoonfromChina1024.jpg"">
+<h3>Good Morning Planets from Chile</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/PlanetsfromChile__labelled_E-Schulz.jpg"">
 
 
-<p style="text-align: justify;">There are four Full Supermoons in 2022. Using the definition of a supermoon as a Full Moon near perigee, that is within at least 90% of its closest approach to Earth in a given orbit, the year&#39;s Full Supermoon dates are May 16, June 14, July 13, and August 12. Full Moons near perigee really are the brightest and largest in planet Earth&#39;s sky. But size and brightness differences between Full Moons are relatively small and an actual comparison with other Full Moons is difficult to make by eye alone.  Two exposures are blended in this supermoon and sky view from June 14. That Full Moon was also known to northern hemisphere skygazers as the Strawberry moon. The consecutive short and long exposures allow familiar features on the fully sunlit lunar nearside to be seen in the same image as a faint lunar corona and an atmospheric cloudscape. They were captured in skies over Chongqing, China.</p>
+<p style="text-align: justify;">On June 15, innermost planet Mercury had wandered about as far from the Sun as it ever gets in planet Earth&#39;s sky. Near the eastern horizon just before sunrise it stands over distant Andes mountain peaks in this predawn snapshot from the valley of Rio Hurtado in Chile. June&#39;s other morning planets are arrayed above it, as all the naked-eye planets of the Solar System stretch in a line along the ecliptic in the single wide-field view. Tilted toward the north, the Solar System&#39;s ecliptic plane arcs steeply through southern hemisphere skies. Northern hemisphere early morning risers will see the lineup of planets along the ecliptic at a shallower angle tilting toward the south. From both hemispheres June&#39;s beautiful morning planetary display finds the visible planets in order of their increasing distance from the Sun.</p>
 
 
 
