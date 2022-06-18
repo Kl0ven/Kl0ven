@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Good Morning Planets from Chile</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/PlanetsfromChile__labelled_E-Schulz.jpg"">
+<h3>The Gamma Cygni Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/gamma-cygni-nebula-and-sadr1024.jpg"">
 
 
-<p style="text-align: justify;">On June 15, innermost planet Mercury had wandered about as far from the Sun as it ever gets in planet Earth&#39;s sky. Near the eastern horizon just before sunrise it stands over distant Andes mountain peaks in this predawn snapshot from the valley of Rio Hurtado in Chile. June&#39;s other morning planets are arrayed above it, as all the naked-eye planets of the Solar System stretch in a line along the ecliptic in the single wide-field view. Tilted toward the north, the Solar System&#39;s ecliptic plane arcs steeply through southern hemisphere skies. Northern hemisphere early morning risers will see the lineup of planets along the ecliptic at a shallower angle tilting toward the south. From both hemispheres June&#39;s beautiful morning planetary display finds the visible planets in order of their increasing distance from the Sun.</p>
+<p style="text-align: justify;">Supergiant star Gamma Cygni is at the center of the Northern Cross. Near the plane of our Milky Way galaxy, that famous asterism flies high in northern summer night skies in the constellation Cygnus the Swan. Known by the proper name Sadr, Gamma Cygni also lies just below center in this telescopic skyscape, with colors mapped from both broadband and narrowband image data. The field of view spans about 3 degrees (six Full Moons) on the sky and includes emission nebula IC 1318 and open star cluster NGC 6910. Filling the upper part of the frame and shaped like two glowing cosmic wings divided by a long dark dust lane, IC 1318&#39;s popular name is understandably the Butterfly Nebula. Right of Gamma Cygni, are the young, still tightly grouped stars of NGC 6910. The distance to Gamma Cygni is around 560 parsecs or 1,800 light-years. Estimates for IC 1318 and NGC 6910 range from 2,000 to 5,000 light-years.</p>
 
 
 
