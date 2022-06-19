@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Gamma Cygni Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/gamma-cygni-nebula-and-sadr1024.jpg"">
+<h3>Game: Super Planet Crash</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Supergiant star Gamma Cygni is at the center of the Northern Cross. Near the plane of our Milky Way galaxy, that famous asterism flies high in northern summer night skies in the constellation Cygnus the Swan. Known by the proper name Sadr, Gamma Cygni also lies just below center in this telescopic skyscape, with colors mapped from both broadband and narrowband image data. The field of view spans about 3 degrees (six Full Moons) on the sky and includes emission nebula IC 1318 and open star cluster NGC 6910. Filling the upper part of the frame and shaped like two glowing cosmic wings divided by a long dark dust lane, IC 1318&#39;s popular name is understandably the Butterfly Nebula. Right of Gamma Cygni, are the young, still tightly grouped stars of NGC 6910. The distance to Gamma Cygni is around 560 parsecs or 1,800 light-years. Estimates for IC 1318 and NGC 6910 range from 2,000 to 5,000 light-years.</p>
+<p style="text-align: justify;">Can you create a planetary system that lasts for 1000 years? Super Planet Crash, the featured game, allows you to try.  To create up to ten planets, just click anywhere near the central star.  Planet types can be selected on the left in order of increasing mass: Earth, Super-Earth, Ice giant, Giant planet, Brown dwarf, or Dwarf star. Each planet is gravitationally attracted not only to the central Sun-like star, but to other planets. Points are awarded, with bonus factors applied for increasingly crowded and habitable systems. The game ends after 1000 years or when a planet is gravitationally expelled. Many exoplanetary systems are being discovered in recent years, and Super Planet Crash demonstrates why some remain stable.  As you might suspect after playing Super Planet Crash a few times, there is reason to believe that our own Solar System has lost planets during its formation.</p>
 
 
 
