@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Analemma over Taipei</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/AnalemmaTaipei_Lee_1080.jpg"">
+<h3>Supernova Remnant: The Veil Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Veil_Stocks_1080.jpg"">
 
 
-<p style="text-align: justify;">Does the Sun return to the same spot on the sky every day? No.  A better and more visual answer to that question is an analemma, a composite of images taken at the same time and from the same place over the course of a year. The featured analemma was compiled at 4:30 pm many afternoons from Taiwan during 2021, with the city skyline of Taipei in the foreground, including tall Taipei 101. The Sun&#39;s location in December -- at the December solstice -- is shown on the far left, while its location at the June solstice is captured on the far right. Also shown are the positions of the Sun throughout the rest of the day on the solstices and equinoxes.  Today is the June solstice of 2022, the day in Earth&#39;s northern hemisphere when the Sun spends the longest time in the sky.  In many countries, today marks the official beginning of a new season, for example winter in Earth&#39;s southern hemisphere.</p>
+<p style="text-align: justify;">Ten thousand years ago, before the dawn of recorded human history, a new light would have suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  Imaged with color filters featuring light emitted by sulfur (red), hydrogen (green), and oxygen (blue), this deep wide-angle view was processed to remove the stars and so better capture the impressive glowing filaments of the Veil.  Also known as the Cygnus Loop, the Veil Nebula is roughly circular in shape and covers nearly 3 degrees on the sky toward the constellation of the Swan (Cygnus). Famous nebular sections include the Bat Nebula, the Witch&#39;s Broom Nebula, and Fleming&#39;s Triangular Wisp.  The complete supernova remnant lies about 1,400 light-years away.</p>
 
 
 
