@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Supernova Remnant: The Veil Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Veil_Stocks_1080.jpg"">
+<h3>Spiral Galaxy NGC 6744</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/NGC6744_chakrabarti1024R.jpg"">
 
 
-<p style="text-align: justify;">Ten thousand years ago, before the dawn of recorded human history, a new light would have suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  Imaged with color filters featuring light emitted by sulfur (red), hydrogen (green), and oxygen (blue), this deep wide-angle view was processed to remove the stars and so better capture the impressive glowing filaments of the Veil.  Also known as the Cygnus Loop, the Veil Nebula is roughly circular in shape and covers nearly 3 degrees on the sky toward the constellation of the Swan (Cygnus). Famous nebular sections include the Bat Nebula, the Witch&#39;s Broom Nebula, and Fleming&#39;s Triangular Wisp.  The complete supernova remnant lies about 1,400 light-years away.</p>
+<p style="text-align: justify;">Beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo but appears as only a faint, extended object in small telescopes. We see the disk of the nearby island universe tilted towards our line of sight in this remarkably detailed galaxy portrait, a telescopic view that spans an area about the angular size of a full moon. In it, the giant galaxy&#39;s elongated yellowish core is dominated by the light from old, cool stars. Beyond the core, grand spiral arms are filled with young blue star clusters and speckled with pinkish star forming regions. An extended arm sweeps past smaller satellite galaxy NGC 6744A at the lower right. NGC 6744&#39;s galactic companion is reminiscent of the Milky Way&#39;s satellite galaxy the Large Magellanic Cloud.</p>
 
 
 
