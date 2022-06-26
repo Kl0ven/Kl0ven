@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Planets of the Solar System</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/20220624_ALLINEAMENTO_SPECIALEweb600h.jpg"">
+<h3>Light Echoes from V838 Mon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg"">
 
 
-<p style="text-align: justify;">Simultaneous images from four cameras were combined to construct this atmospheric predawn skyscape. The cooperative astro-panorama captures all the planets of the Solar System, just before sunrise on June 24. That foggy morning found innermost planet Mercury close to the horizon but just visible against the twilight, below and left of brilliant Venus. Along with the waning crescent Moon, the other bright naked-eye planets, Mars, Jupiter, and Saturn lie near the ecliptic, arcing up and to the right across the wide field of view. Binoculars would have been required to spot the much fainter planets Uranus and Neptune, though they also were along the ecliptic in the sky. In the foreground are excavations at an ancient Roman villa near Marina di San Nicola, Italy, planet Earth.</p>
+<p style="text-align: justify;">What caused this outburst of V838 Mon?  For reasons unknown, star V838 Mon&#39;s outer surface suddenly greatly expanded with the result that it became one of the brighter stars in the  Milky Way Galaxy in early 2002.  Then, just as suddenly, it shrunk and faded.  A stellar flash like this had never been seen before -- supernovas and novas expel matter out into space.  Although the V838 Mon flash appears to expel material into space, what is seen in the featured image from the Hubble Space Telescope is actually an outwardly expanding light echo of the original flash.  In a light echo, light from the flash is reflected by successively more distant surfaces in the complex array of ambient interstellar dust that already surrounded the star.  V838 Mon lies about 20,000 light years away toward the constellation of the unicorn (Monoceros), while the light echo above spans about six light years in diameter.</p>
 
 
 
