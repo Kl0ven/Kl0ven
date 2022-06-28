@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Gum Nebula over Snowy Mountains</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/GumMountain_WangJin_1080.jpg"">
+<h3>Mercury from Passing BepiColombo</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Mercury_BepiColombo_960.jpg"">
 
 
-<p style="text-align: justify;">The Gum Nebula is so large and close it is actually hard to see. This interstellar expanse of glowing hydrogen gas frequently evades notice because it spans 35 degrees -- over 70 full Moons -- while much of it is quite dim. This featured spectacular 90-degree wide mosaic, however, was designed to be both wide and deep enough to bring up  the Gum -- visible in red on the right. The image was acquired late last year with both the foreground -- including Haba Snow Mountain -- and the background -- including the Milky Way&#39;s central band -- captured by the same camera and from the same location in Shangri-La, Yunnan, China. The Gum Nebula is so close that we are only about 450 light-years from the front edge, while about 1,500 light-years from the back edge. Named for a cosmic cloud hunter, Australian astronomer Colin Stanley Gum (1924-1960), the origin of this complex nebula is still being debated. A leading theory for the origin of the Gum Nebula is that  it is the remnant of a million year-old supernova explosion, while a competing theory holds that the Gum is a molecular cloud shaped over eons by multiple supernovas and the outflowing winds of several massive stars.</p>
+<p style="text-align: justify;">Which part of the Moon is this?  No part -- because this is the planet Mercury.  Mercury&#39;s old surface is heavily cratered like that of Earth&#39;s Moon.  Mercury, while only slightly larger than Luna, is much denser and more massive than any Solar System moon because it is made mostly of iron.  In fact, our Earth is the only planet more dense.  Because Mercury rotates exactly three times for every two orbits around the Sun, and because Mercury&#39;s orbit is so elliptical, visitors on Mercury could see the Sun rise, stop in the sky, go back toward the rising horizon, stop again, and then set quickly over the other horizon.  From Earth, Mercury&#39;s proximity to the Sun causes it to be visible only for a short time just after sunset or just before sunrise. The featured image was captured last week by ESA and JAXA&#39;s passing BepiColombo spacecraft as it sheds energy and prepares to orbit the innermost planet starting in 2025.</p>
 
 
 
