@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mercury from Passing BepiColombo</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/Mercury_BepiColombo_960.jpg"">
+<h3>Solar System Family Portrait</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/SolSysPortrait_Trigo_1080_annotated.jpg"">
 
 
-<p style="text-align: justify;">Which part of the Moon is this?  No part -- because this is the planet Mercury.  Mercury&#39;s old surface is heavily cratered like that of Earth&#39;s Moon.  Mercury, while only slightly larger than Luna, is much denser and more massive than any Solar System moon because it is made mostly of iron.  In fact, our Earth is the only planet more dense.  Because Mercury rotates exactly three times for every two orbits around the Sun, and because Mercury&#39;s orbit is so elliptical, visitors on Mercury could see the Sun rise, stop in the sky, go back toward the rising horizon, stop again, and then set quickly over the other horizon.  From Earth, Mercury&#39;s proximity to the Sun causes it to be visible only for a short time just after sunset or just before sunrise. The featured image was captured last week by ESA and JAXA&#39;s passing BepiColombo spacecraft as it sheds energy and prepares to orbit the innermost planet starting in 2025.</p>
+<p style="text-align: justify;">Yes, but have you ever seen all of the planets at once? A rare roll-call of planets has been occurring in the morning sky for much of June.  The featured fisheye all-sky image, taken a few mornings ago near the town of San Pedro de Atacama in Chile, caught not only the entire planet parade, but the Moon between Mars and Venus.  In order, left to right along the ecliptic plane, members of this Solar System family portrait are Earth, Saturn, Neptune, Jupiter, Mars, Uranus, Venus, Mercury, and Earth.  To emphasize their locations, Neptune and Uranus have been artificially enhanced. The volcano just below Mercury is Licancabur. In July, Mercury will move into the Sun&#39;s glare but reappear a few days later on the evening side.  Then, in August, Saturn will drift past the direction opposite the Sun and so become visible at dusk instead of dawn.  The next time that all eight planets will be simultaneously visible in a morning sky will be in 2122.     Notable Submissions to APOD: Morning Planet Parade 2022 June</p>
 
 
 
