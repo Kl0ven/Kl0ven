@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Solar System Family Portrait</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/SolSysPortrait_Trigo_1080_annotated.jpg"">
+<h3>Comet C&#x2F;2017 K2 (PanSTARRS)</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/2017K2_2022-06-20_media1024.jpg"">
 
 
-<p style="text-align: justify;">Yes, but have you ever seen all of the planets at once? A rare roll-call of planets has been occurring in the morning sky for much of June.  The featured fisheye all-sky image, taken a few mornings ago near the town of San Pedro de Atacama in Chile, caught not only the entire planet parade, but the Moon between Mars and Venus.  In order, left to right along the ecliptic plane, members of this Solar System family portrait are Earth, Saturn, Neptune, Jupiter, Mars, Uranus, Venus, Mercury, and Earth.  To emphasize their locations, Neptune and Uranus have been artificially enhanced. The volcano just below Mercury is Licancabur. In July, Mercury will move into the Sun&#39;s glare but reappear a few days later on the evening side.  Then, in August, Saturn will drift past the direction opposite the Sun and so become visible at dusk instead of dawn.  The next time that all eight planets will be simultaneously visible in the evening sky will be in 2122.     Notable Submissions to APOD: Morning Planet Parade 2022 June</p>
+<p style="text-align: justify;">Imaged on June 20 2022, comet C&#x2F;2017 K2 (PanSTARRS) shares this wide telescopic field of view with open star cluster IC 4665 and bright star Beta Ophiuchi, near a starry edge of the Milky Way. On its maiden voyage to the inner Solar System from the dim and distant Oort cloud, this comet PanSTARRS was initially spotted over five years ago, in May 2017. Then it was the most distant active inbound comet ever found, discovered when it was some 2.4 billion kilometers from the Sun. That put it between the orbital distances of Uranus and Saturn. Hubble Space Telescope observations indicated the comet had a large nucleus less than 18 kilometers in diameter.  Now visible in small telescopes C&#x2F;2017 K2 will make its closest approach to planet Earth on July 14 and closest approach to the Sun this December. Its extended coma and developing tail are seen here at a distance of some 290 million kilometers, a mere 16 light-minutes away.</p>
 
 
 
