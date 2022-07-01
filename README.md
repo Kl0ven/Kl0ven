@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet C&#x2F;2017 K2 (PanSTARRS)</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2206/2017K2_2022-06-20_media1024.jpg"">
+<h3>The Solar System&#39;s Planet Trails</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Star-trail-of-planets1067.jpg"">
 
 
-<p style="text-align: justify;">Imaged on June 20 2022, comet C&#x2F;2017 K2 (PanSTARRS) shares this wide telescopic field of view with open star cluster IC 4665 and bright star Beta Ophiuchi, near a starry edge of the Milky Way. On its maiden voyage to the inner Solar System from the dim and distant Oort cloud, this comet PanSTARRS was initially spotted over five years ago, in May 2017. Then it was the most distant active inbound comet ever found, discovered when it was some 2.4 billion kilometers from the Sun. That put it between the orbital distances of Uranus and Saturn. Hubble Space Telescope observations indicated the comet had a large nucleus less than 18 kilometers in diameter.  Now visible in small telescopes C&#x2F;2017 K2 will make its closest approach to planet Earth on July 14 and closest approach to the Sun this December. Its extended coma and developing tail are seen here at a distance of some 290 million kilometers, a mere 16 light-minutes away.</p>
+<p style="text-align: justify;">Stars trail through a clear morning sky in this postcard from a rotating planet. The timelapse image is constructed from consecutive exposures made over nearly three hours with a camera fixed to a tripod beside the Forbidden City in Beijing, China on June 24. Arcing above the eastern horizon after the series of exposures began, a waning crescent Moon left the brightest streak and watery reflection. On that date the planets of the Solar System were also lined up along the ecliptic and left their own trails before sunrise.  Saturn was first to rise on that morning and the ringed planet&#39;s trail starts close to the top right edge, almost out of the frame. Innermost planet Mercury rose only just before the Sun though. It left the shortest trail, visible against the twilight near the horizon at the far left. Uranus and Neptune are faint and hard to find, but mingled with the star trails the Solar System&#39;s planet trails are all labeled in the scene.</p>
 
 
 
