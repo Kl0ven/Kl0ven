@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Solar System&#39;s Planet Trails</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Star-trail-of-planets1067.jpg"">
+<h3>Solargraphic Analemmas</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Analemma1_1024c.jpg"">
 
 
-<p style="text-align: justify;">Stars trail through a clear morning sky in this postcard from a rotating planet. The timelapse image is constructed from consecutive exposures made over nearly three hours with a camera fixed to a tripod beside the Forbidden City in Beijing, China on June 24. Arcing above the eastern horizon after the series of exposures began, a waning crescent Moon left the brightest streak and watery reflection. On that date the planets of the Solar System were also lined up along the ecliptic and left their own trails before sunrise.  Saturn was first to rise on that morning and the ringed planet&#39;s trail starts close to the top right edge, almost out of the frame. Innermost planet Mercury rose only just before the Sun though. It left the shortest trail, visible against the twilight near the horizon at the far left. Uranus and Neptune are faint and hard to find, but mingled with the star trails the Solar System&#39;s planet trails are all labeled in the scene.</p>
+<p style="text-align: justify;">For the northern hemisphere June 21 was the summer solstice, the Sun reaching its northernmost declination for the year. That would put it at the top of each of these three figure-8 curves, or analemmas, as it passed through the daytime sky over the village of Proboszczow, Poland. No sequence of digital exposures was used to construct the remarkable image though. Using a pinhole camera fixed to face south during the period June 26, 2021 to June 26, 2022, the image was formed directly on a single sheet of photographic paper, a technique known as solargraphy. The three analemmas are the result of briefly exposing the photo paper through the pinhole each day at 11:00, 12:00, and 13:00 CET. Groups of dashed lines on the sides show partial tracks of the Sun from daily exposures made every 15 minutes. Over the year-long solargraphic photo opportunity clouds blocking the Sun during the pinhole exposures created the dark gaps.</p>
 
 
 
