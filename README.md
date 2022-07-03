@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Solargraphic Analemmas</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Analemma1_1024c.jpg"">
+<h3>Phobos: Doomed Moon of Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Phobos_MRO_960.jpg"">
 
 
-<p style="text-align: justify;">For the northern hemisphere June 21 was the summer solstice, the Sun reaching its northernmost declination for the year. That would put it at the top of each of these three figure-8 curves, or analemmas, as it passed through the daytime sky over the village of Proboszczow, Poland. No sequence of digital exposures was used to construct the remarkable image though. Using a pinhole camera fixed to face south during the period June 26, 2021 to June 26, 2022, the image was formed directly on a single sheet of photographic paper, a technique known as solargraphy. The three analemmas are the result of briefly exposing the photo paper through the pinhole each day at 11:00, 12:00, and 13:00 CET. Groups of dashed lines on the sides show partial tracks of the Sun from daily exposures made every 15 minutes. Over the year-long solargraphic photo opportunity clouds blocking the Sun during the pinhole exposures created the dark gaps.</p>
+<p style="text-align: justify;">This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, with objects as small as 10 meters visible. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.</p>
 
 
 
