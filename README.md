@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Milky Way Motion in 3D from Gaia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/MilkyWayMotion_Gaia_1080.jpg"">
+<h3>The NGC 6914 Complex</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/NGC_6914_1024.jpg"">
 
 
-<p style="text-align: justify;">Our sky is alive with the streams of stars.  The motions of 26 million Milky Way stars are evident in the featured map constructed from recent data taken by ESA&#39;s Gaia satellite. Stars colored blue are moving toward us, while red indicates away. Lines depict the motion of the stars across the sky. The large blue areas on the left and red areas on the map&#39;s right give the overall impression that stars in the Milky Way are rotating around the center. Understanding details about the motion of stars is helping humanity to better understand the complex history of our Milky Way galaxy and the origin of our Sun.</p>
+<p style="text-align: justify;">A study in contrasts, this colorful skyscape features stars, dust, and glowing gas in the vicinity of NGC 6914. The interstellar complex of nebulae lies some 6,000 light-years away, toward the high-flying northern constellation Cygnus and the plane of our Milky Way Galaxy. Obscuring interstellar dust clouds appear in silhouette while reddish hydrogen emission nebulae, along with the dusty blue reflection nebulae, fill the cosmic canvas. Ultraviolet radiation from the massive, hot, young stars of the extensive Cygnus OB2 association ionize the region&#39;s atomic hydrogen gas, producing the characteristic red glow as protons and electrons recombine. Embedded Cygnus OB2 stars also provide the blue starlight strongly reflected by the dust clouds. The over 1 degree wide telescopic field of view spans about 100 light-years at the estimated distance of NGC 6914.</p>
 
 
 
