@@ -64,7 +64,7 @@
  <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/MilkyWayMotion_Gaia_1080.jpg"">
 
 
-<p style="text-align: justify;">Our sky is alive with the streams of stars.  The motions of 26 million Milky Way stars are evident in the featured map constructed from recent data taken by ESA&#39;s Gaia satellite. Stars colored blue are moving toward us, while red indicates away. Lines depict the motion of the stars across the sky. The large blue on the left and red areas on the map&#39;s right give the overall impression that stars in the Milky Way are rotating around the center. However, there is a region near the middle -- caused by our own Sun&#39;s motion relative to a rigidly-rotating central Galactic bar -- that seems to reverse it.  Understanding details about the motion of stars is helping humanity to better understand the complex history of our Milky Way galaxy and the origin of our Sun.</p>
+<p style="text-align: justify;">Our sky is alive with the streams of stars.  The motions of 26 million Milky Way stars are evident in the featured map constructed from recent data taken by ESA&#39;s Gaia satellite. Stars colored blue are moving toward us, while red indicates away. Lines depict the motion of the stars across the sky. The large blue areas on the left and red areas on the map&#39;s right give the overall impression that stars in the Milky Way are rotating around the center. Understanding details about the motion of stars is helping humanity to better understand the complex history of our Milky Way galaxy and the origin of our Sun.</p>
 
 
 
