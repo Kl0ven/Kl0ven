@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The NGC 6914 Complex</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/NGC_6914_1024.jpg"">
+<h3>Roots on a Rotating Planet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/StarTreels.jpg"">
 
 
-<p style="text-align: justify;">A study in contrasts, this colorful skyscape features stars, dust, and glowing gas in the vicinity of NGC 6914. The interstellar complex of nebulae lies some 6,000 light-years away, toward the high-flying northern constellation Cygnus and the plane of our Milky Way Galaxy. Obscuring interstellar dust clouds appear in silhouette while reddish hydrogen emission nebulae, along with the dusty blue reflection nebulae, fill the cosmic canvas. Ultraviolet radiation from the massive, hot, young stars of the extensive Cygnus OB2 association ionize the region&#39;s atomic hydrogen gas, producing the characteristic red glow as protons and electrons recombine. Embedded Cygnus OB2 stars also provide the blue starlight strongly reflected by the dust clouds. The over 1 degree wide telescopic field of view spans about 100 light-years at the estimated distance of NGC 6914.</p>
+<p style="text-align: justify;">With roots on a rotating planet, an old tree is centered in this sequence of 137 exposures each 20 seconds long, recorded one night from northern Sicily. Digital camera and fisheye lens were fixed to a tripod to capture the dramatic timelapse, so the stars trailed through the region&#39;s dark sky. Of course that makes it easy to spot the planet&#39;s north celestial pole. The extension of Earth&#39;s axis of rotation into space is toward the upper left, at the center of the concentric star trail arcs. The Milky Way is there too. The plane of our galaxy stretches across the wide field of view from north to east (left to right) creating a broader luminous band of diffuse starlight.</p>
 
 
 
