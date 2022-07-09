@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Roots on a Rotating Planet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/StarTreels.jpg"">
+<h3>Saturn and the ISS</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/ISS_Saturn_TGlenn.jpg"">
 
 
-<p style="text-align: justify;">With roots on a rotating planet, an old tree is centered in this sequence of 137 exposures each 20 seconds long, recorded one night from northern Sicily. Digital camera and fisheye lens were fixed to a tripod to capture the dramatic timelapse, so the stars trailed through the region&#39;s dark sky. Of course that makes it easy to spot the planet&#39;s north celestial pole. The extension of Earth&#39;s axis of rotation into space is toward the upper left, at the center of the concentric star trail arcs. The Milky Way is there too. The plane of our galaxy stretches across the wide field of view from north to east (left to right) creating a broader luminous band of diffuse starlight.</p>
+<p style="text-align: justify;">Soaring high in skies around planet Earth, bright planet Saturn was a star of June&#39;s morning planet parade. But very briefly on June 24 it posed with a bright object in low Earth orbit, the International Space Station. On that date from a school parking lot in Temecula, California the ringed-planet and International Space Station were both caught in this single high-speed video frame. Though Saturn was shining at +0.5 stellar magnitude the space station was an even brighter -3 on the magnitude scale. That difference in brightness is faithfully represented in the video capture frame. In the challenging image, the orbiting ISS was at a range of 602 kilometers. Saturn was about 1.4 billion kilometers from the school parking lot.</p>
 
 
 
