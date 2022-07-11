@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>In the Center of the Cat&#39;s Eye Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/CatsEye_HubbleVillaVerde_960.jpg"">
+<h3>Andromeda over the Sahara Desert</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/SaharaAndromeda_Coy_1080.jpg"">
 
 
-<p style="text-align: justify;">Three thousand light-years away, a dying star throws off shells of glowing gas. This image from the Hubble Space Telescope reveals the Cat&#39;s Eye Nebula (NGC 6543), to be one of the most complex planetary nebulae known. Spanning half a light-year, the features seen in the Cat&#39;s Eye are so complex that astronomers suspect the bright central object may actually be a binary star system. The term planetary nebula, used to describe this general class of objects, is misleading. Although these objects may appear round and planet-like in small telescopes, high resolution images with large telescopes reveal them to be stars surrounded by cocoons of gas blown off in the late stages of stellar evolution. Gazing into this Cat&#39;s Eye, astronomers may well be seeing more than detailed structure, they may be seeing the fate of our Sun, destined to enter its own planetary nebula phase of evolution ... in about 5 billion years.</p>
+<p style="text-align: justify;">What is the oldest thing you can see? At 2.5 million light years distant, the answer for the unaided eye is the Andromeda galaxy, because its photons are 2.5 million years old when they reach you. Most other apparent denizens of the night sky -- stars, clusters, and nebulae -- appear as they were only a few hundred to a few thousand years ago, as they lie well within our own Milky Way Galaxy.  Given its distance, light from Andromeda is likely also the farthest object that you can see.  Also known as M31, the Andromeda Galaxy dominates the center of the featured zoomed image, taken from the Sahara Desert in Morocco last month.  The featured image is a combination of three background and one foreground exposure -- all taken with the same camera and from the same location and on the same calendar day -- with the foreground image taken during the evening blue hour. M110, a satellite galaxy of Andromenda is visible just above and to the left of M31&#39;s core. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details.  Recent data indicates that our Milky Way Galaxy will collide and combine with the similarly-sized Andromeda galaxy in a few billion years.</p>
 
 
 
