@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Andromeda over the Sahara Desert</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/SaharaAndromeda_Coy_1080.jpg"">
+<h3>Noctilucent Clouds over Paris</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/NoctilucentParis_Kulik_1080.jpg"">
 
 
-<p style="text-align: justify;">What is the oldest thing you can see? At 2.5 million light years distant, the answer for the unaided eye is the Andromeda galaxy, because its photons are 2.5 million years old when they reach you. Most other apparent denizens of the night sky -- stars, clusters, and nebulae -- appear as they were only a few hundred to a few thousand years ago, as they lie well within our own Milky Way Galaxy.  Given its distance, light from Andromeda is likely also the farthest object that you can see.  Also known as M31, the Andromeda Galaxy dominates the center of the featured zoomed image, taken from the Sahara Desert in Morocco last month.  The featured image is a combination of three background and one foreground exposure -- all taken with the same camera and from the same location and on the same calendar day -- with the foreground image taken during the evening blue hour. M110, a satellite galaxy of Andromenda is visible just above and to the left of M31&#39;s core. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details.  Recent data indicates that our Milky Way Galaxy will collide and combine with the similarly-sized Andromeda galaxy in a few billion years.</p>
+<p style="text-align: justify;">It&#39;s northern noctilucent cloud season. Composed of small ice crystals forming only during specific conditions in the upper atmosphere, noctilucent clouds may become visible at sunset during late summer when illuminated by sunlight from below.  Noctilucent clouds are the highest clouds known and now established to be polar mesospheric clouds observed from the ground.  Although observed with NASA&#39;s AIM satellite since 2007, much about noctilucent clouds remains unknown and so a topic of active research. The featured image shows expansive and rippled noctilucent clouds wafting over Paris, France. This year, several northern locations are already reporting especially vivid displays of noctilucent clouds.</p>
 
 
 
