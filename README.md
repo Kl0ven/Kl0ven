@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Webb&#39;s Southern Ring Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/STScI-WebbSouthernRing.jpg"">
+<h3>Lubovna Full Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/2022_07_13_Uplnek_Lubovna_1000mm_c1024px.jpg"">
 
 
-<p style="text-align: justify;">Cataloged as NGC 3132 the Southern Ring Nebula is a planetary nebula, the death shroud of a dying sun-like star some 2,500 light-years from Earth. Composed of gas and dust the stunning cosmic landscape is nearly half a light-year in diameter, explored in unprecedented detail by the James Webb Space Telescope. In this NIRCam image the bright star near center is a companion of the dying star. In mutual orbit, the star whose transformation has ejected the nebula&#39;s gas and dust shells over thousands of years is the fainter stellar partner. Evolving to become a white dwarf, the faint star appears along the diffraction spike extending toward the 8 o&#39;clock position. This stellar pair&#39;s orbital motion has resulted the complex structures within the Southern Ring Nebula.</p>
+<p style="text-align: justify;">On July 13 this well-planned telephoto view recorded a Full Moon rising over Lubovna Castle in eastern Slovania. The photographer was about 3 kilometers from the castle walls and about 357,000 kilometers from this Full Moon near perigee, the closest point in its elliptical orbit. Known to some as supermoons, full moons near perigee are a little brighter and larger in planet Earth&#39;s sky when compared to full moons that occur near the average lunar distance of around 384,000 kilometers. Of course any Full Moon near the horizon can show the effects of refraction over a long sight-line through dense clear atmosphere. In this image, atmospheric refraction creates the slight green flash framed by thin clouds near the top, with a ragged red rim along the bottom edge of July&#39;s perigee Full Moon.</p>
 
 
 
