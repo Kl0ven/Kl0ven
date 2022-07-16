@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lubovna Full Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/2022_07_13_Uplnek_Lubovna_1000mm_c1024px.jpg"">
+<h3>Tycho and Clavius at Dawn</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Dawn-in-Clavius-Tycho-07-07-22_1024.jpg"">
 
 
-<p style="text-align: justify;">On July 13 this well-planned telephoto view recorded a Full Moon rising over Lubovna Castle in eastern Slovakia. The photographer was about 3 kilometers from the castle walls and about 357,000 kilometers from this Full Moon near perigee, the closest point in its elliptical orbit. Known to some as supermoons, full moons near perigee are a little brighter and larger in planet Earth&#39;s sky when compared to full moons that occur near the average lunar distance of around 384,000 kilometers. Of course any Full Moon near the horizon can show the effects of refraction over a long sight-line through dense clear atmosphere. In this image, atmospheric refraction creates the slight green flash framed by thin clouds near the top, with a ragged red rim along the bottom edge of July&#39;s perigee Full Moon.</p>
+<p style="text-align: justify;">South is up in this dramatic telescopic view of the lunar terminator and the Moon&#39;s rugged southern highlands. The lunar landscape was captured on July 7 with the moon at its first quarter phase. The Sun shines at a low angle from the right as dawn comes to the region&#39;s young and old craters Tycho and Clavius. About 100 million years young, Tycho is the sharp-walled 85 kilometer diameter crater below and left of center. Its 2 kilometer tall central peak and far crater wall reflect bright sunlight, Its smooth floor lies in dark shadow. Debris ejected during the impact that created Tycho make it the stand out lunar crater when the Moon is near full though. They produce a highly visible radiating system of light streaks or rays that extend across much of the lunar near side. In fact, some of the material collected at the Apollo 17 landing site, about 2,000 kilometers away, likely originated from the Tycho impact.  One of the oldest and largest craters on the Moon&#39;s near side, 225 kilometer diameter Clavius is due south (above) of Tycho. Clavius crater&#39;s own ray system resulting from its original impact event would have faded long ago. The old crater&#39;s worn walls and smooth floor are now overlayed by newer smaller craters from impacts that occurred after Clavius was formed. Reaching above the older crater, tops of the newer crater walls reflect this dawn&#39;s early light to create narrow shining arcs within a shadowed Clavius.</p>
 
 
 
