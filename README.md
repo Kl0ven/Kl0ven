@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Tycho and Clavius at Dawn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Dawn-in-Clavius-Tycho-07-07-22_1024.jpg"">
+<h3>Europa and Jupiter from Voyager 1</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/EuropaJupiter_Voyager_960.jpg"">
 
 
-<p style="text-align: justify;">South is up in this dramatic telescopic view of the lunar terminator and the Moon&#39;s rugged southern highlands. The lunar landscape was captured on July 7 with the moon at its first quarter phase. The Sun shines at a low angle from the right as dawn comes to the region&#39;s young and old craters Tycho and Clavius. About 100 million years young, Tycho is the sharp-walled 85 kilometer diameter crater below and left of center. Its 2 kilometer tall central peak and far crater wall reflect bright sunlight, Its smooth floor lies in dark shadow. Debris ejected during the impact that created Tycho make it the stand out lunar crater when the Moon is near full though. They produce a highly visible radiating system of light streaks or rays that extend across much of the lunar near side. In fact, some of the material collected at the Apollo 17 landing site, about 2,000 kilometers away, likely originated from the Tycho impact.  One of the oldest and largest craters on the Moon&#39;s near side, 225 kilometer diameter Clavius is due south (above) of Tycho. Clavius crater&#39;s own ray system resulting from its original impact event would have faded long ago. The old crater&#39;s worn walls and smooth floor are now overlayed by newer smaller craters from impacts that occurred after Clavius was formed. Reaching above the older crater, tops of the newer crater walls reflect this dawn&#39;s early light to create narrow shining arcs within a shadowed Clavius.</p>
+<p style="text-align: justify;">What are those spots on Jupiter? Largest and furthest, just right of center, is the Great Red Spot -- a huge storm system that has been raging on Jupiter possibly since Giovanni Cassini&#39;s likely notation of it 357 years ago.  It is not yet known why this Great Spot is red. The spot toward the lower left is one of Jupiter&#39;s largest moons: Europa. Images from Voyager in 1979 bolster the modern hypothesis that Europa has an underground ocean and is therefore a good place to look for extraterrestrial life. But what about the dark spot on the upper right? That is a shadow of another of Jupiter&#39;s large moons: Io. Voyager 1 discovered Io to be so volcanic that no impact craters could be found.  Sixteen frames from Voyager 1&#39;s flyby of Jupiter in 1979 were recently reprocessed and merged to create the featured image.  Forty-five years ago this August, Voyager 1 launched from Earth and started one of the greatest explorations of the Solar System ever.    Free Download: Voyager Posters</p>
 
 
 
