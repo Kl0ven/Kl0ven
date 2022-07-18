@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Europa and Jupiter from Voyager 1</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/EuropaJupiter_Voyager_960.jpg"">
+<h3>Stephan&#39;s Quintet from Webb, Hubble, and Subaru</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/Quintet_JwstHstEtcGendler_960.jpg"">
 
 
-<p style="text-align: justify;">What are those spots on Jupiter? Largest and furthest, just right of center, is the Great Red Spot -- a huge storm system that has been raging on Jupiter possibly since Giovanni Cassini&#39;s likely notation of it 357 years ago.  It is not yet known why this Great Spot is red. The spot toward the lower left is one of Jupiter&#39;s largest moons: Europa. Images from Voyager in 1979 bolster the modern hypothesis that Europa has an underground ocean and is therefore a good place to look for extraterrestrial life. But what about the dark spot on the upper right? That is a shadow of another of Jupiter&#39;s large moons: Io. Voyager 1 discovered Io to be so volcanic that no impact craters could be found.  Sixteen frames from Voyager 1&#39;s flyby of Jupiter in 1979 were recently reprocessed and merged to create the featured image.  Forty-five years ago this August, Voyager 1 launched from Earth and started one of the greatest explorations of the Solar System ever.    Free Download: Voyager Posters</p>
+<p style="text-align: justify;">OK, but why can&#39;t you combine images from Webb and Hubble? You can, and today&#39;s featured image shows one impressive result. Although the recently launched James Webb Space Telescope (Webb) has a larger mirror than Hubble, it specializes in infrared light and can&#39;t see blue -- only up to about orange.  Conversely, the Hubble Space Telescope (Hubble) has a smaller mirror than Webb and can&#39;t see as far into the infrared as Webb, but can image not only blue light but even ultraviolet.  Therefore, Webb and Hubble data can be combined to create images across a wider variety of colors.  The featured image of four galaxies from Stephan&#39;s Quintet shows Webb images as red and also includes images taken by Japan&#39;s ground-based Subaru telescope in Hawaii.  Because image data for Webb, Hubble, and Subaru are made freely available, anyone around the world can process it themselves, and even create intriguing and scientifically useful multi-observatory montages.    Stephan&#39;s Quintet from just: Webb, Hubble</p>
 
 
 
