@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Pleiades over Half Dome</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/HalfPleiades_Venkatraman_960.jpg"">
+<h3>Jupiter and Ring in Infrared from Webb</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/JupiterRing_WebbSchmidt_1080.jpg"">
 
 
-<p style="text-align: justify;">Stars come in bunches.  The most famous bunch of stars on the sky is the Pleiades, a bright cluster that can be easily seen with the unaided eye.  The Pleiades lies only about 450 light years away, formed about 100 million years ago, and will likely last about another 250 million years. Our Sun was likely born in a star cluster, but now, being about 4.5 billion years old, its stellar birth companions have long since dispersed. The Pleiades star cluster is pictured over Half Dome, a famous rock structure in Yosemite National Park in California, USA. The featured image is a composite of 28 foreground exposures and 174 images of the stellar background, all taken from the same location and by the same camera on the same night in October 2019. After calculating the timing of a future juxtaposition of the Pleiades and Half Dome, the astrophotrographer was unexpectedly rewarded by an electrical blackout, making the background sky unusually dark.</p>
+<p style="text-align: justify;">Why does Jupiter have rings?  Jupiter&#39;s main ring was discovered in 1979 by NASA&#39;s passing Voyager 1 spacecraft, but its origin was then a mystery.  Data from NASA&#39;s Galileo spacecraft that orbited Jupiter from 1995 to 2003, however, confirmed the hypothesis that this ring was created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Metis, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit. The featured image of Jupiter in infrared light by the James Webb Space Telescope shows not only Jupiter and its clouds, but this ring as well. Also visible is Jupiter&#39;s Great Red Spot (GRS) -- in comparatively light color on the right, Jupiter&#39;s large moon Europa -- in the center of diffraction spikes on the left, and Europa&#39;s shadow -- next to the GRS.  Several features in the image are not yet well understood, including the seemingly separated cloud layer on Jupiter&#39;s right limb.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
