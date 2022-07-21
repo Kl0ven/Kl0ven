@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jupiter and Ring in Infrared from Webb</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/JupiterRing_WebbSchmidt_1080.jpg"">
+<h3>Messier 10 and Comet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/C2017k2cumuloM10v4_1024.jpg"">
 
 
-<p style="text-align: justify;">Why does Jupiter have rings?  Jupiter&#39;s main ring was discovered in 1979 by NASA&#39;s passing Voyager 1 spacecraft, but its origin was then a mystery.  Data from NASA&#39;s Galileo spacecraft that orbited Jupiter from 1995 to 2003, however, confirmed the hypothesis that this ring was created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Metis, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit. The featured image of Jupiter in infrared light by the James Webb Space Telescope shows not only Jupiter and its clouds, but this ring as well. Also visible is Jupiter&#39;s Great Red Spot (GRS) -- in comparatively light color on the right, Jupiter&#39;s large moon Europa -- in the center of diffraction spikes on the left, and Europa&#39;s shadow -- next to the GRS.  Several features in the image are not yet well understood, including the seemingly separated cloud layer on Jupiter&#39;s right limb.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">Imaged on July 15 2022, comet C&#x2F;2017 K2 (PanSTARRS) had a Messier moment, sharing this wide telescopic field of view with globular star cluster Messier 10. Of course M10 was cataloged by 18th century comet hunter Charles Messier as the 10th object on his list of things that were definitely not comets. While M10 is about 14 thousand light-years distant, this comet PanSTARRS was about 15 light-seconds from our fair planet following its its July 14 closest approach. Its greenish coma and dust tail entertaining 21st century comet watchers, C&#x2F;2017 K2 is expected to remain a fine telescopic comet in northern summer skies. On a maiden voyage from our Solar System&#39;s remote Oort Cloud this comet PanSTARRS was discovered in May 2017 when it was beyond the orbit of Saturn. At the time that made it the most distant active inbound comet known. Its closest approach the Sun will be within 1.8 astronomical units on December 19, beyond the orbital distance of Mars.</p>
 
 
 
