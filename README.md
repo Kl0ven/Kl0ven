@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 10 and Comet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/C2017k2cumuloM10v4_1024.jpg"">
+<h3>Spiral Galaxy M74: A Sharper View</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/JWST_NGC628_Robert_Eder_V2600h.jpg"">
 
 
-<p style="text-align: justify;">Imaged on July 15 2022, comet C&#x2F;2017 K2 (PanSTARRS) had a Messier moment, sharing this wide telescopic field of view with globular star cluster Messier 10. Of course M10 was cataloged by 18th century comet hunter Charles Messier as the 10th object on his list of things that were definitely not comets. While M10 is about 14 thousand light-years distant, this comet PanSTARRS was about 15 light-minutes from our fair planet following its July 14 closest approach. Its greenish coma and dust tail entertaining 21st century comet watchers, C&#x2F;2017 K2 is expected to remain a fine telescopic comet in northern summer skies. On a maiden voyage from our Solar System&#39;s remote Oort Cloud this comet PanSTARRS was discovered in May 2017 when it was beyond the orbit of Saturn. At the time that made it the most distant active inbound comet known. Its closest approach to the Sun will be within 1.8 astronomical units on December 19, beyond the orbital distance of Mars.</p>
+<p style="text-align: justify;">Beautiful spiral galaxy Messier 74 (also known as NGC 628) lies some 32 million light-years away toward the constellation Pisces. An island universe of about 100 billion stars with two prominent spiral arms, M74 has long been admired by astronomers as a perfect example of a grand-design spiral galaxy. M74&#39;s central region is brought into a stunning, sharp focus in this recently processed image using publicly available data from the James Webb Space Telescope. The colorized combination of image data sets is from two of Webb&#39;s instruments NIRcam and MIRI, operating at near- and mid-infrared wavelengths.  It reveals cooler stars and dusty structures in the grand-design spiral galaxy only hinted at in previous space-based views.</p>
 
 
 
