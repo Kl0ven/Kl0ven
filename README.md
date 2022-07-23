@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Spiral Galaxy M74: A Sharper View</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/JWST_NGC628_Robert_Eder_V2600h.jpg"">
+<h3>Apollo 11 Landing Panorama</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/a11pan1040226lftsm600.jpg"">
 
 
-<p style="text-align: justify;">Beautiful spiral galaxy Messier 74 (also known as NGC 628) lies some 32 million light-years away toward the constellation Pisces. An island universe of about 100 billion stars with two prominent spiral arms, M74 has long been admired by astronomers as a perfect example of a grand-design spiral galaxy. M74&#39;s central region is brought into a stunning, sharp focus in this recently processed image using publicly available data from the James Webb Space Telescope. The colorized combination of image data sets is from two of Webb&#39;s instruments NIRcam and MIRI, operating at near- and mid-infrared wavelengths.  It reveals cooler stars and dusty structures in the grand-design spiral galaxy only hinted at in previous space-based views.</p>
+<p style="text-align: justify;">Have you seen a panorama from another world lately?  Assembled from high-resolution scans of the original film frames, this one sweeps across the magnificent desolation of the Apollo 11 landing site on the Moon&#39;s Sea of Tranquility. The images were taken by Neil Armstrong looking out his window of the Eagle Lunar Module shortly after the July 20, 1969 landing. The frame at the far left (AS11-37-5449) is the first picture taken by a person on another world. Toward the south, thruster nozzles can be seen in the foreground on the left, while at the right, the shadow of the Eagle is visible to the west. For scale, the large, shallow crater on the right has a diameter of about 12 meters. Frames taken from the Lunar Module windows about an hour and a half after landing, before walking on the lunar surface, were intended to initially document the landing site in case an early departure was necessary.</p>
 
 
 
