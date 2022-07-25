@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Saturn in Infrared from Cassini</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/SaturnIR_CassiniKakitsev_960.jpg"">
+<h3>Find the New Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/FindTheMoon_soltanolkotabi_1080.jpg"">
 
 
-<p style="text-align: justify;">Many details of Saturn appear clearly in infrared light.  Bands of clouds show great structure, including long stretching storms.  Also quite striking in infrared is the unusual hexagonal cloud pattern surrounding Saturn&#39;s North Pole.  Each side of the dark hexagon spans roughly the width of our Earth. The hexagon&#39;s existence was not predicted, and its origin and likely stability remains a topic of research.  Saturn&#39;s famous rings circle the planet and cast shadows below the equator. The featured image was taken by the robotic Cassini spacecraft in 2014 in several infrared colors.  In 2017 September, the Cassini mission was brought to a dramatic conclusion when the spacecraft was  directed to dive into ringed giant.    Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Can you find the Moon? This usually simple task can be quite difficult.  Even though the Moon is above your horizon half of the time, its phase can be anything from crescent to full. The featured image was taken in late May from Sant Martí d&#39;Empúries, Spain, over the Mediterranean Sea in the early morning. One reason you can&#39;t find this moon is because it is very near to its new phase, when very little of the half illuminated by the Sun is visible to the Earth. Another reason is because this moon is near the horizon and so seen through a long path of Earth&#39;s atmosphere -- a path which dims the already faint crescent. Any crescent moon is only visible near the direction the Sun, and so only locatable near sunrise of sunset. The Moon runs through all of its phases in a month (moon-th), and this month the thinnest sliver of a crescent -- a new moon -- will occur in three days.</p>
 
 
 
