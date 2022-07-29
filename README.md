@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>North Celestial Tree</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/AncientTreeNCP_Dai1024.jpg"">
+<h3>SOFIA&#39;s Southern Lights</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/ASC05954-Edit1024.jpg"">
 
 
-<p style="text-align: justify;">An ancient tree seems to reach out and touch Earth&#39;s North Celestial Pole in this well-planned night skyscape. Consecutive exposures for the timelapse composition were recorded with a camera fixed to a tripod in the Yiwu Desert Poplar Forests in northwest Xinjiang, China. The graceful star trail arcs reflect Earth&#39;s daily rotation around its axis. By extension, the axis of rotation leads to the center of the concentric arcs in the night sky. Known as the North Star, bright star Polaris is a friend to northern hemisphere night sky photographers and celestial navigators alike. That&#39;s because Polaris lies very close to the North Celestial Pole on the sky. Of course it can be found at the tip of an outstretched barren branch in a postcard from a rotating planet.</p>
+<p style="text-align: justify;">SOFIA, the Stratospheric Observatory for Infrared Astronomy, is a Boeing 747SP aircraft modified to carry a large reflecting telescope into the stratosphere. The ability of the airborne facility to climb above about 99 percent of Earth&#39;s infrared-blocking atmosphere has allowed researchers to observe from almost anywhere over the planet. On a science mission flying deep into the southern auroral oval, astronomer Ian Griffin, director of New Zealand’s Otago Museum, captured this view from the observatory&#39;s south facing starboard side on July 17. Bright star Canopus shines in the southern night above curtains of aurora australis, or southern lights. The plane was flying far south of New Zealand at the time at roughly 62 degrees southern latitude. Unfortunately, after a landing at Christchurch severe weather damaged SOFIA requiring repairs and the cancellation of the remainder of its final southern hemisphere deployment.</p>
 
 
 
