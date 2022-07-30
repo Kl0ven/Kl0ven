@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>SOFIA&#39;s Southern Lights</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/ASC05954-Edit1024.jpg"">
+<h3>The Eagle Rises</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2207/AS11JK44-6633-34_1100px.jpg"">
 
 
-<p style="text-align: justify;">SOFIA, the Stratospheric Observatory for Infrared Astronomy, is a Boeing 747SP aircraft modified to carry a large reflecting telescope into the stratosphere. The ability of the airborne facility to climb above about 99 percent of Earth&#39;s infrared-blocking atmosphere has allowed researchers to observe from almost anywhere over the planet. On a science mission flying deep into the southern auroral oval, astronomer Ian Griffin, director of New Zealand’s Otago Museum, captured this view from the observatory&#39;s south facing starboard side on July 17. Bright star Canopus shines in the southern night above curtains of aurora australis, or southern lights. The plane was flying far south of New Zealand at the time at roughly 62 degrees southern latitude. Unfortunately, after a landing at Christchurch severe weather damaged SOFIA requiring repairs and the cancellation of the remainder of its final southern hemisphere deployment.</p>
+<p style="text-align: justify;">Get out your red&#x2F;blue glasses and check out this stereo view from lunar orbit. The 3D anaglyph was created from two photographs (AS11-44-6633, AS11-44-6634) taken by astronaut Michael Collins during the 1969 Apollo 11 mission. It features the lunar module ascent stage, dubbed The Eagle, rising to meet the command module in lunar orbit on July 21. Aboard the ascent stage are Neil Armstrong and Buzz Aldrin, the first to walk on the Moon. The smooth, dark area on the lunar surface is Mare Smythii located just below the equator on the extreme eastern edge of the Moon&#39;s near side.  Poised beyond the lunar horizon is our fair planet Earth.</p>
 
 
 
