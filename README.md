@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Stereo Phobos</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/Phobos_stereoME_1024c.jpg"">
+<h3>Meteor before Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/MeteorM31_hemmerich_960.jpg"">
 
 
-<p style="text-align: justify;">Get out your red&#x2F;blue glasses and float next to Phobos, grooved moon of Mars! Captured in 2004 by the High Resolution Stereo Camera on board ESA&#39;s Mars Express spacecraft, the image data was recorded at a distance of about 200 kilometers from the martian moon. This tantalizing stereo anaglyph view shows the Mars-facing side of Phobos. It highlights the asteroid-like moon&#39;s cratered and grooved surface. Up to hundreds of meters wide, the mysterious grooves may be related to the impact that created Stickney crater, the large crater at the left. Stickney crater is about 10 kilometers across, while Phobos itself is only around 27 kilometers across at its widest point.</p>
+<p style="text-align: justify;">What&#39;s that green streak in front of the Andromeda galaxy? A meteor. While photographing the Andromeda galaxy in 2016, near the peak of the Perseid Meteor Shower, a small pebble from deep space crossed right in front of our Milky Way Galaxy&#39;s far-distant companion. The small meteor took only a fraction of a second to pass through this 10-degree field.  The meteor flared several times while braking violently upon entering Earth&#39;s atmosphere.  The green color was created, at least in part, by the meteor&#39;s gas glowing as it vaporized. Although the exposure was timed to catch a Perseid meteor, the orientation of the imaged streak seems a better match to a meteor from the Southern Delta Aquariids, a meteor shower that peaked a few weeks earlier.  Not coincidentally, the Perseid Meteor Shower peaks later this week, although this year the meteors will have to outshine a sky brightened by a nearly full moon.</p>
 
 
 
