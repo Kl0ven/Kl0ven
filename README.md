@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Dust Clouds of the Pacman Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/Pacman_Struble_960.jpg"">
+<h3>Perseids and MAGIC</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/MagicPerseid001_1024.jpg"">
 
 
-<p style="text-align: justify;">Stars can create huge and intricate dust sculptures from the dense and dark molecular clouds from which they are born.  The tools the stars use to carve their detailed works are high energy light and fast stellar winds.  The heat they generate evaporates the dark molecular dust as well as causing ambient hydrogen gas to disperse and glow red.   Pictured here, a new open cluster of stars designated IC 1590 is nearing completion around the intricate interstellar dust structures in the emission nebula  NGC 281, dubbed the Pac-man Nebula because of its overall shape.  The dust cloud on the upper left is classified as a  Bok Globule as it may gravitationally collapse and form a star -- or stars. The Pacman Nebula lies about 10,000 light years away toward the constellation of Cassiopeia.</p>
+<p style="text-align: justify;">On August 11, 2021 a multi-mirror, 17 meter-diameter MAGIC telescope reflected this starry night sky from the Roque de los Muchachos European Northern Observatory on the Canary Island of La Palma. MAGIC stands for Major Atmospheric Gamma Imaging Cherenkov. The telescopes can see the brief flashes of optical light produced in particle air showers as high-energy gamma rays impact the Earth&#39;s upper atmosphere. To the dark-adapted eye the mirror segments offer a tantalizing reflection of stars and nebulae along the plane of our Milky Way galaxy. But directly behind the segmented mirror telescope, low on the horizon, lies the constellation Perseus. And on that date the dramatic composite nightscape also captured meteors streaming from the radiant of the annual Perseid meteor shower. This year the Perseid shower activity will again peak around August 13 but perseid meteors will have to compete with the bright light of a Full Moon.</p>
 
 
 
