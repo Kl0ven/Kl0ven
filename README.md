@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>4000 Exoplanets</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aiFD_LBx2nM" target="_blank"><img src="http://img.youtube.com/vi/aiFD_LBx2nM/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>The Cygnus Wall of Star Formation</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/CygnusWall_Bogaerts_960.jpg"">
 
 
-<p style="text-align: justify;">Over 4000 planets are now known to exist outside our Solar System. Known as exoplanets, this milestone was passed last month, as recorded by NASA&#39;s Exoplanet Archive. The featured video highlights these exoplanets in sound and light, starting chronologically from the first confirmed detection in 1992 and continuing into 2019.  The entire night sky is first shown compressed with the central band of our Milky Way Galaxy making a giant U.  Exoplanets detected by slight jiggles in their parents-star&#39;s colors (radial velocity) appear in pink, while those detected by slight dips in their parent star&#39;s brightness (transit) are shown in purple. Further, those exoplanets imaged directly appear in orange, while those detected by gravitationally magnifying the light of a background star (microlensing) are shown in green.  The faster a planet orbits its parent star, the higher the accompanying tone played. The retired Kepler satellite has discovered about half of these first 4000 exoplanets in just one region of the sky, while the TESS mission is on track to find even more, all over the sky, orbiting the brightest nearby stars.  Finding exoplanets not only helps humanity to better understand the potential prevalence of life elsewhere in the universe, but also how our Earth and Solar System were formed.</p>
+<p style="text-align: justify;">The North America nebula on the sky can do what the North America continent on Earth cannot -- form stars.  Specifically, in analogy to the Earth-confined continent, the bright part that appears as Central America and Mexico is actually a hot bed of gas, dust, and newly formed stars known as the Cygnus Wall.  The featured image shows the star forming wall lit and eroded by bright young stars, and partly hidden by the dark dust they have created.  The part of the North America nebula (NGC 7000) shown spans about 15 light years and lies about 1,500 light years away toward the constellation of the Swan (Cygnus).</p>
 
 
 
