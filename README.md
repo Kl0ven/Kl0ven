@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Cygnus Wall of Star Formation</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/CygnusWall_Bogaerts_960.jpg"">
+<h3>A Meteor Wind over Tunisia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/MeteorWind_Larnaout_960.jpg"">
 
 
-<p style="text-align: justify;">The North America nebula on the sky can do what the North America continent on Earth cannot -- form stars.  Specifically, in analogy to the Earth-confined continent, the bright part that appears as Central America and Mexico is actually a hot bed of gas, dust, and newly formed stars known as the Cygnus Wall.  The featured image shows the star forming wall lit and eroded by bright young stars, and partly hidden by the dark dust they have created.  The part of the North America nebula (NGC 7000) shown spans about 15 light years and lies about 1,500 light years away toward the constellation of the Swan (Cygnus).</p>
+<p style="text-align: justify;">Does the Earth ever pass through a wind of meteors? Yes, and they are frequently visible as meteor showers. Almost all meteors are sand-sized debris that escaped from a Sun-orbiting comet or asteroid, debris that continues in an elongated orbit around the Sun. Circling the same Sun, our Earth can move through an orbiting debris stream, where it can appear, over time, as a meteor wind. The meteors that light up in Earth&#39;s atmosphere, however, are usually destroyed. Their streaks, though, can all be traced back to a single point on the sky called the radiant.  The featured image composite was taken over two days in late July near the ancient Berber village Zriba El Alia in Tunisia, during the peak of the Southern Delta Aquariids meteor shower. The radiant is to the right of the image. A few days ago our Earth experienced the peak of a more famous meteor wind -- the Perseids.</p>
 
 
 
