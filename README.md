@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Meteor Wind over Tunisia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/MeteorWind_Larnaout_960.jpg"">
+<h3>Stargate Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/StargateMilkyWay_Oudoux_960.jpg"">
 
 
-<p style="text-align: justify;">Does the Earth ever pass through a wind of meteors? Yes, and they are frequently visible as meteor showers. Almost all meteors are sand-sized debris that escaped from a Sun-orbiting comet or asteroid, debris that continues in an elongated orbit around the Sun. Circling the same Sun, our Earth can move through an orbiting debris stream, where it can appear, over time, as a meteor wind. The meteors that light up in Earth&#39;s atmosphere, however, are usually destroyed. Their streaks, though, can all be traced back to a single point on the sky called the radiant.  The featured image composite was taken over two days in late July near the ancient Berber village Zriba El Alia in Tunisia, during the peak of the Southern Delta Aquariids meteor shower. The radiant is to the right of the image. A few days ago our Earth experienced the peak of a more famous meteor wind -- the Perseids.</p>
+<p style="text-align: justify;">There is a huge gate of stars in the sky, and you pass through it twice a day. The stargate is actually our Milky Way Galaxy, and it is the spin of the Earth that appears to propel you through it. More typically, the central band of our Milky Way appears as a faint band stretching across the sky, only visible in away from bright city lights. In a long-exposure wide-angle image from a dark location like this, though, the Milky Way&#39;s central plane is easily visible. The featured picture is a digital composite involving multiple exposures taken on the same night and with the same camera, but employing a stereographic projection that causes the Milky Way to appear as a giant circular portal. Inside the stargate-like arc of our Galaxy is a faint stripe called zodiacal light -- sunlight reflected by dust in our Solar System. In the foreground are cacti and dry rocks found in the rough terrain of the high desert of Chile, not far from the El Sauce Observatory and the developing Vera Rubin Observatory, the latter expected to begin routine operations in 2024.</p>
 
 
 
