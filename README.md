@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Stargate Milky Way</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/StargateMilkyWay_Oudoux_960.jpg"">
+<h3>Full Moon Perseids</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/perseids2022jcc2k800.jpg"">
 
 
-<p style="text-align: justify;">There is a huge gate of stars in the sky, and you pass through it twice a day. The stargate is actually our Milky Way Galaxy, and it is the spin of the Earth that appears to propel you through it. More typically, the central band of our Milky Way appears as a faint band stretching across the sky, only visible in away from bright city lights. In a long-exposure wide-angle image from a dark location like this, though, the Milky Way&#39;s central plane is easily visible. The featured picture is a digital composite involving multiple exposures taken on the same night and with the same camera, but employing a stereographic projection that causes the Milky Way to appear as a giant circular portal. Inside the stargate-like arc of our Galaxy is a faint stripe called zodiacal light -- sunlight reflected by dust in our Solar System. In the foreground are cacti and dry rocks found in the rough terrain of the high desert of Chile, not far from the El Sauce Observatory and the developing Vera Rubin Observatory, the latter expected to begin routine operations in 2024.</p>
+<p style="text-align: justify;">The annual Perseid meteor shower was near its peak on August 13. As planet Earth crossed through streams of debris left by periodic Comet Swift-Tuttle meteors rained in northern summer night skies. But even that night&#39;s nearly Full Moon shining near the top of this composited view couldn&#39;t hide all of the popular shower&#39;s meteor streaks. The image captures some of the brightest perseid meteors in many short exposures recorded over more than two hours before the dawn. It places the shower&#39;s radiant in the heroic constellation of Perseus just behind a well-lit medieval tower in the village of Sant Llorenc de la Muga, Girona, Spain. Observed in medieval times, the Perseid meteor shower is also known in Catholic tradition as the Tears of St. Lawrence, and festivities are celebrated close to the annual peak of the meteor shower. Joining the Full Moon opposite the Sun, bright planet Saturn also shines in the frame at the upper right.</p>
 
 
 
