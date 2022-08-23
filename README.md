@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Earth&#39;s Recent Climate Spiral</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ACaPI2M4GyU" target="_blank"><img src="http://img.youtube.com/vi/ACaPI2M4GyU/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Meteor &amp; Milky Way over the Mediterranean</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/MeteorGalaxy_Looten_1000.jpg"">
 
 
-<p style="text-align: justify;">Is our Earth warming? Compared to the past 250 million years, the Earth is currently enduring a relative cold spell, possibly about four degrees Celsius below average.  Over the past 120 years, though, data indicate that the average global temperature of the Earth has increased by nearly one degree Celsius.  The featured visualization video depicts Earth&#39;s recent global warming in graphic terms. The depicted temperatures are taken from the Goddard Institute for Space Studies&#39; Surface Temperature Analysis. Already noticeable by many, Earth&#39;s recent warming trend is causing sea levels to rise, precipitation patterns to change, and pole ice to melt.  Few now disagree that recent global warming is occurring, and the Intergovernmental Panel on Climate Change (IPCC) has concluded that we humans have created a warming surge that is likely to continue.  A continuation could impact many local agricultures and even the global economy.  Although there seems to be no simple solutions, geoengineering projects that might help include artificial cloud creation to reduce the amount of sunlight heating the Earth&#39;s surface.</p>
+<p style="text-align: justify;">Careful planning made this a nightscape to remember. First, the night itself was chosen to occur during the beginning of this year&#39;s Perseid Meteor Shower.  Next, the time of night was chosen to be before the bright Moon would rise and dominate the night sky&#39;s brightness. The picturesque foreground was selected to be a rocky beach of the Mediterranean Sea in Le Dramont, France, with, at the time, île d’Or island situated near the ominously descending central band of our Milky Way Galaxy.  Once everything was set and with the weather cooperating, all of the frames for this seemingly surreal nightscape were acquired within 15 minutes. What you can&#39;t see is that, on this night, the astrophotographer brought along his father who, although unskilled in modern sky-capture techniques, once made it a point to teach his child about the sky.    Perseid Meteor Shower 2022 Gallery: Notable Submissions to APOD</p>
 
 
 
