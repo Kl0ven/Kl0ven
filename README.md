@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perijove 11: Passing Jupiter</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=OfM7VlonD5c" target="_blank"><img src="http://img.youtube.com/vi/OfM7VlonD5c/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>The Horsehead Nebula Region without Stars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/Horsehead_Chatzifrantzis_1080.jpg"">
 
 
-<p style="text-align: justify;">Here comes Jupiter! NASA&#39;s robotic spacecraft Juno is continuing on its highly-elongated orbits around our Solar System&#39;s largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno has passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter&#39;s cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belt of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter&#39;s south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.   Teachers &amp; Students: Ideas for utilizing APOD in the classroom</p>
+<p style="text-align: justify;">The famous Horsehead Nebula in Orion is not alone.  A deep exposure shows that the dark familiar shaped indentation, visible just right of center, is part of a vast complex of absorbing dust and glowing gas. The featured spectacular picture details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas.  The Flame Nebula is visible in orange just to the Horsehead&#39;s left. To highlight the dust and gas, most of the stars have been digitally removed, although a notable exception is Alnitak, just above the Flame Nebula, which is the rightmost star in Orion&#39;s famous belt of three aligned stars. The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.   NASA Coverage: Artemis I Mission to the Moon  Teachers &amp; Students: Ideas for utilizing APOD in the classroom</p>
 
 
 
