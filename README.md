@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Horsehead Nebula Region without Stars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/Horsehead_Chatzifrantzis_1080.jpg"">
+<h3>Jupiter from the Webb Space Telescope</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2208/Jupiter2_WebbSchmidt_1080_annotated.jpg"">
 
 
-<p style="text-align: justify;">The famous Horsehead Nebula in Orion is not alone.  A deep exposure shows that the dark familiar shaped indentation, visible just right of center, is part of a vast complex of absorbing dust and glowing gas. The featured spectacular picture details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas.  The Flame Nebula is visible in orange just to the Horsehead&#39;s left. To highlight the dust and gas, most of the stars have been digitally removed, although a notable exception is Alnitak, just above the Flame Nebula, which is the rightmost star in Orion&#39;s famous belt of three aligned stars. The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.   NASA Coverage: Artemis I Mission to the Moon  Teachers &amp; Students: Ideas for utilizing APOD in the classroom</p>
+<p style="text-align: justify;">This new view of Jupiter is illuminating. High-resolution infrared images of Jupiter from the new James Webb Space Telescope (Webb) reveal, for example, previously unknown differences between high-floating bright clouds -- including the Great Red Spot -- and low-lying dark clouds. Also clearly visible in the featured Webb image are Jupiter&#39;s dust ring, bright auroras at the poles, and Jupiter&#39;s moons Amalthea and Adrastea. Large volcanic moon Io&#39;s magnetic funneling of charged particles onto Jupiter is also visible in the southern aurora. Some objects are so bright that light noticeably diffracts around Webb&#39;s optics creating streaks.  Webb, which orbits the Sun near the Earth, has a mirror over 6 meters across making it the largest astronomical telescope ever launched -- with 15 times more light-collecting area than Hubble.</p>
 
 
 
