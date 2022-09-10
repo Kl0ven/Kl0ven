@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Interstellar Voyager</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/voyager_modern_poster_crop.jpg"">
+<h3>Galaxy by the Lake</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/Traful-Lake1024.jpg"">
 
 
-<p style="text-align: justify;">Voyager 1 and Voyager 2 were launched in 1977 on a grand tour of the outer planets of the Solar System. They have become the longest operating and most distant spacecraft from Earth. Both have traveled beyond the heliosphere, the realm defined by the influence of the solar wind and the Sun&#39;s magnetic field. On the 45th year of their journey toward the stars Voyager 1 and 2 reached nearly 22 light-hours and 18 light-hours from the Sun respectively and remain the only spacecraft currently exploring interstellar space. Each spacecraft carries a 12-inch gold-plated copper disk with recordings of sounds, pictures and messages. The Golden Records are intended to communicate a story of life and culture on planet Earth, preserved in a medium that can survive an interstellar journey for a billion years.</p>
+<p style="text-align: justify;">This 180 degree panoramic night skyscape captures our Milky Way Galaxy as it arcs above the horizon on a winter&#39;s night in August. Near midnight, the galactic center is close to the zenith with the clear waters of Lake Traful, Neuquen, Argentina, South America, planet Earth below. Zodiacal light, dust reflected sunlight along the Solar System&#39;s ecliptic plane, is also visible in the region&#39;s very dark night sky. The faint band of light reaches up from the distant snowy peaks toward the galaxy&#39;s center. Follow the arc of the Milky Way to the left to find the southern hemisphere stellar beacons Alpha and Beta Centauri. Close to the horizon bright star Vega is reflected in the calm mountain lake.</p>
 
 
 
