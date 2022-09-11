@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Galaxy by the Lake</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/Traful-Lake1024.jpg"">
+<h3>Planets of the Solar System: Tilts and Spins</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=my1euFQHH-o" target="_blank"><img src="http://img.youtube.com/vi/my1euFQHH-o/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">This 180 degree panoramic night skyscape captures our Milky Way Galaxy as it arcs above the horizon on a winter&#39;s night in August. Near midnight, the galactic center is close to the zenith with the clear waters of Lake Traful, Neuquen, Argentina, South America, planet Earth below. Zodiacal light, dust reflected sunlight along the Solar System&#39;s ecliptic plane, is also visible in the region&#39;s very dark night sky. The faint band of light reaches up from the distant snowy peaks toward the galaxy&#39;s center. Follow the arc of the Milky Way to the left to find the southern hemisphere stellar beacons Alpha and Beta Centauri. Close to the horizon bright star Vega is reflected in the calm mountain lake.</p>
+<p style="text-align: justify;">How does your favorite planet spin? Does it spin rapidly around a nearly vertical axis, or horizontally, or backwards?  The featured video animates NASA images of all eight planets in our Solar System to show them spinning side-by-side for an easy comparison. In the time-lapse video, a day on Earth -- one Earth rotation -- takes just a few seconds.  Jupiter rotates the fastest, while Venus spins not only the slowest (can you see it?), but backwards.  The inner rocky planets, across the top, most certainly underwent dramatic spin-altering collisions during the early days of the Solar System.  The reasons why planets spin and tilt as they do remains a topic of research with much insight gained from modern computer modeling and the recent discovery and analysis of hundreds of exoplanets: planets orbiting other stars.</p>
 
 
 
