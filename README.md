@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Red Sprite Lightning over the Czech Republic</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/sprites_scerba_960.jpg"">
+<h3>A Long Snaking Filament on the Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/SnakingFilament_Friedman_960.jpg"">
 
 
-<p style="text-align: justify;">What are those red filaments in the sky? They are a rarely seen form of lightning confirmed only about 35 years ago: red sprites. Research has shown that following a powerful positive cloud-to-ground lightning strike, red sprites may start as 100-meter balls of ionized air that shoot down from about 80-km high at 10 percent the speed of light. They are quickly followed by a group of upward streaking ionized balls. The featured image was taken late last month from the Jeseniky Mountains in northern Moravia in the Czech Republic. The distance to the red sprites is about 200 kilometers. Red sprites take only a fraction of a second to occur and are best seen when powerful thunderstorms are visible from the side.    APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, Farsi, French, French (Canada), German, Hebrew, Indonesian, Japanese, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, and  Ukrainian</p>
+<p style="text-align: justify;">rlier this month, the Sun exhibited one of the longer filaments on record.  Visible as the bright curving streak around the image center, the snaking filament&#39;s full extent was estimated to be over half of the Sun&#39;s radius -- more than 350,000 kilometers long. A filament is composed of  hot gas held aloft by the Sun&#39;s magnetic field, so that viewed from the side it would appear as a raised prominence.  A different, smaller prominence is simultaneously visible at the Sun&#39;s edge. The featured image is in false-color and color-inverted to highlight not only the filament but the Sun&#39;s carpet chromosphere.  The bright dot on the upper right is actually a dark sunspot about the size of the Earth.  Solar filaments typically last from hours to days, eventually collapsing to return hot plasma back to the Sun. Sometimes, though, they explode and expel particles into the Solar System, some of which trigger auroras on Earth. The pictured filament appeared in early September and continued to hold steady for about a week.</p>
 
 
 
