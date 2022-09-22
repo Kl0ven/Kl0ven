@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Horsehead Nebula in Infrared from Hubble</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/HorseheadIr_HubbleNachman_960.jpg"">
+<h3>NGC 7331 Close Up</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/potw1805bc_ngc7331.jpg"">
 
 
-<p style="text-align: justify;">While drifting through the cosmos, a magnificent interstellar dust cloud became sculpted by stellar winds and radiation to assume a recognizable shape.  Fittingly named the Horsehead Nebula, it is embedded in the vast and complex Orion Nebula (M42).  A potentially rewarding but difficult object to view personally with a small telescope, the featured gorgeously detailed image was taken in infrared light by the orbiting Hubble Space Telescope.  The dark molecular cloud, roughly 1,500 light years distant, is cataloged as Barnard 33 and is seen above primarily because it is backlit by the nearby massive star Sigma Orionis. The Horsehead Nebula will slowly shift its apparent shape over the next few million years and will eventually be destroyed by high energy starlight.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">Big, beautiful spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier&#39;s famous 18th century catalog. Since the galaxy&#39;s disk is inclined to our line-of-sight, long telescopic exposures often result in an image that evokes a strong sense of depth. This Hubble Space Telescope close-up spans some 40,000 light-years. The galaxy&#39;s magnificent spiral arms feature dark obscuring dust lanes, bright bluish clusters of massive young stars, and the telltale reddish glow of active star forming regions. The bright yellowish central regions harbor populations of older, cooler stars. Like the Milky Way, a supermassive black hole lies at the core of spiral galaxy NGC 7331.</p>
 
 
 
