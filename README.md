@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>DART Asteroid Impact from Space</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/liciacube_leia_l0_1664234215_00000_01_c.jpg"">
+<h3>Equinox Sunrise Around the World</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2209/SunriseATWImageCollageFinal1067.jpg"">
 
 
-<p style="text-align: justify;">Fifteen days before impact, the DART spacecraft deployed a small companion satellite to document its historic planetary defense technology demonstration. Provided by the Italian Space Agency, the Light Italian CubeSat for Imaging Asteroids, aka LICIACube, recorded this image of the event&#39;s aftermath. A cloud of ejecta is seen near the right edge of the frame captured only minutes following DART&#39;s impact with target asteroid Dimorphos while LICIACube was about 80 kilometers away. Presently about 11 million kilometers from Earth, 160 meter diameter Dimorphos is a moonlet orbiting 780 meter diameter asteroid Didymos. Didymos is seen off center in the LICIACube image. Over the coming weeks, ground-based telescopic observations will look for a small change in Dimorphos&#39; orbit around Didymos to evaluate how effectively the DART impact deflected its target.</p>
+<p style="text-align: justify;">A planet-wide collaboration resulted in this remarkable array of sunrise photographs taken around the September 2022 equinox. The images were contributed by 24 photographers, one in each of 24 nautical time zones around the world. Unlike more complicated civil time zone boundaries, the 24 nautical time zones are simply 15 degree longitude bands corresponding to 1 hour steps that span the globe. Start at the upper right for the first to experience a sunrise in the nautical time zone corresponding to Coordinated Universal Time (UTC) + 12 hours. In that time zone, the photographer was located in Christchurch, New Zealand. Travel to the west by looking down the column and then moving to the column toward the left for later sunrises as the time zone offset in hours from UTC decreases. Or, you can watch a video of September 2022 equinox sunrises around planet Earth.</p>
 
 
 
