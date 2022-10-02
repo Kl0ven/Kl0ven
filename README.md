@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lunation Matrix</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/Lu20220729-0826_1050.jpg"">
+<h3>Supernova Cannon Expels Pulsar J0002</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/CannonSupernova_English_960.jpg"">
 
 
-<p style="text-align: justify;">Observe the Moon every night and you&#39;ll see its visible sunlit portion gradually change. In phases progressing from New Moon to Full Moon to New Moon again, a lunar cycle or lunation is completed in about 29.5 days. Top left to bottom right, this 7x4 matrix of telescopic images captures the range of lunar phases for 28 consecutive nights, from the evening of July 29 to the morning of August 26, following an almost complete lunation. No image was taken 24 hours or so just after and just before New Moon, when the lunar phase is at best a narrow crescent, close to the Sun and really hard to see. Finding mostly clear Mediterranean skies required an occasional road trip to complete this lunar cycle project, imaging in early evening for the first half and late evening and early morning for the second half of the lunation. Since all the images are registered at the same scale you can use this matrix to track the change in the Moon&#39;s apparent size during the single lunation. For extra credit, find the lunar phase that occurred closest to perigee.  Tonight: International Observe the Moon Night</p>
+<p style="text-align: justify;">What could shoot out a neutron star like a cannon ball? A supernova.  About 10,000 years ago, the supernova that created the nebular remnant CTB 1 not only destroyed a massive star but blasted its newly formed neutron star core -- a pulsar -- out into the Milky Way Galaxy.  The pulsar, spinning 8.7 times a second, was discovered using downloadable software Einstein@Home searching through data taken by NASA&#39;s orbiting Fermi Gamma-Ray Observatory.  Traveling over 1,000 kilometers per second, the pulsar PSR J0002+6216 (J0002 for short) has already left the supernova remnant CTB 1, and is even fast enough to leave our Galaxy. Pictured, the trail of the pulsar is visible extending to the lower left of the supernova remnant.  The featured image is a combination of radio images from the VLA and DRAO radio observatories, as well as data archived from NASA&#39;s orbiting IRAS infrared observatory. It is well known that supernovas can act as cannons, and even that pulsars can act as cannonballs -- what is not known is how supernovas do it.</p>
 
 
 
