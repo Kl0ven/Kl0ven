@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jupiter&#39;s Europa from Spacecraft Juno</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/Europa_JunoLuck_1080.jpg"">
+<h3>Star-Forming Eagle Nebula without Stars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/M16Eagle_Akar_960_starless.jpg"">
 
 
-<p style="text-align: justify;">What mysteries might be solved by peering into this crystal ball?  In this case, the ball is actually a moon of Jupiter, the crystals are ice, and the moon is not only dirty but cracked beyond repair.  Nevertheless, speculation is rampant that oceans exist under Europa&#39;s fractured ice-plains that could support life.  Europa, roughly the size of Earth&#39;s Moon, is pictured here in an image taken a few days ago when the Jupiter-orbiting robotic spacecraft Juno passed within 325 kilometers of its streaked and shifting surface. Underground oceans are thought likely because Europa undergoes global flexing due to its changing gravitational attraction with Jupiter during its slightly elliptical orbit, and this flexing heats the interior. Studying Juno&#39;s close-up images may further humanity&#39;s understanding not only of Europa and the early Solar System but also of the possibility that life exists elsewhere in the universe.</p>
+<p style="text-align: justify;">The whole thing looks like an eagle.  A closer look at the Eagle Nebula&#39;s center, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Paradoxically, it is perhaps easier to appreciate this impressive factory of star formation by seeing it without its stars -- which have been digitally removed in the featured image. The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of the Serpent (Serpens).  Creating this picture involved over 22 hours of imaging and combining colors emitted specifically by hydrogen (red), and oxygen (blue).</p>
 
 
 
