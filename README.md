@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>In Ganymede&#39;s Shadow</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/JovianEclipse1024c.jpg"">
+<h3>Two Comets in Southern Skies</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/2017K2_2022-09-21_web.jpg"">
 
 
-<p style="text-align: justify;">At opposition, opposite the Sun in Earth&#39;s sky, late last month Jupiter is also approaching perihelion, the closest point to the Sun in its elliptical orbit, early next year. That makes Jupiter exceptionally close to our fair planet, currently resulting in excellent views of the Solar System&#39;s ruling gas giant. On September 27, this sharp image of Jupiter was recorded with a small telescope from a backyard in Florence, Arizona. The stacked video frames reveal the massive world bounded by planet girdling winds. Dark belts and light zones span the gas giant, along with rotating oval storms and its signature Great Red Spot. Galilean moon Ganymede is below and right in the frame. The Solar System&#39;s largest moon and its shadow are in transit across the southern Jovian cloud tops.</p>
+<p style="text-align: justify;">Heading for its closest approach to the Sun or perihelion on December 20, comet C&#x2F;2017 K2 (PanSTARRS) remains a sight for telescopic observers as it sweeps through planet Earth&#39;s southern hemisphere skies.  First time visitor from the remote Oort cloud this comet PanSTARRS sports a greenish coma and whitish dust tail about half a degree long at the upper left in a deep image from September 21. It also shares the starry field of view toward the constellation Scorpius with another comet, 73P&#x2F;Schwassmann-Wachmann 3, seen about 1 degree below and right of PanSTARRS. Astronomers estimate that first time visitor comet C&#x2F;2017 K2 (PanSTARRS) has been inbound from the Oort cloud for some 3 million years along a hyperbolic orbit. Schwassmann-Wachmann 3 is more familiar though.  The periodic comet loops through its own elliptical orbit, from just beyond the orbit of Jupiter to the vicinity of Earth&#39;s orbit, once every 5.4 years. Just passing in the night, this comet PanSTARRS is about 20 light-minutes from Earth in the September 21 image. Seen to be disintegrating since 1995, Schwassmann-Wachmann 3 was about 7.8 light-minutes away.</p>
 
 
 
