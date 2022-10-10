@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Auroras over Northern Canada</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/aurora_kwon_960.jpg"">
+<h3>A Double Lunar Analemma over Turkey</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/LunarAnalemma_Turksoy_1080.jpg"">
 
 
-<p style="text-align: justify;">Gusting solar winds and blasts of charged particles from the Sun resulted in several rewarding nights of auroras back in 2014 December, near the peak of the last 11-year solar cycle.  The featured image captured dramatic auroras stretching across a sky near the town of Yellowknife in northern Canada.  The auroras were so bright that they not only inspired awe, but were easily visible on an image exposure of only 1.3 seconds. A video taken concurrently shows the dancing sky lights evolving in real time as tourists, many there just to see auroras, respond with cheers. The conical dwellings on the image right are tipis, while far in the background, near the image center, is the constellation of Orion.  Auroras may increase again over the next few years as our Sun again approaches solar maximum.</p>
+<p style="text-align: justify;">An analemma is that figure-8 curve you get when you mark the position of the Sun at the same time each day for one year. But the trick to imaging an analemma of the Moon is to wait bit longer. On average the Moon returns to the same position in the sky about 50 minutes and 29 seconds later each day. So photograph the Moon 50 minutes 29 seconds later on successive days. Over one lunation or lunar month it will trace out an analemma-like curve as the Moon&#39;s actual position wanders due to its tilted and elliptical orbit. Since the featured image was taken over two months, it actually shows a double lunar analemma.  Crescent lunar phases too thin and faint to capture around the New moon are missing. The two months the persistent astrophotographer chose were during a good stretch of weather during July and August, and the location was Kayseri, Turkey</p>
 
 
 
