@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>X-Ray Rings Around a Gamma Ray Burst</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/GrbRings_SwiftMiller_960.jpg"">
+<h3>Milky Way Auroral Flower</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/GalaxyFlower_Strand_960.jpg"">
 
 
-<p style="text-align: justify;">Why would x-ray rings appear around a gamma-ray burst?  The surprising answer has little to do with the explosion itself but rather with light reflected off areas of dust-laden gas in our own Milky Way Galaxy.  GRB 221009A was a tremendous explosion -- a very bright gamma-ray burst (GRB) that occurred far across the universe with radiation just arriving in our Solar System last week.  Since GRBs can also emit copious amounts of x-rays, a bright flash of x-rays arrived nearly simultaneously with the gamma-radiation. In this case, the X-rays also bounced off regions high in dust right here in our Milky Way Galaxy, creating the unusual reflections. The greater the angle between reflecting Milky Way dust and the GRB, the greater the radius of the X-ray rings, and, typically, the longer it takes for these light-echoes to arrive.</p>
+<p style="text-align: justify;">Could the stem of our Milky Way bloom into an auroral flower? No, not really, even though it may appear that way in today’s featured all-sky image.  On the left, the central plane of our home galaxy extends from the horizon past the middle of the sky. On the right, an auroral oval also extends from the sky&#39;s center -- but is dominated by bright green-glowing oxygen. The two are not physically connected, because the aurora is relatively nearby, with the higher red parts occurring in Earth&#39;s atmosphere only about 1000 kilometers high. In contrast, an average distance to the stars and nebulas we see in the Milky Way more like 1000 light-years away - 10 trillion times further.  The featured image composite was taken in early October across a small lake in Abisko, northern Sweden. As our Sun&#39;s magnetic field evolves into the active part of its 11-year cycle, auroras near both of Earth&#39;s poles are sure to become more frequent.</p>
 
 
 
