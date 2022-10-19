@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Milky Way Auroral Flower</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/GalaxyFlower_Strand_960.jpg"">
+<h3>A Galaxy Beyond Stars, Gas, Dust</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/Ngc7497Cirrus_Trottier_960.jpg"">
 
 
-<p style="text-align: justify;">Could the stem of our Milky Way bloom into an auroral flower? No, not really, even though it may appear that way in today’s featured all-sky image.  On the left, the central plane of our home galaxy extends from the horizon past the middle of the sky. On the right, an auroral oval also extends from the sky&#39;s center -- but is dominated by bright green-glowing oxygen. The two are not physically connected, because the aurora is relatively nearby, with the higher red parts occurring in Earth&#39;s atmosphere only about 1000 kilometers high. In contrast, an average distance to the stars and nebulas we see in the Milky Way more like 1000 light-years away - 10 trillion times further.  The featured image composite was taken in early October across a small lake in Abisko, northern Sweden. As our Sun&#39;s magnetic field evolves into the active part of its 11-year cycle, auroras near both of Earth&#39;s poles are sure to become more frequent.</p>
+<p style="text-align: justify;">Do we dare believe our eyes?  When we look at images of space, we often wonder whether they are &quot;real&quot;, and just as often the best answer varies.  In this case, the scene appears much as our eyes would see it, because it was obtained using  RGB (Red, Green, Blue) filters like the cone cells in our eyes, except collecting light for 19 hours, not a fraction of a second.  The featured image was captured over six nights, using a 24-inch diameter telescope in the Sierra Nevada Mountains, in California, USA. The bright spiral galaxy at the center (NGC 7497) looks like it is being grasped by an eerie tendril of a space ghost, and therein lies the trick. The galaxy is actually 59 million light years away, while the nebulosity is MBM 54, less than one thousand light years away, making it one of the nearest cool clouds of gas and dust -- galactic cirrus -- within our own Milky Way Galaxy.  Both are in the constellation of Pegasus, which can be seen high overhead from northern latitudes in the autumn.</p>
 
 
 
