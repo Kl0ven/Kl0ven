@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jupiter Rotates as Moons Orbit</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=juloL5WeLrc" target="_blank"><img src="http://img.youtube.com/vi/juloL5WeLrc/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Cocoon Nebula Wide Field</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2210/CocoonWide_Ermolli_960.jpg"">
 
 
-<p style="text-align: justify;">Jupiter and its moons move like our Sun and its planets. Similarly, Jupiter spins while its moons circle around. Jupiter’s rotation can be observed by tracking circulating dark belts and light zones. The Great Red Spot, the largest storm known, rotates to become visible after about 15 seconds in the 48-second time lapse video. The video is a compilation of shorts taken over several nights last month and combined into a digital recreation of how 24-continuous hours would appear. Jupiter&#39;s brightest moons always orbit in the plane of the planet&#39;s rotation, even as Earth’s spin makes the whole system appear to tilt.  The moons Europa, Ganymede, and Io are all visible, with Europa&#39;s shadow appearing as the icy Galilean moon crosses Jupiter&#39;s disk.  Jupiter remains near opposition this month, meaning that it is unusually bright, near to its closest to the Earth, and visible nearly all night long.   Almost Hyperspace: Random APOD Generator</p>
+<p style="text-align: justify;">When does a nebula look like a comet?  In this crowded starfield, covering over two degrees within the high flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula. A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the left, with a long trail of interstellar dust clouds to the right, making the entire complex appear a bit like a comet. Cataloged as IC 5146, the central bright head of the nebula spans about 10 light years, while the dark dusty tail spans nearly 100 light years.  Both are located about 2,500 light years away. The bright star near the bright nebula&#39;s center, likely only a few hundred thousand years old, supplies power to the nebular glow as it helps clear out a cavity in the molecular cloud&#39;s star forming dust and gas. The long dusty filaments of the tail, although dark in this visible light image, are themselves hiding stars in the process of formation, stars that can be seen at infrared wavelengths.</p>
 
 
 
