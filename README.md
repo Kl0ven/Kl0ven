@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 6357: The Lobster Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/Lobster_Blanco_960.jpg"">
+<h3>A Partial Eclipse of an Active Sun</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=7dh5VL5YGoA" target="_blank"><img src="http://img.youtube.com/vi/7dh5VL5YGoA/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Why is the Lobster Nebula forming some of the most massive stars known? No one is yet sure.  Cataloged as NGC 6357, the Lobster Nebula houses the open star cluster Pismis 24 near its center -- a home to unusually bright and massive stars.  The overall red glow near the inner star forming region results from the emission of ionized hydrogen gas.   The surrounding nebula, featured here, holds a complex tapestry of gas, dark dust, stars still forming, and newly born stars.  The intricate patterns are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity.  The image was taken with DOE&#39;s Dark Energy Camera on the 4-meter Blanco Telescope at the Cerro Tololo Inter-American Observatory in Chile. NGC 6357 spans about 400 light years and lies about 8,000 light years away toward the constellation of the Scorpion.</p>
+<p style="text-align: justify;">Watch for three things in this unusual eclipse video.  First, watch for a big dark circle to approach from the right to block out more and more of the Sun. This dark circle is the Moon, and the video was made primarily to capture this partial solar eclipse last week. Next, watch a large solar prominence hover and shimmer over the Sun&#39;s edge. A close look will show that part of it is actually falling back to the Sun. The prominence is made of hot plasma that is temporarily held aloft by the Sun&#39;s changing magnetic field. Finally, watch the Sun&#39;s edge waver. What is wavering is a dynamic carpet of hot gas tubes rising and falling through the Sun&#39;s chromosphere -- tubes known as spicules. The entire 4-second time-lapse video covers a time of about ten minutes, although the Sun itself is expected to last another 5 billion years.   Partial Solar Eclipse in October 2022: Notable Submissions to APOD</p>
 
 
 
