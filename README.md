@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Partial Eclipse of an Active Sun</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=7dh5VL5YGoA" target="_blank"><img src="http://img.youtube.com/vi/7dh5VL5YGoA/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>M33: The Triangulum Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/M33-NOIR-HST-LL_1024.jpg"">
 
 
-<p style="text-align: justify;">Watch for three things in this unusual eclipse video.  First, watch for a big dark circle to approach from the right to block out more and more of the Sun. This dark circle is the Moon, and the video was made primarily to capture this partial solar eclipse last week. Next, watch a large solar prominence hover and shimmer over the Sun&#39;s edge. A close look will show that part of it is actually falling back to the Sun. The prominence is made of hot plasma that is temporarily held aloft by the Sun&#39;s changing magnetic field. Finally, watch the Sun&#39;s edge waver. What is wavering is a dynamic carpet of hot gas tubes rising and falling through the Sun&#39;s chromosphere -- tubes known as spicules. The entire 4-second time-lapse video covers a time of about ten minutes, although the Sun itself is expected to last another 5 billion years.   Partial Solar Eclipse in October 2022: Notable Submissions to APOD</p>
+<p style="text-align: justify;">The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, M33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other&#39;s grand spiral star systems. As for the view from the Milky Way, this sharp image combines data from telescopes on and around planet Earth to show off M33&#39;s blue star clusters and pinkish star forming regions along the galaxy&#39;s loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 1 o&#39;clock position from the galaxy center. Like M31, M33&#39;s population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.</p>
 
 
 
