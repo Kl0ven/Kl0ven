@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lunar Eclipse at the South Pole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/Lunar-Eclipse-South-Pole_1024.jpg"">
+<h3>Dark Ball in Inverted Starfield</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/darksun_lafferty_960.jpg"">
 
 
-<p style="text-align: justify;">Last May 16 the Moon slid through Earth&#39;s shadow, completely immersed in the planet&#39;s dark umbra for about 1 hour and 25 minutes during a total lunar eclipse. In this composited timelapse view, the partial and total phases of the eclipse were captured as the Moon tracked above the horizon from Amundsen-Scott South Pole Station. There it shared a cold and starry south polar night with a surging display of the aurora australis and central Milky Way. In the foreground are the BICEP (right) and South Pole telescopes at the southernmost station&#39;s Dark Sector Laboratory. But while polar skies can be spectacular, you won&#39;t want to go to the South Pole to view the total lunar eclipse coming up on November 8. Instead, that eclipse can be seen from locations in Asia, Australia, the Pacific, the Americas and Northern Europe. It will be your last chance to watch a total lunar eclipse until 2025.</p>
+<p style="text-align: justify;">Does this strange dark ball look somehow familiar? If so, that might be because it is our Sun. In the featured image from 2012, a detailed solar view was captured originally in a very specific color of red light, then rendered in black and white, and then color inverted. Once complete, the resulting image was added to a starfield, then also color inverted. Visible in the image of the Sun are long light filaments, dark active regions, prominences peeking around the edge, and a moving carpet of hot gas. The surface of our Sun can be a busy place, in particular during Solar Maximum, the time when its surface magnetic field is wound up the most. Besides an active Sun being so picturesque, the plasma expelled can also become picturesque when it impacts the Earth&#39;s magnetosphere and creates auroras.    Compute it Yourself: Browse 2,900+ codes in the Astrophysics Source Code Library</p>
 
 
 
