@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Galaxies: Wild&#39;s Triplet from Hubble</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/WildTriplet_Hubble_960.jpg"">
+<h3>The Asymmetric Nebula Surrounding Wolf-Rayet Star 18</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/wr18_woronow_960.jpg"">
 
 
-<p style="text-align: justify;">How many galaxies are interacting here?  This grouping of galaxies is called the Wild Triplet, not only for the discoverer, but for the number of bright galaxies that appear. It had been assumed that all three galaxies, collectively cataloged as Arp 248, are interacting, but more recent investigations reveal that only the brightest two galaxies are sparring gravitationally: the big galaxies at the top and bottom. The spiral galaxy in the middle of the featured image by the  Hubble Space Telescope is actually far in the distance, as is the galaxy just below it and all of the other numerous galaxies in the field.  A striking result of these giants jousting is a tremendous bridge of stars, gas, and dust that stretches between them -- a bridge almost 200,000 light-years long. Light we see today from Wild&#39;s Triplet left about 200 million years ago, when dinosaurs roamed the Earth. In perhaps a billion years or so, the two interacting galaxies will merge to form a single large spiral galaxy.   Lunar Eclipse of November 2022: Notable Submissions to APOD</p>
+<p style="text-align: justify;">Why does the nebula around the star WR-18 shine brighter on one side? Also known as NGC 3199, this active star and its surrounding nebula lie about 12,000 light-years away toward the nautical southern constellation of Carina. The featured deep image has been highly processed to bring out filamentary details of the glowing gas in the bubble-shaped nebula.  The nebula is about 75 light-years across. Near the nebula&#39;s center is a Wolf-Rayet star, WR-18, which is a massive, hot, short-lived star that generates an intense and complex stellar wind. In fact, Wolf-Rayet stars are known to create nebulas with interesting shapes as their powerful winds sweep up surrounding interstellar material. In this case, the bright right edge was initially thought to indicate that a bow shock was being produced as the star plowed through a uniform medium, like a boat through water. Recent measurements and analyses, however, have shown the star is not moving quickly toward the bright edge. A more likely explanation has emerged that the material surrounding the star is not uniform, but clumped and denser near the bright edge.</p>
 
 
 
