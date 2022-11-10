@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Asymmetric Nebula Surrounding Wolf-Rayet Star 18</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/wr18_woronow_960.jpg"">
+<h3>Total Lunar Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/2022_11_08_TLE_Trio_1024px.png"">
 
 
-<p style="text-align: justify;">Why does the nebula around the star WR-18 shine brighter on one side? Also known as NGC 3199, this active star and its surrounding nebula lie about 12,000 light-years away toward the nautical southern constellation of Carina. The featured deep image has been highly processed to bring out filamentary details of the glowing gas in the bubble-shaped nebula.  The nebula is about 75 light-years across. Near the nebula&#39;s center is a Wolf-Rayet star, WR-18, which is a massive, hot, short-lived star that generates an intense and complex stellar wind. In fact, Wolf-Rayet stars are known to create nebulas with interesting shapes as their powerful winds sweep up surrounding interstellar material. In this case, the bright right edge was initially thought to indicate that a bow shock was being produced as the star plowed through a uniform medium, like a boat through water. Recent measurements and analyses, however, have shown the star is not moving quickly toward the bright edge. A more likely explanation has emerged that the material surrounding the star is not uniform, but clumped and denser near the bright edge.</p>
+<p style="text-align: justify;">The beginning, middle, and end of a journey through planet Earth&#39;s colorful umbral shadow is captured in this timelapse composite image of a total lunar eclipse. Taken on November 8 from Kitt Peak National Observatory this eclipse&#39;s 1 hour and 25 minute long total phase starts on the right and finishes on the left. Reddened sunlight, scattered into the central shadow by Earth&#39;s dusty atmosphere produces the dramatic dark red hues reflected by the lunar disk. For this eclipse, additional reddening is likely due to scattering from ash lingering in the atmosphere after a large volcanic eruption in the southern Pacific earlier this year. Seen at the right and left, the Earth&#39;s shadow is still lighter along its edge though. That faint bluish fringe along the lunar limb is colored by sunlight filtered through Earth&#39;s stratospheric ozone layer.</p>
 
 
 
