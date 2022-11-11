@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Total Lunar Eclipse</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/2022_11_08_TLE_Trio_1024px.png"">
+<h3>Blood Moon, Ice Giant</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan1024.jpg"">
 
 
-<p style="text-align: justify;">The beginning, middle, and end of a journey through planet Earth&#39;s colorful umbral shadow is captured in this timelapse composite image of a total lunar eclipse. Taken on November 8 from Kitt Peak National Observatory this eclipse&#39;s 1 hour and 25 minute long total phase starts on the right and finishes on the left. Reddened sunlight, scattered into the central shadow by Earth&#39;s dusty atmosphere produces the dramatic dark red hues reflected by the lunar disk. For this eclipse, additional reddening is likely due to scattering from ash lingering in the atmosphere after a large volcanic eruption in the southern Pacific earlier this year. Seen at the right and left, the Earth&#39;s shadow is still lighter along its edge though. That faint bluish fringe along the lunar limb is colored by sunlight filtered through Earth&#39;s stratospheric ozone layer.   Lunar Eclipse of November 2022: Notable Submissions to APOD  Love Eclipses? (US): Apply to become a NASA Partner Eclipse Ambassador</p>
+<p style="text-align: justify;">On November 8 the Full Moon turned blood red as it slid through Earth&#39;s shadow in a beautiful total lunar eclipse. During totality it also passed in front of, or occulted, outer planet Uranus for eclipse viewers located in parts of northern America and Asia. For a close-up and wider view these two images were taken just before the occultation began, captured with different telescopes and cameras from the same roof top in Shanghai, China. Normally very faint compared to a Full Moon, the tiny, pale, greenish disk of the distant ice giant is just to the left of the Moon&#39;s edge and about to disappear behind the darkened, red lunar limb. Though only visible from certain locations across planet Earth, lunar occultations of planets are fairly common. But for this rare &quot;lunar eclipse occultation&quot; to take place, at the time of the total eclipse the outer planet had to be both at opposition and very near the ecliptic plane to fall in line with Sun, Earth, and Moon.   Lunar Eclipse of November 2022: Notable Submissions to APOD  Love Eclipses? (US): Apply to become a NASA Partner Eclipse Ambassador</p>
 
 
 
