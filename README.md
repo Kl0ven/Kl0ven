@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Flying Saucer Crash Lands in Utah Desert</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/GenesisImpact_nasa_960.jpg"">
+<h3>NGC 7380: The Wizard Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/Wizard_Popa_960.jpg"">
 
 
-<p style="text-align: justify;">A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth&#39;s magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. So far, Genesis-related discoveries include new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.</p>
+<p style="text-align: justify;">What powers are being wielded in the Wizard Nebula?  Gravitation strong enough to form stars, and stellar winds and radiations powerful enough to create and dissolve towers of gas.  Located only 8,000 light years away, the Wizard nebula, featured here, surrounds developing open star cluster NGC 7380.  Visually, the interplay of stars, gas, and dust has created a shape that appears to some like a fictional medieval sorcerer.  The active star forming region spans 100 about light years, making it appear larger than the angular extent of the Moon.  The Wizard Nebula can be located with a small telescope toward the constellation of the King of Aethiopia (Cepheus).  Although the nebula may last only a few million years, some of the stars being formed may outlive our Sun.</p>
 
 
 
