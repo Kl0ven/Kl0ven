@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Airglow Ripples over Tibet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/rippledsky_dai_960.jpg"">
+<h3>The Butterfly Nebula from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/Butterfly_HubbleOstling_960.jpg"">
 
 
-<p style="text-align: justify;">Why would the sky look like a giant target? Airglow. Following a giant thunderstorm over Bangladesh in late April, giant circular ripples of glowing air appeared over Tibet, China, as pictured here. The unusual pattern is created by atmospheric gravity waves, waves of alternating air pressure that can grow with height as the air thins, in this case about 90-kilometers up.  Unlike auroras powered by collisions with energetic charged particles and seen at high latitudes, airglow is due to chemiluminescence, the production of light in a chemical reaction.  More typically seen near the horizon, airglow keeps the night sky from ever being completely dark.</p>
+<p style="text-align: justify;">Stars can make beautiful patterns as they age -- sometimes similar to flowers or insects. NGC 6302, the Butterfly Nebula, is a notable example.  Though its gaseous wingspan covers over 3 light-years and its estimated surface temperature exceeds 200,000 degrees C, the aging central star of NGC 6302, the featured planetary nebula, has become exceptionally hot, shining brightly in visible and ultraviolet light but hidden from direct view by a dense torus of dust. This sharp close-up was recorded by the Hubble Space Telescope and is processed here to show off remarkable details of the complex planetary nebula, highlighting in particular light emitted by oxygen (shown as blue), hydrogen (green), and nitrogen (red). NGC 6302 lies about 3,500 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius). Planetary nebulas evolve from outer atmospheres of stars like our Sun, but usually fade in about 20,000 years.</p>
 
 
 
