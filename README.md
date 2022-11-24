@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Earthset from Orion</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/earthset-snap01.png"">
+<h3>Lynds Dark Nebula 1251</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/LDN1251v7social1024.png"">
 
 
-<p style="text-align: justify;">ght billion people are about to disappear in this snapshot from space. Taken on November 21, the sixth day of the Artemis 1 mission, their home world is setting behind the Moon&#39;s bright edge as viewed by an external camera on the outbound Orion spacecraft. The Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver will be used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it&#39;s another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft will orbit in the opposite direction of the Moon&#39;s orbit around planet Earth. Orion will enter its distant retrograde orbit on Friday, November 25. Swinging around the Moon, Orion will reach a maximum distance (just over 400,000 kilometers) from Earth on Monday November 28 exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration.</p>
+<p style="text-align: justify;">Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, the dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk on the scene, almost buried behind the dusty expanse. This alluring view spans over four full moons on the sky, or 35 light-years at the estimated distance of LDN 1251.</p>
 
 
 
