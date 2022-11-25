@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lynds Dark Nebula 1251</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/LDN1251v7social1024.png"">
+<h3>NGC 6744: Extragalactic Close-Up</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg"">
 
 
-<p style="text-align: justify;">Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, the dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk on the scene, almost buried behind the dusty expanse. This alluring view spans over four full moons on the sky, or 35 light-years at the estimated distance of LDN 1251.</p>
+<p style="text-align: justify;">Beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across. That&#39;s larger than the Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo, with its galactic disk tilted towards our line of sight. This Hubble close-up of the nearby island universe spans about 24,000 light-years or so across NGC 6744&#39;s central region. The Hubble view combines visible light and ultraviolet image data. The giant galaxy&#39;s yellowish core is dominated by the visible light from old, cool stars. Beyond the core are star-forming regions and young star clusters scattered along the inner spiral arms. NGC 6744&#39;s young star clusters are bright at ultraviolet wavelengths, shown in blue and magenta hues. Spiky stars scattered around the frame are foreground stars and well within our own Milky Way.</p>
 
 
 
