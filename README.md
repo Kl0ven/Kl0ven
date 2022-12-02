@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Artemis 1: Flight Day 13</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/art001e000672-orig1024c.jpg"">
+<h3>Merging Galaxy Pair IIZw096</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/potm2211a_1024.jpg"">
 
 
-<p style="text-align: justify;">On flight day 13 (November 28) of the Artemis 1 mission the Orion spacecraft reached its maximum distance from Earth. In fact, over 430,000 kilometers from Earth its distant retrograde orbit also put Orion nearly 70,000 kilometers from the Moon. In the same field of view in this video frame from flight day 13, planet and large natural satellite even appear about the same apparent size from the uncrewed spacecraft&#39;s perspective. Today (December 1) should see Orion depart its distant retrograde orbit. En route to planet Earth it will head toward a second powered fly by of the Moon. Splashdown on the home world is expected on December 11.</p>
+<p style="text-align: justify;">Bright at infrared wavelengths, this merging galaxy pair is some 500 million light-years away toward the constellation Delphinus. The cosmic mashup is seen against a background of even more distant galaxies, and occasional spiky foreground stars. But the galaxy merger itself spans about 100,000 light-years in this deep James Webb Space Telescope image. The image data is from Webb&#39;s Near-InfraRed Camera (NIRCam) and Mid-InfraRed Instrument (MIRI). Their combined, sharp infrared view follows galactic scale restructuring in the dusty merger&#39;s wild jumble of intense star forming regions  and distorted spiral arms</p>
 
 
 
