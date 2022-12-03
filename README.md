@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Merging Galaxy Pair IIZw096</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/potm2211a_1024.jpg"">
+<h3>Stereo Mars near Opposition</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png"">
 
 
-<p style="text-align: justify;">Bright at infrared wavelengths, this merging galaxy pair is some 500 million light-years away toward the constellation Delphinus. The cosmic mashup is seen against a background of even more distant galaxies, and occasional spiky foreground stars. But the galaxy merger itself spans about 100,000 light-years in this deep James Webb Space Telescope image. The image data is from Webb&#39;s Near-InfraRed Camera (NIRCam) and Mid-InfraRed Instrument (MIRI). Their combined, sharp infrared view follows galactic scale restructuring in the dusty merger&#39;s wild jumble of intense star forming regions  and distorted spiral arms</p>
+<p style="text-align: justify;">Mars looks sharp in these two rooftop telescope views captured in late November from Singapore, planet Earth. At the time, Mars was about 82 million kilometers from Singapore and approaching its opposition, opposite the Sun in planet Earth&#39;s sky on December 8. Olympus Mons, largest of the volcanoes in the Tharsis Montes region (and largest known volcano in the Solar System), is near Mars&#39; western limb. In both the images it&#39;s the whitish donut-shape at the upper right. The dark area visible near center is the Terra Sirenum region while the long dark peninsula closest to the planet&#39;s eastern limb is Sinus Gomer. Near its tip is Gale crater, the Curiosity rover&#39;s landing site in 2012. Above Sinus Gomer, white spots are other volcanoes in the Elysium region. At top of the planet is the north polar cap covered with ice and clouds. Taken about two days apart, these images of the same martian hemisphere form a stereo pair. Look at the center of the frame and cross your eyes until the separate images come together to see the Red Planet in 3D.</p>
 
 
 
