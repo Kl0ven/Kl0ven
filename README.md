@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Stereo Mars near Opposition</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png"">
+<h3>Video: Powers of Ten</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=0fKBhvDjuy0" target="_blank"><img src="http://img.youtube.com/vi/0fKBhvDjuy0/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Mars looks sharp in these two rooftop telescope views captured in late November from Singapore, planet Earth. At the time, Mars was about 82 million kilometers from Singapore and approaching its opposition, opposite the Sun in planet Earth&#39;s sky on December 8. Olympus Mons, largest of the volcanoes in the Tharsis Montes region (and largest known volcano in the Solar System), is near Mars&#39; western limb. In both the images it&#39;s the whitish donut-shape at the upper right. The dark area visible near center is the Terra Sirenum region while the long dark peninsula closest to the planet&#39;s eastern limb is Sinus Gomer. Near its tip is Gale crater, the Curiosity rover&#39;s landing site in 2012. Above Sinus Gomer, white spots are other volcanoes in the Elysium region. At top of the planet is the north polar cap covered with ice and clouds. Taken about two days apart, these images of the same martian hemisphere form a stereo pair. Look at the center of the frame and cross your eyes until the separate images come together to see the Red Planet in 3D.</p>
+<p style="text-align: justify;">How different does the universe look on very small scales?  On very large scales? The most famous short science film of its generation gives breathtaking comparisons. That film, Powers of Ten, originally created in the 1960s, has been officially posted to YouTube and embedded here.  From a picnic blanket near Chicago out past the Virgo Cluster of Galaxies, every ten seconds the film zooms out to show a square a factor of ten times larger on each side. The 9-minute video then reverses, zooming back in a factor of ten every two seconds and ends up inside a single proton. The Powers of Ten sequence is actually based on the book Cosmic View by Kees Boeke in 1957, as is a similar but mostly animated film Cosmic Zoom that was also created in the late 1960s. The changing perspectives are so enthralling and educational that sections have been recreated using more modern computerized techniques, including the first few minutes of the movie Contact. Ray and husband Charles Eames, the film&#39;s creators, were known as quite visionary spirits and even invented their own popular chair.</p>
 
 
 
