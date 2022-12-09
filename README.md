@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Orion and the Ocean of Storms</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/art001e002132_apod1024.jpg"">
+<h3>Mars Rises above the Lunar Limb</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg"">
 
 
-<p style="text-align: justify;">A camera on board the uncrewed Orion spacecraft captured this view on December 5 as Orion approached its return powered flyby of the Moon.  Below one of Orion&#39;s extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon&#39;s lava-flooded maria. The lunar terminator, shadow line between lunar night and day, runs along the left of the frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler&#39;s bright rays extend to the north and west, reaching the dark-floored Marius. Of course the Orion spacecraft is now headed toward a December 11 splashdown in planet Earth&#39;s water-flooded Pacific Ocean.</p>
+<p style="text-align: justify;">On the night of December 7 Mars wandered near the Full Moon. In fact the Red Planet was occulted, passing behind the Moon, when viewed from locations across Europe and North America. About an hour after disappearing behind the lunar disk Mars reappears in this stack of sharp video frames captured from San Diego, planet Earth. With the Moon in the foreground Mars was a mere 82 million kilometers distant, near its own opposition. Full Moon and full Mars were bright enough provide the spectacular image with no exposure adjustments necessary. In the image Mars appears to rise just over ancient, dark-floored, lunar crater Abel very close to the southeastern edge of the Moon&#39;s near side. Humboldt is the large impact crater to its north (left).</p>
 
 
 
