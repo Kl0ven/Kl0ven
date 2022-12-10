@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mars Rises above the Lunar Limb</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg"">
+<h3>America and the Sea of Serenity</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/22466-22467anaVantuyne900.jpg"">
 
 
-<p style="text-align: justify;">On the night of December 7 Mars wandered near the Full Moon. In fact the Red Planet was occulted, passing behind the Moon, when viewed from locations across Europe and North America. About an hour after disappearing behind the lunar disk Mars reappears in this stack of sharp video frames captured from San Diego, planet Earth. With the Moon in the foreground Mars was a mere 82 million kilometers distant, near its own opposition. Full Moon and full Mars were bright enough to provide the spectacular image with no exposure adjustments necessary. In the image Mars appears to rise just over ancient, dark-floored, lunar crater Abel very close to the southeastern edge of the Moon&#39;s near side. Humboldt is the large impact crater to its north (left).</p>
+<p style="text-align: justify;">Get out your red&#x2F;blue glasses and check out this stereo view of another world. Fifty years ago the scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17&#39;s landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif&#39;s peak. Beyond the mountains, toward the lunar limb, lies the Moon&#39;s Mare Serenitatis.</p>
 
 
 
