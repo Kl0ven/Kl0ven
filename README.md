@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>America and the Sea of Serenity</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/22466-22467anaVantuyne900.jpg"">
+<h3>Io in True Color</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/iotruecolor_galileo_960.jpg"">
 
 
-<p style="text-align: justify;">Get out your red&#x2F;blue glasses and check out this stereo view of another world. Fifty years ago the scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17&#39;s landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif&#39;s peak. Beyond the mountains, toward the lunar limb, lies the Moon&#39;s Mare Serenitatis.</p>
+<p style="text-align: justify;">The strangest moon in the Solar System is bright yellow.  The featured picture, an attempt to show how Io would appear in the &quot;true colors&quot; perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io&#39;s colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter&#39;s other Galilean moons.  The resulting friction greatly heats Io&#39;s interior, causing  molten rock to explode through the surface.  Io&#39;s volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io&#39;s volcanic lava is so hot it glows in the dark.   Artemis 1 Coverage: Orion return and splashdown</p>
 
 
 
