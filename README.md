@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Io in True Color</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/iotruecolor_galileo_960.jpg"">
+<h3>An Unusual Globule in IC 1396</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/IC1396_Miller_960.jpg"">
 
 
-<p style="text-align: justify;">The strangest moon in the Solar System is bright yellow.  The featured picture, an attempt to show how Io would appear in the &quot;true colors&quot; perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io&#39;s colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter&#39;s other Galilean moons.  The resulting friction greatly heats Io&#39;s interior, causing  molten rock to explode through the surface.  Io&#39;s volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io&#39;s volcanic lava is so hot it glows in the dark.   Artemis 1 Coverage: Orion return and splashdown</p>
+<p style="text-align: justify;">Is there a monster in IC 1396?  Known to some as the Elephant&#39;s Trunk Nebula, parts of gas and dust clouds of this star formation region may appear to take on foreboding forms, some nearly human.  The only real monster here, however, is a bright young star too far from Earth to hurt us.  Energetic light from this star is eating away the dust of the dark cometary globule near the top of the featured image.  Jets and winds of particles emitted from this star are also pushing away ambient gas and dust.  Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a much larger region on the sky than shown here, with an apparent width of more than 10 full moons.</p>
 
 
 
