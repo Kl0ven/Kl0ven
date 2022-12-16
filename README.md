@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Full Moon, Full Mars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/MarsTrailsSMALL1024.jpg"">
+<h3>The Geminid</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-1024.jpg"">
 
 
-<p style="text-align: justify;">On December 8 a full Moon and a full Mars were close, both bright and opposite the Sun in planet Earth&#39;s sky. In fact Mars was occulted, passing behind the Moon when viewed from some locations across Europe and North America.  Seen from the city of Kosice in eastern Slovakia, the lunar occultation of Mars happened just before sunrise. The tantalizing spectacle was recorded in this telescopic timelapse sequence of exposures. It took about an hour for the Red Planet to disappear behind the lunar disk and then reappear as a warm-hued full Moon, the last full Moon of 2022, sank toward the western horizon. The next lunar occultation of bright planet Mars will be in the new year on January 3, when the Moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth&#39;s surface, though. The January 3 occultation of Mars will be visible from parts of the South Atlantic, southern Africa, and the Indian Ocean.</p>
+<p style="text-align: justify;">Returning from beyond the Moon, on December 11 the Orion spacecraft entered Earth&#39;s atmosphere at almost 11 kilometers per second. That&#39;s half the speed of the grain of dust that created this long fireball meteor when it entered the atmosphere on December 13, near the peak of the annual Geminid meteor shower. As our fair planet makes its yearly pass through the dust trail of mysterious asteroid 3200 Phaethon, the parallel tracks of all Geminid meteors appear to radiate from a point in the constellation Gemini. But the twin stars of Gemini hide just behind the trees on the left in this night skyscape from the beautiful Blue Moon Valley, Yunnan, China. Reflected in the still waters of the mountain lake, stars of the constellation Orion are rising near center. Captured before moonrise, dazzling Mars is still the brightest celestial beacon in the scene.</p>
 
 
 
