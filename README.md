@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Apollo 17 VIP Site Anaglyph</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_1024v.jpg"">
+<h3>25 Brightest Stars in the Night Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/25BrightestStars_Jittasaiyapan_960.jpg"">
 
 
-<p style="text-align: justify;">Get out your red&#x2F;blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17&#39;s Lunar Rover in the foreground -- behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module&#39;s ascent stage liftoff via the rover&#39;s TV camera, this parking place was also known as the VIP Site. Fifty years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last to walk (or drive) on the Moon.</p>
+<p style="text-align: justify;">Do you know the names of some of the brightest stars? It&#39;s likely that you do, even though some bright stars have names so old they date back to near the beginning of written language. Many world cultures have their own names for the brightest stars, and it is culturally and historically important to remember them.  In the interest of clear global communication, however, the International Astronomical Union (IAU) has begun to designate standardized star names.  Featured here in true color are the 25 brightest stars in the night sky, currently as seen by humans, coupled with their IAU-recognized names. Some star names have interesting meanings, including Sirius (&quot;the scorcher&quot; in Latin), Vega (&quot;falling&quot; in Arabic), and Antares (&quot;rival to Mars&quot; in Greek). You are likely even familiar with the name of at least one star too dim to make this list: Polaris.    Almost Hyperspace: Random APOD Generator</p>
 
 
 
