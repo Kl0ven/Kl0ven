@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Sun Halo at Sixty-three Degrees North</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3_1100.jpg"">
+<h3>NGC 1365: Majestic Island Universe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg"">
 
 
-<p style="text-align: justify;">Happy Solstice! Today is the December solstice, marking an astronomical beginning of summer in the southern hemisphere and winter in the north. On its yearly trek through planet Earth&#39;s skies, at this solstice the Sun reaches its southern most declination, 23.5 degrees south, at 21:48 UTC. About 4 days ago the Sun was near this seasonal southern limit and so only just above the horizon at local noon over Ostersund in central Sweden. This view looking over the far northern lakeside city finds the midday Sun with a beautiful solar ice halo. Naturally occurring atmospheric ice crystals can produce the tantalizing halo displays, refracting and reflecting the sunlight through their hexagonal geometry.  Still, with the Sun low and near the horizon in the clear sky, likely sources of the ice crystals producing this intense halo are snow cannons. Operating at a local ski area, the snowmaking machines create a visible plume at the top of the nearby island Froson toward the right side of the panorama.</p>
+<p style="text-align: justify;">Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This impressively sharp color image shows the intense, reddish star forming regions near the ends of central bar and along the spiral arms, with details of the obscuring dust lanes cutting across the galaxy&#39;s bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365&#39;s prominent bar plays a crucial role in the galaxy&#39;s evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.</p>
 
 
 
