@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Horsehead and Flame</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/B33LRGB_fb1024.png"">
+<h3>Mars and the Star Clusters</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2212/mars_clusters1024.jpg"">
 
 
-<p style="text-align: justify;">The Horsehead Nebula, famous celestial dark marking also known as Barnard 33, is notched against a background glow of emission nebulae in this sharp cosmic skyscape. About five light-years &quot;tall&quot; the Horsehead lies some 1,500 light-years away in the constellation of Orion. Within the region&#39;s fertile molecular cloud complex, the expanse of obscuring dust has a recognizable shape only by chance from our perspective in the Milky Way though. Orion&#39;s easternmost belt star, bright Alnitak, is to the left of center.  Energetic ultraviolet light from Alnitak powers the glow of dusty NGC 2024, the Flame Nebula, just below it. Completing a study in cosmic contrasts, bluish reflection nebula NGC 2023 is below the Horsehead itself. This well-framed telescopic field spans about 3 full moons on the sky.</p>
+<p style="text-align: justify;">At this year&#39;s end Mars still shines brightly in planet Earth&#39;s night as it wanders through the head-strong constellation Taurus. Its bright yellowish hue dominates this starry field of view that includes Taurus&#39; alpha star Aldebaran and the Hyades and Pleiades star clusters. While red giant Aldebaran appears to anchor the V-shape of the Hyades at the left of the frame, Aldebaran is not a member of the Hyades star cluster. The Hyades cluster is 151 light-years away making it the nearest established open star cluster, but Aldebaran lies at less than half that distance, along the same line-of-sight.  At the right, some 400 light-years distant is the open star cluster cataloged as Messier 45, also known as the Pleiades or Seven Sisters. In Greek myth, the Pleiades were daughters of the astronomical titan Atlas and sea-nymph Pleione.</p>
 
 
 
