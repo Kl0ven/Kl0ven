@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Largest Rock in our Solar System</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg"">
+<h3>After Sunset Planet Parade</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1080_annotated.jpg"">
 
 
-<p style="text-align: justify;">There, that dot on the right, that&#39;s the largest rock known in our Solar System. It is larger than every known asteroid, moon, and comet nucleus.  It is larger than any other local rocky planet.  This rock is so large its gravity makes it into a large ball that holds heavy gases near its surface.  (It used to be the largest known rock of any type until the recent discoveries of large dense planets orbiting other stars.)  The Voyager 1 spacecraft took the featured picture -- famously called Pale Blue Dot -- of this giant space rock in 1990 from the outer Solar System.  Today, this rock starts another orbit around its parent star, for roughly the 5 billionth time, spinning over 350 times during each trip.  Happy Gregorian Calendar New Year to all inhabitants of this rock we call Earth.</p>
+<p style="text-align: justify;">Look up tonight and see a whole bunch of planets. Just after sunset, looking west, planets Venus, Saturn, Jupiter and Mars will all be simultaneously visible. Listed west to east, this planetary lineup will have Venus nearest the horizon, but setting shortly after the Sun.  It doesn&#39;t matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  Taken late last month, the featured image captured all of these planets and more: the Moon and planet Mercury were also simultaneously visible.  Below visibility were the planets Neptune and Uranus, making this a nearly all-planet panorama. In the foreground are hills around the small village of Gökçeören, Kaş, Turkey, near the Mediterranean coast.  Bright stars Altair, Fomalhaut, and Aldebaran are also prominent, as well as the Pleiades star cluster. Venus will rise higher in the sky at sunset as January continues, but Saturn will descend.</p>
 
 
 
