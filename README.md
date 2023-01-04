@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Kemble’s Cascade of Stars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/KembleCascade_Lease_960.jpg"">
+<h3>CG4: The Globule and the Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/cg4_selby_960.jpg"">
 
 
-<p style="text-align: justify;">This line of stars is real. A little too faint to see with the unaided eye, Kemble’s Cascade of stars inspires awe when seen with binoculars.  Like the Big Dipper though, Kemble’s Cascade is an asterism, not a constellation. The asterism is visible in the northern sky toward the long-necked constellation of the Giraffe (Camelopardalis). This string of about 20 unrelated stars, each of similar brightness, spans over five times the angular width of the full moon. Stretching diagonally from the upper left to the lower right, Kemble&#39;s Cascade was popularized last century by astronomy enthusiast Lucian Kemble.  The bright object near the top left of the image is the relatively compact Jolly Roger open cluster of stars, officially designated as NGC 1502.</p>
+<p style="text-align: justify;">Can a gas cloud eat a galaxy?  It&#39;s not even close.  The &quot;claw&quot; of this odd looking &quot;creature&quot; in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.   Discovery + Outreach: Graduate student research position open for APOD</p>
 
 
 
