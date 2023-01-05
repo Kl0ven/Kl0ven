@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>CG4: The Globule and the Galaxy</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/cg4_selby_960.jpg"">
+<h3>Messier 45: The Daughters of Atlas and Pleione</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/M_45_Plejarden_Stefan_Thrun_klein1024.jpg"">
 
 
-<p style="text-align: justify;">Can a gas cloud eat a galaxy?  It&#39;s not even close.  The &quot;claw&quot; of this odd looking &quot;creature&quot; in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.   Discovery + Outreach: Graduate student research position open for APOD</p>
+<p style="text-align: justify;">Hurtling through a cosmic dust cloud a mere 400 light-years away, the lovely Pleiades or Seven Sisters open star cluster is well-known for its striking blue reflection nebulae. It lies in the night sky toward the constellation Taurus and the Orion Arm of our Milky Way galaxy. The sister stars are not related to the dusty cloud though. They just happen to be passing through the same region of space. Known since antiquity as a compact grouping of stars, Galileo first sketched the star cluster viewed through his telescope with stars too faint to be seen by eye. Charles Messier recorded the position of the cluster as the 45th entry in his famous catalog of things which are not comets. In Greek myth, the Pleiades were seven daughters of the astronomical titan Atlas and sea-nymph Pleione. Their parents names are included in the cluster&#39;s nine brightest stars. This well-processed, color-calibrated telescopic image features pin-point stars and detailed filaments of interstellar dust captured in over 9 hours of exposure. It spans more than 20 light-years across the Pleiades star cluster.</p>
 
 
 
