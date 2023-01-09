@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Where Your Elements Came From</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/Nucleosynthesis2_WikipediaCmglee_1080.jpg"">
+<h3>Tails of Comet ZTF</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/CometZtf_Hernandez_960.jpg"">
 
 
-<p style="text-align: justify;">The hydrogen in your body, present in every molecule of water, came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity&#39;s best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   Discovery + Outreach: Graduate student research position open for APOD</p>
+<p style="text-align: justify;">Comet ZTF may become visible to the unaided eye. Discovered early last year, this massive snowball has been brightening as it approaches the Sun and the Earth. C&#x2F;2022 E3 (ZTF) will be closest to the Sun later this week, at which time it may become visible even without binoculars to northern observers with a clear and dark sky. As they near the Sun, comet brightnesses are notoriously hard to predict, though. In the featured image taken last week in front of a picturesque star field, three blue ion tails extend to the upper right, likely the result of a variable solar wind on ions ejected by the icy comet nucleus.  The comet&#39;s white dust tail is visible to the upper left and much shorter. The green glow is the comet&#39;s coma, caused by glowing carbon gas. Comet ZTF is expected to pass nearest the Earth in early February, after which it should dim dramatically.   Discovery + Outreach: Graduate student research position open for APOD</p>
 
 
 
