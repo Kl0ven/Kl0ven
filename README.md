@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Young Star Cluster NGC 346</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/jwst-ngc346-800.png"">
+<h3>Perihelion Sun 2023</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/Sol3Jan2023web1024.jpg"">
 
 
-<p style="text-align: justify;">The most massive young star cluster in the Small Magellanic Cloud is NGC 346, embedded in our small satellite galaxy&#39;s largest star forming region some 210,000 light-years distant. Of course the massive stars of NGC 346 are short lived, but very energetic.  Their winds and radiation sculpt the edges of the region&#39;s dusty molecular cloud triggering star-formation within. The star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. This spectacular infrared view of NGC 346 is from the James Webb Space Telescope&#39;s NIRcam. Emission from atomic hydrogen ionized by the massive stars&#39; energetic radiation as well as and molecular hydrogen and dust in the star-forming molecular cloud is detailed in pink and orange hues. Webb&#39;s sharp image of the young star-forming region spans 240 light-years at the distance of the Small Magellanic Cloud.</p>
+<p style="text-align: justify;">Perihelion for 2023, Earth&#39;s closest approach to the Sun, was on January 4 at 16:17 UTC. That was less than 24 hours after this sharp image of the Sun&#39;s disk was recorded with telescope and H-alpha filter from Sidney, Australia, planet Earth.  An H-alpha filter transmits a characteristic red light from hydrogen atoms. In views of the Sun it emphasizes the Sun&#39;s chromosphere, a region just above the solar photosphere or normally visible solar surface. In this H-alpha image of the increasingly active Sun planet-sized sunspot regions are dominated by bright splotches called plages. Dark filaments of plasma snaking across the solar disk transition to bright prominences when seen above the solar limb.</p>
 
 
 
