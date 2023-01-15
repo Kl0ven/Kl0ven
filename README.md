@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perihelion Sun 2023</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/Sol3Jan2023web1024.jpg"">
+<h3>M1: The Crab Nebula from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/CrabNebula_Hubble_960.jpg"">
 
 
-<p style="text-align: justify;">Perihelion for 2023, Earth&#39;s closest approach to the Sun, was on January 4 at 16:17 UTC. That was less than 24 hours after this sharp image of the Sun&#39;s disk was recorded with telescope and H-alpha filter from Sydney, Australia, planet Earth.  An H-alpha filter transmits a characteristic red light from hydrogen atoms. In views of the Sun it emphasizes the Sun&#39;s chromosphere, a region just above the solar photosphere or normally visible solar surface. In this H-alpha image of the increasingly active Sun planet-sized sunspot regions are dominated by bright splotches called plages. Dark filaments of plasma snaking across the solar disk transition to bright prominences when seen above the solar limb.</p>
+<p style="text-align: justify;">This is the mess that is left when a star explodes.  The Crab Nebula, the result of a supernova seen in 1054 AD, is filled with mysterious filaments.  The filaments are not only tremendously complex, but appear to have less mass than expelled in the original supernova and a higher speed than expected from a free explosion.  The featured image, taken by the Hubble Space Telescope, is presented in three colors chosen for scientific interest.  The Crab Nebula spans about 10 light-years.  In the nebula&#39;s very center lies a pulsar: a neutron star as massive as the Sun but with only the size of a small town.  The Crab Pulsar rotates about 30 times each second.   Discovery + Outreach: Graduate student research position open for APOD</p>
 
 
 
