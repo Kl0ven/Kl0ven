@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M1: The Crab Nebula from Hubble</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/CrabNebula_Hubble_960.jpg"">
+<h3>Moon Enhanced</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/MoonEnhanced_Mirza_960.jpg"">
 
 
-<p style="text-align: justify;">This is the mess that is left when a star explodes.  The Crab Nebula, the result of a supernova seen in 1054 AD, is filled with mysterious filaments.  The filaments are not only tremendously complex, but appear to have less mass than expelled in the original supernova and a higher speed than expected from a free explosion.  The featured image, taken by the Hubble Space Telescope, is presented in three colors chosen for scientific interest.  The Crab Nebula spans about 10 light-years.  In the nebula&#39;s very center lies a pulsar: a neutron star as massive as the Sun but with only the size of a small town.  The Crab Pulsar rotates about 30 times each second.   Discovery + Outreach: Graduate student research position open for APOD</p>
+<p style="text-align: justify;">Our Moon doesn&#39;t really look like this.  Earth&#39;s Moon, Luna, doesn&#39;t naturally show this rich texture, and its colors are more subtle. But this digital creation is based on reality.  The featured image is a composite of multiple images and enhanced to bring up real surface features.  The enhancements, for example, show more clearly craters that illustrate the tremendous bombardment our Moon has been through during its 4.6-billion-year history.  The dark areas, called maria, have fewer craters and were once seas of molten lava. Additionally, the image colors, although based on the moon&#39;s real composition, are changed and exaggerated.  Here, a blue hue indicates a region that is iron rich, while orange indicates a slight excess of aluminum.  Although the Moon has shown the same side to the Earth for billions of years, modern technology is allowing humanity to learn much more about it -- and how it affects the Earth.</p>
 
 
 
