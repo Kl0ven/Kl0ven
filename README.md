@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Naked-eye Comet ZTF</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/ZTF_salamanca1024.jpg"">
+<h3>In Green Company: Aurora over Norway</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/greencompany_rive_960.jpg"">
 
 
-<p style="text-align: justify;">Comet C&#x2F;2022E3 (ZTF) no longer requires a telescope for viewing. By January 19, it could just be seen with the naked eye in this rural sky with little light pollution from a location about 20 kilometers from Salamanca, Spain. Still, telescopic images are needed to show any hint of the comet&#39;s pretty green coma, stubby whitish dust tail, and long ion tail. Its faint ion tail has been buffeted by recent solar activity. This visitor from the distant Oort cloud rounded the Sun on January 12. and is now sweeping through stars near the northern boundary of the constellation Bootes. Outward bound but still growing brighter, Comet ZTF makes its closest approach on February 2, coming to within about 2.4 light-minutes of our fair planet.</p>
+<p style="text-align: justify;">Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden fjord close to the town of Svolvear on the Lofoten islands in northern Norway. The time was early 2014. Although our Sun passed the solar minimum of its 11-year cycle only a few years ago, surface activity is picking up and already triggering more spectacular auroras here on Earth.</p>
 
 
 
