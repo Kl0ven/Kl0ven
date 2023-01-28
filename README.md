@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet ZTF: Orbital Plane Crossing</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett1024.jpg"">
+<h3>Comet ZTF over Mount Etna</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/C2022E3ZTFMountEtna1024.jpg"">
 
 
-<p style="text-align: justify;">The current darling of the northern night, Comet C&#x2F;2022 E3 ZTF is captured in this telescopic image from a dark sky location at June Lake, California. Of course Comet ZTF has been growing brighter in recent days, headed for its closest approach to Earth on February 1.  But this view was recorded on January 23, very close to the time planet Earth crossed the orbital plane of long-period Comet ZTF. The comet&#39;s broad, whitish dust tail is still curved and fanned out away from the Sun as Comet ZTF sweeps along its orbit. Due to perspective near the orbital plane crossing, components of the fanned out dust tail appear on both sides of the comet&#39;s green tinted coma though, to lend Comet ZTF a visually striking (left) anti-tail. Buffeted by solar activity the comet&#39;s narrower ion tail also streams away from the coma diagonally to the right, across the nearly three degree wide field of view.   Comet ZTF Gallery: Notable Submissions to APOD</p>
+<p style="text-align: justify;">Comet-like plumes are blowing over the volcanic peaks of Mount Etna in this wintry mountain-and-skyscape from planet Earth. The stacked and blended combination of individual exposures recorded during the cold night of January 23, also capture naked-eye Comet ZTF just above Etna&#39;s snowy slopes. Of course increasing sunlight and the solar wind are responsible for the comet&#39;s greenish coma and broad dusty tail. This weekend Comet ZTF is dashing across northern skies between north star Polaris and the Big Dipper. From a dark site you can only just spot it as a fuzzy patch though. That&#39;s still an impressive achievement if you consider you are gazing at a visitor from the distant Oort cloud with your own eyes. But binoculars or a small telescope will make for an even more enjoyable view of this Comet ZTF in the coming days.   Comet ZTF Gallery: Notable Submissions to APOD</p>
 
 
 
