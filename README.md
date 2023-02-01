@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Triple View of Comet ZTF</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2301/TripleCometZTF_Caldera_960.jpg"">
+<h3>The Seventh World of Trappist-1</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_960.jpg"">
 
 
-<p style="text-align: justify;">Comet ZTF has a distinctive shape. The now bright comet visiting the inner Solar System has been showing not only a common dust tail, ion tail, and green gas coma, but also an uncommonly distinctive antitail. The antitail does not actually lead the comet -- it is just that the head of the comet is seen superposed on part of the fanned-out and trailing dust tail.  The giant dirty snowball that is Comet C&#x2F;2022 E3 (ZTF) has now passed its closest to the Sun and tomorrow will pass its closest to the Earth. The main panel of the featured triple image shows how Comet ZTF looked last week to the unaided eye under a dark and clear sky over Cáceres, Spain.  The top inset image shows how the comet looked through binoculars, while the lower inset shows how the comet looked through a small telescope.  The comet is now visible all night long from northern latitudes but will surely fade from easy observation during the next few weeks.    Comet ZTF Gallery: Notable Submissions to APOD</p>
+<p style="text-align: justify;">Seven worlds orbit the ultracool dwarf star TRAPPIST-1. A mere 40 light-years away, many of the exoplanets were discovered in 2016 using the Transiting Planets and Planetesimals Small Telescope (TRAPPIST) located in the Atlas Mountains of Morocco, and later confirmed with telescope including NASA&#39;s Spitzer Space Telescope. The TRAPPIST-1 planets are likely all rocky and similar in size to Earth, and so compose one of the largest treasure troves of terrestrial planets ever detected around a single star. Because they orbit very close to their faint, tiny star they could also have regions where surface temperatures allow for the presence of ice or even liquid water, a key ingredient for life. Their tantalizing proximity to Earth makes them prime candidates for future telescopic explorations of the atmospheres of potentially habitable planets.  All seven exoplanets appear in the featured illustration, which imagines a view from the most distant known world of this system, TRAPPIST-1h, as having a rocky landscape covered in ice. Meanwhile, in the imagined background, one of the system&#39;s inner planets crosses in front of the dim, orange, nearly Jupiter-sized parent star.   Astrophysicists: Browse 3,000+ codes in the Astrophysics Source Code Library</p>
 
 
 
