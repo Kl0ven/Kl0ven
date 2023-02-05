@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 2626 along the Vela Molecular Ridge</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/NGC_2626_CDK_700_II_20_Jan_2023_1024.jpg"">
+<h3>Enceladus by Saturnshine</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/enceladus12_cassini_960.jpg"">
 
 
-<p style="text-align: justify;">Centered in this colorful cosmic canvas, NGC 2626 is a beautiful, bright, blue reflection nebula in the southern Milky Way. Next to an obscuring dust cloud and surrounded by reddish hydrogen emission from large H II region RCW 27 it lies within a complex of dusty molecular clouds known as the Vela Molecular Ridge. NGC 2626 is itself a cloud of interstellar dust reflecting blue light from the young hot embedded star visible within the nebula. But astronomical explorations reveal many other young stars and associated nebulae in the star-forming region. NGC 2626 is about 3,200 light-years away. At that distance this telescopic field of view would span about 30 light-years along the Vela Molecular Ridge.</p>
+<p style="text-align: justify;">This moon is shining by the light of its planet. Specifically, a large portion of Enceladus pictured here is illuminated primarily by sunlight first reflected from the planet Saturn. The result is that the normally snow-white moon appears in the gold color of Saturn&#39;s cloud tops.  As most of the illumination comes from the image left, a labyrinth of ridges throws notable shadows just to the right of the image center, while the kilometer-deep canyon Labtayt Sulci is visible just below. The bright thin crescent on the far right is the only part of Enceladus directly lit by the Sun. The featured image was taken in 2011 by the robotic Cassini spacecraft during a close pass by by the enigmatic moon.  Inspection of the lower left part of this digitally sharpened image reveals plumes of ice crystals thought to originate in a below-surface sea.</p>
 
 
 
