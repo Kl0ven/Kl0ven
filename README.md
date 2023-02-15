@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Heart and Soul Nebulas</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/HeartSoul_deHaro_1080.jpg"">
+<h3>Airglow Sky over France</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/AirglowFrance_Looten_1080.jpg"">
 
 
-<p style="text-align: justify;">Is the heart and soul of our Galaxy located in Cassiopeia?  Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found.  The Heart Nebula, officially dubbed IC 1805 and visible in the featured image on the upper right, has a shape reminiscent of a classical heart symbol.  The shape is perhaps fitting for Valentine&#39;s Day. The Soul Nebula is officially designated IC 1871 and is visible on the lower left. Both nebulas shine brightly in the red light of energized hydrogen, one of three colors shown in this three-color montage. Light takes about 6,000 years to reach us from these nebulas, which together span roughly 300 light years.  Studies of stars and clusters like those found in the Heart and Soul nebulas have focused on how massive stars form and how they affect their environment.</p>
+<p style="text-align: justify;">This unusual sky was both familiar and unfamiliar. The photographer&#39;s mission was to capture the arch of the familiar central band of our Milky Way Galaxy over a picturesque medieval manor.  The surprise was that on this January evening, the foreground sky was found glowing in a beautiful but unfamiliar manner. The striped bands are called airglow and they result from air high in Earth&#39;s atmosphere being excited by the Sun&#39;s light and emitting a faint light of its own. The bands cross the entire sky -- their curved appearance is due to the extremely wide angle of the camera lens. In the foreground lies Château de Losse in southwest France.  Other familiar sky delights dot the distant background including the bright white star Sirius, the orange planet Mars, the blue Pleiades star cluster, the red California Nebula, and, on the far right, the extended Andromeda Galaxy. The initial mission was also successful: across the top of the frame is the arching band of our Milky Way.   What if:  ChatGPT rewrote this text in the style of Shakespeare, Carl Sagan, or Scotty from Star Trek?</p>
 
 
 
