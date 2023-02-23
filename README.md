@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Our Increasingly Active Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/SunHalphaC_Ergun_960.jpg"">
+<h3>Arp 78: Peculiar Galaxy in Aries</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg"">
 
 
-<p style="text-align: justify;">Our Sun is becoming a busy place.  Only two years ago, the Sun was emerging from a solar minimum so quiet that months would go by without even a single sunspot.  In contrast, already this year and well ahead of schedule, our Sun is unusually active, already nearing solar activity levels seen a decade ago during the last solar maximum.  Our increasingly active Sun was captured two weeks ago sporting numerous interesting features. The image was recorded in a single color of light called Hydrogen Alpha, color-inverted, and false colored.  Spicules carpet much of the Sun&#39;s face.  The brightening towards the Sun&#39;s edges is caused by increased absorption of relatively cool solar gas and called limb darkening.  Just outside the Sun&#39;s disk, several scintillating prominences protrude, while prominences on the Sun&#39;s face are known as filaments and show as light streaks.  Magnetically tangled active regions are both dark and light and contain cool sunspots.  As our Sun&#39;s magnetic field winds toward solar maximum over the next few years, whether the Sun&#39;s high activity will continue to increase is unknown.</p>
+<p style="text-align: justify;">Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78&#39;s overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen above and right of the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770&#39;s fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars in matching yellowish hues.</p>
 
 
 
