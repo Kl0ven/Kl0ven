@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jones-Emberson 1</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/jonesemberson1_1024.jpg"">
+<h3>Crescent Moon Occultation</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2302/JupiterOccultationFefoBouvier1024.jpg"">
 
 
-<p style="text-align: justify;">Planetary nebula Jones-Emberson 1 is the death shroud of a dying Sun-like star. It lies some 1,600 light-years from Earth toward the sharp-eyed constellation Lynx. About 4 light-years across, the expanding remnant of the dying star&#39;s atmosphere was shrugged off into interstellar space, as the star&#39;s central supply of hydrogen and then helium for fusion was finally depleted after billions of years. Visible near the center of the planetary nebula is what remains of the stellar core, a blue-hot white dwarf star.  Also known as PK 164 +31.1, the nebula is faint and very difficult to glimpse at a telescope&#39;s eyepiece. But this deep broadband image combining 22 hours of exposure time does show it off in exceptional detail. Stars within our own Milky Way galaxy as well as background galaxies across the universe are scattered through the clear field of view. Ephemeral on the cosmic stage, Jones-Emberson 1 will fade away over the next few thousand years. Its hot, central white dwarf star will take billions of years to cool.</p>
+<p style="text-align: justify;">On February 22, a young Moon shared the western sky at sunset with bright planets Venus and Jupiter along the ecliptic plane. The beautiful celestial conjunction was visible around planet Earth. But from some locations Jupiter hid for a while, occulted by the crescent lunar disk. The Solar System&#39;s ruling gas giant was captured here just before it disappeared behind the the Moon&#39;s dark edge, seen over the Río de la Plata at Colonia del Sacramento, Uruguay.  In the serene river and skyscape Venus is not so shy, shining brightly closer to the horizon through the fading twilight. Next week Venus and Jupiter will appear even closer in your evening sky.</p>
 
 
 
