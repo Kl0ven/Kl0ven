@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>DART vs Dimorphos</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/pressdracowithspacecraft1_1024.jpg"">
+<h3>Orion and the Running Man</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/my_hero1024_rot.jpg"">
 
 
-<p style="text-align: justify;">On the first planetary defense test mission from planet Earth, the DART spacecraft captured this close-up on 26 September 2022, three seconds before slamming into the surface of asteroid moonlet Dimorphos. The spacecraft&#39;s outline with two long solar panels is traced at its projected point of impact between two boulders. The larger boulder is about 6.5 meters across. While the DART (Double Asteroid Redirection Test) spacecraft had a mass of some 570 kilograms, the estimated mass of Dimorphos, the smaller member of a near-Earth binary asteroid system, was about 5 billion kilograms. The direct kinetic impact of the spacecraft measurably altered the speed of Dimorphos by a fraction of a percent, reducing its 12 hour orbital period around its larger companion asteroid 65803 Didymos by about 33 minutes. Beyond successfully demonstrating a technique to change an asteroid&#39;s orbit that can prevent future asteroid strikes on planet Earth, the planetary-scale impact experiment has given the 150-meter-sized Dimorphos a comet-like tail of material.</p>
+<p style="text-align: justify;">Few cosmic vistas excite the imagination like The Great Nebula in Orion. Visible as a faint celestial smudge to the naked-eye, the nearest large star-forming region sprawls across this sharp telescopic image, recorded on a cold January night in dark skies from West Virginia, planet Earth. Also known as M42, the Orion Nebula&#39;s glowing gas surrounds hot, young stars. About 40 light-years across, it lies at the edge of an immense interstellar molecular cloud only 1,500 light-years away within the same spiral arm of our Milky Way galaxy as the Sun. Along with dusty bluish reflection nebula NGC 1977 and friends near the top of the frame, the eye-catching nebulae represent only a small fraction of our galactic neighborhood&#39;s wealth of star-forming material. Within the well-studied stellar nursery, astronomers have also identified what appear to be numerous infant solar systems.</p>
 
 
 
