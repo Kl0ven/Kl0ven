@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Millions of Stars in Omega Centauri</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg"">
+<h3>The Medusa Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg"">
 
 
-<p style="text-align: justify;">Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It&#39;s the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. Omega Centauri&#39;s red giant stars (with a yellowish hue) are easy to pick out in this sharp, color telescopic view.</p>
+<p style="text-align: justify;">Braided and serpentine filaments of glowing gas suggest this nebula&#39;s popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa&#39;s transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend below and right of the bright crescent region. The Medusa Nebula is estimated to be over 4 light-years across.</p>
 
 
 
