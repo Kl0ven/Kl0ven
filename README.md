@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Equinox at the Pyramid of the Feathered Serpent</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg"">
+<h3>M1: The Expanding Crab Nebula</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=wfzz8FUD4TM" target="_blank"><img src="http://img.youtube.com/vi/wfzz8FUD4TM/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico&#39;s Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid&#39;s own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. Tomorrow marks another equinox -- not only at Temple of Kukulcán, but all over planet Earth.</p>
+<p style="text-align: justify;">Are your eyes good enough to see the Crab Nebula expand?  The Crab Nebula is cataloged as M1, the first on Charles Messier&#39;s famous list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, an expanding cloud of debris from the explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across today, the nebula is still expanding at a rate of over 1,000 kilometers per second. Over the past decade, its expansion has been documented in this stunning time-lapse movie. In each year from 2008 to 2022, an image was produced with the same telescope and camera from a remote observatory in Austria. The sharp, processed frames even reveal the dynamic energetic emission surrounding the rapidly spinning pulsar at the center.  The Crab Nebula lies about 6,500 light-years away toward the constellation of the Bull (Taurus).</p>
 
 
 
