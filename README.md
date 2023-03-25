@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Outbound Comet ZTF</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg"">
+<h3>Venus and the Da Vinci Glow</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg"">
 
 
-<p style="text-align: justify;">Former darling of the northern sky Comet C&#x2F;2022E3 (ZTF) has faded. During its closest approach to our fair planet in early February Comet ZTF was a mere 2.3 light-minutes distant. Then known as the green comet, this visitor from the remote Oort Cloud is now nearly 13.3 light-minutes away. In this deep image, composed of exposures captured on March 21, the comet still sports a broad, whitish dust tail and greenish tinted coma though. Not far on the sky from Orion&#39;s bright star Rigel, Comet ZTF shares the field of view with faint, dusty nebulae and distant background galaxies. The telephoto frame is crowded with Milky Way stars toward the constellation Eridanus. The influence of Jupiter&#39;s gravity on the comet&#39;s orbit as ZTF headed for the inner solar system, may have set the comet on an outbound journey, never to return.</p>
+<p style="text-align: justify;">On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth&#39;s brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from Danta di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon&#39;s night side. A description of earthshine, in terms of sunlight reflected by Earth&#39;s oceans illuminating the Moon&#39;s dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.</p>
 
 
 
