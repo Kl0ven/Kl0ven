@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Wanderers</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Aurora Over Arctic Henge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg"">
 
 
-<p style="text-align: justify;">How far out will humanity explore? If this video&#39;s fusion of real space imagery and fictional space visualizations is on the right track, then at least the Solar System. Some of the video&#39;s wondrous sequences depict future humans drifting through the rings of Saturn, exploring Jupiter from a nearby spacecraft, and jumping off a high cliff in the low gravity of a moon of Uranus. Although no one can know the future, wandering and exploring beyond boundaries -- both physical and intellectual -- is part of the human spirit and has frequently served humanity well in the past.</p>
+<p style="text-align: justify;">Reports of powerful solar flares started a seven-hour quest north to capture modern monuments against an aurora-filled sky.  The peaks of iconic Arctic Henge in Raufarhöfn in northern Iceland were already aligned with the stars: some are lined up toward the exact north from one side and toward exact south from the other. The featured image, taken after sunset late last month, looks directly south, but since the composite image covers so much of the sky, the north star Polaris is actually visible at the very top of the frame. Also visible are familiar constellations including the Great Bear (Ursa Major) on the left, and the Hunter (Orion) on the lower right. The quest was successful.  The sky lit up dramatically with bright and memorable auroras that shimmered with amazing colors including red, pink, yellow, and green -- sometimes several at once.</p>
 
 
 
