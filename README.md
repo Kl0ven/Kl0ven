@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Multiple Green Flash Sunset</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg"">
+<h3>Sh2-308: A Dolphin Shaped Star Bubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg"">
 
 
-<p style="text-align: justify;">Yes, but can your green flash do this? A green flash at sunset is a rare event that many Sun watchers pride themselves on having seen.  Once thought to be a myth, a green flash is now understood to occur when the Earth&#39;s atmosphere acts like both a prism and a lens. Different atmospheric layers create altitude-variable refraction that takes light from the top of the Sun and disperses its colors, creates two images, and magnifies it in just the right way to make a thin sliver appear green just before it disappears. Pictured, though, is an even more unusual sunset. From the high-altitude Cerro Tololo Inter-American Observatory in Chile one day last April, the Sun was captured setting beyond an atmosphere with multiple distinct thermal layers, creating several  mock images of the Sun.  This time and from this location, many of those layers produced a green flash simultaneously. Just seconds after this multiple-green-flash event was caught by two well-surprised astrophotographers, the Sun set below the clouds.</p>
+<p style="text-align: justify;">Which star created this bubble? It wasn&#39;t the bright star on the bubble&#39;s right. And it also wasn&#39;t a giant space dolphin. It was the star in the blue nebula&#39;s center, a famously energetic Wolf-Rayet star. Wolf-Rayet stars in general have over 20 times the mass of our Sun and expel fast particle winds that can create iconic looking nebulas. In this case, the resulting star bubble spans over 60 light years, is about 70,000 years old, and happens to look like the head of a dolphin.  Named Sh2-308 and dubbed the Dolphin-Head Nebula, the gas ball lies about 5,000 light years away and covers as much sky as the full moon -- although it is much dimmer. The nearby red-tinged clouds on the left of the featured image may owe their glow and shape to energetic light emitted from the same Wolf-Rayet star.</p>
 
 
 
