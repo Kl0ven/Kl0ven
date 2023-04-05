@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Olympus Mons: Largest Volcano in the Solar System</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg"">
+<h3>Rubin&#39;s Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg"">
 
 
-<p style="text-align: justify;">The largest volcano in our Solar System is on Mars.  Although three times higher than Earth&#39;s Mount Everest, Olympus Mons will not be difficult for humans to climb because of the volcano&#39;s shallow slopes and Mars&#39; low gravity.  Covering an area greater than the entire Hawaiian volcano chain, the slopes of Olympus Mons typically rise only a few degrees at a time.  Olympus Mons is an immense shield volcano, built long ago by fluid lava.  A relatively static surface crust allowed it to build up over time. Its last eruption is thought to have been about 25 million years ago.  The featured image was taken by the European Space Agency&#39;s robotic Mars Express spacecraft currently orbiting the  Red Planet.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way&#39;s diameter of 100,000 light-years or so, it has around 1 trillion stars. That&#39;s about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and astronomer Vera Rubin&#39;s pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe.</p>
 
 
 
