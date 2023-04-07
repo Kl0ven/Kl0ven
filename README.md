@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Terran 1 Burns Methalox</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg"">
+<h3>Rigel Wide</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg"">
 
 
-<p style="text-align: justify;">Relativity&#39;s Terran 1 Rocket is mostly 3D-printed. It burns a cryogenic rocket fuel composed of liquid methane and liquid oxygen (methalox). In this close-up of a Terran 1 launch on the night of March 22 from Cape Canaveral, icy chunks fall through the stunning frame as intense blue exhaust streams from its nine Aeon 1 engines. In a largely successful flight the inovative rocket achieved main engine cutoff and stage separation but fell short of orbit after an anomaly at the beginning of its second stage flight. Of course this Terran 1 rocket was never intended to travel to Mars. Still, the methane and liquid oxygen components of its methalox fuel can be made solely from materials found on the Red Planet. Methalox manufactured on Mars could be used as fuel for rockets returning to planet Earth.</p>
+<p style="text-align: justify;">Brilliant, blue, supergiant star Rigel marks the foot of Orion the Hunter in planet Earth&#39;s night. Designated Beta Orionis, it&#39;s at the center of this remarkably deep and wide field of view.  Rigel&#39;s blue color indicates that it is much hotter than its rival supergiant in Orion the yellowish Betelgeuse (Alpha Orionis), though both stars are massive enough to eventually end their days as core collapse supernovae. Some 860 light-years away, Rigel is hotter than the Sun too and extends to about 74 times the solar radius. That&#39;s about the size of the orbit of Mercury. In the 10 degree wide frame toward the nebula rich constellation, the Orion Nebula is at the upper left. To the right of Rigel and illuminated by its brilliant blue starlight lies the dusty Witch Head Nebula. Rigel is part of a multiple star system, though its companion stars are much fainter.</p>
 
 
 
