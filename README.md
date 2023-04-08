@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rigel Wide</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg"">
+<h3>M100: A Grand Design Spiral Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/M100_HubbleWfc3_960.jpg"">
 
 
-<p style="text-align: justify;">Brilliant, blue, supergiant star Rigel marks the foot of Orion the Hunter in planet Earth&#39;s night. Designated Beta Orionis, it&#39;s at the center of this remarkably deep and wide field of view.  Rigel&#39;s blue color indicates that it is much hotter than its rival supergiant in Orion the yellowish Betelgeuse (Alpha Orionis), though both stars are massive enough to eventually end their days as core collapse supernovae. Some 860 light-years away, Rigel is hotter than the Sun too and extends to about 74 times the solar radius. That&#39;s about the size of the orbit of Mercury. In the 10 degree wide frame toward the nebula rich constellation, the Orion Nebula is at the upper left. To the right of Rigel and illuminated by its brilliant blue starlight lies the dusty Witch Head Nebula. Rigel is part of a multiple star system, though its companion stars are much fainter.</p>
+<p style="text-align: justify;">Majestic on a truly cosmic scale, M100 is appropriately known as a grand design spiral galaxy.  It is a large galaxy of over 100 billion stars with well-defined spiral arms that is similar to our own Milky Way Galaxy.  One of the brightest members of the Virgo Cluster of galaxies, M100 (alias NGC 4321) is 56 million light-years distant toward the constellation of Berenice&#39;s Hair (Coma Berenices).  This Hubble Space Telescope image of M100 was taken with the Wide Field Camera 3 and accentuates bright blue star clusters and intricate winding dust lanes which are hallmarks of this class of galaxies.  Studies of variable stars in M100 have played an important role in determining the size and age of the Universe.</p>
 
 
 
