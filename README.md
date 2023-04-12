@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>North Star: Polaris and Surrounding Dust</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg"">
+<h3>NGC 206 and the Star Clouds of Andromeda</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2304/Trottier_M31SW_APOD_Re1024.jpg"">
 
 
-<p style="text-align: justify;">Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth&#39;s spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the eight-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame as well as the globular star cluster NGC 188 on the far left.  The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy&#39;s pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found right of center in this sharp and detailed close-up of the southwestern extent of Andromeda&#39;s disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That&#39;s comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.</p>
 
 
 
