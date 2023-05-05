@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Galaxy, the Jet, and a Famous Black Hole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/pia23122c-16_1067.jpg"">
+<h3>Shackleton from ShadowCam</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/shackleton_arrow.png"">
 
 
-<p style="text-align: justify;">Bright elliptical galaxy Messier 87 (M87) is home to the supermassive black hole captured in 2017 by planet Earth&#39;s Event Horizon Telescope in the first ever image of a black hole. Giant of the Virgo galaxy cluster about 55 million light-years away, M87 is the large galaxy rendered in blue hues in this infrared image from the Spitzer Space telescope.  Though M87 appears mostly featureless and cloud-like, the Spitzer image does record details of relativistic jets blasting from the galaxy&#39;s central region. Shown in the inset at top right, the jets themselves span thousands of light-years. The brighter jet seen on the right is approaching and close to our line of sight. Opposite, the shock created by the otherwise unseen receding jet lights up a fainter arc of material. Inset at bottom right, the historic black hole image is shown in context, at the center of giant galaxy and relativistic jets. Completely unresolved in the Spitzer image, the supermassive black hole surrounded by infalling material is the source of enormous energy driving the relativistic jets from the center of active galaxy M87. The Event Horizon Telescope image of M87 has now been enhanced to reveal a sharper view of the famous supermassive black hole.   At NASA: Black Hole Week</p>
+<p style="text-align: justify;">Shackleton crater lies at the lunar south pole. Peaks along the 21 kilometer diameter are in sunlight, but Shackleton&#39;s floor is in dark permanent shadow. Still, this image of the shadowed rim wall and floor of Shackleton crater was captured from NASA&#39;s ShadowCam, an instrument on board the Korea Pathfinder Lunar Orbiter (KPLO) launched in August 2022. About 200 times more sensitive than, for example, the Lunar Reconnaissance Orbiter&#39;s Narrow Angle Camera, ShadowCam was designed image the permanently shadowed regions of the lunar surface. Avoiding direct sunlight, those regions are expected to be reservoirs of water-ice and other volatiles deposited by ancient cometary impacts and useful to future Moon missions. Of course, the permanently shadowed regions are still illuminated by reflections of sunlight from nearby lunar terrain. In this stunningly detailed ShadowCam image, an arrow marks the track made by a single boulder rolling down Shackleton crater&#39;s wall. The image scale is indicated at the bottom of the frame.</p>
 
 
 
