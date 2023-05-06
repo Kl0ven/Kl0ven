@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Shackleton from ShadowCam</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/shackleton_arrow.png"">
+<h3>Twilight in a Flower</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/TwilightFlower1024.jpg"">
 
 
-<p style="text-align: justify;">Shackleton crater lies at the lunar south pole. Peaks along the 21 kilometer diameter are in sunlight, but Shackleton&#39;s floor is in dark permanent shadow. Still, this image of the shadowed rim wall and floor of Shackleton crater was captured from NASA&#39;s ShadowCam, an instrument on board the Korea Pathfinder Lunar Orbiter (KPLO) launched in August 2022. About 200 times more sensitive than, for example, the Lunar Reconnaissance Orbiter&#39;s Narrow Angle Camera, ShadowCam was designed image the permanently shadowed regions of the lunar surface. Avoiding direct sunlight, those regions are expected to be reservoirs of water-ice and other volatiles deposited by ancient cometary impacts and useful to future Moon missions. Of course, the permanently shadowed regions are still illuminated by reflections of sunlight from nearby lunar terrain. In this stunningly detailed ShadowCam image, an arrow marks the track made by a single boulder rolling down Shackleton crater&#39;s wall. The image scale is indicated at the bottom of the frame.</p>
+<p style="text-align: justify;">Transformed into the petals of a flower, 16 exposures show the passage of day into night in this creative timelapse skyscape. Start at the top and move counterclockwise to follow consecutive moments as the twilight sky turns an ever darker blue and night blossoms. Each exposure was recorded on the evening of April 22, calculated to maintain a consistent balance of light and color.  Close to the western horizon on that date, a crescent Moon and Venus are the two brightest celestial beacons. Petal to petal the pair spiral closer to the flower&#39;s center. In silhouette around the center of the twilight flower are Sicily&#39;s megalithic rocks of Argimusco.</p>
 
 
 
