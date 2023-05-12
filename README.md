@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fomalhaut&#39;s Dusty Debris Disk</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/STSCI_FomalhautDisk1024.png"">
+<h3>Halley Dust, Mars Dust, and Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/2022_05_04_Eta_Aquaridy_SP_Meteory_Fin_Vyska_1200px.png"">
 
 
-<p style="text-align: justify;">Fomalhaut is a bright star, a 25 light-year voyage from planet Earth in the direction of the constellation Piscis Austrinus. Astronomers first noticed Fomalhaut&#39;s excess infrared emission in the 1980s. Space and ground-based telescopes have since identified the infrared emission&#39;s source as a disk of dusty debris, evidence for a planetary system surrounding the hot, young star.  But this sharp infrared image from the James Webb Space Telescope&#39;s MIRI camera reveals details of Fomalhaut&#39;s debris disk never before seen, including a large dust cloud in the outer ring that is possible evidence for colliding bodies, and an inner dust disk and gap likely shaped and maintained by embedded but unseen planets. An image scale bar in au or astronomical units, the average Earth-Sun distance, appears at the lower left. Fomalhaut&#39;s outer circumstellar dust ring lies at about twice the distance of our own Solar System&#39;s Kuiper Belt of small icy bodies and debris beyond the orbit of Neptune.</p>
+<p style="text-align: justify;">Grains of cosmic dust streaked through night skies in early May. Swept up as planet Earth plowed through the debris streams left behind by periodic Comet Halley, the annual meteor shower is known as the Eta Aquarids. This year, the Eta Aquarids peak was visually hampered by May&#39;s bright Full Moon, though. But early morning hours surrounding last May&#39;s shower of Halley dust were free of moonlight interference. In exposures recorded between April 28 and May 8 in 2022, this composited image shows nearly 90 Eta Aquarid meteors streaking from the shower&#39;s radiant in Aquarius over San Pedro de Atacama, Chile. The central Milky Way arcs above in the southern hemisphere&#39;s predawn skies. The faint band of light rising from the horizon is Zodiacal light, caused by dust scattering sunlight near our Solar System&#39;s ecliptic plane. Along the ecliptic and entrained in the Zodiacal glow are the bright planets Venus, Jupiter, Mars, and Saturn.  Of course Mars itself has recently been found to be a likely source of the dust along the ecliptic responsible for creating Zodiacal light.</p>
 
 
 
