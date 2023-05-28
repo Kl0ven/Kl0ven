@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Crescent Neptune and Triton</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/neptunetriton_voyager_960.jpg"">
+<h3>Ida and Dactyl: Asteroid and Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg"">
 
 
-<p style="text-align: justify;">Gliding through the outer Solar System, in 1989 the Voyager 2 spacecraft looked toward the Sun to find this view of most distant planet Neptune and its moon Triton together in a crescent phase.  The elegant image of ice-giant planet and largest moon was taken from behind just after Voyager&#39;s closest approach. It could not have been taken from Earth because the most distant planet never shows a crescent phase to sunward eyes. Heading for the heliopause and beyond, the spacecraft&#39;s parting vantage point also robs Neptune of its familiar blue hue.</p>
+<p style="text-align: justify;">This asteroid has a moon.  The robot spacecraft Galileo on route to Jupiter in 1993 encountered and photographed two asteroids during its long interplanetary voyage.  The second minor planet it photographed, 243 Ida, was unexpectedly discovered to have a moon. The tiny moon, Dactyl, is only about 1.6 kilometers across and seen as a small dot on the right of the sharpened featured image.  In contrast, the potato-shaped Ida is much larger, measuring about 60 kilometers long and 25 km wide.  Dactyl is the first moon of an asteroid ever discovered -- now many asteroids are known to have moons. The names Ida and Dactyl are from Greek mythology.</p>
 
 
 
