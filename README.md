@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Charon: Moon of Pluto</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2306/charon_then_now_1024.jpg"">
+<h3>Color the Universe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg"">
 
 
-<p style="text-align: justify;">A darkened and mysterious north polar region known to some as Mordor Macula caps this premier high-resolution view. The portrait of Charon, Pluto&#39;s largest moon, was captured by New Horizons near the spacecraft&#39;s closest approach on July 14, 2015. The combined blue, red, and infrared data was processed to enhance colors and follow variations in Charon&#39;s surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon&#39;s Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That&#39;s about 1&#x2F;10th the size of planet Earth but a whopping 1&#x2F;2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o&#39;clock position on Pluto&#39;s disk in the grainy, negative,telescopic picture inset at upper left. That view was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon in June of 1978.</p>
+<p style="text-align: justify;">Wouldn&#39;t it be fun to color in the universe?  If you think so, please accept this famous astronomical illustration as a preliminary substitute.  You, your friends, your parents or children, can print it out or even color it digitally.  While coloring, you might be interested to know that even though this illustration has appeared in numerous places over the past 100 years, the actual artist remains unknown.  Furthermore, the work has no accepted name -- can you think of a good one?  The illustration, first appearing in a book by Camille Flammarion in 1888, is frequently used to show that humanity&#39;s present concepts are susceptible to being supplanted by greater truths.</p>
 
 
 
