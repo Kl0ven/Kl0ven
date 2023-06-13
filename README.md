@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Largest Satellites of Earth</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2306/IssMoon_Yang_960.jpg"">
+<h3>Moons Across Jupiter</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YEXuGgRCyS0" target="_blank"><img src="http://img.youtube.com/vi/YEXuGgRCyS0/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What’s that near the Moon? It’s the International Space Station (ISS). Although the ISS may appear to be physically near the Moon, it is not — it is physically near the Earth. In low Earth orbit and circulating around our big blue marble about every 90 minutes, the ISS was captured photographically as it crossed nearly in front of the Moon. The Moon, itself in a month-long orbit around the Earth, shows a crescent phase as only a curving sliver of its Sun-illuminated half is visible from the Earth. The featured image was taken in late March from Shanghai, China and shows not only details of Earth&#39;s largest human-made satellite, but details of the cratered and barren surface of Earth&#39;s largest natural satellite. Over the next few years, humanity is planning to send more people and machines to the Moon than ever before.</p>
+<p style="text-align: justify;">Jupiter&#39;s moons circle Jupiter. The featured video depicts Europa and Io, two of Jupiter&#39;s largest moons, crossing in front of the grand planet&#39;s Great Red Spot, the largest known storm system in our Solar System. The video was composed from images taken by the robotic Cassini spacecraft as it passed Jupiter in 2000, on its way to Saturn. The two moons visible are volcanic Io, in the distance, and icy Europa.  In the time-lapse video, Europa appears to overtake Io, which is odd because Io is closer to Jupiter and moves faster. The explanation is that the motion of the fast Cassini spacecraft changes the camera location significantly during imaging.  Jupiter is currently being visited by NASA&#39;s robotic Juno spacecraft, while ESA&#39;s Jupiter Icy Moons Explorer (JUICE), launched in April, is enroute.</p>
 
 
 
