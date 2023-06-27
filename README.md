@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Belt of Venus over Mount Everest</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_960.jpg"">
+<h3>MAVEN&#39;s Ultraviolet Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png"">
 
 
-<p style="text-align: justify;">You&#39;ve surely seen it, but you might not have noticed it.  During a cloudless twilight, just before sunrise or after sunset, part of the atmosphere above the horizon appears slightly dark and off-color.  Called the Belt of Venus, this transitional band between the dark eclipsed sky and the bright day sky can be seen most prominently in the direction opposite the Sun.  Straight above, blue sky is normal sunlight reflecting off the atmosphere, while near the horizon the clear sky can appear more orange or red.  In the Belt of Venus, the atmosphere reflects more light from the setting (or rising) Sun and so appears more red.  Featured here, the Belt of Venus was photographed over several Himalayan mountains including, second from the right, Mount Everest, the tallest mountain on Earth.  Although usually not mentioned, the belt is frequently caught by accident in other photographs.</p>
+<p style="text-align: justify;">These two global views of Mars were captured at ultraviolet wavelengths, beyond the spectrum visible to human eyes. Recorded by the MAVEN spacecraft&#39;s Imaging Ultraviolet Spectrograph instrument in July 2022 (left) and January 2023, three otherwise invisible ultraviolet bands are mapped into red, green, and blue colors. That color scheme presents the Red Planet&#39;s surface features in shades of tan and green. Haze and clouds appear white or blue, while high altitude ozone takes on a dramatic purple hue. On the left, Mars&#39; south polar ice cap is in brilliant white at the bottom but shrinking during the southern hemisphere&#39;s summer season. On the right, the northern hemisphere&#39;s polar region is seen shrouded in clouds and atmospheric ozone. Known to some as the Mars Atmosphere and Volatile EvolutioN spacecraft, MAVEN has been exploring Mars&#39; tenuous upper atmosphere, ionosphere, and its interactions with the Sun and solar wind since 2014.</p>
 
 
 
