@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 24: Sagittarius Star Cloud</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2306/M24_2023grapod1024.jpg"">
+<h3>A Message from the Gravitational Universe</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg"">
 
 
-<p style="text-align: justify;">Unlike most entries in Charles Messier&#39;s famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It&#39;s a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24&#39;s luminous stars fill this gorgeous starscape.  Covering over 3 degrees or the width of 6 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near center, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.</p>
+<p style="text-align: justify;">Monitoring 68 pulsars with very large radio telescopes, the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) has uncovered evidence for the gravitational wave (GW) background by carefully measuring slight shifts in the arrival times of pulses.  These shifts are correlated between different pulsars in a way that indicates that they are caused by GWs. This GW background is likely due to hundreds of thousands or even millions of supermassive black hole binaries.  Teams in Europe, Asia and Australia have also independently reported their results today. Previously, the LIGO and Virgo detectors have detected higher-frequency GWs from the merging of individual pairs of massive orbiting objects, such as stellar-mass black holes. The featured illustration highlights this spacetime-shaking result by depicting two orbiting supermassive black holes and several of the pulsars that would appear to have slight timing shifts.  The imprint these GWs make on spacetime itself is illustrated by a distorted grid.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library</p>
 
 
 
