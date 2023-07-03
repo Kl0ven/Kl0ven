@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Milky Way and Aurora over Antarctica</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/MWAurora_hang_960.jpg"">
+<h3>Venus in Ultraviolet from Akatsuki</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/VenusUv_akatsuki_1024.jpg"">
 
 
-<p style="text-align: justify;">It was one of the better skies of this long night. In parts of Antarctica, not only is it winter, but the Sun can spend weeks below the horizon. At China&#39;s Zhongshan Station, people sometimes venture out into the cold to photograph a spectacular night sky. The featured image from one such outing was taken in mid-July of 2015, just before the end of this polar night. Pointing up, the wide angle lens captured not only the ground at the bottom, but at the top as well.  In the foreground, a colleague is taking pictures. In the distance, a spherical satellite receiver and several windmills are visible. Numerous stars dot the night sky, including Sirius and Canopus. Far in the background, stretching overhead from horizon to horizon, is the central band of our Milky Way Galaxy. Even further in the distance, visible as extended smudges near the top, are the Large and Small Magellanic Clouds, satellite galaxies near our huge Milky Way Galaxy.   Explore the Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Why is Venus so different from Earth?  To help find out, Japan launched the robotic Akatsuki spacecraft which entered orbit around Venus late in 2015 after an unplanned five-year adventure around the inner Solar System.  Even though Akatsuki was past its original planned lifetime, the spacecraft and instruments were operating so well that much of its original mission was reinstated. Also known as the Venus Climate Orbiter, Akatsuki&#39;s instruments investigated unknowns about Earth&#39;s sister planet, including whether volcanoes are still active, whether lightning occurs in the dense atmosphere, and why wind speeds greatly exceed the planet&#39;s rotation speed. In the featured image taken by Akatsuki&#39;s UVI camera, the day-side of Venus is seen shown with planet-scale V-shaped cloud pattern. The image displays three ultraviolet colors and indicates a dip in the relative abundance of sulfur dioxide shown in faint blue.  Analyses of Akatsuki images and data has shown, among other discoveries, that Venus has equatorial jet similar to Earth&#39;s jet stream.</p>
 
 
 
