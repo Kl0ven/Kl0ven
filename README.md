@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Chandrayaan-3 Launches to the Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/Chandrayaan3_Suresh_960.jpg"">
+<h3>M64: The Black Eye Galaxy Close Up</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg"">
 
 
-<p style="text-align: justify;">Birds don&#39;t fly this high.  Airplanes don&#39;t go this fast.  The Statue of Liberty weighs less.  No species other than human can even comprehend what is going on, nor could any human just a millennium ago. The launch of a rocket bound for space is an event that inspires awe and challenges description.  Pictured here last week, the Indian Space Research Organization&#39;s  LVM3 rocket blasted off from the Satish Dhawan Space Centre on Sriharikota Island, India.  From a standing start, the 600,000+ kilogram rocket ship lifted the massive Chandrayaan-3 off the Earth. The Chandrayaan-3 mission is scheduled to reach the Moon in late August and land a robotic rover near the lunar South Pole. Rockets bound for space are now launched from somewhere on Earth every few days.</p>
+<p style="text-align: justify;">This magnificent spiral galaxy is Messier 64, often called the Black Eye Galaxy or the Sleeping Beauty Galaxy for its dark-lidded appearance in telescopic views. The spiral&#39;s central region, about 7,400 light-years across, is pictured in this reprocessed image from the Hubble Space Telescope. M64 lies some 17 million light-years distant in the otherwise well-groomed northern constellation Coma Berenices. The enormous dust clouds partially obscuring M64&#39;s central region are laced with young, blue star clusters and the reddish glow of hydrogen associated with star forming regions.  But imposing clouds of dust are not this galaxy&#39;s only peculiar feature. Observations show that M64 is actually composed of two concentric, counter-rotating systems. While all the stars in M64 rotate in the same direction as the interstellar gas in the galaxy&#39;s central region, gas in the outer regions, extending to about 40,000 light-years, rotates in the opposite direction. The dusty eye and bizarre rotation are likely the result of a billion year old merger of two different galaxies.</p>
 
 
 
