@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M64: The Black Eye Galaxy Close Up</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg"">
+<h3>Galactic Cirrus: Mandel Wilson 9</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/MandelWilson9_GabrielRodriguesSantos_APOD1024.jpg"">
 
 
-<p style="text-align: justify;">This magnificent spiral galaxy is Messier 64, often called the Black Eye Galaxy or the Sleeping Beauty Galaxy for its dark-lidded appearance in telescopic views. The spiral&#39;s central region, about 7,400 light-years across, is pictured in this reprocessed image from the Hubble Space Telescope. M64 lies some 17 million light-years distant in the otherwise well-groomed northern constellation Coma Berenices. The enormous dust clouds partially obscuring M64&#39;s central region are laced with young, blue star clusters and the reddish glow of hydrogen associated with star forming regions.  But imposing clouds of dust are not this galaxy&#39;s only peculiar feature. Observations show that M64 is actually composed of two concentric, counter-rotating systems. While all the stars in M64 rotate in the same direction as the interstellar gas in the galaxy&#39;s central region, gas in the outer regions, extending to about 40,000 light-years, rotates in the opposite direction. The dusty eye and bizarre rotation are likely the result of a billion year old merger of two different galaxies.</p>
+<p style="text-align: justify;">The combined light of stars along the Milky Way are reflected by these cosmic dust clouds that soar 300 light-years or so above the plane of our galaxy. Known to some as integrated flux nebulae and commonly found at high galactic latitudes, the dusty galactic cirrus clouds are faint. But they can be traced over large regions of the sky toward the North and South Galactic poles. Along with the reflection of starlight, studies indicate the dust clouds produce a faint reddish luminescence as interstellar dust grains convert invisible ultraviolet radiation to visible red light. Also capturing nearby Milky Way stars and distant background galaxies, this remarkably deep, wide-field image explores a complex of faint galactic cirrus known as Mandel Wilson 9. It spans over three degrees across planet Earth&#39;s skies toward the far southern constellation Apus.</p>
 
 
 
