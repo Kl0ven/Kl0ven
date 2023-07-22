@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Galactic Cirrus: Mandel Wilson 9</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/MandelWilson9_GabrielRodriguesSantos_APOD1024.jpg"">
+<h3>Apollo 11: Armstrong&#39;s Lunar Selfie</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/AldrinVisorCrop_Apollo11_1080.jpg"">
 
 
-<p style="text-align: justify;">The combined light of stars along the Milky Way are reflected by these cosmic dust clouds that soar 300 light-years or so above the plane of our galaxy. Known to some as integrated flux nebulae and commonly found at high galactic latitudes, the dusty galactic cirrus clouds are faint. But they can be traced over large regions of the sky toward the North and South Galactic poles. Along with the reflection of starlight, studies indicate the dust clouds produce a faint reddish luminescence as interstellar dust grains convert invisible ultraviolet radiation to visible red light. Also capturing nearby Milky Way stars and distant background galaxies, this remarkably deep, wide-field image explores a complex of faint galactic cirrus known as Mandel Wilson 9. It spans over three degrees across planet Earth&#39;s skies toward the far southern constellation Apus.</p>
+<p style="text-align: justify;">A photograph of Buzz Aldrin standing on the Moon taken by Neil Armstrong, was digitally reversed to create this lunar selfie. Captured in July 1969 following the Apollo 11 moon landing, Armstrong&#39;s original photograph recorded not only the magnificent desolation of an unfamiliar world, but Armstrong himself reflected in Aldrin&#39;s curved visor.  In the unwrapped image, the spherical distortion of the reflection in Aldrin&#39;s helmet has been reversed.  The transformed view features Armstrong himself from Aldrin&#39;s perspective. Since Armstrong took the original picture, today the image represents a fifty-four year old lunar selfie.  Aldrin&#39;s visor reflection in the original image appears here on the left. Bright (but distorted) planet Earth hangs in the lunar sky above Armstrong&#39;s figure, toward the upper right. A foil-wrapped leg of the Eagle lander and Aldrin&#39;s long shadow stretching across the lunar surface are prominently visible.  In 2024 NASA&#39;s Artemis II mission will return humans to the Moon.</p>
 
 
 
