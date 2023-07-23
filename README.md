@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Apollo 11: Armstrong&#39;s Lunar Selfie</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/AldrinVisorCrop_Apollo11_1080.jpg"">
+<h3>The Antikythera Mechanism</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/antikythera_wikipedia_960.jpg"">
 
 
-<p style="text-align: justify;">A photograph of Buzz Aldrin standing on the Moon taken by Neil Armstrong, was digitally reversed to create this lunar selfie. Captured in July 1969 following the Apollo 11 moon landing, Armstrong&#39;s original photograph recorded not only the magnificent desolation of an unfamiliar world, but Armstrong himself reflected in Aldrin&#39;s curved visor.  In the unwrapped image, the spherical distortion of the reflection in Aldrin&#39;s helmet has been reversed.  The transformed view features Armstrong himself from Aldrin&#39;s perspective. Since Armstrong took the original picture, today the image represents a fifty-four year old lunar selfie.  Aldrin&#39;s visor reflection in the original image appears here on the left. Bright (but distorted) planet Earth hangs in the lunar sky above Armstrong&#39;s figure, toward the upper right. A foil-wrapped leg of the Eagle lander and Aldrin&#39;s long shadow stretching across the lunar surface are prominently visible.  In 2024 NASA&#39;s Artemis II mission will return humans to the Moon.</p>
+<p style="text-align: justify;">It does what?  No one knew that 2,000 years ago, the technology existed to build such a device.  The Antikythera mechanism, pictured, is now widely regarded as the first computer. Found at the bottom of the sea aboard a decaying Greek ship, its complexity prompted decades of study, and even today some of its functions likely remain unknown.  X-ray images of the device, however, have confirmed that a main function of its numerous clock-like wheels and gears is to create a portable, hand-cranked, Earth-centered, orrery of the sky, predicting future star and planet locations as well as lunar and solar eclipses.  The corroded core of the Antikythera mechanism&#39;s largest gear is featured, spanning about 13 centimeters, while the entire mechanism was 33 centimeters high, making it similar in size to a large book. Recently, modern computer modeling of missing components is allowing for the creation of a more complete replica of this surprising ancient machine.</p>
 
 
 
