@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Galaxies in the River</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/noirlab2321a_ngc1532_1024.jpg"">
+<h3>Young Stars, Stellar Jets</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2307/HH46-47_JWST1030.jpg"">
 
 
-<p style="text-align: justify;">Large galaxies grow by eating small ones. Even our own galaxy engages in a sort of galactic cannibalism, absorbing small galaxies that are too close and are captured by the Milky Way&#39;s gravity. In fact, the practice is common in the universe and illustrated by this striking pair of interacting galaxies from the banks of the southern constellation Eridanus, The River. Located over 50 million light years away, the large, distorted spiral NGC 1532 is seen locked in a gravitational struggle with dwarf galaxy NGC 1531, a struggle the smaller galaxy will eventually lose. Seen nearly edge-on, spiral NGC 1532 spans about 100,000 light-years. The merging galaxies are captured in this sharp image from the Dark Energy Camera mounted on the National Science Foundation’s Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile. The NGC 1532&#x2F;1531 pair is thought to be similar to the well-studied system of face-on spiral and small companion known as M51.</p>
+<p style="text-align: justify;">High-speed outflows of molecular gas from a pair of actively forming young stars shine in infrared light, revealing themselves in this NIRcam image from the James Webb Space Telescope. Cataloged as HH (Herbig-Haro) 46&#x2F;47, the young stars are lodged within a dark nebula that is largely opaque when viewed in visible light.  The pair lie at the center of the prominent reddish diffraction spikes in the NIRcam image.  Their energetic stellar jets extend for nearly a light-year, burrowing into the dark interstellar material. A tantalizing object to explore with Webb&#39;s infrared capabilities, this young star system is relatively nearby, located only some 1,140 light-years distant in the nautical constellation Vela.</p>
 
 
 
