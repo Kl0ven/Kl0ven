@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 1360: The Robin&#39;s Egg Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/ngc1360_v2_1024.jpg"">
+<h3>SN 1006: A Supernova Ribbon from Hubble</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg"">
 
 
-<p style="text-align: justify;">This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin&#39;s egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation Fornax. Recognized as a planetary nebula, egg-shaped NGC 1360 doesn&#39;t represent a beginning though. Instead it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The predominant blue-green hue of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.</p>
+<p style="text-align: justify;">What created this unusual space ribbon?  The answer: one of the most violent explosions ever witnessed by ancient humans. Back in the year 1006 AD, light reached Earth from a stellar explosion in the constellation of the Wolf (Lupus), creating a &quot;guest star&quot; in the sky that appeared brighter than Venus and lasted for over two years. The supernova, now cataloged at SN 1006, occurred about 7,000 light years away and has left a large remnant that continues to expand and fade today.  Pictured here is a small part of that expanding supernova remnant dominated by a thin and outwardly moving shock front that heats and ionizes surrounding ambient gas. The supernova remnant SN 1006 now has a diameter of nearly 60 light years.</p>
 
 
 
