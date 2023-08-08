@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Pelican Nebula in Gas, Dust, and Stars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/LDN935_Jones_960.jpg"">
+<h3>Moon Meets Jupiter</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/MoonsJupiter_Coy_960.jpg"">
 
 
-<p style="text-align: justify;">The Pelican Nebula is slowly being transformed.  IC 5070 (the official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The Pelican, however, receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The featured picture was produced in three specific colors -- light emitted by sulfur, hydrogen, and oxygen --  that can help us to better understand these interactions.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.</p>
+<p style="text-align: justify;">What&#39;s that below the Moon? Jupiter -- and its largest moons.  Many skygazers across planet Earth enjoyed the close conjunction of Earth&#39;s Moon passing nearly in front of Jupiter in mid-June. The featured image is a single exposure of the event taken from Morón de la Frontera, Spain. The sunlit lunar crescent on the left is overexposed, while the Moon&#39;s night side, on the right, is only faintly illuminated by Earthshine. Lined up diagonally below the Moon, left to right, are Jupiter&#39;s bright Galilean satellites: Callisto, Ganymede, Io (hard to see as it is very near to Jupiter), and Europa.  In fact, Callisto, Ganymede, and Io are larger than Earth&#39;s Moon, while Europa is only slightly smaller. NASA&#39;s robotic spacecraft Juno is currently orbiting Jupiter and made a close pass near Io only a week ago.  If you look up in the night sky tonight, you will again see two of the brightest objects angularly close together -- because tonight is another Moon-Jupiter conjunction.</p>
 
 
 
