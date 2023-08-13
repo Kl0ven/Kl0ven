@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ghirigori - Star Scribbles</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/Ghirigori_delBooteCoronaBorealeOfiucoeChiomadiBerenice1024.jpg"">
+<h3>The Sombrero Galaxy in Infrared</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/sombrero_spitzer_1080.jpg"">
 
 
-<p style="text-align: justify;">It&#39;s fun to scribble on the canvas of the sky. You can use a creative photographic technique to cause the light of point-like stars to dance across a digital image by tapping lightly on the telescope while making an exposure. The result will be a squiggly line traced by the star (or two squiggles traced by binary stars) that can reveal the star&#39;s color. Colorful lines, dubbed Ghirigori, made from stars found in the northern sky constellations Bootes, Corona Borealis, Ophiucus, and Coma Berenices, are captured in this artistic mosaic. The 25 stars creating the varied and colorful squiggles are identified around the border. Of course, temperature determines the color of a star. While whitish stars tend to be close to the Sun&#39;s temperature, stars with bluer hues are hotter, and yellow and red colors are cooler than the Sun.  Weekend Watch: Perseid Meteor Shower</p>
+<p style="text-align: justify;">This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy, one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in optical light actually glows brightly in infrared light.  The featured image, digitally sharpened, shows the infrared glow, recently recorded by the orbiting Spitzer Space Telescope, superposed in false-color on an existing image taken by NASA&#39;s Hubble Space Telescope in visible light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years across and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo.</p>
 
 
 
