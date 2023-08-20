@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ringed Ice Giant Neptune</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/NeptuneTriton_webb1059.png"">
+<h3>A Roll Cloud Over Wisconsin</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/rollcloud_hanrahan_960.jpg"">
 
 
-<p style="text-align: justify;">Ringed ice giant Neptune lies near the center of this sharp near-infrared image from the James Webb Space Telescope. The dim and distant world is the farthest planet from the Sun, about 30 times farther away than planet Earth. But in the stunning Webb view, the planet&#39;s dark and ghostly appearance is due to atmospheric methane that absorbs infrared light. High altitude clouds that reach above most of Neptune&#39;s absorbing methane easily stand out in the image though. Coated with frozen nitrogen, Neptune&#39;s largest moon Triton is brighter than Neptune in reflected sunlight, seen at the upper left sporting the Webb telescope&#39;s characteristic diffraction spikes. Including Triton, seven of Neptune&#39;s 14 known moons can be identified in the field of view. Neptune&#39;s faint rings are striking in this space-based planetary portrait. Details of the complex ring system are seen here for the first time since Neptune was visited by the Voyager 2 spacecraft in August 1989.</p>
+<p style="text-align: justify;">What kind of cloud is this?  A type of arcus cloud called a roll cloud.  These rare long clouds may form near advancing cold fronts.   In particular, a downdraft from an advancing storm front can cause moist warm air to rise, cool below its dew point, and so form a cloud.  When this happens uniformly along an extended front, a roll cloud may form.  Roll clouds may actually have air circulating along the long horizontal axis of the cloud.  A roll cloud is not thought to be able to morph into a tornado.  Unlike a similar shelf cloud, a roll cloud is completely detached from their parent  cumulonimbus cloud.  Pictured here, a roll cloud extends far into the distance as a storm approaches in 2007 in Racine, Wisconsin, USA.</p>
 
 
 
