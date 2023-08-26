@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Season of Saturn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/SeasonSaturnapodacasely1024.jpg"">
+<h3>Crescents of Venus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg"">
 
 
-<p style="text-align: justify;">Ringed planet Saturn will be at its 2023 opposition, opposite the Sun in Earth&#39;s skies, on August 27. While that puts the sixth planet from the Sun at its brightest and well-placed for viewing, its beautiful ring system isn&#39;t visible to the unaided eye. Still, this sequence of telescopic images taken a year apart over the last six years follows both Saturn and rings as seen from inner planet Earth. The gas giant&#39;s ring plane tilts from most open in 2018 to approaching edge-on in 2023 (top to bottom). That&#39;s summer to nearly the autumn equinox for Saturn&#39;s northern hemisphere. In the sharp planetary portraits, Saturn&#39;s northern hexagon and a large storm system are clearly visible in 2018. In 2023, ice moon Tethys is transiting, casting its shadow across southern hemisphere cloud bands, while Saturn&#39;s cold blue south pole is emerging from almost a decade of winter darkness.</p>
+<p style="text-align: justify;">Just as the Moon goes through phases, Venus&#39; visible sunlit hemisphere waxes and wanes. This sequence of telescopic images illustrates the steady changes for Venus during its recent 2023 apparition as our evening star. Gliding along its interior orbit between Earth and Sun, Venus grows larger during that period because it is approaching planet Earth. Its crescent narrows though, as the inner planet swings closer to our line-of-sight to the Sun. Closest to the Earth-Sun line but passing about 8 degrees south of the Sun, on August 13 Venus reached its (non-judgmental) inferior conjunction. And now Venus shines above the eastern horizon in predawn skies, completing its transition to planet Earth&#39;s morning star. On August 21, NASA&#39;s Parker Solar Probe completed its sixth gravity assist flyby of Venus, using the encounter to maneuver the probe toward its closest approach yet to the Sun.</p>
 
 
 
