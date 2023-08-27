@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Crescents of Venus</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg"">
+<h3>Three Galaxies and a Comet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_960.jpg"">
 
 
-<p style="text-align: justify;">Just as the Moon goes through phases, Venus&#39; visible sunlit hemisphere waxes and wanes. This sequence of telescopic images illustrates the steady changes for Venus during its recent 2023 apparition as our evening star. Gliding along its interior orbit between Earth and Sun, Venus grows larger during that period because it is approaching planet Earth. Its crescent narrows though, as the inner planet swings closer to our line-of-sight to the Sun. Closest to the Earth-Sun line but passing about 8 degrees south of the Sun, on August 13 Venus reached its (non-judgmental) inferior conjunction. And now Venus shines above the eastern horizon in predawn skies, completing its transition to planet Earth&#39;s morning star. On August 21, NASA&#39;s Parker Solar Probe completed its sixth gravity assist flyby of Venus, using the encounter to maneuver the probe toward its closest approach yet to the Sun.</p>
+<p style="text-align: justify;">Diffuse starlight and dark nebulae along the southern Milky Way arc over the horizon and sprawl diagonally through this gorgeous nightscape. The breath-taking mosaic spans a wide 100 degrees, with the rugged terrain of the Patagonia, Argentina region in the foreground. Along with the insider&#39;s view of our own galaxy, the image features our outside perspective on two irregular satellite galaxies - the Large and Small Magellanic Clouds. The scene also captures the broad tail and bright coma of Comet McNaught, the Great Comet of 2007.</p>
 
 
 
