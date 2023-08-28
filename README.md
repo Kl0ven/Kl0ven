@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Three Galaxies and a Comet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_960.jpg"">
+<h3>Star Formation in the Pacman Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/Pacman_Stocks_1080.jpg"">
 
 
-<p style="text-align: justify;">Diffuse starlight and dark nebulae along the southern Milky Way arc over the horizon and sprawl diagonally through this gorgeous nightscape. The breath-taking mosaic spans a wide 100 degrees, with the rugged terrain of the Patagonia, Argentina region in the foreground. Along with the insider&#39;s view of our own galaxy, the image features our outside perspective on two irregular satellite galaxies - the Large and Small Magellanic Clouds. The scene also captures the broad tail and bright coma of Comet McNaught, the Great Comet of 2007.</p>
+<p style="text-align: justify;">Look through the cosmic cloud cataloged as NGC 281 and you might miss the stars of open cluster IC 1590. Formed within the nebula, that cluster&#39;s young, massive stars ultimately power the pervasive nebular glow. The eye-catching shapes looming in the featured portrait of NGC 281 are sculpted dusty columns and dense Bok globules seen in silhouette, eroded by intense, energetic winds and radiation from the hot cluster stars. If they survive long enough, the dusty structures could also be sites of future star formation. Playfully called the Pacman Nebula because of its overall shape, NGC 281 is about 10,000 light-years away in the constellation Cassiopeia. This sharp composite image was made through narrow-band filters. It combines emission from the nebula&#39;s hydrogen and oxygen atoms to synthesize red, green, and blue colors. The scene spans well over 80 light-years at the estimated distance of NGC 281.</p>
 
 
 
