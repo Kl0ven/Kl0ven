@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Unusual Spiral Galaxy M66 from Webb</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/M66_JwstTomlinson_1080.jpg"">
+<h3>Full Moons of August</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2308/GianniTumino_SturgeonMoon_Palette_JPG_LOGO_1024.jpg"">
 
 
-<p style="text-align: justify;">Why isn&#39;t spiral galaxy M66 symmetric?  Usually, density waves of gas, dust, and newly formed stars circle a spiral galaxy&#39;s center and create a nearly symmetric galaxy.  The differences between M66&#39;s spiral arms and the apparent displacement of its nucleus are all likely caused by previous close interactions and the tidal gravitational pulls of nearby galaxy neighbors M65 and NGC 3628. The galaxy, featured here in infrared light taken by the James Webb Space Telescope, spans about 100,000 light years, lies about 35 million light years distant, and is the largest galaxy in a group known as the Leo Triplet.  Like many spiral galaxies, the long and intricate dust lanes of M66 are seen intertwined with the bright stars and intergalactic dust that follow the spiral arms.</p>
+<p style="text-align: justify;">Near perigee, the closest point in its almost moonthly orbit, a Full Moon rose as the Sun set on August 1. Its brighter than average lunar disk was captured in this dramatic moonrise sequence over dense cloud banks along the eastern horizon from Ragusa, Sicily. Illuminating night skies around planet Earth it was the second supermoon of 2023. Yet again near perigee, the third supermoon of 2023 will also shine on an August night. Rising as the Sun sets tonight this second Full Moon in August will be known to some as a Blue Moon, even though scattered sunlight gives the lunar disk a reddened hue. Defined as the second full moon in a calendar month, blue moons occur only once every 2 or 3 years. That&#39;s because lunar phases take 29.5 days, almost a calendar month, to go through a complete cycle. Tonight an August Blue Moon will find itself beside bright planet Saturn.</p>
 
 
 
