@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Star Factory Messier 17</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg"">
+<h3>Comet Nishimura Grows</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/Nishimura_Kennett_1080.jpg"">
 
 
-<p style="text-align: justify;">Sculpted by stellar winds and radiation, the star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1&#x2F;3 degree wide field of view spans over 30 light-years. The sharp composite, color image highlights faint details of the region&#39;s gas and dust clouds against a backdrop of central Milky Way stars. Stellar winds and energetic light from hot, massive stars formed from M17&#39;s stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the cavernous appearance and undulating shapes. M17 is also known as the Omega Nebula or the Swan Nebula.</p>
+<p style="text-align: justify;">Comet Nishimura is growing. More precisely, the tails C&#x2F;2023 P1 (Nishimura) are growing as it nears the Sun. Discovered only last month, the comet is already near naked eye brightness as it now moves inside the Earth&#39;s orbit.  The comet will be nearest the Earth next week, but nearest the Sun the week after -- on September 17.  Speculation holds that expelled ice and dust from Comet Nishimura&#39;s last visit to the inner Solar System may have created the Sigma Hydrids meteor shower which peaks yearly in December.  If so, then this meteor shower may become more active, refreshed with new comet debris. Pictured, Comet Nishimura was captured from Edgewood, New Mexico, USA four nights ago, showing a long ion tail structured by interactions with the Sun&#39;s wind. Look for this comet near your eastern horizon just before sunrise for the next few mornings, but very near your western horizon just after sunset next week -- as its coma continues to brighten and its tails continue to grow.    Gallery: Selected Comet Nishimura images submitted to APOD</p>
 
 
 
