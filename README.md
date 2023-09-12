@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Beautiful Comet Nishimura</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/BeautNishimura_Horalek_960.jpg"">
+<h3>Galaxy Cluster Abell 370 and Beyond</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/STSCI-HST-abell370_1024.jpg"">
 
 
-<p style="text-align: justify;">This scene would be beautiful even without the comet. By itself, the sunrise sky is an elegant deep blue on high, with faint white stars peeking through, while near the horizon is a pleasing tan. By itself, the foreground hills of eastern Slovakia are appealingly green, with the Zadňa hura and Veľká hora hills in the distance, and with the lights of small towns along the way.  Venus, by itself on the right, appears unusually exquisite, surrounded by a colorful atmospheric corona. But what attracts the eye most is the comet. On the left, in this composite image taken just before dawn yesterday morning, is Comet Nishimura.  On recent mornings around the globe, its bright coma and long ion tail make many a morning panoramic photo unusually beautiful.  Tomorrow, C&#x2F;2023 P1 (Nishimura) will pass its nearest to the Earth for about the next 434 years.</p>
+<p style="text-align: justify;">Some 4 billion light-years away, massive galaxy cluster Abell 370 is captured in this sharp Hubble Space Telescope snapshot. The cluster of galaxies only appears to be dominated by two giant elliptical galaxies and infested with faint arcs. In reality, the fainter, scattered bluish arcs, along with the dramatic dragon arc below and left of center, are images of galaxies that lie far beyond Abell 370. About twice as distant, their otherwise undetected light is magnified and distorted by the cluster&#39;s enormous gravitational mass, overwhelmingly dominated by unseen dark matter. Providing a tantalizing glimpse of galaxies in the early universe, the effect is known as gravitational lensing. A consequence of warped spacetime, lensing was predicted by Einstein almost a century ago. Far beyond the spiky foreground Milky Way star at lower right, Abell 370 is seen toward the constellation Cetus, the Sea Monster. It was the last of six galaxy clusters imaged in the Frontier Fields project.</p>
 
 
 
