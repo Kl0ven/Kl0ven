@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fireball over Iceland</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg"">
+<h3>Moon Mountains Magnified during Ring of Fire Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_960.jpg"">
 
 
-<p style="text-align: justify;">On September 12, from a location just south of the Arctic Circle, stones of Iceland&#39;s modern Arctic Henge point skyward in this startling scene. Entertaining an intrepid group of aurora hunters during a geomagnetic storm, alluring northern lights dance across the darkened sky when a stunning fireball meteor explodes. Awestruck, the camera-equipped skygazers captured video and still images of the boreal bolide, at its peak about as bright as a full moon. Though quickly fading from view, the fireball left a lingering visible trail or persistent train. The wraith-like trail was seen for minutes wafting in the upper atmosphere at altitudes of 60 to 90 kilometers along with the auroral glow.</p>
+<p style="text-align: justify;">What are those dark streaks in this composite image of a solar eclipse? They are reversed shadows of mountains at the edge of the Moon.  The center image, captured from Xiamen, China, has the Moon&#39;s center directly in front of the Sun&#39;s center. The Moon, though, was too far from the Earth to completely block the entire Sun.  Light that streamed around the edges of the Moon is called a  ring of fire. Images at each end of the sequence show sunlight that streamed through lunar valleys.  As the Moon moved further in front of the Sun, left to right, only the higher peaks on the Moon&#39;s perimeter could block sunlight.  Therefore, the dark streaks are projected, distorted, reversed, and magnified shadows of mountains at the Moon&#39;s edge.  Bright areas are called Baily&#39;s Beads. Only people in a narrow swath across Earth&#39;s Eastern Hemisphere were able to view this full annular solar eclipse in 2020. Next month, though, a narrow swath crossing both North and South America will be exposed to the next annular solar eclipse. And next April, a total solar eclipse will be visible across North America.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library</p>
 
 
 
