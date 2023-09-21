@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Methane Discovered on Distant Exoplanet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/ExoplanetJ2_Jabakenji_960.jpg"">
+<h3>Tagging Bennu</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/d_tag-2-frames.jpg"">
 
 
-<p style="text-align: justify;">Where else might life exist?  One of humanity&#39;s great outstanding questions, locating planets where extrasolar life might survive took a step forward in 2019 with the discovery of a significant amount of water vapor in the atmosphere of distant exoplanet K2-18b. The planet and its parent star, K2-18, lie about 124 light years away toward the constellation of the Lion (Leo). The exoplanet is significantly larger and more massive than our Earth, but orbits in the habitable zone of its home star. K2-18, although more red than our Sun, shines in K2-18b&#39;s sky with a brightness similar to the Sun in Earth&#39;s sky.  The 2019 discovery of atmospheric water was made in data from three space telescopes: Hubble, Spitzer, and Kepler, by noting the absorption of water-vapor colors when the planet moved in front of the star.  Now in 2023, further observations by the Webb Space Telescope in infrared light have uncovered evidence of other life-indicating molecules -- including methane.  The featured illustration imagines exoplanet K2-18b on the far right orbited by a moon (center), which together orbit a red dwarf star depicted on the lower left.</p>
+<p style="text-align: justify;">The OSIRIS-REx spacecraft&#39;s arm reached out and touched asteroid 101955 Bennu on October 20, 2020, after a careful approach to the small, near-Earth asteroid&#39;s boulder-strewn surface. Dubbed a Touch-And-Go (TAG) sampling event, the 30 centimeter wide sampling head (TAGSAM) appears to crush some of the rocks in this close-up recorded by the spacecraft&#39;s SamCam. The image was snapped just after surface contact some 321 million kilometers from planet Earth. One second later, the spacecraft fired nitrogen gas from a bottle intended to blow a substantial amount of Bennu&#39;s regolith into the sampling head, collecting the loose surface material. And now, nearly three years later, on Sunday, September 24, that sample of asteroid Bennu is scheduled to arrive on planet Earth. The sample return capsule will be dropped off by the OSIRIS-Rex spacecraft as it makes a close flyby of Earth. Twenty minutes after the drop-off, the spacecraft will fire its thrusters to divert past Earth and continue on to orbit near-Earth asteroid 99942 Apophis.</p>
 
 
 
