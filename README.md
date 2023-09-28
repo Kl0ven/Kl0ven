@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>STEVE and Milky Way Cross over Rural Road</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/SteveMw_Clarke_960.jpg"">
+<h3>The Deep Lagoon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/M8-Mos-SL10-DCPrgb-st-154-cC-cr1024.jpg"">
 
 
-<p style="text-align: justify;">Not every road ends in a STEVE. A week ago, a sky enthusiast&#39;s journey began with a goal: to photograph an aurora over Lake Huron. Driving through rural Ontario, Canada, the forecasted sky show started unexpectedly early, causing the photographer to stop before arriving at the scenic Great Lake. Aurora images were taken toward the north -- but over land, not sea. While waiting for a second round of auroras, a peculiar band of light was noticed to the west.  Slowly, the photographer and friends realized that this western band was likely an unusual type of aurora: a Strong Thermal Emission Velocity Enhancement (STEVE). Moreover, this STEVE was putting on quite a show: appearing intertwined with the central band of our Milky Way Galaxy while intersecting the horizon just near the end of the country road. After capturing this cosmic X on camera, the photographer paused to appreciate the unexpected awesomeness of finding extraordinary beauty in an ordinary setting.     Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">Ridges of glowing interstellar gas and dark dust clouds inhabit the turbulent, cosmic depths of the Lagoon Nebula. Also known as M8, The bright star forming region is about 5,000 light-years distant. It makes for a popular stop on telescopic tours of the constellation Sagittarius toward the center of our Milky Way Galaxy. Dominated by the telltale red emission of ionized hydrogen atoms recombining with stripped electrons, this deep telescopic view of the Lagoon&#39;s central reaches is about 40 light-years across. The bright hourglass shape near the center of the frame is gas ionized and sculpted by energetic radiation and extreme stellar winds from a massive young star.</p>
 
 
 
