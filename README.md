@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Back from Bennu</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/BackFromBennu_1024.jpg"">
+<h3>A Harvest Moon over Tuscany</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/HarvestMoonNest.jpg"">
 
 
-<p style="text-align: justify;">Back from asteroid 101955 Bennu, a 110-pound, 31-inch wide sample return capsule rests in a desert on planet Earth in this photo, taken at the Department of Defense Utah Test and Training Range near Salt Lake City last Sunday, September 24. Dropped off by the OSIRIS-Rex spacecraft, the capsule looks charred from the extreme temperatures experienced during its blistering descent through Earth&#39;s dense atmosphere. OSIRIS-Rex began its home-ward journey from Bennu in May of 2021. Delivered to NASA’s Johnson Space Center in Houston on September 25, the capsule&#39;s canister is expected to contain an uncontaminated sample of about a half pound (250 grams) of Bennu&#39;s loosely packed regolith. Working in a new laboratory designed for the OSIRIS-REx mission, scientists and engineers will complete the canister disassembly process, and plan to unveil the sample of the near-Earth asteroid in a broadcast event on October 11.</p>
+<p style="text-align: justify;">For northern hemisphere dwellers, September&#39;s Full Moon was the Harvest Moon. Reflecting warm hues at sunset, it rises behind cypress trees huddled on a hill top in Tuscany, Italy in this telephoto view from September 28.  Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox.  According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn. This Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a full moon near perigee. It was the fourth and final supermoon for 2023.   Note: Non-NASA APOD mirror sites will be updated if the US goverment shuts down.</p>
 
 
 
