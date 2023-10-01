@@ -64,7 +64,7 @@
  <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2309/HarvestMoonNest.jpg"">
 
 
-<p style="text-align: justify;">For northern hemisphere dwellers, September&#39;s Full Moon was the Harvest Moon. Reflecting warm hues at sunset, it rises behind cypress trees huddled on a hill top in Tuscany, Italy in this telephoto view from September 28.  Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox.  According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn. This Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a full moon near perigee. It was the fourth and final supermoon for 2023.   Note: Non-NASA APOD mirror sites will be updated if the US goverment shuts down.</p>
+<p style="text-align: justify;">For northern hemisphere dwellers, September&#39;s Full Moon was the Harvest Moon. Reflecting warm hues at sunset, it rises behind cypress trees huddled on a hill top in Tuscany, Italy in this telephoto view from September 28.  Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox.  According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn. This Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a full moon near perigee. It was the fourth and final supermoon for 2023.</p>
 
 
 
