@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Sprite Lightning in High Definition</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/HiResSprites_Escurat_1080.jpg"">
+<h3>MyCn 18: The Engraved Hourglass Planetary Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg"">
 
 
-<p style="text-align: justify;">Sometimes lightning occurs out near space.  One such lightning type is red sprite lightning, which has only been photographed and studied on Earth over the past 25 years.  The origins of all types of lightning remain topics for research, and scientists are still trying to figure out why red sprite lightning occurs at all.  Research has shown that following a powerful positive cloud-to-ground lightning strike, red sprites may start as 100-meter balls of ionized air that shoot down from about 80-km high at 10 percent the speed of light. They are quickly followed by a group of upward streaking ionized balls. Featured here is an extraordinarily high-resolution image of a group of red sprites. This image is a single frame lasting only 1&#x2F;25th of a second from a video taken above Castelnaud Castle in Dordogne, France, about three weeks ago. The sprites quickly vanished -- no sprites were visible even on the very next video frame.</p>
+<p style="text-align: justify;">Do you see the hourglass shape -- or does it see you?  If you can picture it, the rings of MyCn 18 trace the outline of an hourglass -- although one with an unusual eye in its center.  Either way, the sands of time are running out for the central star of this hourglass-shaped planetary nebula. With its nuclear fuel exhausted, this brief, spectacular, closing phase of a Sun-like star&#39;s life occurs as its outer layers are ejected - its core becoming a cooling, fading white dwarf. In 1995, astronomers used the Hubble Space Telescope (HST) to make a series of images of planetary nebulae, including the one featured here.  Pictured, delicate rings of colorful glowing gas (nitrogen-red, hydrogen-green, and oxygen-blue) outline the tenuous walls of the hourglass. The unprecedented sharpness of the Hubble images has revealed surprising details of the nebula ejection process that are helping to resolve the outstanding mysteries of the complex shapes and symmetries of planetary nebulas like MyCn 18.</p>
 
 
 
