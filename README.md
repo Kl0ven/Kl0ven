@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>MyCn 18: The Engraved Hourglass Planetary Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg"">
+<h3>IC 2118: The Witch Head Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/WitchHead_Alharbi_1080.jpg"">
 
 
-<p style="text-align: justify;">Do you see the hourglass shape -- or does it see you?  If you can picture it, the rings of MyCn 18 trace the outline of an hourglass -- although one with an unusual eye in its center.  Either way, the sands of time are running out for the central star of this hourglass-shaped planetary nebula. With its nuclear fuel exhausted, this brief, spectacular, closing phase of a Sun-like star&#39;s life occurs as its outer layers are ejected - its core becoming a cooling, fading white dwarf. In 1995, astronomers used the Hubble Space Telescope (HST) to make a series of images of planetary nebulae, including the one featured here.  Pictured, delicate rings of colorful glowing gas (nitrogen-red, hydrogen-green, and oxygen-blue) outline the tenuous walls of the hourglass. The unprecedented sharpness of the Hubble images has revealed surprising details of the nebula ejection process that are helping to resolve the outstanding mysteries of the complex shapes and symmetries of planetary nebulas like MyCn 18.</p>
+<p style="text-align: justify;">Does this nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula&#39;s shape resembles a Halloween-style caricature of a witch&#39;s head. Exactly how, though, can be a topic of imaginative speculation.  What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies below the bottom of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel&#39;s intense blue starlight but because the dust grains scatter blue light more efficiently than red.  The same physical process causes Earth&#39;s daytime sky to appear blue, although the scatterers in planet Earth&#39;s atmosphere are molecules of nitrogen and oxygen.</p>
 
 
 
