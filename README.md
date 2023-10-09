@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Plane, Clouds, Moon, Spots, Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/PlaneEclipse_Slifer_960.jpg"">
+<h3>A Distorted Sunrise Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/DistortedSunrise_Chasiotis_1080.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that in front of the Sun?  The closest object is an airplane, visible just below the Sun&#39;s center and caught purely by chance.  Next out are numerous clouds in Earth&#39;s atmosphere, creating a series of darkened horizontal streaks. Farther out is Earth&#39;s Moon, seen as the large dark circular bite on the upper right. Just above the airplane and just below the Sun&#39;s surface are sunspots. The main sunspot group captured here, AR 2192, was in 2014 one of the largest ever recorded and had been crackling and bursting with flares since it came around the edge of the Sun a week before. This show of solar silhouettes was unfortunately short-lived.  Within a few seconds the plane flew away. Within a few minutes the clouds drifted off. Within a few hours the partial solar eclipse of the Sun by the Moon was over. Fortunately, when it comes to the Sun, even unexpected  alignments are surprisingly frequent. Perhaps one will be imaged this Saturday when a new partial solar eclipse will be visible from much of North and South America.    APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm</p>
+<p style="text-align: justify;">Yes, but have you ever seen a sunrise like this?  Here, after initial cloudiness, the Sun appeared to rise in two pieces and during a partial eclipse in 2019, causing the photographer to describe it as the most stunning sunrise of his life.  The dark circle near the top of the atmospherically-reddened Sun is the Moon -- but so is the dark peak just below it.  This is because along the way, the Earth&#39;s atmosphere had a layer of unusually warm air over the sea which acted like a gigantic lens and created a second image.  For a normal sunrise or sunset, this rare phenomenon of atmospheric optics is known as the Etruscan vase effect. The featured picture was captured in December 2019 from Al Wakrah, Qatar.  Some observers in a narrow band of Earth to the east were able to see a full annular solar eclipse -- where the Moon appears completely surrounded by the background Sun in a ring of fire.  The next solar eclipse, also an annular eclipse for well-placed observers, will occur this coming Saturday.   APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm</p>
 
 
 
