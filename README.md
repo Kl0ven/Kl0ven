@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mu Cephei</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/MuCephei_apod1024.jpg"">
+<h3>Hydrogen Clouds of M33</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg"">
 
 
-<p style="text-align: justify;">Mu Cephei is a very large star. An M-class supergiant some 1500 times the size of the Sun, it is one of the largest stars visible to the unaided eye, and even one of the largest in the entire Galaxy. If it replaced the Sun in our fair Solar System, Mu Cephei would easily engulf Mars and Jupiter. Historically known as Herschel&#39;s Garnet Star, Mu Cephei is extremely red. Approximately 2800 light-years distant, the supergiant is seen near the edge of reddish emission nebula IC 1396 toward the royal northern constellation Cepheus in this telescopic view. Much cooler and hence redder than the Sun, this supergiant&#39;s light is further reddened by absorption and scattering due to intervening dust within the Milky Way. A well-studied variable star understood to be in a late phase of stellar evolution, Mu Cephei is a massive star too, destined to ultimately explode as a core-collapse supernova.   APOD editor to speak: in Houghton, Michigan tonight, Thursday, October 12, at 6 pm</p>
+<p style="text-align: justify;">Gorgeous spiral galaxy Messier 33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  The galaxy&#39;s central 30,000 light-years or so are shown in this sharp galaxy portrait. The portrait features M33&#39;s reddish ionized hydrogen clouds or HII regions. Sprawling along loose spiral arms that wind toward the core, M33&#39;s giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. In this image, broadband data were combined with narrowband data recorded through a hydrogen-alpha filter. That filter transmits the light of the strongest visible hydrogen emission line.</p>
 
 
 
