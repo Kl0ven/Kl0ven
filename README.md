@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Circular Sun Halo</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg"">
+<h3>An Eclipse Tree</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_960.jpg"">
 
 
-<p style="text-align: justify;">Want to see a ring around the Sun? It&#39;s easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29, 2021 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo&#39;s characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That&#39;s harder. The spectacular annular phase of today&#39;s (October 14) solar eclipse, known as a ring of fire, is briefly visible only when standing along the Moon&#39;s narrow shadow track that passes over limited parts of North, Central, and South America. The solar eclipse is partial though, when seen from broader regions throughout the Americas.   Album growing: Selected eclipse images sent in to APOD</p>
+<p style="text-align: justify;">Yes, but can your tree do this?  If you look closely at the ground in the featured image, you will see many images of yesterday&#39;s solar eclipse -- created by a tree. Gaps between tree leaves act like pinhole lenses and each create a small image of the partially eclipsed Sun visible in the other direction.  The image was taken in Burleson, Texas, USA. Yesterday, people across the Americas were treated to a partial eclipse of the Sun, when the Moon moves in front of part of the Sun. People in a narrow band of Earth were treated to an annular eclipse, also called a ring-of-fire eclipse, when the Moon becomes completely engulfed by the Sun and sunlight streams around all of the Moon&#39;s edges. In answer to the lede question, your tree not only can do this, but will do it every time that a visible solar eclipse passes overhead.  Next April 8, a deeper, total solar eclipse will move across North America.   Album: Selected eclipse images sent in to APOD</p>
 
 
 
