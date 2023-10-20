@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Sunrise at Sunset Point</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg"">
+<h3>Galaxies and a Comet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/C2023H2LemmonGalaxies1024.jpg"">
 
 
-<p style="text-align: justify;">This timelapse series captured on October 14 is set against the sunrise view from Sunset Point, Bryce Canyon, planet Earth. Of course on that date the New Moon caught up with the Sun in the canyon&#39;s morning skies. Local temperatures fell as the Moon&#39;s shadow swept across the high altitude scene and the brilliant morning sunlight became a more subdued yellow hue cast over the reddish rocky landscape. In the timelapse series, images were taken at 2 minute intervals. The camera and solar filter were fixed to a tripod to follow the phases of the annular solar eclipse.   APOD Album: Annular Solar Eclipse of 2023 October</p>
+<p style="text-align: justify;">Galaxies abound in this sharp telescopic image recorded on October 12 in dark skies over June Lake, California. The celestial scene spans nearly 2 degrees within the boundaries of the well-trained northern constellation Canes Venatici. Prominent at the upper left 23.5 million light-years distant is big, beautiful spiral galaxy NGC 4258, known to some as Messier 106. Eye-catching edge-on spiral NGC 4217 is above and right of center about 60 million light-years away. Just passing through the pretty field of view is comet C&#x2F;2023 H2 Lemmon, discovered last April in image data from the Mount Lemmon Survey. Here the comet sports more of a lime green coma though, along with a faint, narrow ion tail stretching toward the top of the frame. This visitor to the inner Solar System is presently less than 7 light-minutes away and still difficult to spot with binoculars, but it&#39;s growing brighter. Comet C&#x2F;2023 H2 Lemmon will reach perihelion, its closest point to the Sun, on October 29 and perigee, its closest to our fair planet, on November 10 as it transitions from morning to evening northern skies.</p>
 
 
 
