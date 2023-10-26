@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Gone in 60 Seconds: A Green Flash Sunset</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=J3_88eyN44w" target="_blank"><img src="http://img.youtube.com/vi/J3_88eyN44w/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Orionids in Taurus</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg"">
 
 
-<p style="text-align: justify;">In 60 seconds, this setting Sun will turn green. Actually, the top of the Sun already appears not only green, but wavey -- along with all of its edges. The Sun itself is unchanged -- both effects are caused by looking along hot and cold layers in Earth&#39;s atmosphere.  The unusual color is known as a green flash and occurs because these atmospheric layers not only shift background images but disperse colors into slightly different directions, like a prism.  The featured video was captured earlier this month off the coast of Hawaii, USA. After waiting those 60 seconds, at the video&#39;s end, the upper part of the Sun seems to hover alone in space, while turning not only green, but blue.  Then suddenly, the Sun appears to shrink to nothing -- only to return tomorrow.</p>
+<p style="text-align: justify;">History&#39;s first known periodic comet, Comet Halley (1P&#x2F;Halley), returns to the inner Solar System every 76 years or so. The famous comet made its last appearance to the naked-eye in 1986. But dusty debris from Comet Halley can be seen raining through planet Earth&#39;s skies twice a year during two annual meteor showers, the Eta Aquarids in May and the Orionids in October. In fact, an unhurried series of exposures captured these two bright meteors, vaporizing bits of Halley dust, during the early morning hours of October 23 against a starry background along the Taurus molecular cloud. Impacting the atmosphere at about 66 kilometers per second their greenish streaks point back to the shower&#39;s radiant just north of Orion&#39;s bright star Betelgeuse off the lower left side of the frame. The familiar Pleiades star cluster anchors the dusty celestial scene at the right.</p>
 
 
 
