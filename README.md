@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jupiter by Moonlight</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/_GHR7338_3_firma_picc1024.jpg"">
+<h3>Dinkinesh Moonrise</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png"">
 
 
-<p style="text-align: justify;">That bright beacon you&#39;ve seen rising in the east just after sunset is Jupiter. Climbing high in midnight skies, our Solar System&#39;s ruling gas giant was at its 2023 opposition, opposite the Sun in planet Earth&#39;s sky, on November 2. But only a few days earlier, on October 28, the Moon was at its own opposition. Then both Full Moon and Jupiter could share this telephoto field of view. The celestial scene is composed from two exposures, one long and one short, blended to record bright planet and even brighter Moon during that evening&#39;s partial lunar eclipse. Moonlight shining through the thin, high clouds over northern Italy creates the colorful iridescence and lunar corona. Look closely and you&#39;ll also spot some of Jupiter&#39;s Galilean moons.</p>
+<p style="text-align: justify;">Last Wednesday the voyaging Lucy spacecraft encountered its first asteroid, 152830 Dinkinesh, and discovered the inner-main belt asteroid has a moon. From a distance of just over 400 kilometers, Lucy&#39;s Long-Range Reconnaissance Imager captured this close-up of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour. A marvelous world, Dinkinesh itself is small, less than 800 meters (about 0.5 miles) across at its widest. Its satellite is seen from the spacecraft&#39;s perspective to emerge from behind the primary asteroid. The asteroid moon is estimated to be only about 220 meters wide.</p>
 
 
 
