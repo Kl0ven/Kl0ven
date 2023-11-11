@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>UHZ1: Distant Galaxy and Black Hole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/uhz1_1024.jpg"">
+<h3>The SAR and the Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/SARarcLooten1024.jpg"">
 
 
-<p style="text-align: justify;">Dominated by dark matter, massive cluster of galaxies Abell 2744 is known to some as Pandora&#39;s Cluster. It lies 3.5 billion light-years away toward the constellation Sculptor. Using the galaxy cluster&#39;s enormous mass as a gravitational lens to warp spacetime and magnify even more distant objects directly behind it, astronomers have found a background galaxy, UHZ1, at a remarkable redshift of Z&#x3D;10.1. That puts UHZ1 far beyond Abell 2744, at a distance of 13.2 billion light-years, seen when our universe was about 3 percent of its current age. UHZ1 is identified in the insets of this composited image combining X-rays (purple hues) from the spacebased Chandra X-ray Observatory and infrared light from the James Webb Space Telescope. The X-ray emission from UHZ1 detected in the Chandra data is the telltale signature of a growing supermassive black hole at the center of the ultra high redshift galaxy.  That makes UHZ1&#39;s growing black hole the most distant black hole ever detected in X-rays, a result that now hints at how and when the first supermassive black holes in the universe formed.</p>
+<p style="text-align: justify;">This broad, luminous red arc was a surprising visitor to partly cloudy evening skies over northern France. Captured extending toward the zenith in a west-to-east mosaic of images from November 5, the faint atmospheric ribbon of light is an example of a Stable Auroral Red (SAR) arc. The rare night sky phenomenon was also spotted at unusually low latitudes around world, along with more dynamic auroral displays during an intense geomagnetic storm. SAR arcs and their relation to auroral emission have been explored by citizen science and satellite investigations. From altitudes substantially above the normal auroral glow, the deep red SAR emission is thought to be caused by strong heating due to currents flowing in planet Earth&#39;s inner magnetosphere. Beyond this SAR, the Milky Way arcs above the cloud banks along the horizon, a regular visitor to night skies over northern France.</p>
 
 
 
