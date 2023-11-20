@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Space Station, Solar Prominences, Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/IssSun_Ergun_960.jpg"">
+<h3>The Horsehead Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg"">
 
 
-<p style="text-align: justify;">That&#39;s no sunspot. It&#39;s the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no Dragon capsules attached.  By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most complicated spacecraft ever created by humanity.  Also, sunspots circle the Sun, whereas the ISS orbits the Earth.  Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one&#39;s location, timing and equipment just right for a great image is rare.  The featured picture combined three images all taken in 2021 from the same location and at nearly the same time. One image -- overexposed -- captured the faint prominences seen across the top of the Sun, a second image -- underexposed -- captured the complex texture of the Sun&#39;s chromosphere, while the third image -- the hardest to get -- captured the space station as it shot across the Sun in a fraction of a second.  Close inspection of the space station&#39;s silhouette even reveals a docked Dragon Crew capsule.   Follow APOD on Instagram in: Arabic, English, Persian, Portuguese, and Taiwanese</p>
+<p style="text-align: justify;">Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape.  Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years &quot;tall,&quot; the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434.  Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left of the full image.  The featured gorgeous color image combines both narrowband and broadband images recorded using several different telescopes.    New: Follow APOD on Telegram</p>
 
 
 
