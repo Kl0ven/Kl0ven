@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fleming&#39;s Triangular Wisp</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg"">
+<h3>IC 342: Hidden Galaxy in Camelopardalis</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg"">
 
 
-<p style="text-align: justify;">These chaotic and tangled filaments of shocked, glowing gas are spread across planet Earth&#39;s sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in red and oxygen in blue hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering&#39;s Triangle for a director of Harvard College Observatory, it is perhaps better named for its discoverer, astronomer Williamina Fleming, as Fleming&#39;s Triangular Wisp.   New: Follow APOD on Telegram</p>
+<p style="text-align: justify;">Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342&#39;s light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy&#39;s own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy&#39;s core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.</p>
 
 
 
