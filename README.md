@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>IC 342: Hidden Galaxy in Camelopardalis</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg"">
+<h3>Along the Taurus Molecular Cloud</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/ngc1555wide1024.jpg"">
 
 
-<p style="text-align: justify;">Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342&#39;s light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy&#39;s own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy&#39;s core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.</p>
+<p style="text-align: justify;">The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region&#39;s Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind&#39;s Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation.</p>
 
 
 
