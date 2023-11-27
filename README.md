@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Dust Jet from the Surface of Comet 67P</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg"">
+<h3>LBN 86: The Eagle Ray Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_960.jpg"">
 
 
-<p style="text-align: justify;">Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  In 2016, though, ESA&#39;s Rosetta spacecraft not only imaged a jet emerging from Comet 67P&#x2F;Churyumov-Gerasimenko, but flew right through it.  Featured is a telling picture showing a bright plume emerging from a small circular dip bounded on one side by a 10-meter high wall.  Analyses of Rosetta data show that the jet was composed of both dust and water-ice. The rugged but otherwise unremarkable terrain indicates that something likely happened far under the porous surface to create the plume.  This image was taken about two months before Rosetta&#39;s mission ended with a controlled impact onto Comet 67P&#39;s surface.</p>
+<p style="text-align: justify;">This eagle ray glides across a cosmic sea.  Officially cataloged as SH2-63 and LBN 86, the dark nebula is composed of gas and dust that just happens to appear shaped like a common ocean fish.  The interstellar dust nebula appears light brown as it blocks and reddens visible light emitted behind it. Dark nebulas glow primarily in infrared light, but also reflect visible light from surrounding stars. The dust in dark nebulas is usually sub-millimeter chunks of carbon, silicon, and oxygen, frequently coated with frozen carbon monoxide and nitrogen.  Dark nebulas are also known as molecular clouds because they also contain relatively high amounts of molecular hydrogen and larger molecules. Previously unnamed, the here dubbed Eagle Ray Nebula is normally quite dim but has been imaged clearly over 20-hours through dark skies in Chile.    Follow APOD on: Discord</p>
 
 
 
