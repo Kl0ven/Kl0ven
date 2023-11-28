@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>LBN 86: The Eagle Ray Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_960.jpg"">
+<h3>Ganymede from Juno</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_960.jpg"">
 
 
-<p style="text-align: justify;">This eagle ray glides across a cosmic sea.  Officially cataloged as SH2-63 and LBN 86, the dark nebula is composed of gas and dust that just happens to appear shaped like a common ocean fish.  The interstellar dust nebula appears light brown as it blocks and reddens visible light emitted behind it. Dark nebulas glow primarily in infrared light, but also reflect visible light from surrounding stars. The dust in dark nebulas is usually sub-millimeter chunks of carbon, silicon, and oxygen, frequently coated with frozen carbon monoxide and nitrogen.  Dark nebulas are also known as molecular clouds because they also contain relatively high amounts of molecular hydrogen and larger molecules. Previously unnamed, the here dubbed Eagle Ray Nebula is normally quite dim but has been imaged clearly over 20-hours through dark skies in Chile.    Follow APOD on: Discord</p>
+<p style="text-align: justify;">What does the largest moon in the Solar System look like?  Jupiter&#39;s moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth&#39;s Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured in 2021 by NASA&#39;s robotic Juno spacecraft when it passed by the immense moon.  The close pass reduced Juno&#39;s orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet&#39;s high gravity, unusual magnetic field, and complex cloud structures.    Follow Podcasts about APOD&#39;s Images: on YouTube</p>
 
 
 
