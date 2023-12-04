@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Moon Setting Behind Teide Volcano</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=afHfMMC-MJE" target="_blank"><img src="http://img.youtube.com/vi/afHfMMC-MJE/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Plane Crossing Crescent Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg"">
 
 
-<p style="text-align: justify;">These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon rises just when the Sun sets because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during the full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.</p>
+<p style="text-align: justify;">No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane&#39;s contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.</p>
 
 
 
