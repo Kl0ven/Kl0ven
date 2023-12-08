@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Orion and the Ocean of Storms</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/art001e002132_apod1024.jpg"">
+<h3>Vega and Comet 12P&#x2F;Pons-Brooks</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett1024.jpg"">
 
 
-<p style="text-align: justify;">On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion&#39;s extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon&#39;s lava-flooded maria. The lunar terminator, shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler&#39;s bright rays extend to the north and west, reaching the dark-floored Marius. By December 11, 2022 the Orion spacecraft had reached its home world. The historic Artemis 1 mission ended with Orion&#39;s successful splashdown in planet Earth&#39;s water-flooded Pacific Ocean.</p>
+<p style="text-align: justify;">On December 4, periodic Comet 12P&#x2F;Pons-Brooks shared this telescopic field of view with Vega, alpha star of the northern constellation Lyra. Fifth brightest star in planet Earth&#39;s night, Vega is some 25 light-years distant while the much fainter comet was about 21 light-minutes away. In recent months, outbursts have caused dramatic increases in brightness for Pons-Brooks though. Nicknamed the Devil Comet for its hornlike appearance, fans of interstellar spaceflight have also suggested the distorted shape of this comet&#39;s large coma looks like the Millenium Falcon. A Halley-type comet, 12P&#x2F;Pons-Brooks last visited the inner Solar System in 1954. Its next perihelion passage or closest approach to the Sun will be April 21, 2024. That&#39;s just two weeks after the April 8 total solar eclipse path crosses North America. But, highly inclined to the Solar System&#39;s ecliptic plane, the orbit of periodic Comet 12P&#x2F;Pons-Brooks will never cross the orbit of planet Earth.</p>
 
 
 
