@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Vega and Comet 12P&#x2F;Pons-Brooks</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett1024.jpg"">
+<h3>Pic du Pleiades</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/_MG_4553_rawfile1024.jpg"">
 
 
-<p style="text-align: justify;">On December 4, periodic Comet 12P&#x2F;Pons-Brooks shared this telescopic field of view with Vega, alpha star of the northern constellation Lyra. Fifth brightest star in planet Earth&#39;s night, Vega is some 25 light-years distant while the much fainter comet was about 21 light-minutes away. In recent months, outbursts have caused dramatic increases in brightness for Pons-Brooks though. Nicknamed the Devil Comet for its hornlike appearance, fans of interstellar spaceflight have also suggested the distorted shape of this comet&#39;s large coma looks like the Millenium Falcon. A Halley-type comet, 12P&#x2F;Pons-Brooks last visited the inner Solar System in 1954. Its next perihelion passage or closest approach to the Sun will be April 21, 2024. That&#39;s just two weeks after the April 8 total solar eclipse path crosses North America. But, highly inclined to the Solar System&#39;s ecliptic plane, the orbit of periodic Comet 12P&#x2F;Pons-Brooks will never cross the orbit of planet Earth.</p>
+<p style="text-align: justify;">Near dawn on November 19 the Pleiades stood in still dark skies over the French Pyrenees. But just before sunrise a serendipitous moment was captured in this single 3 second exposure; a bright meteor streak appeared to pierce the heart of the galactic star cluster. From the camera&#39;s perspective, star cluster and meteor were poised directly above the mountain top observatory on the Pic du Midi de Bigorre. And though astronomers might consider the Pleiades to be relatively close by, the grain of dust vaporizing as it plowed through planet Earth&#39;s upper atmosphere actually missed the cluster&#39;s tight grouping of young stars by about 400 light-years. While recording a night sky timelapse series, the camera and telephoto lens were fixed to a tripod on the Tour-de-France-cycled slopes of the Col du Tourmalet about 5 kilometers from the Pic du Midi.</p>
 
 
 
