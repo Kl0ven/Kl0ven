@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Geminids over China&#39;s Nianhu Lake</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_1080.jpg"">
+<h3>The Same Color Illusion</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/greyillusion_wikipedia_960.jpg"">
 
 
-<p style="text-align: justify;">Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken a few days ago through dark skies from Nianhu Lake in China. Over 100 bright meteor streaks from the Geminids meteor shower are visible.    APOD Year in Review (2023): RJN&#39;s Night Sky Network Lecture</p>
+<p style="text-align: justify;">Are squares A and B the same color? They are! To verify this, either run your cursor over the image or click here to see them connected.  The featured illusion, an example of the same color illusion, illustrates that purely human perceptions in science may be ambiguous or inaccurate, even such a seemingly direct perception as relative color.  Similar illusions exist on the sky, such as the size of the Moon near the horizon, or the apparent shapes of astronomical objects.  The advent of automated, reproducible measuring devices such as CCDs have made science in general and astronomy in particular less prone to, but not free of, human-biased illusions.    APOD Year in Review (2023): RJN&#39;s Night Sky Network Lecture</p>
 
 
 
