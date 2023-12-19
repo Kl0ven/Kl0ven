@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Same Color Illusion</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/greyillusion_wikipedia_960.jpg"">
+<h3>NGC 1499: The California Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/CalNeb_Powell_960.jpg"">
 
 
-<p style="text-align: justify;">Are squares A and B the same color? They are! To verify this, either run your cursor over the image or click here to see them connected.  The featured illusion, an example of the same color illusion, illustrates that purely human perceptions in science may be ambiguous or inaccurate, even such a seemingly direct perception as relative color.  Similar illusions exist on the sky, such as the size of the Moon near the horizon, or the apparent shapes of astronomical objects.  The advent of automated, reproducible measuring devices such as CCDs have made science in general and astronomy in particular less prone to, but not free of, human-biased illusions.    APOD Year in Review (2023): RJN&#39;s Night Sky Network Lecture</p>
+<p style="text-align: justify;">Could Queen Calafia&#39;s mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way&#39;s Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   Explore Your Universe: Random APOD Generator</p>
 
 
 
