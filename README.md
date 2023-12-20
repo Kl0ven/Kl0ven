@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 1499: The California Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/CalNeb_Powell_960.jpg"">
+<h3>Ice Halos over Bavaria</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_960.jpg"">
 
 
-<p style="text-align: justify;">Could Queen Calafia&#39;s mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way&#39;s Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">What&#39;s causing those unusual sky arcs? Ice crystals.  While crossing a field of fresh snow near Füssen, Bavaria, Germany, earlier this month, the photographer noticed that he had entered an ice fog.  For suspended water to freeze into an ice fog requires quite cold temperatures, and indeed the air temperature on this day was measured at well below zero.  The ice fog reflected light from the Sun setting behind St. Coleman Church.  The result was one of the greatest spectacles the photographer has ever seen. First, the spots in the featured picture are not background stars but suspended ice and snow. Next, two prominent ice halos are visible: the 22-degree halo and the 46-degree halo. Multiple arcs are also visible, including, from top to bottom, antisolar (subsun), circumzenithal, Parry, tangent, and parhelic (horizontal). Finally, the balloon shaped curve connecting the top arc to the Sun is the rarest of all: it is the heliac arc, created by reflection from the sides of hexagonally shaped ice crystals suspended in a horizontal orientation.</p>
 
 
 
