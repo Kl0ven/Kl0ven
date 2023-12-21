@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ice Halos over Bavaria</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_960.jpg"">
+<h3>Three Galaxies and a Comet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/C2020_V2_ZTF_CHILESCOPE_DEBartlett1024.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s causing those unusual sky arcs? Ice crystals.  While crossing a field of fresh snow near Füssen, Bavaria, Germany, earlier this month, the photographer noticed that he had entered an ice fog.  For suspended water to freeze into an ice fog requires quite cold temperatures, and indeed the air temperature on this day was measured at well below zero.  The ice fog reflected light from the Sun setting behind St. Coleman Church.  The result was one of the greatest spectacles the photographer has ever seen. First, the spots in the featured picture are not background stars but suspended ice and snow. Next, two prominent ice halos are visible: the 22-degree halo and the 46-degree halo. Multiple arcs are also visible, including, from top to bottom, antisolar (subsun), circumzenithal, Parry, tangent, and parhelic (horizontal). Finally, the balloon shaped curve connecting the top arc to the Sun is the rarest of all: it is the heliac arc, created by reflection from the sides of hexagonally shaped ice crystals suspended in a horizontal orientation.</p>
+<p style="text-align: justify;">Distant galaxies abound in this one degree wide field of view toward the southern constellation Grus (The Crane). But the three spiral galaxies at the lower right are quite striking. In fact, all three galaxies are grouped about 70 million light years away and sometimes known as the Grus Triplet. They share the pretty telescopic frame, recorded on December 13, with the comet designated C&#x2F;2020 V2 ZTF. Now outbound from the inner Solar System and swinging below the ecliptic plane in a hyperbolic orbit, the comet was about 29 light-minutes from our fair planet in this image. And though comet ZTF was brighter when it was closest to the Sun last May and closest to Earth in September of 2023, it still shines in telescopes pointed toward southern night skies, remaining almost as bright as the Grus Triplet galaxies.</p>
 
 
 
