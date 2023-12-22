@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Three Galaxies and a Comet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/C2020_V2_ZTF_CHILESCOPE_DEBartlett1024.jpg"">
+<h3>183 Days in the Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/solsticesolargraphy1024.jpg"">
 
 
-<p style="text-align: justify;">Distant galaxies abound in this one degree wide field of view toward the southern constellation Grus (The Crane). But the three spiral galaxies at the lower right are quite striking. In fact, all three galaxies are grouped about 70 million light years away and sometimes known as the Grus Triplet. They share the pretty telescopic frame, recorded on December 13, with the comet designated C&#x2F;2020 V2 ZTF. Now outbound from the inner Solar System and swinging below the ecliptic plane in a hyperbolic orbit, the comet was about 29 light-minutes from our fair planet in this image. And though comet ZTF was brighter when it was closest to the Sun last May and closest to Earth in September of 2023, it still shines in telescopes pointed toward southern night skies, remaining almost as bright as the Grus Triplet galaxies.</p>
+<p style="text-align: justify;">A single 183 day exposure with a pinhole camera and photographic paper resulted in this long-duration solargraph. Recorded from solstice to solstice, June 21 to December 21, in 2022, it follows the Sun&#39;s daily arcing path through planet Earth&#39;s skies from Mertola, Portugal. On June 21, the Sun&#39;s highest point and longest arc represents the longest day and the astronomical beginning of summer in the northern hemisphere. The solstice date with the fewest hours of daylight is at the beginning of winter in the north, corresponding to the Sun&#39;s shortest and lowest arc in the 2022 solargraph. For 2023, the northern winter solstice was on December 22 at 3:27 UTC. That&#39;s December 21 for North America time zones.</p>
 
 
 
