@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A December Summer Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg"">
+<h3>NGC 2440: Cocoon of a New White Dwarf</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg"">
 
 
-<p style="text-align: justify;">Colours of a serene evening sky are captured in this 8 minute exposure, made near this December&#39;s solstice from New Zealand, southern hemisphere, planet Earth. Looking south, star trails form the short concentric arcs around the rotating planet&#39;s south celestial pole positioned just off the top of the frame. At top and left of center are trails of the Southern Cross stars and a dark smudge from the Milky Way&#39;s Coalsack Nebula. Alpha and Beta Centauri make the brighter yellow and blue tinted trails, reflected below in the waters of Hoopers Inlet in the Pacific coast of the South Island&#39;s Otago Peninsula. On that short December summer night, aurora australis also gave luminous, green and reddish hues to the sky above the hills. An upper atmospheric glow distinct from the aurora excited by collisions with energetic particles, pale greenish bands of airglow caused by a cascade of chemical reactions excited by sunlight can be traced in diagonal bands near the top left.</p>
+<p style="text-align: justify;">What&#39;s that in the center?  Like a butterfly, a white dwarf star begins its life by casting off a cocoon of gas that enclosed its former self.  In this analogy, however, the Sun would be a caterpillar and the ejected shell of gas would become the prettiest cocoon of all.  In the featured cocoon, the planetary nebula designated NGC 2440 contains one of the hottest white dwarf stars known.  The white dwarf can be seen as the bright orange dot near the image center.  Our Sun will eventually become a white dwarf butterfly, but not for another 5 billion years.</p>
 
 
 
