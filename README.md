@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Illustris: A Simulation of the Universe</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=QSivvdIyeG4" target="_blank"><img src="http://img.youtube.com/vi/QSivvdIyeG4/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>NGC 1232: A Grand Design Spiral Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_960.jpg"">
 
 
-<p style="text-align: justify;">How did we get here? Click play, sit back, and watch.  A computer simulation of the evolution of the universe provides insight into how galaxies formed and perspectives into humanity&#39;s place in the universe.  The Illustris project exhausted 20 million CPU hours in 2014 following 12 billion resolution elements spanning a cube 35 million light years on a side as it evolved over 13 billion years. The simulation tracks matter into the formation of a wide variety of galaxy types. As the virtual universe evolves, some of the matter expanding with the universe soon gravitationally condenses to form filaments, galaxies, and clusters of galaxies. The featured video takes the perspective of a virtual camera circling part of this changing universe, first showing the evolution of dark matter, then hydrogen gas coded by temperature (0:45), then heavy elements such as helium and carbon (1:30), and then back to dark matter (2:07). On the lower left the time since the Big Bang is listed, while on the lower right the type of matter being shown is listed.  Explosions (0:50) depict galaxy-center supermassive black holes expelling bubbles of hot gas. Interesting discrepancies between Illustris and the real universe have been studied, including why the simulation produced an overabundance of old stars.</p>
+<p style="text-align: justify;">Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Leading theories indicate that even greater amounts of matter are invisible, in a form we don&#39;t yet know. This pervasive dark matter is postulated, in part, to explain the motions of the visible matter in the outer regions of galaxies.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York</p>
 
 
 
