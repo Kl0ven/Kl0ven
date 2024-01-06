@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Trapezium: At the Heart of Orion</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/Image964_1024.jpg"">
+<h3>The Snows of Churyumov-Gerasimenko</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=PpyPgJHKxSw" target="_blank"><img src="http://img.youtube.com/vi/PpyPgJHKxSw/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Near the center of this sharp cosmic portrait, at the heart of the Orion Nebula, are four hot, massive stars known as the Trapezium. Gathered within a region about 1.5 light-years in radius, they dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region&#39;s entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula&#39;s distance of some 1,500 light-years would make it one of the closest known black holes to planet Earth.</p>
+<p style="text-align: justify;">You couldn&#39;t really be caught in this blizzard while standing by a cliff on periodic comet 67P&#x2F;Churyumov-Gerasimenko. Orbiting the comet in June of 2016, the Rosetta spacecraft&#39;s narrow angle camera did record streaks of dust and ice particles similar to snow as they drifted across the field of view close to the camera and above the comet&#39;s surface. Still, some of the bright specks in the scene are likely due to a rain of energetic charged particles or cosmic rays hitting the camera, and the dense background of stars in the direction of the constellation of the Big Dog (Canis Major). In the video, the background stars are easy to spot trailing from top to bottom. The stunning movie was constructed from 33 consecutive images taken over 25 minutes while Rosetta cruised some 13 kilometers from the comet&#39;s nucleus. In September 2016, the nucleus became the final resting place for the Rosetta spacecraft after its mission was ended with a successful controlled impact on 67P&#x2F;Churyumov-Gerasimenko.</p>
 
 
 
