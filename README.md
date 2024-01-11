@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h2>My name is Jean-Loup, Fullstack developper from France.</h2>
+<h2>My name is Jean-Loup, Fullstack developer from France.</h2>
 <p>Try <span style="font-family: monospace,monospace;font-size: 1em;color: cornflowerblue;background-color: #202020;width: fit-content;padding-left: 5px;padding-right: 5px;border-radius: 5px;margin-top: 8px;">curl -s https://www.kloven.fr/buisness_card</span></p>
 <h2>Things I code with</h2>
 <p>
