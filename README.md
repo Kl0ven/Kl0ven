@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Circling the Sun</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg"">
+<h3>Dragon Aurora over Iceland</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg"">
 
 
-<p style="text-align: justify;">rth&#39;s orbit around the Sun is not a circle, it&#39;s an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year, perihelion was on January 2 at 01:00 UTC, with the Earth about 3 million miles closer to the Sun than it was at aphelion (last July 6), the farthest point in its elliptical orbit. Of course, distance from the Sun doesn&#39;t determine the seasons, and it doesn&#39;t the determine size of Sun halos. Easier to see with the Sun hidden behind a tall tree trunk, this beautiful ice halo forms a 22 degree-wide circle around the Sun, recorded while strolling through the countryside near Heroldstatt, Germany. The Sun halo&#39;s 22 degree angular diameter is determined by the six-sided geometry of water ice crystals drifting high in planet Earth&#39;s atmosphere.</p>
+<p style="text-align: justify;">Have you ever seen a dragon in the sky? Although real flying dragons don&#39;t exist, a huge dragon-shaped aurora developed in the sky over Iceland in 2019.  The aurora was caused by a hole in the Sun&#39;s corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth&#39;s magnetosphere.  As some of those particles then struck Earth&#39;s atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer&#39;s mother ran out to see it and was captured in the foreground.  Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.</p>
 
 
 
