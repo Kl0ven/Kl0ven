@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Dragon Aurora over Iceland</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg"">
+<h3>Star Cluster IC 348 from Webb</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg"">
 
 
-<p style="text-align: justify;">Have you ever seen a dragon in the sky? Although real flying dragons don&#39;t exist, a huge dragon-shaped aurora developed in the sky over Iceland in 2019.  The aurora was caused by a hole in the Sun&#39;s corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth&#39;s magnetosphere.  As some of those particles then struck Earth&#39;s atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer&#39;s mother ran out to see it and was captured in the foreground.  Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.</p>
+<p style="text-align: justify;">Sometimes, it&#39;s the stars that are the hardest to see that are the most interesting. IC 348 is a young star cluster that illuminates surrounding filamentary dust.  The stringy and winding dust appears pink in this recently released infrared image from the Webb Space Telescope. In visible light, this dust reflects mostly blue light, giving the surrounding material the familiar blue hue of a reflection nebula.  Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in infrared light.  These objects are hypothesized to be low mass brown dwarfs.  Evidence for this includes the detection of an unidentified atmospheric chemical, likely a hydrocarbon, seen previously in the atmosphere of Saturn. These objects appear to have masses slightly greater than known planets, only a few times greater than Jupiter.  Together, these indicate that this young star cluster contains something noteworthy -- young planet-mass brown dwarfs that float free, not orbiting any other star.</p>
 
 
 
