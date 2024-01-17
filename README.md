@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Orion You Can Almost See</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/OrionMcc_Guzzini_960.jpg"">
+<h3>America and the Sea of Serenity</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg"">
 
 
-<p style="text-align: justify;">Do you recognize this constellation?  Although it is one of the most recognizable star groupings on the sky, this is a more full Orion than you can see -- an Orion only revealed with long exposure digital camera imaging and post- processing.  Here the cool red giant Betelgeuse takes on a strong orange tint as the brightest star on the upper left.  Orion&#39;s hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse on the lower right, and Bellatrix at the upper right. Lined up in Orion&#39;s belt are three stars all about 1,500 light-years away, born from the constellation&#39;s well-studied interstellar clouds. Just below Orion&#39;s belt is a bright but fuzzy patch that might also look familiar -- the stellar nursery known as Orion&#39;s Nebula.  Finally, just barely visible to the unaided eye but quite striking here is Barnard&#39;s Loop -- a huge gaseous emission nebula surrounding Orion&#39;s Belt and Nebula discovered over 100 years ago by the pioneering Orion photographer E. E. Barnard.</p>
+<p style="text-align: justify;">Get out your red&#x2F;blue glasses and check out this stereo view of another world. The scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17&#39;s landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif&#39;s peak. Beyond the mountains, toward the lunar limb, lies the Moon&#39;s Mare Serenitatis. Four astronauts will venture around the Moon and back again on the Artemis II mission, scheduled for launch no earlier than September 2025.</p>
 
 
 
