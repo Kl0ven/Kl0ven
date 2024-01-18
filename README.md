@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>America and the Sea of Serenity</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg"">
+<h3>Northern Lights from the Stratosphere</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg"">
 
 
-<p style="text-align: justify;">Get out your red&#x2F;blue glasses and check out this stereo view of another world. The scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17&#39;s landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif&#39;s peak. Beyond the mountains, toward the lunar limb, lies the Moon&#39;s Mare Serenitatis. Four astronauts will venture around the Moon and back again on the Artemis II mission, scheduled for launch no earlier than September 2025.</p>
+<p style="text-align: justify;">Northern lights shine in this night skyview from planet Earth&#39;s stratosphere, captured on January 15. The single, 5 second exposure was made with a hand-held camera on board an aircraft above Winnipeg, Canada. During the exposure, terrestrial lights below leave colorful trails along the direction of motion of the speeding aircraft. Above the more distant horizon, energetic particles accelerated along Earth&#39;s magnetic field at the planet&#39;s polar regions excite atomic oxygen to create the shimmering display of Aurora Borealis. The aurora&#39;s characteristic greenish hue is generated at altitudes of 100-300 kilometers and red at even higher altitudes and lower atmospheric densities. The luminous glow of faint stars along the plane of our Milky Way galaxy arcs through the night, while the Andromeda galaxy extends this northern skyview to extragalactic space. A diffuse hint of Andromeda, the closest large spiral to the Milky Way, can just be seen to the upper left.</p>
 
 
 
