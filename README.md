@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Northern Lights from the Stratosphere</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg"">
+<h3>Jupiter over 2 Hours and 30 Minutes</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/2024_01_15-Jup-2h30-Chronograph600.png"">
 
 
-<p style="text-align: justify;">Northern lights shine in this night skyview from planet Earth&#39;s stratosphere, captured on January 15. The single, 5 second exposure was made with a hand-held camera on board an aircraft above Winnipeg, Canada. During the exposure, terrestrial lights below leave colorful trails along the direction of motion of the speeding aircraft. Above the more distant horizon, energetic particles accelerated along Earth&#39;s magnetic field at the planet&#39;s polar regions excite atomic oxygen to create the shimmering display of Aurora Borealis. The aurora&#39;s characteristic greenish hue is generated at altitudes of 100-300 kilometers and red at even higher altitudes and lower atmospheric densities. The luminous glow of faint stars along the plane of our Milky Way galaxy arcs through the night, while the Andromeda galaxy extends this northern skyview to extragalactic space. A diffuse hint of Andromeda, the closest large spiral to the Milky Way, can just be seen to the upper left.</p>
+<p style="text-align: justify;">Jupiter, our Solar System&#39;s ruling gas giant, is also the fastest spinning planet, rotating once in less than 10 hours. The gas giant doesn&#39;t rotate like a solid body though. A day on Jupiter is about 9 hours and 56 minutes long at the poles, decreasing to 9 hours and 50 minutes near the equator. The giant planet&#39;s fast rotation creates strong jet streams, separating its clouds into planet girdling bands of dark belts and bright zones. You can easily follow Jupiter&#39;s rapid rotation in this sharp sequence of images from the night of January 15, all taken with a camera and small telescope outside of Paris, France. Located just south of the equator, the giant planet&#39;s giant storm system, also known as the Great Red Spot, can be seen moving left to right with the planet&#39;s rotation. From lower left to upper right, the sequence spans about 2 hours and 30 minutes.</p>
 
 
 
