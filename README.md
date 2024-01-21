@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Falcon Heavy Boostback Burn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/DSC07781_12Huff800.jpg"">
+<h3>The Upper Michigan Blizzard of 1938</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg"">
 
 
-<p style="text-align: justify;">The December 28 night launch of a Falcon Heavy rocket from Kennedy Space Center in Florida marked the fifth launch for the rocket&#39;s reusable side boosters. About 2 minutes 20 seconds into the flight, the two side boosters separated from the rocket&#39;s core stage. Starting just after booster separation, this three minute long exposure captures the pair&#39;s remarkable boostback burns, maneuvers executed prior to their return to landing zones on planet Earth. While no attempt was made to recover the Falcon Heavy&#39;s core stage, both side boosters landed successfully and can be flown again. The four previous flights for these side boosters included last October&#39;s launch of NASA&#39;s asteroid-bound Psyche mission.  Their next planned flight is on the Europa Clipper mission scheduled for launch in October 2024.</p>
+<p style="text-align: justify;">Yes, but can your blizzard do this? In the Upper Peninsula of Michigan&#39;s Storm of the Century in 1938, some snow drifts reached the level of utility poles. Nearly a meter of new and unexpected snow fell over two days in a storm that started 86 years ago this week.  As snow fell and gale-force winds piled snow to surreal heights, many roads became not only impassable but unplowable; people became stranded, cars, school buses and a train became mired, and even a dangerous fire raged. Two people were killed and some students were forced to spend several consecutive days at school.  The featured image was taken by a local resident soon after the storm. Although all of this snow eventually melted, repeated snow storms like this help build lasting glaciers in snowy regions of our planet Earth.</p>
 
 
 
