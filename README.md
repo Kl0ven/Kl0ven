@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Deep Nebulas: From Seagull to California</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/SeagullToCalifornia_Symon_960.jpg"">
+<h3>Earth and Moon from Beyond</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/EarthMoon_Artemis1Saunders_960.jpg"">
 
 
-<p style="text-align: justify;">How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with faint nebulosity.  This image contains the Pleiades star cluster, Barnard&#39;s Loop, Horsehead Nebula, Orion Nebula, Rosette Nebula, Cone Nebula, Rigel, Jellyfish Nebula, Monkey Head Nebula, Flaming Star Nebula, Tadpole Nebula, Aldebaran, Simeis 147, Seagull Nebula and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a mosaic of 28 images taken over 800 hours from dark skies over Arizona, USA.</p>
+<p style="text-align: justify;">What do the Earth and Moon look like from beyond the Moon? Although frequently photographed together, the familiar duo was captured with this unusual perspective in late 2022 by the robotic Orion spacecraft of NASA&#39;s Artemis I mission as it looped around Earth&#39;s most massive satellite and looked back toward its home world. Since our Earth is about four times the diameter of the Moon, the satellite’s seemingly large size was caused by the capsule being closer to the smaller body. Artemis II, the next launch in NASA’s Artemis series, is currently scheduled to take people around the Moon in 2025, while Artemis III is planned to return humans to lunar surface in late 2026. Last week,  JAXA&#39;s robotic SLIM spacecraft, launched from Japan, landed on the Moon and released two hopping rovers.   Explore Your Universe: Random APOD Generator</p>
 
 
 
