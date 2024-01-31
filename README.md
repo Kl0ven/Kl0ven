@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>SLIM Lands on the Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg"">
+<h3>Camera Orion Rising</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_960.jpg"">
 
 
-<p style="text-align: justify;">New landers are on the Moon. Nearly two weeks ago, Japan&#39;s Smart Lander for Investigating Moon (SLIM) released two rovers as it descended, before its main lander touched down itself. The larger of the two rovers can hop like a frog, while the smaller rover is about the size of a baseball and can move after pulling itself apart like a transformer. The main lander, nicknamed Moon Sniper, is seen in the featured image taken by the smaller rover. Inspection of the image shows that Moon Sniper&#39;s thrusters are facing up, meaning that the lander is upside down from its descent configuration and on its side from its intended landing configuration.  One result is that Moon Sniper&#39;s solar panels are not in the expected orientation, so that powering the lander had to be curtailed and adapted.  SLIM&#39;s lander has already succeeded as a technology demonstration, its main mission, but was not designed to withstand the lunar night -- which starts tomorrow.</p>
+<p style="text-align: justify;">What does Orion rising look like to a camera? During this time of the year, the famous constellation is visible to the southeast just after sunset. From most Earthly locations, Orion&#39;s familiar star pattern, highlighted by the three-stars-in-a-row belt stars, rises sideways. An entire section of the night sky that includes Orion was photographed rising above Śnieżka, a mountain on the border between Poland and the Czech Republic.  The long duration exposure sequence brings up many faint features including the Orion and Flame Nebulas, both encompassed by the curving Barnard&#39;s Loop. The featured wide-angle camera composite also captured night sky icons including the blue Pleiades star cluster at the image top and the red Rosette Nebula to the left of Orion. Famous stars in the frame include Sirius, Betelgeuse, Rigel and Aldebaran. Orion will appear successively higher in the sky at sunset during the coming months.</p>
 
 
 
