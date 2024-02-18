@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Meteor over the Bay of Naples</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2402/MeteorBayofNaples_V2_1024.jpg"">
+<h3>Hoag&#39;s Object: A Nearly Perfect Ring Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_1080.jpg"">
 
 
-<p style="text-align: justify;">A cosmic dust grain plowing through the upper atmosphere much faster than a falling leaf created this brilliant meteor streak. In a serendipitous moment, the sublime night sky view was captured from the resort island of Capri, in the Bay of Naples, on the evening of February 8. Looking across the bay, the camera faces northeast toward the lights of Naples and surrounding cities. Pointing toward the horizon, the meteor streak by chance ends above the silhouette of Mount Vesuvius. One of planet Earth&#39;s most famous volcanos, an eruption of Mount Vesuvius destroyed the city of Pompeii in 79 AD.</p>
+<p style="text-align: justify;">Is this one galaxy or two?  This question came to light in 1950 when astronomer Arthur Hoag chanced upon this unusual extragalactic object.  On the outside is a ring dominated by bright blue stars, while near the center lies a ball of much redder stars that are likely much older.  Between the two is a gap that appears almost completely dark.  How Hoag&#39;s Object formed, including its nearly perfectly round ring of stars and gas, remains unknown.  Genesis hypotheses include a galaxy collision billions of years ago and the gravitational effect of a central bar that has since vanished. The featured photo was taken by the Hubble Space Telescope and reprocessed using an artificially intelligent de-noising algorithm.  Observations in radio waves indicate that Hoag&#39;s Object has not accreted a smaller galaxy in the past billion years.  Hoag&#39;s Object spans about 100,000 light years and lies about 600 million light years away toward the constellation of the Snake (Serpens).  Many galaxies far in the distance are visible toward the right, while coincidentally, visible in the gap at about seven o&#39;clock, is another but more distant ring galaxy.</p>
 
 
 
