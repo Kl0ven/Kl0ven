@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Hoag&#39;s Object: A Nearly Perfect Ring Galaxy</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_1080.jpg"">
+<h3>Looking Sideways from the Parker Solar Probe</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=x-wX-wClfig" target="_blank"><img src="http://img.youtube.com/vi/x-wX-wClfig/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Is this one galaxy or two?  This question came to light in 1950 when astronomer Arthur Hoag chanced upon this unusual extragalactic object.  On the outside is a ring dominated by bright blue stars, while near the center lies a ball of much redder stars that are likely much older.  Between the two is a gap that appears almost completely dark.  How Hoag&#39;s Object formed, including its nearly perfectly round ring of stars and gas, remains unknown.  Genesis hypotheses include a galaxy collision billions of years ago and the gravitational effect of a central bar that has since vanished. The featured photo was taken by the Hubble Space Telescope and reprocessed using an artificially intelligent de-noising algorithm.  Observations in radio waves indicate that Hoag&#39;s Object has not accreted a smaller galaxy in the past billion years.  Hoag&#39;s Object spans about 100,000 light years and lies about 600 million light years away toward the constellation of the Snake (Serpens).  Many galaxies far in the distance are visible toward the right, while coincidentally, visible in the gap at about seven o&#39;clock, is another but more distant ring galaxy.</p>
+<p style="text-align: justify;">What&#39;s happening near the Sun?  To help find out, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions closer to the Sun than ever before. The PSP&#39;s looping orbit brings it nearer to the Sun each time around -- every few months. The featured time-lapse video shows the view looking sideways from behind PSP&#39;s Sun shield during its 16th approach to the Sun last year -- from well within the orbit of Mercury.  The PSP&#39;s Wide Field Imager for Solar Probe (WISPR) cameras took the images over eleven days, but they are digitally compressed here into about one minute video.  The waving of the solar corona is visible, as is a coronal mass ejection, with stars, planets, and even the central band of our Milky Way Galaxy streaming by in the background as the PSP orbits the Sun. PSP has found the solar neighborhood to be surprisingly complex and to include switchbacks -- times when the Sun&#39;s magnetic field briefly reverses itself.</p>
 
 
 
