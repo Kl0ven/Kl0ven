@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Phoenix Aurora over Iceland</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg"">
+<h3>Martian Moon Eclipses Martian Moon</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=hwQTH0IGrwE" target="_blank"><img src="http://img.youtube.com/vi/hwQTH0IGrwE/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">All of the other aurora watchers had gone home. By 3:30 am in Iceland, on a quiet September night, much of that night&#39;s auroras had died down. Suddenly, unexpectedly, a new burst of particles streamed down from space, lighting up the Earth&#39;s atmosphere once again. This time, surprisingly, pareidoliacally, the night lit up with an  amazing shape reminiscent of a giant phoenix. With camera equipment at the ready, two quick sky images were taken, followed immediately by a third of the land.  The mountain in the background is Helgafell, while the small foreground river is called Kaldá, both located about 30 kilometers north of Iceland&#39;s capital Reykjavík. Seasoned skywatchers will note that just above the mountain, toward the left, is the constellation of Orion, while the Pleiades star cluster is also visible just above the frame center.  The 2016 aurora, which lasted only a minute and was soon gone forever --  would possibly be dismissed as a fanciful fable -- were it not captured in the featured, digitally-composed, image mosaic.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">What if there were two moons in the sky -- and they eclipsed each other? This happens on Mars. The featured video shows a version of this unusual eclipse from space. Pictured are the two moons of Mars: the larger Phobos, which orbits closer to the red planet, and the smaller Deimos, which orbits further out. The sequence was captured last year by the ESA’s Mars Express, a robotic spacecraft that itself orbits Mars. A similar eclipse is visible from the Martian surface, although very rarely.  From the surface, though, the closer moon Phobos would appear to pass in front of farther moon Deimos. Most oddly, both moons orbit Mars so close that they appear to move backwards when compared to Earth&#39;s Moon from Earth, both rising in west and setting in the east. Phobos, the closer moon, orbits so close and so fast that it passes nearly overhead about three times a day.</p>
 
 
 
