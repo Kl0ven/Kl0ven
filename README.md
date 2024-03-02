@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Odysseus and The Dish</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/The_Dish_Tracking_IM-1_22February2024_04s.jpg"">
+<h3>Odysseus on the Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png"">
 
 
-<p style="text-align: justify;">Murriyang, the CSIRO’s Parkes Radio Telescope, points toward a nearly Full Moon in this image from New South Wales, Australia, planet Earth. Bathed in moonlight, the 64 meter dish is receiving weak radio signals from Odysseus, following the robotic lander&#39;s February 22 touch down some 300 kilometers north of the Moon&#39;s south pole. The landing of Odysseus represents the first U.S. landing on the Moon since the Apollo 17 mission in 1972. Odysseus&#39; tilted orientation on the lunar surface prevents its high-gain antenna from pointing toward Earth. But the sensitivity of the large, steerable Parkes dish significantly improved the reception of data from the experiments delivered to the lunar surface by the robotic moon lander. Of course the Parkes Radio Telescope dish became famous for its superior lunar television reception during the Apollo 11 mission in 1969, allowing denizens of planet Earth to watch the first moonwalk.</p>
+<p style="text-align: justify;">Methalox rocket engine firing, Odysseus&#39; landing legs absorb first contact with the lunar surface in this wide-angle snapshot from a camera on board the robotic Intuitive Machines Nova-C moon lander. Following the landing on February 22, broken landing legs, visible in the image, ultimately left the lander at rest but tilted. Odysseus&#39; gentle lean into a sloping lunar surface preserved the phone booth-sized lander&#39;s ability to operate, collect solar power, and return images and data to Earth. Its exact landing site in the Moon&#39;s far south polar region was imaged by NASA&#39;s Lunar Reconnaissance Orbiter. Donated by NASA, the American flag seen on the lander&#39;s central panel is 1970 Apollo program flight hardware.</p>
 
 
 
