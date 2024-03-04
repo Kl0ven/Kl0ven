@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Total Solar Eclipse Close-Up in Real Time</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=5D9j-8Vhyto" target="_blank"><img src="http://img.youtube.com/vi/5D9j-8Vhyto/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Light Pillars Over Inner Mongolia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_960.jpg"">
 
 
-<p style="text-align: justify;">How would you feel if the Sun disappeared? Many eclipse watchers across the USA surprised themselves in 2017 with the awe that they felt and the exclamations that they made as the Sun momentarily disappeared behind the Moon. Perhaps expecting just a brief moment of dusk, the spectacle of unusually rapid darkness, breathtakingly bright glowing beads around the Moon&#39;s edge, shockingly pink solar prominences, and a strangely detailed corona stretching across the sky caught many a curmudgeon by surprise.  Many of these attributes  were captured in the featured real-time, three-minute video of 2017&#39;s total solar eclipse. The video frames were acquired in  Warm Springs, Oregon with equipment specifically designed by Jun Ho Oh to track a close-up of the Sun&#39;s periphery during eclipse.  As the video ends, the Sun is seen being reborn on the other side of the Moon from where it departed.  Next month, on April 8th, a new total solar eclipse will be visible in a thin band across North America.</p>
+<p style="text-align: justify;">What&#39;s happening across that field?  Pictured here are not auroras but nearby light pillars, a phenomenon typically much closer.   In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow  sometimes known as a crystal fog.  These ice crystals may then reflect ground lights in columns not unlike a Sun pillar.  The featured image was taken last month across the Wulan Butong Grasslands in Inner Mongolia, China.</p>
 
 
 
