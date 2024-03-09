@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Tarantula Zone</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/Tarantula-HST-ESO-Webb-SS1024.jpg"">
+<h3>Comet Pons-Brooks in Northern Spring</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/2024_03_05_Pons-Brooks_Revuca_1200px.png"">
 
 
-<p style="text-align: justify;">The Tarantula Nebula, also known as 30 Doradus, is more than a thousand light-years in diameter, a giant star forming region within nearby satellite galaxy the Large Magellanic Cloud. About 180 thousand light-years away, it&#39;s the largest, most violent star forming region known in the whole Local Group of galaxies. The cosmic arachnid sprawls across this magnificent view, an assembly of image data from large space- and ground-based telescopes. Within the Tarantula (NGC 2070), intense radiation, stellar winds, and supernova shocks from the central young cluster of massive stars cataloged as R136 energize the nebular glow and shape the spidery filaments. Around the Tarantula are other star forming regions with young star clusters, filaments, and blown-out bubble-shaped clouds. In fact, the frame includes the site of the closest supernova in modern times, SN 1987A, at lower right. The rich field of view spans about 2 degrees or 4 full moons in the southern constellation Dorado. But were the Tarantula Nebula closer, say 1,500 light-years distant like the Milky Way&#39;s own star forming Orion Nebula, it would take up half the sky.</p>
+<p style="text-align: justify;">As spring approaches for northern skygazers Comet 12P&#x2F;Pons-Brooks is growing brighter. Currently visible with small telescopes and binoculars the Halley-type comet could reach naked eye visibility in the coming weeks. Seen despite a foggy atmosphere, the comet&#39;s green coma and long tail hover near the horizon, in this well-composed deep night skyscape from Revuca, Slovakia recorded on March 5. In the sky above the Halley-type comet, the Andromeda (right) and Triangulum galaxies flank bright star Mirach, beta star of the constellation Andromeda. The two spiral galaxies are members of our local galaxy group and over 2.5 million light-years distant. Comet Pons-Brooks is a periodic visitor to the inner Solar System and less than 14 light-minutes away. Reaching its perihelion on April 21, this comet should be visible in the sky during the April 8 total solar eclipse.</p>
 
 
 
