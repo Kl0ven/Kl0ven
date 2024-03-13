@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Galaxy-Shaped Rocket Exhaust Spiral</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_960.jpg"">
+<h3>The Seagull Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that over the horizon? What may look like a strangely nearby galaxy is actually a normal rocket&#39;s exhaust plume -- but unusually backlit.  Although the SpaceX Falcon 9 rocket was launched from Vandenberg Space Force Base in California, USA, its burned propellant was visible over a much wider area, with the featured photograph being taken from Akureyri, Iceland. The huge spaceship was lifted off a week ago, and the resulting spectacle was captured soon afterward with a single 10-second smartphone exposure, before it quickly dissipated. Like noctilucent clouds, the plume&#39;s brightness is caused by the Twilight Effect, where an object is high enough to be illuminated by the twilight Sun, even when the observer on the ground experiences the darkness of night. The spiral shape is caused by the Falcon  rocket reorienting to release satellites in different directions. Stars and faint green and red aurora appear in the background of this extraordinary image.</p>
+<p style="text-align: justify;">A broad expanse of glowing gas and dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker: the Seagull Nebula. This portrait of the cosmic bird covers a 1.6-degree wide swath across the plane of the Milky Way, near the direction of Sirius, the alpha star of the constellation of the Big Dog (Canis Major). Of course, the region includes objects with other catalog designations: notably NGC 2327, a compact, dusty emission and reflection nebula with an embedded massive star that forms the bird&#39;s head. Dominated by the reddish glow of atomic hydrogen, the complex of gas and dust clouds with bright young stars spans over 100 light-years at an estimated 3,800 light-year distance.   Almost Hyperspace: Random APOD Generator</p>
 
 
 
