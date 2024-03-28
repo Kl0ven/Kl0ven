@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Coma Cluster of Galaxies</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg"">
+<h3>Millions of Stars in Omega Centauri</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2403/NGC5139_mdf1024.png"">
 
 
-<p style="text-align: justify;">Almost every object in the featured photograph is a galaxy.  The Coma Cluster of Galaxies pictured here is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other.  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma&#39;s X-ray emission is still being investigated.</p>
+<p style="text-align: justify;">Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It&#39;s the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri&#39;s red giant stars are easy to pick out in this sharp, color telescopic view.</p>
 
 
 
