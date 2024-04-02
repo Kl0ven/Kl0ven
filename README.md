@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Swirling Magnetic Field around Our Galaxy&#39;s Central Black Hole</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg"">
+<h3>Detailed View of a Solar Eclipse Corona</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1080.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s happening to the big black hole in the center of our galaxy?  It is sucking in matter from a swirling disk -- a disk that is magnetized, it has now been confirmed. Specifically, the black hole&#39;s accretion disk has recently been seen to emit polarized light, radiation frequently associated with a magnetized source. Pictured here is a close-up of Sgr A*, our Galaxy&#39;s central black hole, taken by radio telescopes around the world participating in the Event Horizon Telescope (EHT) Collaboration.  Superposed are illustrative curved lines indicating polarized light likely emitted from swirling magnetized gas that will soon fall into the 4+ million solar mass central black hole.  The central part of this image is likely dark because little light-emitting gas is visible between us and the dark event horizon of the black hole.  Continued EHT monitoring of this and M87&#39;s central black hole may yield new clues about the gravity of black holes and how infalling matter creates disks and jets.    NASA Predicts:  Moon to Get in Way of Sun</p>
+<p style="text-align: justify;">Only in the fleeting darkness of a total solar eclipse is the light of the solar corona easily visible. Normally overwhelmed by the bright solar disk, the expansive corona, the sun&#39;s outer atmosphere, is an alluring sight. But the subtle details and extreme ranges in the corona&#39;s brightness, although discernible to the eye, are notoriously difficult to photograph. Pictured here, however, using multiple images and digital processing, is a detailed image of the Sun&#39;s corona taken during the April 20, 2023 total solar eclipse from Exmouth, Australia. Clearly visible are intricate layers and glowing caustics of an ever changing mixture of hot gas and magnetic fields. Bright looping prominences appear pink just around the Sun&#39;s limb. A similar solar corona might be visible through clear skies in a narrow swath across the North America during the total solar eclipse that occurs just six days from today  NASA Coverage: Total Solar Eclipse of 2024 April 8</p>
 
 
 
