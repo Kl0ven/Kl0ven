@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Detailed View of a Solar Eclipse Corona</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1080.jpg"">
+<h3>Unusual Nebula Pa 30</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/Pa30V_NASA_960.jpg"">
 
 
-<p style="text-align: justify;">Only in the fleeting darkness of a total solar eclipse is the light of the solar corona easily visible. Normally overwhelmed by the bright solar disk, the expansive corona, the sun&#39;s outer atmosphere, is an alluring sight. But the subtle details and extreme ranges in the corona&#39;s brightness, although discernible to the eye, are notoriously difficult to photograph. Pictured here, however, using multiple images and digital processing, is a detailed image of the Sun&#39;s corona taken during the April 20, 2023 total solar eclipse from Exmouth, Australia. Clearly visible are intricate layers and glowing caustics of an ever changing mixture of hot gas and magnetic fields. Bright looping prominences appear pink just around the Sun&#39;s limb. A similar solar corona might be visible through clear skies in a narrow swath across the North America during the total solar eclipse that occurs just six days from today  NASA Coverage: Total Solar Eclipse of 2024 April 8</p>
+<p style="text-align: justify;">What created this unusual celestial firework? The nebula, dubbed Pa 30, appears in the same sky direction now as a bright &quot;guest star&quot; did in the year 1181. Although Pa 30&#39;s filaments look similar to that created by a nova (for example GK Per), and a planetary nebula (for example NGC 6751), some astronomers now propose that it was created by a rare type of supernova: a thermonuclear Type Iax, and so is (also) named SN 1181.  In this model, the supernova was not the result of the detonation of a single star, but rather a blast that occurred when two white dwarf stars spiraled together and merged.  The blue dot in the center is hypothesized to be a zombie star, the remnant white dwarf that somehow survived this supernova-level explosion.  The featured image combines images and data obtained with infrared (WISE), visible  (MDM, Pan-STARRS), and X-ray (Chandra, XMM) telescopes.  Future observations and analyses may tell us more.   NASA Coverage: Total Solar Eclipse of 2024 April 8</p>
 
 
 
