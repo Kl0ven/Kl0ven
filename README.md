@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Moon&#39;s Shadow over Lake Magog</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg"">
+<h3>Planets Around a Total Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg"">
 
 
-<p style="text-align: justify;">Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8. For the lakeside eclipse chasers, the much anticipated total solar eclipse was a spectacle to behold in briefly dark, but clear skies. Of course Lake Magog was one of the last places to be visited by the Moon&#39;s shadow. The narrow path of totality for the 2024 total solar eclipse swept from Mexico&#39;s Pacific Coast north and eastward through the US and Canada. But a partial eclipse was visible across most of the North American continent.   Total Eclipse Imagery: Notable Submissions to APOD</p>
+<p style="text-align: justify;">What wonders appear when the Moon blocks the Sun? For many eager observers of Monday’s total eclipse of the Sun, the suddenly dark sky included the expected corona and two (perhaps surprise) planets: Venus and Jupiter. Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening.  On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the totally eclipsed Sun. This line was captured Monday afternoon in the featured image from Mount Nebo, Arkansas, USA, along with a line of curious observers — and a picturesque tree.   Monday&#39;s Eclipse Imagery: Notable Submissions to APOD</p>
 
 
 
