@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Eclipse in Seven</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg"">
+<h3>Total Totality</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg"">
 
 
-<p style="text-align: justify;">Start at the upper left above and you can follow the progress of April 8&#39;s total eclipse of the Sun in seven sharp, separate exposures. The image sequence was recorded with a telescope and camera located within the narrow path of totality as the Moon&#39;s shadow swept across Newport, Vermont, USA. At center is a spectacular view of the solar corona. The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase. Seen from Newport, the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.   Monday&#39;s Eclipse Imagery: Notable Submissions to APOD</p>
+<p style="text-align: justify;">Baily&#39;s beads often appear at the boundaries of the total phase of an eclipse of the Sun. Pearls of sunlight still beaming through gaps in the rugged terrain along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite. The series of images follows the Moon&#39;s edge from beginning through the end of totality during April 8&#39;s solar eclipse from Durango, Mexico. They also capture pinkish prominences of plasma arcing high above the edge of the active Sun. One of the first places in North America visited by the Moon&#39;s shadow on April 8, totality in Durango lasted about 3 minutes and 46 seconds.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
 
 
 
