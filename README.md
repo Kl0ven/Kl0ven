@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Total Totality</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg"">
+<h3>Palm Tree Partial Eclipse</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png"">
 
 
-<p style="text-align: justify;">Baily&#39;s beads often appear at the boundaries of the total phase of an eclipse of the Sun. Pearls of sunlight still beaming through gaps in the rugged terrain along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite. The series of images follows the Moon&#39;s edge from beginning through the end of totality during April 8&#39;s solar eclipse from Durango, Mexico. They also capture pinkish prominences of plasma arcing high above the edge of the active Sun. One of the first places in North America visited by the Moon&#39;s shadow on April 8, totality in Durango lasted about 3 minutes and 46 seconds.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
+<p style="text-align: justify;">Only those along the narrow track of the Moon&#39;s shadow on April 8 saw a total solar eclipse. But most of North America still saw a partial eclipse of the Sun. From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly. In the shade of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground, pinhole camera style.  In Clearwater the maximum eclipse phase was about 53 percent.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
 
 
 
