@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Filaments of the Vela Supernova Remnant</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_960.jpg"">
+<h3>Total Eclipse and Comets</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_1080.jpg"">
 
 
-<p style="text-align: justify;">The explosion is over, but the consequences continue.  About eleven thousand years ago, a star in the constellation of Vela could be seen to explode, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image captures some of that filamentary and gigantic shock in visible light. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Monday&#39;s Eclipse Imagery: Notable Submissions to APOD</p>
+<p style="text-align: justify;">Not one, but two comets appeared near the Sun during last week&#39;s total solar eclipse. The expected comet was Comet 12P&#x2F;Pons-Brooks, but it was disappointingly dimmer than many had hoped. However, relatively unknown Comet SOHO-5008 also appeared in long duration camera exposures. This comet was the 5008th comet identified on images taken by ESA &amp; NASA&#39;s Sun-orbiting SOHO spacecraft.  Likely much smaller, Comet SOHO-5008 was a sungrazer which disintegrated within hours as it passed too near the Sun.  The featured image is not only unusual for capturing two comets during an eclipse, but one of the rare times that a sungrazing comet has been photographed from the Earth&#39;s surface. Also visible in the image is the sprawling corona of our Sun and the planets Mercury (left) and Venus (right).  Of these planets and comets, only Venus was easily visible to millions of people in the dark shadow of the Moon that crossed North America on April 8.    Solar Eclipse Imagery: Notable Submissions to APOD</p>
 
 
 
