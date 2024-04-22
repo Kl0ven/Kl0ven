@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perijove 16: Passing Jupiter</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=c4TU3arrZR8" target="_blank"><img src="http://img.youtube.com/vi/c4TU3arrZR8/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Moon and Smoke Rings from Mt. Etna</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg"">
 
 
-<p style="text-align: justify;">Watch Juno zoom past Jupiter.  NASA&#39;s robotic spacecraft Juno is continuing on its now month-long, highly-elongated orbits around our Solar System&#39;s largest planet.  The featured video is from perijove 16, the sixteenth time that Juno passed near Jupiter since it arrived in mid-2016. Each perijove passes near a slightly different part of Jupiter&#39;s cloud tops.  This color-enhanced video has been digitally composed from 21 JunoCam still images, resulting in a 125-fold time-lapse. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter&#39;s cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  As Juno moves away, the remarkable dolphin-shaped cloud is visible.  After the perijove, Jupiter recedes into the distance, now displaying the unusual clouds that appear over Jupiter&#39;s south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</p>
+<p style="text-align: justify;">Yes, but can your volcano do this? To the surprise of some, Mt. Etna emits, on occasion, smoke rings. Technically known as vortex rings, the walls of the volcano slightly slow the outside of emitted smoke puffs, causing the inside gas to move faster.  A circle of low pressure develops so that the emitted puff of volcanic gas and ash loops around in a ring, a familiar geometric structure that can be surprisingly stable as it rises. Smoke rings are quite rare and need a coincidence of the right geometry  of the vent, the right speed of ejected smoke, and the relative calmness of the outside atmosphere.  In the featured image taken about two weeks ago from Gangi, Sicily, Italy, multiple volcanic smoke rings are visible.  The scene is shaded by the red light of a dawn Sun, while a crescent Moon is visible in the background.</p>
 
 
 
