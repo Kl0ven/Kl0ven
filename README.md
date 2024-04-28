@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>All Sky Moon Shadow</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/tse20240408h14_1024.jpg"">
+<h3>Rings Around the Ring Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_960.jpg"">
 
 
-<p style="text-align: justify;">If the Sun is up but the sky is dark and the horizon is bright all around, you might be standing in the Moon&#39;s shadow during a total eclipse of the Sun. In fact, the all-sky Moon shadow shown in this composited panoramic view was captured from a farm near Shirley, Arkansas, planet Earth. The exposures were made under clear skies during the April 8 total solar eclipse. For that location near the center line of the Moon&#39;s shadow track, totality lasted over 4 minutes. Along with the solar corona surrounding the silhouette of the Moon planets and stars were visible during the total eclipse phase. Easiest to see here are bright planets Venus and Jupiter, to the lower right and upper left of the eclipsed Sun.</p>
+<p style="text-align: justify;">The Ring Nebula (M57) is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula&#39;s central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere and become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
