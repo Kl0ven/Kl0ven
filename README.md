@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rings Around the Ring Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_960.jpg"">
+<h3>Comet, Planet, Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2404/CometTriple_Casado_1080.jpg"">
 
 
-<p style="text-align: justify;">The Ring Nebula (M57) is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula&#39;s central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere and become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">Three bright objects satisfied seasoned stargazers of the western sky just after sunset earlier this month. The most familiar was the Moon, seen on the upper left in a crescent phase. The rest of the Moon was faintly visible by sunlight first reflected by the Earth. The bright planet Jupiter, the largest planet in the Solar System, is seen to the upper left.  Most unusual was Comet 12P&#x2F;Pons-Brooks, below the Moon and showing a stubby dust tail on the right but an impressive ion tail extending upwards.  The featured image, a composite of several images taken consecutively at the same location and with the same camera, was taken near the village of Llers, in Spain&#39;s Girona province.  Comet Pons-Brooks passed its closest to the Sun last week and is now dimming as it moves into southern skies and returns to the outer Solar System.   Almost Hyperspace: Random APOD Generator</p>
 
 
 
