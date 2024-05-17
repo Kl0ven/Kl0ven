@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Aurora Georgia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2_1024.jpg"">
+<h3>Aurora Banks Peninsula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2_600.jpg"">
 
 
-<p style="text-align: justify;">A familiar sight from Georgia, USA, the Moon sets near the western horizon in this rural night skyscape. Captured on May 10 before local midnight, the image overexposes the Moon&#39;s bright waning crescent at left in the frame. A long irrigation rig stretches across farmland about 15 miles north of the city of Bainbridge. Shimmering curtains of aurora shine across the starry sky though, definitely an unfamiliar sight for southern Georgia nights. Last weekend, extreme geomagnetic storms triggered by the recent intense activity from solar active region AR 3664 brought epic displays of aurora, usually seen closer to the poles, to southern Georgia and even lower latitudes on planet Earth. As solar activity ramps up, more storms are possible.   AuroraSaurus: Report your aurora observations</p>
+<p style="text-align: justify;">This well-composed composite panoramic view looks due south from Banks Peninsula near Christchurch on New Zealand&#39;s South Island. The base of a tower-like rocky sea stack is awash in the foreground, with stars of the Southern Cross at the top of the frame and planet Earth&#39;s south celestial pole near center. Still, captured on May 11, vibrant aurora australis dominate the starry southern sea and skyscape. The shimmering southern lights were part of extensive auroral displays that entertained skywatchers in northern and southern hemispheres around planet Earth, caused by intense geomagnetic storms. The extreme spaceweather was triggered by the impact of coronal mass ejections launched from powerful solar active region AR 3664.   AuroraSaurus: Report your aurora observations</p>
 
 
 
