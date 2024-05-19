@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>North Celestial Aurora</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti1024.jpg"">
+<h3>Jupiter Diving</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uj3Lq7Gu94Y" target="_blank"><img src="http://img.youtube.com/vi/uj3Lq7Gu94Y/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Graceful star trail arcs reflect planet Earth&#39;s daily rotation in this colorful night skyscape. To create the timelapse composite, on May 12 consecutive exposures were recorded with a camera fixed to a tripod on the shores of the Ashokan Reservoir, in the Catskills region of New York, USA. North star Polaris is near the center of the star trail arcs. The broad trail of a waxing crescent Moon is on the left, casting a strong reflection across the reservoir waters. With intense solar activity driving recent geomagnetic storms, the colorful aurora borealis or northern lights, rare to the region, shine under Polaris and the north celestial pole.   AuroraSaurus: Report your aurora observations</p>
+<p style="text-align: justify;">Take this simulated plunge and dive into the upper atmosphere of Jupiter, the Solar System&#39;s ruling gas giant. The awesome animation is based on image data from JunoCam, and the microwave radiometer on board the Jupiter-orbiting Juno spacecraft. Your view will start about 3,000 kilometers above the southern Jovian cloud tops, and you can track your progress on the display at the left. As altitude decreases, temperature increases while you dive deeper at the location of Jupiter&#39;s famous Great Red Spot. In fact, Juno data indicates the Great Red Spot, the Solar System&#39;s largest storm system, penetrates some 300 kilometers into the giant planet&#39;s atmosphere. For comparison, the deepest point for planet Earth&#39;s oceans is just under 11 kilometers down. Don&#39;t worry though, you&#39;ll fly back out again.   Dive into the Universe: Random APOD Generator</p>
 
 
 
