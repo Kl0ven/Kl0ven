@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jupiter Diving</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uj3Lq7Gu94Y" target="_blank"><img src="http://img.youtube.com/vi/uj3Lq7Gu94Y/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Aurora Dome Sky</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg"">
 
 
-<p style="text-align: justify;">Take this simulated plunge and dive into the upper atmosphere of Jupiter, the Solar System&#39;s ruling gas giant. The awesome animation is based on image data from JunoCam, and the microwave radiometer on board the Jupiter-orbiting Juno spacecraft. Your view will start about 3,000 kilometers above the southern Jovian cloud tops, and you can track your progress on the display at the left. As altitude decreases, temperature increases while you dive deeper at the location of Jupiter&#39;s famous Great Red Spot. In fact, Juno data indicates the Great Red Spot, the Solar System&#39;s largest storm system, penetrates some 300 kilometers into the giant planet&#39;s atmosphere. For comparison, the deepest point for planet Earth&#39;s oceans is just under 11 kilometers down. Don&#39;t worry though, you&#39;ll fly back out again.   Dive into the Universe: Random APOD Generator</p>
+<p style="text-align: justify;">It seemed like night, but part of the sky glowed purple.  It was the now famous night of May 10, 2024, when people over much of the world reported beautiful aurora-filled skies. The featured image was captured this night during early morning hours from Arlington, Wisconsin, USA. The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with north in the center, and processed to heighten the colors and remove electrical wires. The photographer (in the foreground) reported that the aurora appeared to flow from a point overhead but illuminated the sky only toward the north. The aurora&#39;s energetic particles originated from CMEs ejected from our Sun over sunspot AR 6443 a few days before. This large active region rotated to the far side of the Sun last week, but may well survive to rotate back toward the Earth next week.</p>
 
 
 
