@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Solar X Flare as Famous Active Region Returns</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=yt7uwWzSTw0" target="_blank"><img src="http://img.youtube.com/vi/yt7uwWzSTw0/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Stairway to the Milky Way</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2405/StairwayToMilkyway_Marcin_1080.jpg"">
 
 
-<p style="text-align: justify;">It&#39;s back. The famous active region on the Sun that created auroras visible around the Earth earlier this month has survived its rotation around the far side of the Sun -- and returned.  Yesterday, as it was beginning to reappear on the Earth-facing side, the region formerly labeled AR 3664 threw another major solar flare, again in the highest-energy X-class range. The featured video shows the emerging active region on the lower left, as it was captured by NASA&#39;s Earth-orbiting Solar Dynamics Observatory yesterday in ultraviolet light. The video is a time-lapse of the entire Sun rotating over 24 hours.  Watch the lower-left region carefully at about the 2-second mark to see the powerful flare burst out. The energetic particles from that flare and associated CME are not expected to directly impact the Earth and trigger impressive auroras, but scientists will keep a close watch on this unusually active region over the next two weeks, as it faces the Earth, to see what develops.</p>
+<p style="text-align: justify;">What happens if you ascend this stairway to the Milky Way? Before answering that, let&#39;s understand the beautiful sky you will see.  Most eye-catching is the grand arch of the Milky Way Galaxy, the band that is the central disk of our galaxy which is straight but distorted by the wide-angle nature of this composite image.  Many stars well in front of the Milk Way will be visible, with the bright white star just below the stellar arch being Altair, and the bright blue star above it being Vega.  The air glows green on the left, just above the yellow cloud deck.  The featured image was taken last month on Portugal&#39;s Madeira Island in the North Atlantic Ocean.  Oh, and what happens after you reach the top of these stairs and admire the amazing sky is, quite probably, that you then descend down the stairs on the other side.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
