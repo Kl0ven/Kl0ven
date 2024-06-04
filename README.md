@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 2403 in Camelopardalis</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg"">
+<h3>Comet Pons-Brooks Develops Opposing Tails</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg"">
 
 
-<p style="text-align: justify;">Magnificent island universe NGC 2403 stands within the boundaries of the long-necked constellation Camelopardalis. Some 10 million light-years distant and about 50,000 light-years across, the spiral galaxy also seems to have more than its fair share of giant star forming HII regions, marked by the telltale reddish glow of atomic hydrogen gas. The giant HII regions are energized by clusters of hot, massive stars that explode as bright supernovae at the end of their short and furious lives. A member of the M81 group of galaxies, NGC 2403 closely resembles a galaxy in our own local galaxy group with an abundance of star forming regions, M33, the Triangulum Galaxy. Spiky in appearance, bright stars in this portrait of NGC 2403 are in the foreground, within our own Milky Way. Also in the foreground of the deep, wide-field, telescopic image are the Milky Way&#39;s dim and dusty interstellar clouds also known as galactic cirrus or integrated flux nebulae. But faint features that seem to extend from NGC 2403 itself are likely tidal stellar streams drawn out by gravitational interactions with neighboring galaxies.</p>
+<p style="text-align: justify;">Why does Comet Pons-Brooks now have tails pointing in opposite directions?  The most spectacular tail is the blue-glowing ion tail that is visible flowing down the image.  The ion tail is pushed directly out from the Sun by the solar wind. On the upper right is the glowing central coma of Comet 12P&#x2F;Pons–Brooks. Fanning out from the coma, mostly to the left, is the comet&#39;s dust tail. Pushed out and slowed down by the pressure of sunlight, the dust tail tends to trail the comet along its orbit and, from some viewing angles, can appear opposite to the ion tail.  The distant, bright star Alpha Leporis is seen at the bottom of the featured image captured last week from Namibia. Two days ago, the comet passed its closest to the Earth and is now best visible from southern skies as it dims and glides back to the outer Solar System.</p>
 
 
 
