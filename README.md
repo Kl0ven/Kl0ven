@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>RCW 85</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg"">
+<h3>Prominences and Filaments on the Active Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg"">
 
 
-<p style="text-align: justify;">From the 1960 astronomical catalog of Rodgers, Campbell and Whiteoak, emission region RCW 85 shines in southern night skies between bright stars Alpha and Beta Centauri. About 5,000 light years distant, the hazy interstellar cloud of glowing hydrogen gas and dust is faint. But detailed structures along well-defined rims within RCW 85 are traced in this cosmic skyscape composed of 28 hours of narrow and broadband exposures. Suggestive of dramatic shapes in other stellar nurseries where natal clouds of gas and dust are sculpted by energetic winds and radiation from newborn stars, the tantalizing nebula has been called the Devil&#39;s Tower. This telescopic frame would span around 100 light-years at the estimated distance of RCW 85.</p>
+<p style="text-align: justify;">This colorized and sharpened image of the Sun is composed of frames recording emission from hydrogen atoms in the solar chromosphere on May 15. Approaching the maximum of solar cycle 25, a multitude of active regions and twisting, snake-like solar filaments are seen to sprawl across the surface of the active Sun.  Suspend in the active regions&#39; strong magnetic fields, the filaments of plasma lofted above the Sun&#39;s edge appear as bright solar prominences. The large prominences seen near 4 o&#39;clock, and just before 9 o&#39;clock around the solar limb are post flare loops from two powerful X-class solar flares that both occurred on that day. In fact, the 4 o&#39;clock prominence is associated with the monster active region AR 3664 just rotating off the Sun&#39;s edge.</p>
 
 
 
