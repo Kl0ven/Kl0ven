@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Ou4: The Giant Squid Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg"">
+<h3>Gigantic Jets over Himalayan Mountains</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg"">
 
 
-<p style="text-align: justify;">Squids on Earth aren&#39;t this big.  This mysterious squid-like cosmic cloud spans nearly three full moons on planet Earth&#39;s sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula&#39;s bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.</p>
+<p style="text-align: justify;">Yes, but can your thunderstorm do this? Pictured here are gigantic jets shooting up from a thunderstorm last week toward the Himalayan Mountains in China and Bhutan. The composite image captured four long jets that occurred only minutes apart. Gigantic jets, documented only in this century, are a type of lightning discharge that occurs between some thunderstorms and the Earth&#39;s ionosphere high above them.  They are an unusual type of lightning that is much different from regular cloud-to-cloud and cloud-to-ground lightning. The bottoms of gigantic jets appear similar to a  cloud-to-above strike called blue jets, while the tops appear similar to upper-atmosphere red sprites. Although the mechanism and trigger that cause gigantic jets remains a topic of research, it is clear that the jets reduce charge imbalance between different parts of Earth&#39;s atmosphere.  A good way to look for gigantic jets is to watch a powerful but distant thunderstorm from a clear location.</p>
 
 
 
