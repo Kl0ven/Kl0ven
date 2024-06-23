@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lynds Dark Nebula 1251</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png"">
+<h3>The Colors of Saturn from Cassini</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg"">
 
 
-<p style="text-align: justify;">Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, LDN 1251 is also less appetizingly known as &quot;The Rotten Fish Nebula.&quot; The dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk in the scene, almost buried behind the dusty expanse. This alluring view spans over four full moons on the sky, or 35 light-years at the estimated distance of LDN 1251.</p>
+<p style="text-align: justify;">What creates Saturn&#39;s colors?  The featured picture of Saturn only slightly exaggerates what a human would see if hovering close to the giant ringed world.   The image was taken in 2005 by the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Here Saturn&#39;s majestic rings appear directly only as a curved line, appearing brown, in part from its infrared glow.  The rings best show their complex structure in the dark shadows they create across the upper part of the planet.   The northern hemisphere of Saturn can appear partly blue for the same reason that Earth&#39;s skies can appear blue -- molecules in the cloudless portions of both planet&#39;s atmospheres are better at scattering blue light than red.  When looking deep into Saturn&#39;s clouds, however, the natural gold hue of Saturn&#39;s clouds becomes dominant.   It is not known why southern Saturn does not show the same blue hue -- one hypothesis holds that clouds are higher there.   It is also not known why some of Saturn&#39;s clouds are colored gold.</p>
 
 
 
