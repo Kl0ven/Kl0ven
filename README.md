@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Dark Doodad Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg"">
+<h3>Timelapse: Aurora, SAR, and the Milky Way</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=fisAZYNwDgk" target="_blank"><img src="http://img.youtube.com/vi/fisAZYNwDgk/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">What is that strange brown ribbon on the sky?  When observing the star cluster NGC 4372, observers frequently take note of an unusual dark streak nearby running about three degrees in length. The streak, actually a long molecular cloud, has become known as the Dark Doodad Nebula.  (Doodad is slang for a thingy or a whatchamacallit.)  Pictured here, the Dark Doodad Nebula sweeps across the center of a rich and colorful starfield.  Its dark color comes from a high concentration of interstellar dust that preferentially scatters visible light.  The globular star cluster NGC 4372 is visible as the fuzzy white spot on the far left, while the bright blue star gamma Muscae is seen to the cluster&#39;s upper right. The Dark Doodad Nebula can be found with strong binoculars toward the southern constellation of the Fly (Musca).</p>
+<p style="text-align: justify;">What&#39;s happening in the sky this unusual night? Most striking in the featured 4.5-hour 360-degree panoramic video, perhaps, is the pink and purple aurora. That&#39;s because this night, encompassing May 11, was famous for its auroral skies around the world. As the night progresses, auroral bands shimmer, the central band of our Milky Way Galaxy rises, and stars shift as the Earth rotates beneath them.  Captured here simultaneously is a rare red band running above the aurora: a SAR arc, seen to change only slightly. The flashing below the horizon is caused by passing cars, while the moving spots in the sky are satellites and airplanes.  The featured video was captured from Xinjiang, China with four separate cameras.</p>
 
 
 
