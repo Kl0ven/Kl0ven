@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Timelapse: Aurora, SAR, and the Milky Way</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=fisAZYNwDgk" target="_blank"><img src="http://img.youtube.com/vi/fisAZYNwDgk/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Protostellar Outflows in Serpens</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png"">
 
 
-<p style="text-align: justify;">What&#39;s happening in the sky this unusual night? Most striking in the featured 4.5-hour 360-degree panoramic video, perhaps, is the pink and purple aurora. That&#39;s because this night, encompassing May 11, was famous for its auroral skies around the world. As the night progresses, auroral bands shimmer, the central band of our Milky Way Galaxy rises, and stars shift as the Earth rotates beneath them.  Captured here simultaneously is a rare red band running above the aurora: a SAR arc, seen to change only slightly. The flashing below the horizon is caused by passing cars, while the moving spots in the sky are satellites and airplanes.  The featured video was captured from Xinjiang, China with four separate cameras.</p>
+<p style="text-align: justify;">Jets of material blasting from newborn stars, are captured in this James Webb Space Telescope close-up of the Serpens Nebula. The powerful protostellar outflows are bipolar, twin jets spewing in opposite directions. Their directions are perpendicular to accretion disks formed around the spinning, collapsing stellar infants. In the NIRcam image, the reddish color represents emission from molecular hydrogen and carbon monoxide produced as the jets collide with the surrounding gas and dust. The sharp image shows for the first time that individual outflows detected in the Serpens Nebula are generally aligned along the same direction. That result was expected, but has only now come into clear view with Webb&#39;s detailed exploration of the active young star-forming region. Brighter foreground stars exhibit Webb&#39;s characteristic diffraction spikes. At the Serpens Nebula&#39;s estimated distance of 1,300 light-years, this cosmic close-up frame is about 1 light-year across.</p>
 
 
 
