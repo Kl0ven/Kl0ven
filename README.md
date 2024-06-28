@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Protostellar Outflows in Serpens</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png"">
+<h3>Comet 13P&#x2F;Olbers</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg"">
 
 
-<p style="text-align: justify;">Jets of material blasting from newborn stars, are captured in this James Webb Space Telescope close-up of the Serpens Nebula. The powerful protostellar outflows are bipolar, twin jets spewing in opposite directions. Their directions are perpendicular to accretion disks formed around the spinning, collapsing stellar infants. In the NIRcam image, the reddish color represents emission from molecular hydrogen and carbon monoxide produced as the jets collide with the surrounding gas and dust. The sharp image shows for the first time that individual outflows detected in the Serpens Nebula are generally aligned along the same direction. That result was expected, but has only now come into clear view with Webb&#39;s detailed exploration of the active young star-forming region. Brighter foreground stars exhibit Webb&#39;s characteristic diffraction spikes. At the Serpens Nebula&#39;s estimated distance of 1,300 light-years, this cosmic close-up frame is about 1 light-year across.</p>
+<p style="text-align: justify;">Not a paradox, Comet 13P&#x2F;Olbers is returning to the inner Solar System after 68 years. The periodic, Halley-type comet will reach its next perihelion or closest approach to the Sun on June 30 and has become a target for binocular viewing low in planet Earth&#39;s northern hemisphere night skies. But this sharp telescopic image of 13P is composed of stacked exposures made on the night of June 25. It easily reveals shifting details in the bright comet&#39;s torn and tattered ion tail buffeted by the wind from an active Sun, along with a broad, fanned-out dust tail and slightly greenish coma. The frame spans over two degrees across a background of faint stars toward the constellation Lynx.</p>
 
 
 
