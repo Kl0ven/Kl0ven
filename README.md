@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Solstice Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg"">
+<h3>Earthrise: A Video Reconstruction</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=1R5QqhPq1Ik" target="_blank"><img src="http://img.youtube.com/vi/1R5QqhPq1Ik/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Rising opposite the setting Sun, June&#39;s Full Moon occurred within about 28 hours of the solstice. The Moon stays close to the Sun&#39;s path along the ecliptic plane and so while the solstice Sun climbed high in daytime skies, June&#39;s Full Moon remained low that night as seen from northern latitudes. In fact, the Full Moon hugs the horizon in this June 21 rooftop night sky view from Bursa, Turkey, constructed from exposures made every 10 minutes between moonrise and moonset. In 2024 the Moon also reached a major lunar standstill, an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon&#39;s orbit over an 18.6 year cycle. As a result, this June solstice Full Moon was at its southernmost moonrise and moonset along the horizon.</p>
+<p style="text-align: justify;">About 12 seconds into this video, something unusual happens. The Earth begins to rise.  Never seen by humans before, the rise of the Earth over the limb of the Moon occurred about 55.5 years ago and surprised and amazed the crew of Apollo 8. The crew immediately scrambled to take still images of the stunning vista caused by Apollo 8&#39;s orbit around the Moon. The featured video is a modern reconstruction of the event as it would have looked were it recorded with a modern movie camera. The colorful orb of our Earth stood out as a familiar icon rising above a distant and unfamiliar moonscape, the whole scene the conceptual reverse of a more familiar moonrise as seen from Earth. To many, the scene also spoke about the unity of humanity: that big blue marble -- that&#39;s us -- we all live there. The two-minute video is not time-lapse -- this is the real speed of the Earth rising through the windows of Apollo 8. Seven months and three missions later, Apollo 11 astronauts would not only circle Earth&#39;s moon, but land on it.   NASA Administrator Remembers Earthrise Photographer William Anders</p>
 
 
 
