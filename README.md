@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mount Etna Milky Way</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg"">
+<h3>NGC 7789: Caroline&#39;s Rose</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg"">
 
 
-<p style="text-align: justify;">A glow from the summit of Mount Etna, famous active stratovolcano of planet Earth, stands out along the horizon in this mountain and night skyscape. Bands of diffuse light from congeries of innumerable stars along the Milky Way galaxy stretch across the sky above. In silhouette, the Milky Way&#39;s massive dust clouds are clumped along the galactic plane. But also familiar to northern skygazers are bright stars Deneb, Vega, and Altair, the Summer Triangle straddling dark nebulae and luminous star clouds poised over the volcanic peak. The deep combined exposures also reveal the light of active star forming regions along the Milky Way, echoing Etna&#39;s ruddy hue in the northern hemisphere summer&#39;s night.</p>
+<p style="text-align: justify;">Found among the rich starfields of the Milky Way, star cluster NGC 7789 lies about 8,000 light-years away toward the constellation Cassiopeia. A late 18th century deep sky discovery of astronomer Caroline Lucretia Herschel, the cluster is also known as Caroline&#39;s Rose. Its visual appearance in small telescopes, created by the cluster&#39;s complex of stars and voids, is suggestive of nested rose petals. Now estimated to be 1.6 billion years young, the galactic or open cluster of stars also shows its age. All the stars in the cluster were likely born at the same time, but the brighter and more massive ones have more rapidly exhausted the hydrogen fuel in their cores. These have evolved from main sequence stars like the Sun into the many red giant stars shown with a yellowish cast in this color composite. Using measured color and brightness, astronomers can model the mass and hence the age of the cluster stars just starting to &quot;turn off&quot; the main sequence and become red giants. Over 50 light-years across, Caroline&#39;s Rose spans about half a degree (the angular size of the Moon) near the center of the sharp telescopic image.</p>
 
 
 
