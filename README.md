@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Globular Cluster Omega Centauri</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg"">
+<h3>Jones-Emberson 1</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg"">
 
 
-<p style="text-align: justify;">Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it&#39;s the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri&#39;s red giant stars are easy to pick out in this sharp telescopic view. A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.</p>
+<p style="text-align: justify;">Planetary nebula Jones-Emberson 1 is the death shroud of a dying Sun-like star. It lies some 1,600 light-years from Earth toward the sharp-eyed constellation Lynx. About 4 light-years across, the expanding remnant of the dying star&#39;s atmosphere was shrugged off into interstellar space, as the star&#39;s central supply of hydrogen and then helium for fusion was depleted after billions of years. Visible near the center of the planetary nebula is what remains of the stellar core, a blue-hot white dwarf star.  Also known as PK 164 +31.1, the nebula is faint and very difficult to glimpse at a telescope&#39;s eyepiece. But this deep image combining over 12 hours of exposure time does show it off in exceptional detail. Stars within our own Milky Way galaxy as well as background galaxies across the universe are scattered through the clear field of view. Ephemeral on the cosmic stage, Jones-Emberson 1 will fade away over the next few thousand years. Its hot, central white dwarf star will take billions of years to cool.</p>
 
 
 
