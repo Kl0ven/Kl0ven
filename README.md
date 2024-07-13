@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Jones-Emberson 1</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg"">
+<h3>Solar System Family Portrait</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg"">
 
 
-<p style="text-align: justify;">Planetary nebula Jones-Emberson 1 is the death shroud of a dying Sun-like star. It lies some 1,600 light-years from Earth toward the sharp-eyed constellation Lynx. About 4 light-years across, the expanding remnant of the dying star&#39;s atmosphere was shrugged off into interstellar space, as the star&#39;s central supply of hydrogen and then helium for fusion was depleted after billions of years. Visible near the center of the planetary nebula is what remains of the stellar core, a blue-hot white dwarf star.  Also known as PK 164 +31.1, the nebula is faint and very difficult to glimpse at a telescope&#39;s eyepiece. But this deep image combining over 12 hours of exposure time does show it off in exceptional detail. Stars within our own Milky Way galaxy as well as background galaxies across the universe are scattered through the clear field of view. Ephemeral on the cosmic stage, Jones-Emberson 1 will fade away over the next few thousand years. Its hot, central white dwarf star will take billions of years to cool.</p>
+<p style="text-align: justify;">In 1990, cruising four billion miles from the Sun, the Voyager 1 spacecraft looked back to make this first ever Solar System family portrait. The complete portrait is a 60 frame mosaic made from a vantage point 32 degrees above the ecliptic plane. In it, Voyager&#39;s wide-angle camera frames sweep through the inner Solar System at the left, linking up with ice giant Neptune, the Solar System&#39;s outermost planet, at the far right. Positions for Venus, Earth, Jupiter, Saturn, Uranus, and Neptune are indicated by letters, while the Sun is the bright spot near the center of the circle of frames. The inset frames for each of the planets are from Voyager&#39;s narrow-field camera. Unseen in the portrait are Mercury, too close to the Sun to be detected, and Mars, unfortunately hidden by sunlight scattered in the camera&#39;s optical system. Closer to the Sun than Neptune at the time, small, faint Pluto&#39;s position was not covered. In 2024 Voyager 1, NASA’s longest-running and most-distant spacecraft, is some 15 billion miles away, operating in interstellar space.</p>
 
 
 
