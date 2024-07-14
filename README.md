@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Solar System Family Portrait</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg"">
+<h3>Meteor Misses Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg"">
 
 
-<p style="text-align: justify;">In 1990, cruising four billion miles from the Sun, the Voyager 1 spacecraft looked back to make this first ever Solar System family portrait. The complete portrait is a 60 frame mosaic made from a vantage point 32 degrees above the ecliptic plane. In it, Voyager&#39;s wide-angle camera frames sweep through the inner Solar System at the left, linking up with ice giant Neptune, the Solar System&#39;s outermost planet, at the far right. Positions for Venus, Earth, Jupiter, Saturn, Uranus, and Neptune are indicated by letters, while the Sun is the bright spot near the center of the circle of frames. The inset frames for each of the planets are from Voyager&#39;s narrow-field camera. Unseen in the portrait are Mercury, too close to the Sun to be detected, and Mars, unfortunately hidden by sunlight scattered in the camera&#39;s optical system. Closer to the Sun than Neptune at the time, small, faint Pluto&#39;s position was not covered. In 2024 Voyager 1, NASA’s longest-running and most-distant spacecraft, is some 15 billion miles away, operating in interstellar space.</p>
+<p style="text-align: justify;">The galaxy was never in danger. For one thing, the Triangulum galaxy (M33), pictured, is much bigger than the tiny grain of rock at the head of the meteor. For another, the galaxy is much farther away -- in this instance 3 million light years as opposed to only about 0.0003 light seconds.  Even so, the meteor&#39;s path took it angularly below the galaxy. Also the wind high in Earth&#39;s atmosphere blew the meteor&#39;s glowing evaporative molecule train away from the galaxy, in angular projection.  Still, the astrophotographer was quite lucky to capture both a meteor and a galaxy in a single exposure -- which was subsequently added to two other images of M33 to bring up the spiral galaxy&#39;s colors.  At the end, the meteor was gone in a second, but the galaxy will last billions of years.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
