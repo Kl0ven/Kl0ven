@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Villarrica Volcano Against the Sky</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aX4ozspTPQY" target="_blank"><img src="http://img.youtube.com/vi/aX4ozspTPQY/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Messier 24: Sagittarius Star Cloud</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg"">
 
 
-<p style="text-align: justify;">When Vulcan, the Roman god of fire, swings his blacksmith&#39;s hammer, the sky is lit on fire. A recent eruption of Chile&#39;s Villarrica volcano shows the delicate interplay between this fire -- actually glowing steam and ash from melted rock -- and the light from distant stars in our Milky Way galaxy and the Magellanic Clouds galaxies. In the featured timelapse video, the Earth rotates under the stars as Villarrica erupts.  With about 1350 volcanoes, our planet Earth rivals Jupiter&#39;s moon Io as the most geologically active place in the Solar System. While both have magnificent beauty, the reasons for the existence of volcanoes on both worlds are different. Earth&#39;s volcanoes typically occur between slowly shifting outer shell plates, while Io&#39;s volcanoes are caused by gravitational flexing resulting from Jupiter&#39;s tidal gravitational pull.</p>
+<p style="text-align: justify;">Unlike most entries in Charles Messier&#39;s famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It&#39;s a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24&#39;s luminous stars are left of center in this gorgeous starscape.  Covering over 6 degrees or the width of 12 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.</p>
 
 
 
