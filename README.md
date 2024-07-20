@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Anticrepuscular Rays at the Planet Festival</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg"">
+<h3>Apollo 11 Landing Panorama</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg"">
 
 
-<p style="text-align: justify;">For some, these subtle bands of light and shadow stretched across the sky as the Sun set on July 11. Known as anticrepuscular rays, the bands are formed as a large cloud bank near the western horizon cast long shadows through the atmosphere at sunset. Due to the camera&#39;s perspective, the bands of light and shadow seem to converge toward the eastern (opposite) horizon at a point seen just above a 14th century hilltop castle in Brno, Czech Republic. In the foreground, denizens of planet Earth are enjoying the region&#39;s annual Planet Festival in the park below the Brno Observatory and Planetarium. And while crepuscular and anticrepuscular rays are a relatively common atmospheric phenomenon, this festival&#39;s 10 meter diameter inflatable spheres representing bodies of the Solar System are less often seen on planet Earth.</p>
+<p style="text-align: justify;">Have you seen a panorama from another world lately? Assembled from high-resolution scans of the original film frames, this one sweeps across the magnificent desolation of the Apollo 11 landing site on the Moon&#39;s Sea of Tranquility. The images were taken 55 years ago by Neil Armstrong looking out his window on the Eagle Lunar Module shortly after the July 20, 1969 landing. The frame at the far left (AS11-37-5449) is the first picture taken by a person on another world. Thruster nozzles can be seen in the foreground on the left (toward the south), while at the right (west), the shadow of the Eagle is visible. For scale, the large, shallow crater on the right has a diameter of about 12 meters. Frames taken from the Lunar Module windows about an hour and a half after landing, before walking on the lunar surface, were intended to document the landing site in case an early departure was necessary.</p>
 
 
 
