@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Exaggerated Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg"">
+<h3>NGC 7023: The Iris Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg"">
 
 
-<p style="text-align: justify;">Our Moon doesn&#39;t really have craters this big.  Earth&#39;s Moon, Luna, also doesn&#39;t naturally show this spikey texture, and its colors are more subtle. But this digital creation is based on reality.  The featured image is a digital composite of a good Moon image and surface height data taken from NASA&#39;s Lunar Orbiter Laser Altimeter (LOLA) mission -- and then exaggerated for educational understanding.  The digital enhancements, for example, accentuate lunar highlands and show more clearly craters that illustrate the tremendous bombardment our Moon has been through during its 4.6-billion-year history.  The dark areas, called maria, have fewer craters and were once seas of molten lava. Additionally, the image colors, although based on the moon&#39;s real composition, are changed and exaggerated.  Here, a blue hue indicates a region that is iron rich, while orange indicates a slight excess of aluminum.  Although the Moon has shown the same side to the Earth for billions of years, modern technology is allowing humanity to learn much more about it -- and how it affects the Earth.</p>
+<p style="text-align: justify;">These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula&#39;s range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star&#39;s invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.</p>
 
 
 
