@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Facing NGC 6946</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg"">
+<h3>Saturn at the Moon&#39;s Edge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg"">
 
 
-<p style="text-align: justify;">From our vantage point in the Milky Way Galaxy, we see NGC 6946 face-on. The big, beautiful spiral galaxy is located just 20 million light-years away, behind a veil of foreground dust and stars in the high and far-off constellation Cepheus. In this sharp telescopic portrait, from the core outward the galaxy&#39;s colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. NGC 6946 is also bright in infrared light and rich in gas and dust, exhibiting a high star birth and death rate. In fact, since the early 20th century ten confirmed supernovae, the death explosions of massive stars, were discovered in NGC 6946. Nearly 40,000 light-years across, NGC 6946 is also known as the Fireworks Galaxy.</p>
+<p style="text-align: justify;">Saturn now rises before midnight in planet Earth&#39;s sky. On July 24, the naked-eye planet was in close conjunction, close on the sky, to a waning gibbous Moon. But from some locations on planet Earth the ringed gas giant was occulted, disappearing behind the Moon for about an hour from skies over parts of Asia and Africa. Because the Moon and bright planets wander through the sky near the ecliptic plane, such occultation events are not uncommon, but they can be dramatic. In this telescopic view from Nanjing, Jiangsu, China, Saturn is caught moments before its disappearance behind the lunar disk. The snapshot gives the illusion that Saturn hangs just above Glushko crater, a 43 kilometer diameter, young, ray crater near the Moon&#39;s western edge. Of course, the Moon is 400 thousand kilometers away, compared to Saturn&#39;s distance of 1.4 billion kilometers.</p>
 
 
 
