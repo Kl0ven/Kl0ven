@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Leopard Spots on Martian Rocks</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg"">
+<h3>Comet Olbers over Kunetice Castle</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg"">
 
 
-<p style="text-align: justify;">What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered earlier this month by NASA&#39;s Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations may ultimately prevail, speculation focusing on this potential biological origin is causing much intrigue.    New Mirror: APOD is now available from Brazil in Portuguese</p>
+<p style="text-align: justify;">A visitor to the inner solar system every 70 years or so Comet 13P&#x2F;Olbers reached its most recent perihelion, or closest approach to the Sun, on June 30 2024. Now on a return voyage to the distant Oort cloud the Halley-type comet is recorded here sweeping through northern summer night skies over historic Kunetice Castle, Czech Republic. Along with a broad dust tail, and brighter coma, this comet&#39;s long ion tail buffeted by storms and winds from the Sun, is revealed in the composite of tracked exposures for comet and sky, and fixed exposures for foreground landscape recorded on July 28. The comet is about 16 light-minutes beyond the castle and seen against faint background stars below the northern constellation Ursa Major. The hilltop castle dates to the 15th century, while Heinrich Olbers discovered the comet in 1815. Captured here low in northwestern skies just after sunset Comet Olbers, for now, offers skywatchers on planet Earth rewarding telescopic and binocular views. Comet 13P&#x2F;Olbers next perihelion passage will be in 2094.</p>
 
 
 
