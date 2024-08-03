@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Mars Passing By</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg"">
+<h3>Glory and Fog Bow</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/GloryFog_label.png"">
 
 
-<p style="text-align: justify;">As Mars wanders through Earth&#39;s night, it passes about 5 degrees south of the Pleiades star cluster in this composite astrophoto. The skyview was constructed from a series of images captured over a run of 16 consecutive clear nights beginning on July 12. Mars&#39; march across the field of view begins at the far right, the planet&#39;s ruddy hue showing a nice contrast with the blue Pleiades stars. Moving much faster across the sky against the distant stars, the fourth planet from the Sun easily passes seventh planet Uranus. Red planet Mars and the ice giant world were in close conjunction, about 1&#x2F;2 degree apart, on July 16. Continuing its rapid eastward trek, Mars has now left the sister stars and outer planet behind though, passing north of red giant star Aldebaran. Mars will come within about 1&#x2F;3 degree of Jupiter in planet Earth&#39;s sky on August 14.</p>
+<p style="text-align: justify;">On a road trip up Mount Uludağ in Bursa province, Turkey these motorcyclists found themselves above low clouds and fog in late June. With the bright Sun directly behind them, the view down the side of the great mountain revealed a beautiful, atmospheric glory and fog bow. Known to some as the heiligenschein or the Specter of the Brocken, a glory can also sometimes be seen from airplanes or even high buildings. It often appears to be a dark giant surrounded by a bright halo. Of course the dark giant is just the shadow of the observer (90MB video) cast opposite the Sun. The clouds and fog are composed of very small water droplets, smaller than rain drops, that refract and reflect sunlight to create the glory&#39;s colorful halo and this more extensive fog bow.</p>
 
 
 
