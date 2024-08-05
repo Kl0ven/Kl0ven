@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Gaia: Here Comes the Sun</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=XORui0wFKnE" target="_blank"><img src="http://img.youtube.com/vi/XORui0wFKnE/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Milky Way Over Tunisia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg"">
 
 
-<p style="text-align: justify;">What would it look like to return home from outside our galaxy? Although designed to answer greater questions, data from ESA&#39;s robotic Gaia mission is helping to provide a uniquely modern perspective on humanity&#39;s place in the universe.  Gaia orbits the Sun near the Earth and resolves stars&#39; positions so precisely that it can determine a slight shift from its changing vantage point over the course of a year, a shift that is proportionately smaller for more distant stars -- and so determines distance.  In the first sequence of the video, an illustration of the Milky Way is shown that soon resolves into a three-dimensional visualization of Gaia star data.  A few notable stars are labelled with their common names, while others stars are labelled with numbers from a Gaia catalog. Eventually, the viewer arrives in our stellar neighborhood where many stars were tracked by Gaia, and soon at our home star Sol, the Sun. At the video&#39;s end, the reflective glow of Sol&#39;s third planet becomes visible: Earth.</p>
+<p style="text-align: justify;">That&#39;s no moon. On the ground, that&#39;s the Lars Homestead in Tunisia. And that&#39;s not just any galaxy. That&#39;s the central band of our own Milky Way galaxy. Last, that&#39;s not just any meteor. It is a bright fireball likely from last year&#39;s Perseids meteor shower. The featured image composite combines consecutive exposures taken by the same camera from the same location.  This year&#39;s Perseids peak during the coming weekend is expected to show the most meteors after the first quarter moon sets, near midnight.  To best experience a meteor shower, you should have clear and dark skies, a comfortable seat, and patience.</p>
 
 
 
