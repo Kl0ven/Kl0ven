@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Animation: Perseid Meteor Shower</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=false" target="_blank"><img src="http://img.youtube.com/vi/false/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Perseid Meteors over Stonehenge</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg"">
 
 
-<p style="text-align: justify;">Where do Perseid meteors come from? Mostly small bits of stony grit, Perseid meteoroids were once expelled from Comet Swift-Tuttle and continue to follow this comet&#39;s orbit as they slowly disperse.  The featured animation depicts the entire meteoroid stream as it orbits our Sun.  When the Earth nears this stream, as it does every year, the Perseid Meteor Shower occurs.  Highlighted as bright in the animation, comet debris this size is usually so dim it is practically undetectable.  Only a small fraction of this debris will enter the Earth&#39;s atmosphere, heat up and disintegrate brightly.  Tonight and the next few nights promise some of the better skies to view the Perseid shower as well as other active showers because the first quarter moon will be absent from the sky from midnight onward.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">What&#39;s happening in the sky above Stonehenge? A meteor shower: specifically, the Perseid meteor shower. A few nights ago, after the sky darkened, many images of meteors from this year&#39;s Perseids were captured separately and merged into a single frame. Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera. The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertical through the image center. The featured image was taken from Wiltshire, England, being careful to include, at the bottom, the famous astronomical monument of Stonehenge. Although the Perseids peaked last night, some Perseid meteors should still be visible for a few more nights.</p>
 
 
 
