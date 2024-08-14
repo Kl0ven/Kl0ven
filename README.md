@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Giant Jet from the International Space Station</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg"">
+<h3>Meteors and Aurora over Germany</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg"">
 
 
-<p style="text-align: justify;">What&#39;s that on the horizon? When circling the Earth on the International Space Station early last month, astronaut Matthew Dominick saw an unusual type of lightning just beyond the Earth&#39;s edge: a gigantic jet. The powerful jet appears on the left of the featured image in red and blue. Giant jet lightning has only been known about for the past 23 years. The atmospheric jets are associated with thunderstorms and extend upwards towards Earth&#39;s ionosphere.  The lower part of the frame shows the Earth at night, with Earth&#39;s thin atmosphere tinted green from airglow. City lights are visible, sometimes resolved, but usually creating diffuse white glows in intervening clouds.  The top of the frame reveals distant stars in the dark night sky. The nature of gigantic jets and their possible association with other types of Transient Luminous Events (TLEs) such as blue jets and red sprites remains an active topic of research.   Growing Gallery: Perseid Meteor Shower 2024 and Aurorae</p>
+<p style="text-align: justify;">This was an unusual night. For one thing, the night sky of August 11 and 12, earlier this week, occurred near the peak of the annual Perseid Meteor Shower. Therefore, meteors streaked across the dark night as small bits cast off from Comet Swift-Tuttle came crashing into the Earth&#39;s atmosphere. Even more unusually, for central Germany at least, the night sky glowed purple. The red-blue hue was due to aurora caused by an explosion of particles from the Sun a few days before. This auroral storm was so intense that it was seen as far south as Texas and Italy, in Earth&#39;s northern hemisphere.  The featured image composite was built from 7 exposures taken over 26 minutes from Ense, Germany. The Perseids occur predictably every August, but auroras visible this far south are more unusual and less predictable.   Gallery: Perseid Meteor Shower 2024 and Aurorae</p>
 
 
 
