@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Meteor Borealis</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg"">
+<h3>Sky Full of Arcs</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg"">
 
 
-<p style="text-align: justify;">A single exposure made with a camera pointed almost due north on August 12 recorded this bright Perseid meteor in the night sky west of Halifax, Nova Scotia, Canada. The meteor&#39;s incandescent trace is fleeting. It appears to cross the stars of the Big Dipper, famous northern asterism and celestial kitchen utensil, while shimmering curtains of aurora borealis, also known as the northern lights, dance in the night. Doubling the wow factor for night skywatchers near the peak of this year&#39;s Perseid meteor shower auroral activity on planet Earth was enhanced by geomagnetic storms. The intense space weather was triggered by flares from an active Sun.   Gallery: Perseid Meteor Shower 2024 and Aurorae</p>
+<p style="text-align: justify;">On August 11 a Rocket Lab Electron rocket launched from a rotating planet. With a small satellite on board its mission was dubbed A Sky Full of SARs (Synthetic Aperture Radar satellites), departing for low Earth orbit from Mahia Peninsula on New Zealand&#39;s north island. The fiery trace of the Electron&#39;s graceful launch arc is toward the east in this southern sea and skyscape, a composite of 50 consecutive frames taken over 2.5 hours. Fixed to a tripod, the camera was pointing directly at the South Celestial Pole, the extension of planet Earth&#39;s axis of rotation in to space. But no bright star marks that location in the southern hemisphere&#39;s night sky. Still, the South Celestial Pole is easy to spot. It lies at the center of the concentric star trail arcs that fill the skyward field of view.   Gallery: Perseid Meteor Shower 2024 and Aurorae</p>
 
 
 
