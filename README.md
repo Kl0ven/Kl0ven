@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Supernova Remnant CTA 1</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg"">
+<h3>South Pacific Shadowset</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg"">
 
 
-<p style="text-align: justify;">There is a quiet pulsar at the heart of CTA 1. The supernova remnant was discovered as a source of emission at radio wavelengths by astronomers in 1960 and since identified as the result of the death explosion of a massive star. But no radio pulses were detected from the expected pulsar, the rotating neutron star remnant of the massive star&#39;s collapsed core. Seen about 10,000 years after the initial supernova explosion, the interstellar debris cloud is faint at optical wavelengths. CTA 1&#39;s visible wavelength emission from still expanding shock fronts is revealed in this deep telescopic image, a frame that spans about 2 degrees across a starfield in the northern constellation of Cepheus. While no pulsar has since been found at radio wavelengths, in 2008 the Fermi Gamma-ray Space Telescope detected pulsed emission from CTA 1, identifying the supernova remnant&#39;s rotating neutron star. The source has been recognized as the first in a growing class of pulsars that are quiet at radio wavelengths but pulse in high-energy gamma-rays.</p>
+<p style="text-align: justify;">The full Moon and Earth&#39;s shadow set together in this island skyscape. The alluring scene was captured Tuesday morning, August 20, from Fiji, South Pacific Ocean, planet Earth. For early morning risers shadowset in the western sky is a daily apparition. Still, the grey-blue shadow is often overlooked in favor of a brighter eastern horizon. Extending through the dense atmosphere, Earth&#39;s setting shadow is bounded above by a pinkish glow or anti-twilight arch. Known as the Belt of Venus, the arch&#39;s lovely color is due to backscattering of reddened light from the opposite horizon&#39;s rising Sun. Of course, the setting Moon&#39;s light is reddened by the long sight-line through the atmosphere. But on that date the full Moon could be called a seasonal Blue Moon, the third full Moon in a season with four full Moons. And even though the full Moon is always impressive near the horizon, August&#39;s full Moon is considered by some the first of four consecutive full Supermoons in 2024.</p>
 
 
 
