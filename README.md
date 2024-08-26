@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Fresh Tiger Stripes on Saturn&#39;s Enceladus</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg"">
+<h3>Perseid Meteors Over Inner Mongolia</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=CwrvN0Q9_Sg" target="_blank"><img src="http://img.youtube.com/vi/CwrvN0Q9_Sg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">Do underground oceans vent through canyons on Saturn&#39;s moon Enceladus?  Long features dubbed tiger stripes are known to be spewing ice from the moon&#39;s icy interior into space, creating a cloud of fine ice particles over the moon&#39;s South Pole and creating Saturn&#39;s mysterious E-ring.  Evidence for this has come from the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Pictured here, a high resolution image of Enceladus is shown from a close flyby.  The unusual surface features dubbed tiger stripes are visible in false-color blue.  Why Enceladus is active remains a mystery, as the neighboring moon Mimas, approximately the same size, appears quite dead. An analysis of ejected ice grains has yielded evidence that complex organic molecules exist inside Enceladus. These large carbon-rich molecules bolster -- but do not prove -- that oceans under Enceladus&#39; surface could contain life.   Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">Did you see it?  One of the more common questions during a meteor shower occurs because the time it takes for a meteor to flash is similar to the time it takes for a head to turn.  Possibly, though, the glory of seeing bright meteors shoot across the sky -- while knowing that they were once small pebbles on another world -- might make it all worthwhile, even if your observing partner(s) can&#39;t always share in your experience. The featured video is composed of short clips taken in Inner Mongolia, China during the 2023 Perseid Meteor Shower. Several bright meteors were captured while live-reaction audio was being recorded -- just as the meteors flashed.  This year&#39;s 2024 Perseids also produced many beautiful meteors. Another good meteor shower to watch for is the Geminids which peak yearly in mid-December, this year with relatively little competing glow from a nearly new Moon.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
