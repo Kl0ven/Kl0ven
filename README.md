@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Moon Dressed Like Saturn</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg"">
+<h3>A Triangular Prominence Hovers Over the Sun</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg"">
 
 
-<p style="text-align: justify;">Why does Saturn appear so big? It doesn&#39;t -- what is pictured are foreground clouds on Earth crossing in front of the Moon. The Moon shows a slight crescent phase with most of its surface visible by reflected Earthlight, known as Da Vinci glow. The Sun directly illuminates the brightly lit lunar crescent from the bottom, which means that the Sun must be below the horizon and so the image was taken before sunrise.  This double take-inducing picture was captured on 2019 December 24, two days before the Moon slid in front of the Sun to create a solar eclipse. In the foreground, lights from small Guatemalan towns are visible behind the huge volcano Pacaya.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">Why is there a triangle hovering over the Sun?  Although the shape is unusual, the type of structure is not: it is part of an evolving solar prominence.  Looping magnetic fields on the Sun channel the flow of energetic particles, sometimes holding glowing gaseous structures aloft for months.  A prominence glows brightly because it contains particularly hot, dense, or opaque solar plasma. The surprising triangular structure occurred last week. Larger than our Earth, the iconic prominence was imaged by several solar photographers and documented by NASA&#39;s Solar Dynamic Observatory to form and violently dissipate in about a day. The featured image was captured in a color of red light emitted strongly by hydrogen.  Below, solar fibrils carpet the Sun&#39;s chromosphere, while the background sky is so faint in comparison that no stars are visible.  Our Sun&#39;s surface has been quite active this year.</p>
 
 
 
