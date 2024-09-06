@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 247 and Friends</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG"">
+<h3>Ringed Ice Giant Neptune</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png"">
 
 
-<p style="text-align: justify;">About 70,000 light-years across, NGC 247 is a spiral galaxy smaller than our Milky Way. Measured to be only 11 million light-years distant it is nearby though. Tilted nearly edge-on as seen from our perspective, it dominates this telescopic field of view toward the southern constellation Cetus. The pronounced void on one side of the galaxy&#39;s disk recalls for some its popular name, the Needle&#39;s Eye galaxy. Many background galaxies are visible in this sharp galaxy portrait, including the remarkable string of four galaxies just below and left of NGC 247 known as Burbidge&#39;s Chain. Burbidge&#39;s Chain galaxies are about 300 million light-years distant. NGC 247 itself is part of the Sculptor Group of galaxies along with shiny spiral NGC 253.</p>
+<p style="text-align: justify;">Ringed ice giant Neptune lies near the center of this sharp near-infrared image from the James Webb Space Telescope. The dim and distant world is the farthest planet from the Sun, about 30 times farther away than planet Earth. But in the stunning Webb view, the planet&#39;s dark and ghostly appearance is due to atmospheric methane that absorbs infrared light. High altitude clouds that reach above most of Neptune&#39;s absorbing methane easily stand out in the image though. Coated with frozen nitrogen, Neptune&#39;s largest moon Triton is brighter than Neptune in reflected sunlight, seen at the upper left sporting the Webb telescope&#39;s characteristic diffraction spikes. Including Triton, seven of Neptune&#39;s 14 known moons can be identified in the field of view. Neptune&#39;s faint rings are striking in this space-based planetary portrait. Details of the complex ring system are seen here for the first time since Neptune was visited by the Voyager 2 spacecraft in August 1989.</p>
 
 
 
