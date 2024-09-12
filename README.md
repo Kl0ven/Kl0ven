@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Night Sky over the Tatra Mountains</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/NightTatra_Rosadzinski_960.jpg"">
+<h3>Young Star Cluster NGC 1333</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/NGC1333Webb1024.jpg"">
 
 
-<p style="text-align: justify;">A natural border between Slovakia and Poland is the Tatra Mountains. A prominent destination for astrophotographers, the Tatras are the highest mountain range in the Carpathians. In the featured image taken in May, one can see the center of our Milky Way galaxy with two of its famous stellar nurseries, the Lagoon and Omega Nebula, just over the top of the Tatras. Stellar nurseries are full of ionized hydrogen, a fundamental component for the formation of Earth-abundant water. As a fundamental ingredient in all known forms of life, water is a crucial element in the Universe. Such water can be seen in the foreground in the form of the Bialka River.   Portal Universe: Random APOD Generator</p>
+<p style="text-align: justify;">This spectacular mosaic of images from the James Webb Space Telescope peers into the heart of young star cluster NGC 1333. A mere 1,000 light-years distant toward the heroic constellation Perseus, the nearby star cluster lies at the edge of the large Perseus molecular cloud. Part of Webb&#39;s deep exploration of the region to identify low mass brown dwarf stars and free floating planets, the space telescope&#39;s combined field of view spans nearly 2 light-years across the dusty cluster&#39;s turbulent stellar nursery. In fact, NGC 1333 is known to harbor stars less than a million years old, though most are hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.</p>
 
 
 
