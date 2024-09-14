@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Aurora Australis and the International Space Station</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg"">
+<h3>The Moona Lisa</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg"">
 
 
-<p style="text-align: justify;">This snapshot from the International Space Station was taken on August 11 while orbiting about 430 kilometers above the Indian Ocean, Southern Hemisphere, planet Earth. The spectacular view looks south and east, down toward the planet&#39;s horizon and through red and green curtains of aurora australis. The auroral glow is caused by emission from excited oxygen atoms in the extremely rarefied upper atmosphere still present at the level of the orbiting outpost. Green emission from atomic oxygen dominates this scene at altitudes of 100 to 250 kilometers, while red emission from atomic oxygen can extend as high as 500 kilometers altitude. Beyond the glow of these southern lights, this view from low Earth orbit reveals the starry sky from a southern hemisphere perspective. Stars in Orion&#39;s belt and the Orion Nebula are near the Earth&#39;s limb just left of center. Sirius, alpha star of Canis Major and brightest star in planet Earth&#39;s night is above center along the right edge of the southern orbital skyscape.  Looking Up: International Observe the Moon Night</p>
+<p style="text-align: justify;">Only natural colors of the Moon in planet Earth&#39;s sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth&#39;s oceans illuminating the Moon&#39;s dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your screen or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci&#39;s most famous works of art.  Tonight: International Observe the Moon Night</p>
 
 
 
