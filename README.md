@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Moona Lisa</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg"">
+<h3>Find the Man in the Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg"">
 
 
-<p style="text-align: justify;">Only natural colors of the Moon in planet Earth&#39;s sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth&#39;s oceans illuminating the Moon&#39;s dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your screen or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci&#39;s most famous works of art.  Tonight: International Observe the Moon Night</p>
+<p style="text-align: justify;">Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don&#39;t actually exist. The textured surface of Earth&#39;s full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon&#39;s perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon&#39;s center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain.   Observe the Moon Night: NASA Coverage</p>
 
 
 
