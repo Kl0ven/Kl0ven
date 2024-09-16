@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Find the Man in the Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg"">
+<h3>Mercury&#39;s Vivaldi Crater from BepiColombo</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg"">
 
 
-<p style="text-align: justify;">Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don&#39;t actually exist. The textured surface of Earth&#39;s full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon&#39;s perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon&#39;s center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain.   Observe the Moon Night: NASA Coverage</p>
+<p style="text-align: justify;">Why does this large crater on Mercury have two rings and a smooth floor?  No one is sure.  The unusual feature called Vivaldi Crater spans 215 kilometers and was imaged again in great detail by ESA&#39;s and JAXA&#39;s robotic BepiColombo spacecraft on a flyby earlier this month. A large circular feature on a rocky planet or moon is usually caused by either an impact by a small asteroid or a comet fragment, or a volcanic eruption. In the case of Vivaldi, it is possible that both occurred -- a heavy strike that caused a smooth internal lava flow.  Double-ringed craters are rare, and the cause of the inner rings remains a topic of research.  The speed-slowing gravity-assisted flyby of Mercury by BepiColombo was in preparation for the spacecraft entering orbit around the Solar System&#39;s innermost planet in 2026.</p>
 
 
 
