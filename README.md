@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rocket Eclipse at Sunset</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg"">
+<h3>Seven Dusty Sisters</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg"">
 
 
-<p style="text-align: justify;">Shockwaves ripple across the glare as a launch eclipses the setting Sun in this exciting close-up. Captured on September 17, the roaring Falcon 9 rocket carried European Galileo L13 navigation satellites to medium Earth orbit after a lift-off from Cape Canaveral on Florida&#39;s space coast.  The Falcon 9 booster returned safely to Earth about 8.5 minutes later, notching the 22nd launch and landing for the reusable workhorse launch vehicle. But where did it land? Just Read the Instructions.</p>
+<p style="text-align: justify;">Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here, three infrared colors have been mapped into visual colors (R&#x3D;24, G&#x3D;12, B&#x3D;4.6 microns). The base images were taken by NASA&#39;s orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus).</p>
 
 
 
