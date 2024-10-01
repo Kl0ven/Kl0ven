@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet Tsuchinshan-ATLAS over Mexico</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg"">
+<h3>Porphyrion: The Longest Known Black Hole Jets</h3>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ExGvwNuKyMc" target="_blank"><img src="http://img.youtube.com/vi/ExGvwNuKyMc/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
-<p style="text-align: justify;">The new comet has passed its closest to the Sun and is now moving closer to the Earth. C&#x2F;2023 A3 (Tsuchinshan–ATLAS) is currently moving out from inside the orbit of Venus and on track to pass its nearest to the Earth in about two weeks.  Comet Tsuchinshan-ATLAS, pronounced &quot;Choo-cheen-shahn At-less,&quot;, is near naked-eye visibility and easily picked up by long-exposure cameras.  The comet can also now be found by observers in Earth&#39;s northern hemisphere as well as the south.  The featured image was captured just a few days ago above Zacatecas, Mexico. Because clouds were obscuring much of the pre-dawn sky, the astrophotographer released a drone to take pictures from higher up, several of which were later merged to enhance the comet&#39;s visibility. Although the future brightness of comets is hard to predict, there is increasing hope that Comet Tsuchinshan-ATLAS will further brighten as it enters the early evening sky.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</p>
+<p style="text-align: justify;">How far can black hole jets extend? A new record was found just recently with the discovery of a 23-million light-year long jet pair from a black hole active billions of years ago.  Dubbed Porphyrion for a mythological Greek giant, the impressive jets were created by a type of black hole that does not usually create long jets -- one that is busy creating radiation from infalling gas. The featured animated video depicts what it might look like to circle around this powerful black hole system.  Porphyrion is shown as a fast stream of energetic particles, and the bright areas are where these particles are impacting surrounding gas. The discovery was made using data from the Keck and Mayall  (DESI) optical observatories as well as LOFAR and the Giant Metrewave Radio Telescope.  The existence of these jets demonstrates that black holes can affect not only their home galaxies but far out into the surrounding universe.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
 
 
 
