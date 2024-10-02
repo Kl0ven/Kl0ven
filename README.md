@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Porphyrion: The Longest Known Black Hole Jets</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ExGvwNuKyMc" target="_blank"><img src="http://img.youtube.com/vi/ExGvwNuKyMc/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>The Large Magellanic Cloud Galaxy</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg"">
 
 
-<p style="text-align: justify;">How far can black hole jets extend? A new record was found just recently with the discovery of a 23-million light-year long jet pair from a black hole active billions of years ago.  Dubbed Porphyrion for a mythological Greek giant, the impressive jets were created by a type of black hole that does not usually create long jets -- one that is busy creating radiation from infalling gas. The featured animated video depicts what it might look like to circle around this powerful black hole system.  Porphyrion is shown as a fast stream of energetic particles, and the bright areas are where these particles are impacting surrounding gas. The discovery was made using data from the Keck and Mayall  (DESI) optical observatories as well as LOFAR and the Giant Metrewave Radio Telescope.  The existence of these jets demonstrates that black holes can affect not only their home galaxies but far out into the surrounding universe.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">It is the largest satellite galaxy of our home Milky Way Galaxy. If you live in the south, the Large Magellanic Cloud (LMC) is quite noticeable, spanning about 10 degrees across the night sky, which is 20 times larger than the full moon towards the southern constellation of the dolphinfish (Dorado). Being only about 160,000 light years away, many details of the LMC&#39;s structure can be seen, such as its central bar and its single spiral arm. The LMC harbors numerous stellar nurseries where new stars are being born, which appear in pink in the featured image. It is home to the Tarantula Nebula, the currently most active star forming region in the entire Local Group, a small collection of nearby galaxies dominated by the massive Andromeda and Milky Way galaxies. Studies of the LMC and the Small Magellanic Cloud (SMC) by Henrietta Swan Leavitt led to the discovery of the period-luminosity relationship of Cepheid variable stars that are used to measure distances across the nearby universe.   Survey: Color Blindness and Astronomical Images</p>
 
 
 
