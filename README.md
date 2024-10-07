@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Magnificent Tail of Comet McNaught</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg"">
+<h3>The Long Tails Comet Tsuchinshan-ATLAS</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1080.jpg"">
 
 
-<p style="text-align: justify;">Comet McNaught, the Great Comet of 2007, grew a spectacularly long and filamentary tail.  The magnificent tail spread across the sky and was visible for several days to Southern Hemisphere observers just after sunset.  The amazing ion tail showed its greatest extent on long-duration, wide-angle camera exposures.  During some times, just the tail itself was visible just above the horizon for many northern observers as well. Comet C&#x2F;2006 P1 (McNaught), estimated to have attained a peak brightness of  magnitude -5 (minus five), was caught by the comet&#39;s discoverer in the featured image just after sunset in January 2007 from Siding Spring Observatory in Australia. Comet McNaught, the brightest comet in decades, then  faded as it moved further into southern skies and away from the Sun and Earth. Over the next month, Comet Tsuchinshan–ATLAS, a candidate for the Great Comet of 2024, should display its most spectacular tails  visible from the Earth.</p>
+<p style="text-align: justify;">A bright comet is moving into the evening skies. C&#x2F;2023 A3 (Tsuchinshan–ATLAS) has brightened and even though it is now easily visible to the unaided eye, it is so near to the Sun that it is still difficult to see. Pictured, Comet Tsuchinshan–ATLAS was captured just before sunrise from an Andes Mountain in Peru. Braving cold weather, this unusually high perch gave the astrophotographer such a low eastern horizon that the comet was obvious in the pre-dawn sky.  Visible in the featured image is not only an impressively long dust tail extending over many degrees, but an impressively long and blue ion tail, too.  This month, as the comet moves out from the Sun and passes the Earth, evening observers should be able to see the huge dirty ice ball toward the west just after sunset.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</p>
 
 
 
