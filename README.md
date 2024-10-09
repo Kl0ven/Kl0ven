@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Annular Eclipse over Patagonia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg"">
+<h3>M106: A Spiral Galaxy with a Strange Center</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/M106_Obaidly_960.jpg"">
 
 
-<p style="text-align: justify;">Can you find the Sun? OK, but can you explain why there’s a big dark spot in the center? The spot is the Moon, and the impressive alignment shown, where the Moon lines up inside the Sun, is called an annular solar eclipse. Such an eclipse occurred just last week and was visible from a thin swath mostly in Earth&#39;s southern hemisphere. The featured image was captured from Patagonia, Chile. When the Moon is significantly closer to the Earth and it aligns with the Sun, a total solar eclipse is then visible from parts of the Earth. Annular eclipses are slightly more common than total eclipses, but as the Moon moves slowly away from the Earth, before a billion more years, the Moon&#39;s orbit will no longer bring it close enough for a total solar eclipse to be seen from anywhere on Earth.   Gallery: Annular Eclipse of October 2024</p>
+<p style="text-align: justify;">What&#39;s happening at the center of spiral galaxy M106? A swirling disk of stars and gas, M106&#39;s appearance is dominated by blue spiral arms and red  dust lanes near the nucleus, as shown in the featured image taken from the Kuwaiti desert.  The core of M106 glows brightly in radio waves and X-rays where twin jets have been found running the length of the galaxy.  An unusual central glow makes M106 one of the closest examples of the Seyfert class of galaxies, where vast amounts of glowing gas are thought to be falling into a central massive black hole.  M106, also designated NGC 4258, is a relatively close 23.5 million light years away, spans 60 thousand light years across, and can be seen with a small telescope towards the constellation of the Hunting Dogs (Canes Venatici).</p>
 
 
 
