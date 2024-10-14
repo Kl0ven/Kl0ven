@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Aurora Timelapse Over Italian Alps</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uCbpHh_rTgc" target="_blank"><img src="http://img.youtube.com/vi/uCbpHh_rTgc/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>Comet Tsuchinshan-ATLAS Over the Lincoln Memorial</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg"">
 
 
-<p style="text-align: justify;">Did you see last night&#39;s aurora? This question was relevant around much of the world a few days ago because a powerful auroral storm became visible unusually far from the Earth&#39;s poles. The cause was a giant X-class solar flare on Tuesday that launched energetic electrons and protons into the Solar System, connecting to the Earth via our planet&#39;s magnetic field.  A red glow of these particles striking oxygen atoms high in  Earth&#39;s atmosphere pervades the frame, while vertical streaks dance. The featured video shows a one-hour timelapse as seen from Cortina d&#39;Ampezzo over Alps Mountain peaks in northern Italy.  Stars from our Milky Way Galaxy dot the background while  streaks from airplanes and satellites punctuate the foreground. The high recent activity of our Sun is likely to continue to produce picturesque auroras over Earth during the next year or so.   Gallery: Global aurora during October 10&#x2F;11, 2024</p>
+<p style="text-align: justify;">Go outside at sunset tonight and see a comet!  C&#x2F;2023 A3 (Tsuchinshan–ATLAS) has become visible in the early evening sky in northern locations to the unaided eye. To see the comet, look west through a sky with a low horizon. If the sky is clear and dark enough, you will not even need binoculars -- the faint tail of the comet should be visible just above the horizon for about an hour.  Pictured, Comet Tsuchinshan-ATLAS was captured two nights ago over the Lincoln Memorial monument in Washington, DC, USA.  With each passing day at sunset, the comet and its changing tail should be higher and higher in the sky, although exactly how bright and how long its tails will be can only be guessed.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</p>
 
 
 
