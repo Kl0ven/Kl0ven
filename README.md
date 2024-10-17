@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Colorful Aurora over New Zealand</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_1080.jpg"">
+<h3>The Clipper and the Comet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg"">
 
 
-<p style="text-align: justify;">Sometimes the night sky is full of surprises. Take the sky over Lindis Pass, South Island, New Zealand one-night last week.  Instead of a typically calm night sky filled with constant stars, a busy and dynamic night sky appeared. Suddenly visible were pervasive red aurora, green picket-fence aurora, a red SAR arc, a STEVE, a meteor, and the Moon. These outshone the center of our Milky Way Galaxy and both of its two satellite galaxies: the LMC and SMC. All of these were captured together on 28 exposures in five minutes, from which this panorama was composed.  Auroras lit up many skies last week, as a Coronal Mass Ejection from the Sun unleashed a burst of particles toward our Earth that created colorful skies over latitudes usually too far from the Earth&#39;s poles to see them.  More generally, night skies this month have other surprises, showing not only auroras -- but comets.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
+<p style="text-align: justify;">NASA&#39;s Europa Clipper is now headed toward an ocean world beyond Earth. The large spacecraft is tucked into the payload fairing atop the Falcon Heavy rocket in this photo, taken at Kennedy Space Center the day before the mission&#39;s successful October 14 launch. Europa Clipper&#39;s interplanetary voyage will first take it to Mars, then back to Earth, and then on to Jupiter on gravity assist trajectories that will allow it to enter orbit around Jupiter in April 2030. Once orbiting Jupiter, the spacecraft will fly past Europa 49 times, exploring a Jovian moon with a global subsurface ocean that may have conditions to support life. Posing in the background next to the floodlit rocket is Comet Tsuchinsan-ATLAS, about a day after the comet&#39;s closest approach to Earth. A current darling of evening skies, the naked-eye comet is a vistor from the distant Oort cloud  Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
 
 
 
