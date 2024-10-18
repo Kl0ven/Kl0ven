@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Clipper and the Comet</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg"">
+<h3>Most of Comet Tsuchinshan-ATLAS</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/a3_20241014_s1200.jpg"">
 
 
-<p style="text-align: justify;">NASA&#39;s Europa Clipper is now headed toward an ocean world beyond Earth. The large spacecraft is tucked into the payload fairing atop the Falcon Heavy rocket in this photo, taken at Kennedy Space Center the day before the mission&#39;s successful October 14 launch. Europa Clipper&#39;s interplanetary voyage will first take it to Mars, then back to Earth, and then on to Jupiter on gravity assist trajectories that will allow it to enter orbit around Jupiter in April 2030. Once orbiting Jupiter, the spacecraft will fly past Europa 49 times, exploring a Jovian moon with a global subsurface ocean that may have conditions to support life. Posing in the background next to the floodlit rocket is Comet Tsuchinsan-ATLAS, about a day after the comet&#39;s closest approach to Earth. A current darling of evening skies, the naked-eye comet is a visitor from the distant Oort cloud  Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
+<p style="text-align: justify;">On October 14 it was hard to capture a full view of Comet C&#x2F;2023 A3 Tsuchinshan-ATLAS. Taken after the comet&#39;s closest approach to our fair planet, this evening skyview almost does though. With two telephoto frames combined, the image stretches about 26 degrees across the sky from top to bottom, looking west from Gates Pass, Tucson, Arizona. Comet watchers that night could even identify globular star cluster M5 and the faint apparition of periodic comet 13P Olbers near the long the path of Tsuchinshan-ATLAS&#39;s whitish dust tail above the bright comet&#39;s coma. Due to perspective as the Earth is crossing the comet&#39;s orbital plane, Tsuchinshan-ATLAS also has a pronounced antitail. The antitail is composed of dust previously released and fanning out away from the Sun along the comet&#39;s orbit, visible as a needle-like extension below the bright coma toward the rugged western horizon.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
 
 
 
