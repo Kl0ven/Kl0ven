@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Most of Comet Tsuchinshan-ATLAS</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/a3_20241014_s1200.jpg"">
+<h3>Comet Tsuchinshan-ATLAS Flys Away</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days_1100.jpg"">
 
 
-<p style="text-align: justify;">On October 14 it was hard to capture a full view of Comet C&#x2F;2023 A3 Tsuchinshan-ATLAS. Taken after the comet&#39;s closest approach to our fair planet, this evening skyview almost does though. With two telephoto frames combined, the image stretches about 26 degrees across the sky from top to bottom, looking west from Gates Pass, Tucson, Arizona. Comet watchers that night could even identify globular star cluster M5 and the faint apparition of periodic comet 13P Olbers near the long the path of Tsuchinshan-ATLAS&#39;s whitish dust tail above the bright comet&#39;s coma. Due to perspective as the Earth is crossing the comet&#39;s orbital plane, Tsuchinshan-ATLAS also has a pronounced antitail. The antitail is composed of dust previously released and fanning out away from the Sun along the comet&#39;s orbit, visible as a needle-like extension below the bright coma toward the rugged western horizon.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
+<p style="text-align: justify;">These six panels follow daily apparitions of comet C&#x2F;2023 A3 Tsuchinshan-ATLAS as it moved away from our fair planet during the past week. The images were taken with the same camera and lens at the indicated dates and locations from California, planet Earth. At far right on October 12 the visitor from the distant Oort cloud was near its closest approach, some 70 million kilometers (about 4 light-minutes) away. Its bright coma and long dust tail were close on the sky to the setting Sun but still easy to spot against a bright western horizon. Over the following days, the outbound comet steadily climbs above the ecliptic and north into the darker western evening sky, but begins to fade from view. Crossing the Earth&#39;s orbital plane around October 14, Tsuchinshan-ATLAS exhibits a noticeable antitail extended toward the western horizon. Higher in the evening sky at sunset by October 17 (far left) the comet has faded and reached a distance of around 77 million kilometers from planet Earth. Hopefully you enjoyed some of Tsuchinshan-ATLAS&#39;s bid to become the best comet of 2024. This comet&#39;s initial orbital period estimates were a mere 80,000 years, but in fact it may never return to the inner Solar System.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
 
 
 
