@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Caught</h3>
- <img class="fit-picture" src=""">
+<h3>NGC 7293: The Helix Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png"">
 
 
-<p style="text-align: justify;">Mechazilla has caught the Super Heavy booster! pic.twitter.com&#x2F;6R5YatSVJX</p>
+<p style="text-align: justify;">A mere seven hundred light years from Earth toward the constellation Aquarius, a star is dying. The once sun-like star&#39;s last few thousand years have produced the Helix Nebula. Also known as NGC 7293, the cosmic Helix is a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution.  Combining narrow band data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, this deep image shows tantalizing details of the Helix, including its bright inner region about 3 light-years across. The white dot at the Helix&#39;s center is this Planetary Nebula&#39;s hot, dying central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry.</p>
 
 
 
