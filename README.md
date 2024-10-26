@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Globular Star Cluster NGC 6752</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg"">
+<h3>Phantoms in Cassiopeia</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg"">
 
 
-<p style="text-align: justify;">Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 follows clusters Omega Centauri, 47 Tucanae, and Messier 22 as the fourth brightest globular in planet Earth&#39;s night sky. It holds over 100 thousand stars in a sphere about 100 light-years in diameter. Telescopic explorations of NGC 6752 have found that a remarkable fraction of the stars near the cluster&#39;s core, are multiple star systems. They also reveal the presence of blue straggle stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun. The blue stragglers are thought to be formed by star mergers and collisions in the dense stellar environment at the cluster&#39;s core. This sharp color composite also features the cluster&#39;s ancient red giant stars in yellowish hues. (Note: The bright, spiky blue star about 8 o&#39;clock from the cluster center is a foreground star along the line-of-sight to NGC 6752)</p>
+<p style="text-align: justify;">These brightly outlined flowing shapes look ghostly on a cosmic scale. A telescopic view toward the constellation Cassiopeia, the colorful skyscape features the swept-back, comet-shaped clouds IC 59 (left) and IC 63. About 600 light-years distant, the clouds aren&#39;t actually ghosts. They are slowly disappearing though, under the influence of energetic radiation from hot, luminous star gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae and lies just above the right edge of the frame. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the hot star&#39;s ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The field of view spans over 1 degree or 10 light-years at the estimated distance of the interstellar apparitions.</p>
 
 
 
