@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 7635: The Bubble Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg"">
+<h3>Rigel and the Witch Head Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/Strega_apod_1024r.jpg"">
 
 
-<p style="text-align: justify;">What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. The featured striking view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here above and right of the Bubble&#39;s center, a bright hot star is embedded in the nebula&#39;s reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+<p style="text-align: justify;">By starlight, this eerie visage shines in the dark with a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that a witch has fixed her gaze on Orion&#39;s bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel&#39;s starlight. The color of the Witch Head Nebula is caused not only by Rigel&#39;s intense blue light, but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth&#39;s daytime sky to appear blue, although the scatterers in Earth&#39;s atmosphere are molecules of nitrogen and oxygen. Rigel and this dusty cosmic crone are about 800 light-years away. You may still see a few witches in your neighborhood tonight though, so have a safe and Happy Halloween!</p>
 
 
 
