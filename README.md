@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Rigel and the Witch Head Nebula</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2410/Strega_apod_1024r.jpg"">
+<h3>Spiral Galaxy NGC 6744</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm1024.jpg"">
 
 
-<p style="text-align: justify;">By starlight, this eerie visage shines in the dark with a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that a witch has fixed her gaze on Orion&#39;s bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel&#39;s starlight. The color of the Witch Head Nebula is caused not only by Rigel&#39;s intense blue light, but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth&#39;s daytime sky to appear blue, although the scatterers in Earth&#39;s atmosphere are molecules of nitrogen and oxygen. Rigel and this dusty cosmic crone are about 800 light-years away. You may still see a few witches in your neighborhood tonight though, so have a safe and Happy Halloween!</p>
+<p style="text-align: justify;">Big, beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo but appears as only a faint smudge in the eyepiece of a small telescope. We see the disk of the nearby island universe tilted towards our line of sight in this remarkably deep and detailed galaxy portrait, a telescopic image that spans an area about the angular size of a full moon. In it, the giant galaxy&#39;s elongated yellowish core is dominated by the light from old, cool stars. Beyond the core, grand spiral arms are filled with young blue star clusters and speckled with pinkish star forming regions. An extended arm sweeps past smaller satellite galaxy NGC 6744A at the upper left. NGC 6744&#39;s galactic companion is reminiscent of the Milky Way&#39;s satellite galaxy the Large Magellanic Cloud.</p>
 
 
 
