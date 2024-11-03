@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Saturn at Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/LastRingPortrait_Cassini_1080.jpg"">
+<h3>Jupiter Abyss</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/JupiterAbyss_JunoEichstadt_1080.jpg"">
 
 
-<p style="text-align: justify;">Saturn is bright in Earth&#39;s night skies. Telescopic views of the outer gas giant planet and its beautiful rings often make it a star at star parties. But this stunning view of Saturn&#39;s rings and night side just isn&#39;t possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn&#39;s day side into view. In fact, this image of Saturn&#39;s slender sunlit crescent with night&#39;s shadow cast across its broad and complex ring system was captured by the Cassini spacecraft. A robot spacecraft from planet Earth, Cassini called Saturn orbit home for 13 years before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini&#39;s wide-angle camera only two days before its grand final plunge. Saturn&#39;s night will not be seen again until another spaceship from Earth calls.</p>
+<p style="text-align: justify;">What&#39;s that black spot on Jupiter? No one is sure.  During one pass of NASA&#39;s Juno over  Jupiter, the robotic spacecraft imaged an usually dark cloud feature informally dubbed the Abyss. Surrounding cloud patterns show the Abyss to be at the center of a vortex. Since dark features on Jupiter&#39;s atmosphere tend to run deeper than light features, the Abyss may really be the deep hole that it appears -- but without more evidence that remains conjecture.  The Abyss is surrounded by a complex of meandering clouds and other swirling storm systems, some of which are topped by light colored, high-altitude clouds.  The featured image was captured in 2019 while Juno passed only about 15,000 kilometers above Jupiter&#39;s cloud tops.  The next close pass of Juno near Jupiter will be in about three weeks.</p>
 
 
 
