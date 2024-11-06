@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Milky Way over Easter Island</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg"">
+<h3>Comet Tsuchinshan-Atlas over the Dolomites</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg"">
 
 
-<p style="text-align: justify;">Why were the statues on Easter Island built?  No one is sure.  What is sure is that over 900 large stone statues called moais exist there.  The Rapa Nui (Easter Island) moais stand, on average, over twice as tall as a person and have over 200 times as much mass.  It is thought that the unusual statues were created about 600 years ago in the images of local leaders of a vibrant and ancient civilization.  Rapa Nui has been declared by UNESCO to a World Heritage Site. Pictured here, some of the stone giants were imaged last month under the central band of our Milky Way galaxy.  Previously unknown moais are still being discovered.    Alternative Multi-APOD Front Page: MyUniverseHub.com</p>
+<p style="text-align: justify;">Comet Tsuchinshan-Atlas is now headed back to the outer Solar System.  The massive dusty snowball put on quite a show during its trip near the Sun, resulting in many impressive pictures from planet Earth during October.  The featured image was taken in mid-October and shows a defining visual feature of the comet -- its impressive anti-tail. The image captures Comet C&#x2F;2023 A3 (Tsuchinshan–ATLAS) with impressively long dust and ion tails pointing up and away from the Sun, while the strong anti-tail -- composed of more massive dust particles -- trails the comet and points down and (nearly) toward the recently-set Sun. In the foreground is village of Tai di Cadore, Italy, with the tremendous Dolomite Mountains in the background.  Another comet, C&#x2F;2024 S1 (ATLAS), once a candidate to rival Comet Tsuchinshan-Atlas in brightness, broke up last week during its close approach to our Sun.    Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
 
 
 
