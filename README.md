@@ -64,7 +64,7 @@
  <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg"">
 
 
-<p style="text-align: justify;">Ice giant Neptune is faint in Earth&#39;s night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune&#39;s night just isn&#39;t possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune&#39;s day side into view.  In fact this night side image with Neptune&#39;s slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System&#39;s outermost planet in 1989, looking back on Neptune as the robotic spacecraft continued its voyage to interstellar space.</p>
+<p style="text-align: justify;">Ice giant Neptune is faint in Earth&#39;s night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune&#39;s night just isn&#39;t possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune&#39;s day side into view.  In fact this night side image with Neptune&#39;s slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System&#39;s outermost planet in 1989, looking back on Neptune at night as the robotic spacecraft continued its voyage to interstellar space.</p>
 
 
 
