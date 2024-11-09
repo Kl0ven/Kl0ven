@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Helping Hand in Cassiopeia</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR1024.png"">
+<h3>Neptune at Night</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg"">
 
 
-<p style="text-align: justify;">Drifting near the plane of our Milky Way galaxy these dusty molecular clouds seem to extend a helping hand on a cosmic scale. Part of a local complex of star-forming interstellar clouds they include LDN 1358, 1357, and 1355 from American astronomer Beverly Lynds&#39; 1962 Catalog of Dark Nebulae. Presenting a challenging target for astro-imagers, the obscuring dark nebulae are nearly 3,000 light-years away, toward rich starfields in the northern constellation Cassiopeia. At that distance, this deep, telescopic field of view would span about 80 light-years.</p>
+<p style="text-align: justify;">Ice giant Neptune is faint in Earth&#39;s night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune&#39;s night just isn&#39;t possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune&#39;s day side into view.  In fact this night side image with Neptune&#39;s slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System&#39;s outermost planet in 1989, looking back on Neptune as the robotic spacecraft continued its voyage to interstellar space.</p>
 
 
 
