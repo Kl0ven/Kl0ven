@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Neptune at Night</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg"">
+<h3>Valles Marineris: The Grand Canyon of Mars</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg"">
 
 
-<p style="text-align: justify;">Ice giant Neptune is faint in Earth&#39;s night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune&#39;s night just isn&#39;t possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune&#39;s day side into view.  In fact this night side image with Neptune&#39;s slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System&#39;s outermost planet in 1989, looking back on Neptune at night as the robotic spacecraft continued its voyage to interstellar space.</p>
+<p style="text-align: justify;">The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth&#39;s Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Several geologic processes have been identified in the canyon.  The featured mosaic was  created from over 100 images of Mars taken by Viking Orbiters in the 1970s.</p>
 
 
 
