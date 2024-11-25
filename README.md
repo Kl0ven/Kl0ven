@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Journey to the Center of the Galaxy</h3>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=FNHexFdacK0" target="_blank"><img src="http://img.youtube.com/vi/FNHexFdacK0/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<h3>The Horsehead Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_960.jpg"">
 
 
-<p style="text-align: justify;">What lies at the center of our galaxy? In Jules Verne&#39;s science fiction classic, A Journey to the Center of the Earth, Professor Liedenbrock and his fellow explorers encounter many strange and exciting wonders. Astronomers already know of some of the bizarre objects that exist at our Galactic Center, including vast cosmic dust clouds, bright star clusters, swirling rings of gas, and even a supermassive black hole. Much of the Galactic Center is shielded from our view in visible light by the intervening dust and gas, but it can be explored using other forms of electromagnetic radiation. The featured video is actually a digital zoom into the Milky Way&#39;s center which starts by utilizing visible light images from the Digitized Sky Survey. As the movie proceeds, the light shown shifts to dust-penetrating infrared and highlights gas clouds that were recently discovered in 2013 to be falling toward the central black hole.</p>
+<p style="text-align: justify;">One of the most identifiable nebulas in the sky, the Horsehead Nebula in Orion, is part of a large, dark, molecular cloud.  Also known as Barnard 33, the unusual shape was first discovered on a photographic plate in the late 1800s.  The red glow originates from hydrogen gas predominantly behind the nebula, ionized by the nearby bright star Sigma Orionis.  The darkness of the Horsehead is caused mostly by thick dust, although the lower part of the Horsehead&#39;s neck casts a shadow to the left.  Streams of gas leaving the nebula are funneled by a strong magnetic field.  Bright spots in the Horsehead Nebula&#39;s base are young stars just in the process of forming.  Light takes about 1,500 years to reach us from the Horsehead Nebula.  The featured image was taken from the Chilescope Observatory in the mountains of Chile.</p>
 
 
 
