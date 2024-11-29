@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 206 and the Star Clouds of Andromeda</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg"">
+<h3>Messier 4</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/m4_STXL16200_RC14_LRGB1024.jpg"">
 
 
-<p style="text-align: justify;">The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy&#39;s pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda&#39;s disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That&#39;s comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.</p>
+<p style="text-align: justify;">Messier 4 can be found west of bright red-giant star Antares, alpha star of the constellation Scorpius. M4 itself is only just visible from dark sky locations, even though the globular cluster of 100,000 stars or so is a mere 5,500 light-years away. Still, its proximity to prying telescopic eyes makes it a prime target for astronomical explorations. Recent studies have included Hubble observations of M4&#39;s pulsating cepheid variable stars, cooling white dwarf stars, and ancient, pulsar orbiting exoplanet PSR B1620-26 b. This sharp image was captured with a small telescope on planet Earth. At M4&#39;s estimated distance it spans about 50 light-years across the core of the globular star cluster.</p>
 
 
 
