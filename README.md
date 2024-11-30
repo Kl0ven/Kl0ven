@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 4</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/m4_STXL16200_RC14_LRGB1024.jpg"">
+<h3>Winter and Summer on a Little Planet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2411/LittleplanetGalibier-CamilleNIEL1024.jpg"">
 
 
-<p style="text-align: justify;">Messier 4 can be found west of bright red-giant star Antares, alpha star of the constellation Scorpius. M4 itself is only just visible from dark sky locations, even though the globular cluster of 100,000 stars or so is a mere 5,500 light-years away. Still, its proximity to prying telescopic eyes makes it a prime target for astronomical explorations. Recent studies have included Hubble observations of M4&#39;s pulsating cepheid variable stars, cooling white dwarf stars, and ancient, pulsar orbiting exoplanet PSR B1620-26 b. This sharp image was captured with a small telescope on planet Earth. At M4&#39;s estimated distance it spans about 50 light-years across the core of the globular star cluster.</p>
+<p style="text-align: justify;">Winter and summer appear to come on a single night to this stunning little planet. It&#39;s planet Earth of course. The digitally mapped, nadir centered panorama covers 360x180 degrees and is composed of frames recorded during January and July from the Col du Galibier in the French Alps. Stars and nebulae of the northern winter (bottom) and summer Milky Way form the complete arcs traversing the rugged, curved horizon. Cars driving along on the road during a summer night illuminate the 2,642 meter high mountain pass, but snow makes access difficult during winter months except by serious ski touring. Cycling fans will recognize the Col du Galibier as one of the most famous climbs in planet Earth&#39;s Tour de France.</p>
 
 
 
