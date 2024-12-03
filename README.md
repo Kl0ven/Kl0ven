@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 300: A Galaxy of Stars</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg"">
+<h3>Ice Clouds over a Red Planet</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg"">
 
 
-<p style="text-align: justify;">This galaxy is unusual for how many stars it seems that you can see. Stars are so abundantly evident in this deep exposure of the spiral galaxy NGC 300 because so many of these stars are bright blue and grouped into resolvable bright star clusters.  Additionally, NGC 300 is so clear because it is one of the closest spiral galaxies to Earth, as light takes only about 6 million years to get here.  Of course, galaxies are composed of many more faint stars than bright, and even more of a galaxy&#39;s mass is attributed to unseen dark matter.  NGC 300 spans nearly the same amount of sky as the full moon and is visible with a small telescope toward the southern constellation of the Sculptor. The featured image was captured in October from Rio Hurtado, Chile and is a composite of over 20 hours of exposure.</p>
+<p style="text-align: justify;">If you could stand on Mars -- what might you see?  You might look out over a vast orange landscape covered with rocks under a dusty orange sky, with a blue-tinted Sun setting over the horizon, and odd-shaped water clouds hovering high overhead. This was just the view captured last March by NASA&#39;s rolling explorer,  Perseverance. The orange coloring is caused by rusted iron in the Martian dirt, some of which is small enough to be swept up by winds into the atmosphere. The blue tint near the setting Sun is caused by blue light being preferentially scattered out from the Sun by the floating dust. The light-colored clouds on the right are likely composed of water-ice and appear high in the Martian atmosphere.  The shapes of some of these clouds are unusual for Earth and remain a topic of research.</p>
 
 
 
