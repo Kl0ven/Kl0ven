@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Xuyi Station and the Fireball</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg"">
+<h3>Rocket Engine Fireplace</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/NASARocketEngineFireplaceSnap600.png"">
 
 
-<p style="text-align: justify;">Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at Purple Mountain (Tsuchinshan) Observatory’s Xuyi Station in 2020, during planet Earth&#39;s annual Perseid meteor shower. The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest multi-purpose Schmidt telescope in China. Located in Xuyi County, Jiangsu Province, the station began its operation as an extension of China&#39;s Purple Mountain Observatory in 2006. Darling of planet Earth&#39;s night skies in 2024, the bright comet designated Tsuchinshan-ATLAS (C&#x2F;2023 A3) was discovered in images taken there on 2023 January 9. The discovery is jointly credited to NASA&#39;s ATLAS robotic survey telescope at Sutherland Observatory, South Africa. Other comet discoveries associated with the historic Purple Mountain Observatory and bearing the observatory&#39;s transliterated Mandarin name include periodic comets 60&#x2F;P Tsuchinshan and 62&#x2F;P Tsuchinshan.</p>
+<p style="text-align: justify;">You might not think a close up view of rocket engines producing 8.8 million pounds of thrust would be relaxing, but here it can be. In fact, you can get a warm and cozy feeling just spending a few moments watching NASA&#39;s holiday rocket engine fireplace. The video features a loop of the Space Launch System rocket&#39;s RS-25 main engines throttled up and running flanked by solid rocket boosters and framed by a stone fireplace. The accompanying audio track mixes the drastically muted sounds of the rocket engines firing with the more familiar sounds of a burning, crackling wood fire. AI elements are included in the composed video along with an image and logo from the Artemis I mission. The Artemis I uncrewed mission to the Moon and back again launched in November 2022 on a Space Launch System rocket.</p>
 
 
 
