@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Great Meteor Storm of 1833</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/LeonidsWoodcut_Vollmy_960.jpg"">
+<h3>The Shells and Jets of Galaxy Centaurus A</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/CenAShellsJets_Olsen_1080.jpg"">
 
 
-<p style="text-align: justify;">It was a night of 100,000 meteors.  The Great Meteor Storm of 1833 was perhaps the most impressive meteor event in recent history.  Best visible over eastern North America during the pre-dawn hours of November 13, many people -- including a young Abraham Lincoln -- were woken up to see the sky erupt in streaks and flashes. Hundreds of thousands of meteors blazed across the sky, seemingly pouring out of the constellation of the Lion (Leo).  The featured image is a digitization of a wood engraving which itself was based on a painting from a first-person account. We know today that the Great Meteor Storm of 1833 was caused by the Earth moving through a dense part of the dust trail expelled from Comet Tempel-Tuttle. The Earth moves through this dust stream every November during the Leonid meteor shower. Later this week you might get a slight taste of the intensity of that 1833 meteor storm by witnessing the annual Geminid meteor shower.   Explore Your Universe: Random APOD Generator</p>
+<p style="text-align: justify;">What&#39;s the closest active galaxy to planet Earth? That would be Centaurus A, cataloged as NGC 5128, which is only 12 million light-years distant. Forged in a collision of two otherwise normal galaxies, Centaurus A shows several distinctive features including a dark dust lane across its center, outer shells of stars and gas, and jets of particles shooting out from a supermassive black hole at its center.  The featured image captures all of these in a composite series of visible light images totaling over 310 hours captured over the past 10 years with a homebuilt telescope operating in Auckland, New Zealand. The brightness of Cen A&#39;s center from low-energy radio waves to high-energy gamma rays underlies its designation as an active galaxy.    Astrophysicists: Browse 3,500+ codes in the Astrophysics Source Code Library</p>
 
 
 
