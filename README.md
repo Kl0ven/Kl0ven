@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Phaethon&#39;s Brood</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/MSato_Phaethon-and-Geminids-v2.jpg"">
+<h3>M51: Tidal Streams and H-alpha Cliffs</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/M51_HaLRGB_APOD1024.jpg"">
 
 
-<p style="text-align: justify;">Based on its well-measured orbit, 3200 Phaethon (sounds like FAY-eh-thon) is recognized as the source of the meteoroid stream responsible for the annual Geminid meteor shower. Even though most meteor shower parents are comets, 3200 Phaethon is a known and closely tracked near-Earth asteroid with a 1.4 year orbital period. Rocky and sun-baked, its perihelion or closest approach to the Sun is well within the orbit of innermost planet Mercury. In this telescopic field of view, the asteroid&#39;s rapid motion against faint background stars of the heroic constellation Perseus left a short trail during the two minute total exposure time. The (faint) parallel streaks of its meteoric children flashed much more quickly across the scene. The family portrait was recorded near the Geminid meteor shower&#39;s very active peak on 2017 December 13. That was just three days before 3200 Phaethon&#39;s historic close approach to planet Earth. This year, the night of December 13 should again see the peak of the Geminid meteor shower, but faint meteors will be washed out by the bright light of the nearly full moon.  Watch: The 2024 Geminid Meteor Shower</p>
+<p style="text-align: justify;">An intriguing pair of interacting galaxies, M51 is the 51st entry in Charles Messier&#39;s famous catalog. Perhaps the original spiral nebula, the large galaxy with whirlpool-like spiral structure seen nearly face-on is also cataloged as NGC 5194. Its spiral arms and dust lanes sweep in front of its smaller companion galaxy, NGC 5195. Some 31 million light-years distant, within the boundaries of the well-trained constellation Canes Venatici, M51 looks faint and fuzzy to the eye in direct telescopic views. But this remarkably deep image shows off stunning details of the galaxy pair&#39;s striking colors and fainter tidal streams. The image includes extensive narrowband data to highlight a vast reddish cloud of ionized hydrogen gas recently discovered in the M51 system and known to some as the H-alpha cliffs. Foreground dust clouds in the Milky Way and distant background galaxies are captured in the wide-field view. A continuing collaboration of astro-imagers using telescopes on planet Earth assembled over 3 weeks of exposure time to create this evolving portrait of M51.  Watch: The 2024 Geminid Meteor Shower</p>
 
 
 
