@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>M51: Tidal Streams and H-alpha Cliffs</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/M51_HaLRGB_APOD1024.jpg"">
+<h3>Apollo 17&#39;s Moonship</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/AS17-149-22859-2v2SmlWmk1024.jpg"">
 
 
-<p style="text-align: justify;">An intriguing pair of interacting galaxies, M51 is the 51st entry in Charles Messier&#39;s famous catalog. Perhaps the original spiral nebula, the large galaxy with whirlpool-like spiral structure seen nearly face-on is also cataloged as NGC 5194. Its spiral arms and dust lanes sweep in front of its smaller companion galaxy, NGC 5195. Some 31 million light-years distant, within the boundaries of the well-trained constellation Canes Venatici, M51 looks faint and fuzzy to the eye in direct telescopic views. But this remarkably deep image shows off stunning details of the galaxy pair&#39;s striking colors and fainter tidal streams. The image includes extensive narrowband data to highlight a vast reddish cloud of ionized hydrogen gas recently discovered in the M51 system and known to some as the H-alpha cliffs. Foreground dust clouds in the Milky Way and distant background galaxies are captured in the wide-field view. A continuing collaboration of astro-imagers using telescopes on planet Earth assembled over 3 weeks of exposure time to create this evolving portrait of M51.  Watch: The 2024 Geminid Meteor Shower</p>
+<p style="text-align: justify;">Awkward and angular looking, Apollo 17&#39;s lunar module Challenger was designed for flight in the near vacuum of space.  Digitally enhanced and reprocessed, this picture taken from Apollo 17&#39;s command module America shows Challenger&#39;s ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch allowing access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now? Its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley. The ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts&#39; return to planet Earth.</p>
 
 
 
