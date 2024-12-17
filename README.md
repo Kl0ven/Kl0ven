@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Kilometer High Cliff on Comet Churyumov - Gerasimenko</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/CometCliffs_Rosetta_960.jpg"">
+<h3>Near to the Heart Nebula</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_1080.jpg"">
 
 
-<p style="text-align: justify;">This kilometer high cliff occurs on the surface of a comet.  It was discovered on the dark nucleus of Comet Churyumov - Gerasimenko (CG) by Rosetta, a robotic spacecraft launched by ESA, which orbited the comet from 2014 to 2016.  The ragged cliff, as featured here, was imaged by Rosetta early in its mission. Although towering about one kilometer high, the low surface gravity of Comet CG would likely make a jump from the cliffs by a human survivable.  At the foot of the cliffs is relatively smooth terrain dotted with boulders as large as 20 meters across. Data from Rosetta indicates that the ice in Comet CG has a significantly different deuterium fraction -- and hence likely a different origin -- than the water in Earth&#39;s oceans.  The probe was named after the Rosetta Stone, a rock slab featuring the same text written in three different languages that helped humanity decipher ancient Egyptian writing.</p>
+<p style="text-align: justify;">What excites the Heart Nebula? First, the large emission nebula on the upper left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by sulfur (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  This wide field image shows much more, though, including the Fishhead Nebula just below the Heart, a supernova remnant on the lower left, and three planetary nebulas on the image right.  Taken over 57 nights, this image is so deep, though, that it clearly shows fainter long and complex filaments.</p>
 
 
 
