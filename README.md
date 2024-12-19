@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 660: Polar Ring Galaxy</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/NGC660_Selby_960.jpg"">
+<h3>Messier 2</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/potw1913aM2_1024.jpg"">
 
 
-<p style="text-align: justify;">What kind of strange galaxy is this? This rare structure is known as a polar ring galaxy, and it seems to have two different rings of stars.  In this galaxy, NGC 660, one ring of bright stars, gas, and dark dust appears nearly vertical, while another similar but shorter ring runs diagonally from the upper left.  How polar ring galaxies obtain their striking appearance remains a topic of research, but a leading theory holds that it is usually the result of two galaxies with different central ring planes colliding.  NGC 660 spans about 50,000 light years and is located about 40 million light years away toward the constellation of the Fish (Pisces).  The featured image was captured recently from Observatorio El Sauce in Chile.</p>
+<p style="text-align: justify;">After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier&#39;s famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster&#39;s central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.</p>
 
 
 
