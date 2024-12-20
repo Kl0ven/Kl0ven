@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Messier 2</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/potw1913aM2_1024.jpg"">
+<h3>The Long Night Moon</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/CoronaLunareRevdgpicc1024.jpg"">
 
 
-<p style="text-align: justify;">After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier&#39;s famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster&#39;s central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.</p>
+<p style="text-align: justify;">On the night of December 15, the Full Moon was bright. Known to some as the Cold Moon or the Long Night Moon, it was the closest Full Moon to the northern winter solstice and the last Full Moon of 2024. This Full Moon was also at a major lunar standstill. A major lunar standstill is an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon&#39;s orbit over an 18.6 year cycle. As a result, the full lunar phase was near the Moon&#39;s northernmost moonrise (and moonset) along the horizon.  December&#39;s Full Moon is rising in this stacked image, a composite of exposures recording the range of brightness visible to the eye on the northern winter night. Along with a colorful lunar corona and aircraft contrail this Long Night Moon shines in a cold sky above the rugged, snowy peaks of the Italian Dolomites.</p>
 
 
 
