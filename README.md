@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Long Night Moon</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/CoronaLunareRevdgpicc1024.jpg"">
+<h3>A Year in Sunsets</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2412/SunsetYearOmar800.jpg"">
 
 
-<p style="text-align: justify;">On the night of December 15, the Full Moon was bright. Known to some as the Cold Moon or the Long Night Moon, it was the closest Full Moon to the northern winter solstice and the last Full Moon of 2024. This Full Moon was also at a major lunar standstill. A major lunar standstill is an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon&#39;s orbit over an 18.6 year cycle. As a result, the full lunar phase was near the Moon&#39;s northernmost moonrise (and moonset) along the horizon.  December&#39;s Full Moon is rising in this stacked image, a composite of exposures recording the range of brightness visible to the eye on the northern winter night. Along with a colorful lunar corona and aircraft contrail this Long Night Moon shines in a cold sky above the rugged, snowy peaks of the Italian Dolomites.</p>
+<p style="text-align: justify;">A year in sunsets, from April 2023 to March 2024, track along the western horizon in these stacked panoramic views. The well-planed sequence is constructed of images recorded near the 21st day of the indicated month from the same location overlooking Cairo, Egypt. But for any location on planet Earth the yearly extreme northern (picture right) and southern limits of the setting Sun mark the solstice days. The word solstice is from Latin for &quot;Sun&quot; and &quot;stand still&quot;. On the solstice date the seasonal drift of the Sun&#39;s daily path through the sky appears to pause and reverse direction in its annual celestial journey. Of course the Sun reaches a stand still on today&#39;s date. The 21 December 2024 solstice at 09:21 UTC is the moment of the Sun&#39;s southernmost declination, the start of astronomical winter in the north and summer in the south.</p>
 
 
 
