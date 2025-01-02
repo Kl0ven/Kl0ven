@@ -60,11 +60,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Alpha Centauri: The Closest Star System</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/AlphaCen_Cantrell_960.jpg"">
+<h3>Solar Analemma 2024</h3>
+ <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT1024.jpeg"">
 
 
-<p style="text-align: justify;">The closest star system to the Sun is the Alpha Centauri system. Of the three stars in the system, the dimmest -- called Proxima Centauri -- is actually the nearest star. The bright stars Alpha Centauri A and B form a close binary as they are separated by only 23 times the Earth- Sun distance - slightly greater than the distance between Uranus and the Sun. The Alphasystem is not visible in much of the northern hemisphere. Alpha Centauri A, also known as Rigil Kentaurus, is the brightest star in the constellation of Centaurus and is the fourth brightest star in the night sky. Sirius is the brightest even though it is more than twice as far away. By an exciting coincidence, Alpha Centauri A is the same type of star as our Sun, and Proxima Centauri is now known to have a potentially habitable exoplanet.</p>
+<p style="text-align: justify;">Recorded during 2024, this year-spanning series of images reveals a pattern in the seasonal drift of the Sun&#39;s daily motion through planet Earth&#39;s sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken only at 1pm local time on clear days from Kayseri, Turkiye. Of course the Sun&#39;s position on the 2024 solstice dates was at the top and bottom of the curve. They correspond to the astronomical beginning of summer and winter in the north. The points along the curve half-way between the solstices, but not the figure-eight curve crossing point, mark the 2024 equinoxes and the start of spring and fall. Regional peaks and dormant volcano Mount Erciyes lie along the southern horizon in the 2024 timelapse skyscape.</p>
 
 
 
