@@ -40,11 +40,19 @@
 <h2>Lists</h2>
 
 <ul>
-  <li><a href="https://github.com/stars/Kl0ven/lists/docker" target="_blank">Docker</a></li>
-  <li><a href="https://github.com/stars/Kl0ven/lists/bash" target="_blank">Bash</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/bash" target="_blank">Bash</a> <span> - <b>Terminal based tools</b></span></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/devtools" target="_blank">DevTools</a> <span> - <b>Cool Tools</b></span></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/docker" target="_blank">Docker</a> <span> - <b>Docker Related tools</b></span></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/platform-engineering" target="_blank">Platform Engineering</a> <span> - <b>PE related projects</b></span></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/pwned" target="_blank">Pwned</a> <span> - <b>Hacking tools</b></span></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/seth" target="_blank">Seth</a> <span> - <b>Spikeelabs Internal kube platform build with fluxcd</b></span></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/devsecops" target="_blank">DevSecOps</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/docs-blogs" target="_blank">Docs & Blogs</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/gitops" target="_blank">GitOps</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/homelab" target="_blank">HomeLab</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/k8s" target="_blank">K8s</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/prometheus" target="_blank">Prometheus</a></li>
   <li><a href="https://github.com/stars/Kl0ven/lists/python" target="_blank">Python</a></li>
-  <li><a href="https://github.com/stars/Kl0ven/lists/devops" target="_blank">DevOps</a></li>
-  <li><a href="https://github.com/stars/Kl0ven/lists/devtools" target="_blank">DevTools</a></li>
 </ul>
 
 <br>
