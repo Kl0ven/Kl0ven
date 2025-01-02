@@ -29,22 +29,22 @@
 </p>
 
 
-<h2>Tools I really like</h2>
+<h2>Tools I enjoy</h2>
 
 <ul>
-<li><a href="https://pre-commit.com/" target="_blank">pre-commit</a></li>
-<li><a href="https://github.com/derailed/k9s" target="_blank">K9S</a></li>
-<li><a href="https://github.com/wagoodman/dive" target="_blank">Dive</a></li>
+  <li><a href="https://pre-commit.com/" target="_blank">pre-commit</a></li>
+  <li><a href="https://github.com/derailed/k9s" target="_blank">K9S</a></li>
+  <li><a href="https://github.com/wagoodman/dive" target="_blank">Dive</a></li>
 </ul>
 
 <h2>Lists</h2>
 
 <ul>
-<li><a href="https://github.com/stars/Kl0ven/lists/docker" target="_blank">Docker</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/bash" target="_blank">Bash</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/python" target="_blank">Python</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/devops" target="_blank">DevOps</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/devtools" target="_blank">DevTools</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/docker" target="_blank">Docker</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/bash" target="_blank">Bash</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/python" target="_blank">Python</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/devops" target="_blank">DevOps</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/devtools" target="_blank">DevTools</a></li>
 </ul>
 
 <br>
@@ -54,19 +54,16 @@
 
 <h2> Where to find me </h2>
 <p>
-    <a href="https://github.com/Kl0ven" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://twitter.com/Kl0ven" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/jean-loup-monnier-171791113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Kl0ven" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/Kl0ven" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jean-loup-monnier-171791113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
 <h3>Solar Analemma 2024</h3>
- <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT1024.jpeg"">
 
-
-<p style="text-align: justify;">Recorded during 2024, this year-spanning series of images reveals a pattern in the seasonal drift of the Sun&#39;s daily motion through planet Earth&#39;s sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken only at 1pm local time on clear days from Kayseri, Turkiye. Of course the Sun&#39;s position on the 2024 solstice dates was at the top and bottom of the curve. They correspond to the astronomical beginning of summer and winter in the north. The points along the curve half-way between the solstices, but not the figure-eight curve crossing point, mark the 2024 equinoxes and the start of spring and fall. Regional peaks and dormant volcano Mount Erciyes lie along the southern horizon in the 2024 timelapse skyscape.</p>
-
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT1024.jpeg">
 
 
 
-
+<p style=" text-align: justify;">Recorded during 2024, this year-spanning series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken only at 1pm local time on clear days from Kayseri, Turkiye. Of course the Sun's position on the 2024 solstice dates was at the top and bottom of the curve. They correspond to the astronomical beginning of summer and winter in the north. The points along the curve half-way between the solstices, but not the figure-eight curve crossing point, mark the 2024 equinoxes and the start of spring and fall. Regional peaks and dormant volcano Mount Erciyes lie along the southern horizon in the 2024 timelapse skyscape.</p>

@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h2>My name is {{name}}, Fullstack developer from France.</h2>
+<h2>My name is Jean-Loup, Fullstack developer from France.</h2>
 <p>Try <span style="font-family: monospace,monospace;font-size: 1em;color: cornflowerblue;background-color: #202020;width: fit-content;padding-left: 5px;padding-right: 5px;border-radius: 5px;margin-top: 8px;">curl -s https://www.kloven.fr/buisness_card</span></p>
 <h2>Things I code with</h2>
 <p>
@@ -29,22 +29,22 @@
 </p>
 
 
-<h2>Tools I really like</h2>
+<h2>Tools I enjoy</h2>
 
 <ul>
-<li><a href="https://pre-commit.com/" target="_blank">pre-commit</a></li>
-<li><a href="https://github.com/derailed/k9s" target="_blank">K9S</a></li>
-<li><a href="https://github.com/wagoodman/dive" target="_blank">Dive</a></li>
+  <li><a href="https://pre-commit.com/" target="_blank">pre-commit</a></li>
+  <li><a href="https://github.com/derailed/k9s" target="_blank">K9S</a></li>
+  <li><a href="https://github.com/wagoodman/dive" target="_blank">Dive</a></li>
 </ul>
 
 <h2>Lists</h2>
 
 <ul>
-<li><a href="https://github.com/stars/Kl0ven/lists/docker" target="_blank">Docker</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/bash" target="_blank">Bash</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/python" target="_blank">Python</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/devops" target="_blank">DevOps</a></li>
-<li><a href="https://github.com/stars/Kl0ven/lists/devtools" target="_blank">DevTools</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/docker" target="_blank">Docker</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/bash" target="_blank">Bash</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/python" target="_blank">Python</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/devops" target="_blank">DevOps</a></li>
+  <li><a href="https://github.com/stars/Kl0ven/lists/devtools" target="_blank">DevTools</a></li>
 </ul>
 
 <br>
@@ -54,24 +54,18 @@
 
 <h2> Where to find me </h2>
 <p>
-    <a href="https://github.com/Kl0ven" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://twitter.com/Kl0ven" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/jean-loup-monnier-171791113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Kl0ven" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/Kl0ven" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jean-loup-monnier-171791113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
 <h3>{{img_title}}</h3>
-{{#is_video}}
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v={{video_id}}" target="_blank"><img src="http://img.youtube.com/vi/{{video_id}}/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
-{{/is_video}}
-{{^is_video}}
- <img class="fit-picture" src="{{{nasa_img}}}"">
-{{/is_video}}
+{% if is_video %}
+<a href="http://www.youtube.com/watch?feature=player_embedded&v={{video_id}}" target="_blank"><img src="http://img.youtube.com/vi/{{video_id}}/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+{% else %}
+<img class="fit-picture" src="{{nasa_img}}">
+{% endif %}
 
 
-<p style="text-align: justify;">{{img_explanation}}</p>
-
-
-
-
-
+<p style=" text-align: justify;">{{img_explanation}}</p>
