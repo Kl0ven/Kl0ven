@@ -40,11 +40,9 @@
 <h2>Lists</h2>
 
 <ul>
-  <li><a href="https://github.com/stars/Kl0ven/lists/docker" target="_blank">Docker</a></li>
-  <li><a href="https://github.com/stars/Kl0ven/lists/bash" target="_blank">Bash</a></li>
-  <li><a href="https://github.com/stars/Kl0ven/lists/python" target="_blank">Python</a></li>
-  <li><a href="https://github.com/stars/Kl0ven/lists/devops" target="_blank">DevOps</a></li>
-  <li><a href="https://github.com/stars/Kl0ven/lists/devtools" target="_blank">DevTools</a></li>
+  {%- for list in stars %}
+  <li><a href="https://github.com{{list[2]}}" target="_blank">{{list[0]}}</a>{%- if list[1] %} <span> - <b>{{list[1]}}</b></span>{% endif %}</li>
+  {%- endfor %}
 </ul>
 
 <br>

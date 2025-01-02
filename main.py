@@ -2,6 +2,7 @@ import requests
 import os
 import re
 from jinja2 import Environment, FileSystemLoader
+from bs4 import BeautifulSoup
 
 
 def get_nasa_image():
@@ -29,6 +30,27 @@ def generate_readme(data):
         f.write(readme)
 
 
+def get_gh_stars_list():
+    # FML https://github.com/orgs/community/discussions/8293
+    resp = requests.get("https://github.com/Kl0ven?tab=stars")
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, features="html.parser")
+    stars_list = soup.find_all(id="profile-lists-container")
+    assert len(stars_list) == 1, 'Could not find tag with id="profile-lists-container"'
+    data = []
+    for item in stars_list[0].find_all("a"):
+        href = item.get_attribute_list("href")[0]
+        name = item.find("h3").text
+        desc_span = item.find("span")
+        desc = None
+        if desc_span:
+            desc = desc_span.text.strip()
+        data.append((name, desc, href))
+    return data
+
+
 if __name__ == "__main__":
-    apod = get_nasa_image()
-    generate_readme(apod)
+    data = get_nasa_image()
+    stars = get_gh_stars_list()
+    data["stars"] = sorted(stars, key=lambda x: "0000" + x[0] if x[1] else x[0])
+    generate_readme(data)
