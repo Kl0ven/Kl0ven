@@ -68,10 +68,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Welcome to Perihelion</h3>
+<h3>Rocket Launch as Seen from the International Space Station</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/20242112SolNeg1024.jpg">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=B1R3dTdcpSU" target="_blank"><img src="http://img.youtube.com/vi/B1R3dTdcpSU/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
 
-<p style=" text-align: justify;">rth's orbit around the Sun is not a circle, it's an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year perihelion is today, January 4, at 13:28 UTC, with the Earth about 147 million kilometers from the Sun. For comparison, at aphelion on last July 3 Earth was at its farthest distance from the Sun, some 152 million kilometers away. But distance from the Sun doesn't determine Earth's seasons. It's only by coincidence that the beginning of southern summer (northern winter) on the December solstice - when this H-alpha picture of the active Sun was taken - is within 14 days of Earth's perihelion date. And it's only by coincidence that Earth's perihelion date is within 11 days of the historic perihelion of NASA's Parker Solar Probe. Launched in 2018, the Parker Solar Probe flew within 6.2 million kilometers of the Sun's surface on 2024 December 24, breaking its own record for closest perihelion for a spacecraft from planet Earth.</p>
+<p style=" text-align: justify;">Have you ever seen a rocket launch -- from space?  A close inspection of the featured time-lapse video will reveal a rocket rising to Earth orbit as seen from the International Space Station (ISS).  The Russian Soyuz-FG rocket was launched in November 2018 from the Baikonur Cosmodrome in Kazakhstan, carrying a Progress MS-10 (also 71P) module to bring needed supplies to the ISS.  Highlights in the 90-second video (condensing about 15-minutes) include city lights and clouds visible on the Earth on the lower left, blue and gold bands of atmospheric airglow running diagonally across the center, and distant stars on the upper right that set behind the Earth. A lower stage can be seen falling back to Earth as the robotic supply ship fires its thrusters and begins to close on the ISS, a space laboratory that celebrated its 25th anniversary in 2023. Astronauts who live aboard the Earth-orbiting ISS conduct, among more practical duties, numerous science experiments that expand human knowledge and enable future commercial industry in low Earth orbit.</p>
