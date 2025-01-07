@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Colliding Spiral Galaxies from Webb and Hubble</h3>
+<h3>A New Year's Aurora and SAR Arc</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1080.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_960.jpg">
 
 
 
-<p style=" text-align: justify;">Billions of years from now, only one of these two galaxies will remain.  Until then, spiral galaxies NGC 2207 and IC 2163 will slowly pull each other apart, creating tides of matter, sheets of shocked gas, lanes of dark dust, bursts of star formation, and streams of cast-away stars.  The featured image in scientifically assigned colors is a composite of Hubble exposures in visible light and Webb exposures in infrared light. Astronomers predict that NGC 2207, the larger galaxy on the right, will eventually incorporate IC 2163, the smaller galaxy on the left.  In the most recent encounter that about peaked 40 million years ago, the smaller galaxy is swinging around counter-clockwise and is now slightly behind the larger galaxy.  The space between stars is so vast that when galaxies collide, the stars in them usually do not collide.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
+<p style=" text-align: justify;">It was a new year, and the sky was doubly red.  The new year meant that the Earth had returned to its usual place in its orbit on January 1, a place a few days before its closest approach to the Sun.  The first of the two red skyglows, on the left, was a red aurora, complete with vertical rays, caused by a blast from the Sun pushing charged particles into Earth's atmosphere.  The second red glow, most prominent on the far right, was possibly a SAR arc caused by a river of charged particles flowing across Earth's atmosphere.  Although both appear red, the slight color difference is likely due to the aurora being emitted by both oxygen and nitrogen, whereas the higher SAR arc was possibly emitted more purely by atmospheric oxygen. The featured image was taken on January 1 from near Pieve di Cadore in Italy.   Portal Universe: Random APOD Generator</p>
