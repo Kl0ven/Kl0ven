@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Titan Touchdown: Huygens Descent Movie</h3>
+<h3>Comet ATLAS Rounds the Sun</h3>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=msiLWxDayuA" target="_blank"><img src="http://img.youtube.com/vi/msiLWxDayuA/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg">
 
 
 
-<p style=" text-align: justify;">What would it look like to land on Saturn's moon Titan? The European Space Agency's Huygens probe set down on the Solar System's cloudiest moon in 2005, and a time-lapse video of its descent images was created. Huygens separated from the robotic Cassini spacecraft soon after it achieved orbit around Saturn in late 2004 and began approaching Titan. For two hours after arriving, Huygens plummeted toward Titan's surface, recording at first only the shrouded moon's opaque atmosphere. The computerized truck-tire sized probe soon deployed a parachute to slow its descent, pierced the thick clouds, and began transmitting images of a strange surface far below never before seen in visible light. Landing in a dried sea and surviving for 90 minutes, Huygen's returned unique images of a strange plain of dark sandy soil strewn with smooth, bright, fist-sized rocks of ice.</p>
+<p style=" text-align: justify;">Why does Comet ATLAS have such colorful tails? Last week Comet C/2024 G3 (ATLAS) passed its closest to the Sun -- well inside the orbit of Mercury -- and brightened dramatically.  Unfortunately, the comet was then so angularly near the Sun that it was very hard for humans to see. But NASA's SOHO spacecraft saw it. Pictured is a SOHO (LASCO C3) image of Comet ATLAS that is a composite of several different color filters. Of the several tails visible, the central white tails are likely made of dust and just reflecting back sunlight. The red, blue, and green tails are likely ion tails with their colors dominated by light emitted by specific gases that were ejected from the comet and energized by the Sun.  Currently, Comet ATLAS is showing long tails in southern skies but fading as it moves out of the inner Solar System.   Growing Gallery: Comet ATLAS (G3)</p>
