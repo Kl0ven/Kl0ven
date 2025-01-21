@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet ATLAS Rounds the Sun</h3>
+<h3>Comet ATLAS over Brasília</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg">
 
 
 
-<p style=" text-align: justify;">Why does Comet ATLAS have such colorful tails? Last week Comet C/2024 G3 (ATLAS) passed its closest to the Sun -- well inside the orbit of Mercury -- and brightened dramatically.  Unfortunately, the comet was then so angularly near the Sun that it was very hard for humans to see. But NASA's SOHO spacecraft saw it. Pictured is a SOHO (LASCO C3) image of Comet ATLAS that is a composite of several different color filters. Of the several tails visible, the central white tails are likely made of dust and just reflecting back sunlight. The red, blue, and green tails are likely ion tails with their colors dominated by light emitted by specific gases that were ejected from the comet and energized by the Sun.  Currently, Comet ATLAS is showing long tails in southern skies but fading as it moves out of the inner Solar System.   Growing Gallery: Comet ATLAS (G3)</p>
+<p style=" text-align: justify;">What's that in the sky? Above the city, above most clouds, far in the distance: it's a comet. Pictured, the impressive tail of Comet C/2024 G3 (ATLAS) was imaged from Brasília, Brazil four days ago. Last week the evolving  comet rounded the Sun well inside the orbit of planet Mercury, going so close there was early concern that it might break up -- and recent evidence that it really did.  At one point near perihelion, Comet ATLAS was so bright that sightings were even reported during the day -- over the bright sky near the Sun -- by careful observers.  Over the past few days, Comet ATLAS has developed a long tail that has been partly visible with unaided eyes after sunset, most notably in Earth's southern hemisphere.    Growing Gallery: Comet ATLAS (G3)</p>
