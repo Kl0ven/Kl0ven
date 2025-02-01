@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Variable Nebula NGC 2261</h3>
+<h3>Nacreous Clouds over Sweden</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2501/HubblesVariablecopy1024.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2502/IMG_0340-Internet-2_1024.jpg">
 
 
 
-<p style=" text-align: justify;">The interstellar cloud of dust and gas captured in this sharp telescopic snapshot is seen to change its appearance noticeably over periods as short as a few weeks. Discovered over 200 years ago and cataloged as NGC 2261, bright star R Monocerotis lies at the tip of the fan-shaped nebula. About one light-year across and 2500 light-years away, NGC 2261 was studied early last century by astronomer Edwin Hubble and the mysterious cosmic cloud is now more famous as Hubble's Variable Nebula. So what makes Hubble's nebula vary? NGC 2261 is composed of a dusty reflection nebula fanning out from the star R Monocerotis.  The leading variability explanation holds that dense knots of obscuring dust pass close to R Mon and cast moving shadows across the dust clouds in the rest of Hubble's Variable Nebula.</p>
+<p style=" text-align: justify;">Vivid and lustrous, wafting iridescent waves of color wash across this skyscape from northern Sweden. Known as nacreous clouds or mother-of-pearl clouds, they are rare. But their unforgettable appearance was captured in this snapshot on January 12 with the Sun just below the local horizon. A type of polar stratospheric cloud, they form when unusually cold temperatures in the usually cloudless lower stratosphere form ice crystals. Still sunlit at altitudes of around 15 to 25 kilometers, the clouds diffract the sunlight even when the Sun itself is hidden from direct view.</p>
