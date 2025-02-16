@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Parhelia at Abisko</h3>
+<h3>Perijove 11: Passing Jupiter</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=OfM7VlonD5c" target="_blank"><img src="http://img.youtube.com/vi/OfM7VlonD5c/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
 
-<p style=" text-align: justify;">Three suns seem to hug the horizon in this otherworldly winterscape. But the evocative scene was captured during a February 3rd snowmobile exploration of the mountainous region around Abisko National Park, northern Sweden, planet Earth. The two bright spots on either side of Earth's Sun are parhelia (singular parhelion), also known as mock suns or sun dogs. The parhelia are caused by hexagonal ice crystals suspended in the hazy atmosphere that reflect and refract sunlight. Commonly seen in winter and at high latitudes, the bright parhelia lie along the visible 22 degree ice halo of the Sun.</p>
+<p style=" text-align: justify;">Here comes Jupiter. NASA's robotic spacecraft Juno is continuing on its highly elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</p>
