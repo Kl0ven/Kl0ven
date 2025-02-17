@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Perijove 11: Passing Jupiter</h3>
+<h3>SpaceX Rocket Launch Plume over California</h3>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OfM7VlonD5c" target="_blank"><img src="http://img.youtube.com/vi/OfM7VlonD5c/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg">
 
 
 
-<p style=" text-align: justify;">Here comes Jupiter. NASA's robotic spacecraft Juno is continuing on its highly elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</p>
+<p style=" text-align: justify;">What's happened to the sky? Last Monday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona.  Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. The Falcon 9 rocket successfully delivered to low Earth orbit 23 Starlink communications satellites.  The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Venus appears at the top of the frame, while a bright streetlight shines on the far right.  The featured image was captured toward the west after sunset from near Phoenix, Arizona.</p>
