@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>HH 30: A Star System with Planets Now Forming</h3>
+<h3>Messier 87</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2502/HH30_Webb_960.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2502/m87-full_1024.jpg">
 
 
 
-<p style=" text-align: justify;">How do stars and planets form? New clues have been found in the protoplanetary system Herbig-Haro 30 by the James Webb Space Telescope in concert with Hubble and the Earth-bound ALMA.  The observations show, among other things, that large dust grains are more concentrated into a central disk where they can form planets. The featured image from Webb shows many attributes of the active HH-30 system. Jets of particles are being expelled vertically, shown in red, while a dark dust-rich disk is seen across the center, blocking the light from the star or stars still forming there. Blue-reflecting dust is seen in a parabolic arc above and below the central disk, although why a tail appears on the lower left is currently unknown. Studying how planets form in HH 30 can help astronomers better understand how planets in our own Solar System once formed, including our Earth.</p>
+<p style=" text-align: justify;">rmous elliptical galaxy Messier 87 is about 50 million light-years away. Also known as NGC 4486, the giant galaxy holds trillions of stars compared to the mere billions of stars in our large spiral Milky Way. M87 reigns as the large central elliptical galaxy in the Virgo galaxy cluster. An energetic jet from the giant galaxy's core is seen to stretch outward for about 5,000 light-years in this sharp optical and near-infrared view from the Hubble Space Telescope. In fact, the cosmic blow torch is seen across the electromagnetic spectrum from gamma-rays to radio wavelengths. Its ultimate power source is M87's central, supermassive black hole. An image of this monster in the middle of M87 has been captured by planet Earth's Event Horizon Telescope.</p>
