@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Blue Ghost to the Moon</h3>
+<h3>The Hubble Ultra Deep Field in Light and Sound</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=None" target="_blank"><img src="http://img.youtube.com/vi/None/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
 
-<p style=" text-align: justify;">With spacecraft thrusters at top center, the rugged surface of the Moon lies below the Blue Ghost lander in this space age video frame. The view of the lunar far side was captured by the Firefly Aerospace lunar lander on February 24, following a maneuver to circularize its orbit about 100 kilometers above the lunar surface. The robotic lunar lander is scheduled to touch down tomorrow, Sunday, March 2, at 3:34am Eastern Time in the Mare Crisium impact basin on the lunar near side. In support of the Artemis campaign, Blue Ghost is set to deliver science and technology experiments to the Moon, part of NASA's Commercial Lunar Payload Services program. Blue Ghost's mission on the surface is planned to operate during the lunar daylight hours at the landing site, about 14 Earth days.</p>
+<p style=" text-align: justify;">Have you heard about the Hubble Ultra-Deep Field?  Either way, you've likely not heard about it like this -- please run your cursor over the featured image and listen!  The Hubble Ultra-Deep Field (HUDF) was created in 2003-2004 with the Hubble Space Telescope staring for a long time toward near-empty space so that distant, faint galaxies would become visible.  One of the most famous images in astronomy, the HUDF is featured here in a vibrant way -- with sonified distances. Pointing to a galaxy will play a note that indicates its approximate redshift. Because redshifts shift light toward the red end of the spectrum of light, they are depicted here by a shift of tone toward the low end of the spectrum of sound.  The further the galaxy, the greater its cosmological redshift (even if it appears blue), and the lower the tone that will be played. The average galaxy in the HUDF is about 10.6 billion light years away and sounds like an F#. What's the most distant galaxy you can find?</p>
