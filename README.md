@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>A Partial Solar Eclipse over Iceland</h3>
+<h3>Parker: The Solar System from Near the Sun</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YW1yQt3K_YY" target="_blank"><img src="http://img.youtube.com/vi/YW1yQt3K_YY/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
 
-<p style=" text-align: justify;">What if the Sun and Moon rose together? That happened yesterday over some northern parts of planet Earth as a partial solar eclipse occurred shortly after sunrise. Regions that experienced the Moon blocking part of the Sun included northeastern parts of North America and northwestern parts of Europe, Asia, and Africa.  The featured image was captured yesterday over the Grábrók volcanic crater in Iceland where much of the Sun became momentarily hidden behind the Moon. The image was taken through a cloudy sky but so well planned that the photographer's friend appeared to be pulling the Sun out from behind the Moon. No part of the Earth experienced a total solar eclipse this time. In the distant past, some of humanity was so surprised when an eclipse occurred that ongoing battles suddenly stopped.  Today, eclipses are not a surprise and are predicted with an accuracy of seconds.   Growing Gallery: Partial Solar Eclipse of 2025 March</p>
+<p style=" text-align: justify;">If you watch long enough, a comet will appear.  Before then, you will see our Solar System from inside the orbit of Mercury as recorded by NASA's Parker Solar Probe looping around the Sun. The video captures coronal streamers into the solar wind, a small Coronal Mass Ejection, and planets including, in order of appearance, Mercury, Venus, Saturn, Earth, Mars, and Jupiter. Between the emergence of Earth and Mars, Comet Tempel 1 appears with a distinctive tail.  The continuous fleeting streaks are high energy particles from the Sun impacting Parker's sideways looking camera.  The featured time-lapse video was taken last year during Encounter 21, Parker's 21st close approach to the Sun.  Studying data and images from Parker are delivering a better understanding of the dynamic Sun's effects on Earth's space weather as well as humanity's power grids, spacecraft, and space-faring astronauts.   Growing Gallery: Partial Solar Eclipse of 2025 March</p>
