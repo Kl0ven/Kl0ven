@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Parker: The Solar System from Near the Sun</h3>
+<h3>A Double Sunrise from a Partial Eclipse</h3>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ItkhmT4sLbg" target="_blank"><img src="http://img.youtube.com/vi/ItkhmT4sLbg/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oTkbHJsqCZM" target="_blank"><img src="http://img.youtube.com/vi/oTkbHJsqCZM/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
 
-<p style=" text-align: justify;">If you watch long enough, a comet will appear.  Before then, you will see our Solar System from inside the orbit of Mercury as recorded by NASA's Parker Solar Probe looping around the Sun. The video captures coronal streamers into the solar wind, a small Coronal Mass Ejection, and planets including, in order of appearance, Mercury, Venus, Saturn, Earth, Mars, and Jupiter. Between the emergence of Earth and Mars, Comet Tsuchinshan-ATLAS appears with a distinctive tail.  The continuous fleeting streaks are high energy particles from the Sun impacting Parker's sideways looking camera.  The featured time-lapse video was taken last year during Encounter 21, Parker's 21st close approach to the Sun.  Studying data and images from Parker are delivering a better understanding of the dynamic Sun's effects on Earth's space weather as well as humanity's power grids, spacecraft, and space-faring astronauts.   Growing Gallery: Partial Solar Eclipse of 2025 March</p>
+<p style=" text-align: justify;">Can the Sun appear to rise twice at the same time? This was just the case a few days ago from Les Escoumins, Quebec, Canada as our Solar System's bright central orb rose just as it was being partially eclipsed by the Moon. The featured video shows this unusual double-sunrise in real time and being reflected by the St. Lawrence River. Soon after the initial two spots of light appear over distant clouds, what appears to be bright horns become visible -- which are really just parts of the Sun not being eclipsed. Soon, the entire eclipsed Sun is visible above the horizon.  In all, this broken sunrise took less than two minutes during a partial eclipse that lasted many times longer.   Although the Moon circles the Earth once a month (moon-th), it does not always eclipse the Sun because its tilted orbit usually takes it above or below.    Gallery: Partial Solar Eclipse of 2025 March</p>
