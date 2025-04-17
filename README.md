@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Halo of the Cat's Eye</h3>
+<h3>Virgo Cluster Galaxies</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected1024.jpg">
 
 
 
-<p style=" text-align: justify;">What created the unusual halo around the Cat's Eye Nebula? No one is sure. What is sure is that the Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae on the sky.  Although haunting symmetries are seen in the bright central region, this image was taken to feature its intricately structured outer halo, which spans over three light-years across.  Planetary nebulae have long been appreciated as a final phase in the life of a Sun-like star. Only recently however, have some planetaries been found to have expansive halos, likely formed from material shrugged off during earlier puzzling episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of the Cat's Eye Nebula's halo to be 50,000 to 90,000 years.</p>
+<p style=" text-align: justify;">Galaxies of the Virgo Cluster are scattered across this nearly 4 degree wide telescopic field of view. About 50 million light-years distant, the Virgo Cluster is the closest large galaxy cluster to our own local galaxy group. Prominent here are Virgo's bright elliptical galaxies from the Messier catalog, M87 at bottom left, and M86 and M84 near center right. M86 and M84 are recognized as part of Markarian's Chain, the visually striking line-up of galaxies on the that runs through the upper portion of this frame. Near the middle of the chain lies an intriguing interacting pair of galaxies, NGC 4438 and NGC 4435, known to some as Markarian's Eyes. Still, giant elliptical galaxy M87 dominates the Virgo cluster. It's the home of a super massive black hole, the first black hole ever imaged by planet Earth's Event Horizon Telescope.</p>
