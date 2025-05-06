@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Planet Lines Across Water</h3>
+<h3>The Doubly Warped World of Binary Black Holes</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rQcKIN9vj3U" target="_blank"><img src="http://img.youtube.com/vi/rQcKIN9vj3U/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
 
 
 
-<p style=" text-align: justify;">What’s causing those lines? Objects in the sky sometimes appear reflected as lines across water — but why? If the water’s surface is smooth, then reflected objects would appear similarly -- as spots. But if the water is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line. The same effect is frequently seen for the Sun just before sunset and just after sunrise. Pictured about 10 days ago in Ibiza, Spain, images of the rising Moon, Venus (top), and Saturn (right, faint) were captured both directly and in line-reflected forms from the Mediterranean Sea. The other bright object on the right with a water-reflected line is a beacon on a rock to warn passing boats.   Explore Your Universe: Random APOD Generator</p>
+<p style=" text-align: justify;">If one black hole looks strange, what about two? Light rays from accretion disks around a pair of orbiting supermassive black holes make their way through the warped space-time produced by extreme gravity in this detailed computer visualization.  The simulated accretion disks have been given different false color schemes, red for the disk surrounding a 200-million-solar-mass black hole, and blue for the disk surrounding a 100-million-solar-mass black hole.  For these masses, though, both accretion disks would actually emit most of their light in the ultraviolet.  The video allows us to see both sides of each black hole at the same time.  Red and blue light originating from both black holes can be seen in the innermost ring of light, called the photon sphere, near their event horizons.  In the past decade, gravitational waves from black hole collisions have actually been detected, although the coalescence of supermassive black holes remains undiscovered.   Hole New Worlds: It's Black Hole Week at NASA!</p>
