@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>IXPE Explores a Black Hole Jet</h3>
+<h3>Yogi and Friends in 3D</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_960.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg">
 
 
 
-<p style=" text-align: justify;">How do black holes create X-rays? Answering this long-standing question was significantly advanced recently with data taken by NASA’s IXPE satellite. X-rays cannot exit a black hole, but they can be created in the energetic environment nearby, in particular by a jet of particles moving outward. By observing X-ray light arriving from near the supermassive black hole at the center of galaxy BL Lac, called a blazar, it was discovered that these X-rays lacked significant polarization, which is expected when created more by energetic electrons than protons. In the featured artistic illustration, a powerful jet is depicted emanating from an orange-colored accretion disk circling the black hole. Understanding highly energetic processes across the universe helps humanity to understand similar processes that occur on or near our Earth.   Put it All Together: Astronomy Puzzle of the Day</p>
+<p style=" text-align: justify;">This picture from July 1997 shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The "couch" is the angular rock shape visible near center on the horizon. Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two tiny moons.</p>
