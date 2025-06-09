@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Facing NGC 3344</h3>
+<h3>Between Scylla and Charybdis: A Double Cosmic Discovery</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2506/NGC3344_hst2048.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_960.jpg">
 
 
 
-<p style=" text-align: justify;">From our vantage point in the Milky Way Galaxy, we see NGC 3344 face-on. Nearly 40,000 light-years across, the big, beautiful spiral galaxy is located just 20 million light-years away in the constellation of Leo Minor. This multi-color Hubble Space Telescope close-up of NGC 3344 includes remarkable details from near infrared to ultraviolet wavelengths. The frame extends some 15,000 light-years across the spiral's central regions. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. Of course, the bright stars with a spiky appearance are in front of NGC 3344 and lie well within our own Milky Way.   APOD Turns 30!: Free Public Lecture in Anchorage on Wednesday, June 11 at 7 pm</p>
+<p style=" text-align: justify;">Can you identify this celestial object?  Likely not — because this is a discovery image.  Massive stars forge heavy elements in their cores and, after a few million years, end their lives in powerful supernova explosions. These remnants cool relatively quickly and fade, making them difficult to detect.  To uncover such faint, previously unknown supernova remnants, a dedicated group of amateur astrophotographers searched through sky surveys for possible supernova remnant candidates.  The result: the first-ever image of supernova remnant G115.5+9.1 — named Scylla by its discoverers—glowing faintly in the constellation of the mythological King of Aethiopia: Cepheus.  Emission from hydrogen atoms in the remnant is shown in red, and faint emission from oxygen is shown in hues of blue.  Surprisingly, another discovery lurked to the upper right: a faint, previously unknown planetary nebula candidate. In keeping with mythological tradition, it was named Charybdis (Sai 2) — a nod to the ancient Greek expression "caught between Scylla and Charybdis" from Homer’s Odyssey.</p>
