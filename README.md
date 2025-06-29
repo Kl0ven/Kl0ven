@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Lunar Farside</h3>
+<h3>Dark Sand Cascades on Mars</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2506/farside_lro800.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2506/almosttrees_mro_960.jpg">
 
 
 
-<p style=" text-align: justify;">Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria.  A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.</p>
+<p style=" text-align: justify;">Are these trees growing on Mars? No.  Groups of dark brown streaks have been photographed by the Mars Reconnaissance Orbiter on melting pinkish sand dunes covered with light frost. The featured image was taken in 2008 April near the North Pole of Mars. At that time, dark sand on the interior of Martian sand dunes became more and more visible as the spring Sun melted the lighter carbon dioxide ice.  When occurring near the top of a dune, dark sand may cascade down the dune leaving dark surface streaks -- streaks that might appear at first to be trees standing in front of the lighter regions but cast no shadows. Objects about 25 centimeters across are resolved on this image spanning about one kilometer. Close ups of some parts of this image show billowing plumes indicating that the sand slides were occurring even while the image was being taken.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
