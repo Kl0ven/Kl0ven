@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>The Veins of Heaven</h3>
+<h3>Clouds and the Golden Moon</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_1024.jpg">
 
 
 
-<p style=" text-align: justify;">Transfusing sunlight as the sky grew darker, this exceptional display of noctilucent clouds was captured on July 10, reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden. From the edge of space, about 80 kilometers above Earth's surface, the icy clouds themselves still reflect sunlight, even though the Sun is below the horizon as seen from the ground. Usually spotted at high latitudes in summer months, the night shining clouds have made a strong showing so far during the short northern summer nights. Also known as polar mesopheric clouds they are understood to form as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash.</p>
+<p style=" text-align: justify;">As the Sun set, a bright Full Moon rose on July 10. Its golden light illuminates clouds drifting through southern hemisphere skies in this well-composed telephoto image from Conceição do Coité, Bahia, Brazil. The brightest lunar phase is captured here with both a short and long exposure. The two exposures were combined to reveal details of the lunar surface in bright moonlight and a subtle iridescence along the dramatically backlit cloudscape. Of course, July's Full Moon is a winter moon in the southern hemisphere.  But in the north it's known to some as the Thunder Moon, likely a nod to the sounds of this northern summer month's typically stormy weather.</p>
