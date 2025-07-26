@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Twelve Years of Kappa Cygnids</h3>
+<h3>Globular Cluster Omega Centauri</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1024px.png">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg">
 
 
 
-<p style=" text-align: justify;">Meteors from the Kappa Cygnid meteor shower are captured in this time-lapse composite skyscape. The minor meteor shower, with a radiant not far from its eponymous star Kappa Cygni, peaks in mid-August, almost at the same time as the much better-known and better-observed Perseid meteor shower. But, seen to have a peak rate of only about 3 meteors per hour, Kappa Cygnids are vastly outnumbered by the more popular, prolific Perseid shower's meteors that emanate from the heroic constellation Perseus. To capture dozens of Kappa Cygnids, this long term astro-imaging project compiled meteors in exposures selected from over 51 August nights during the years 2012 through 2024. Most of the exposures with identified Kappa Cygnid meteors were made in August 2021, a high point of the shower's known 7-year activity cycle. All twelve years worth of Kappa Cygnids are registered against a base sea and night skyscape of the Milky Way above Elafonisi Beach, Crete, Greece, also recorded in August of 2021.</p>
+<p style=" text-align: justify;">Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.</p>
