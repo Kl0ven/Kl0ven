@@ -11,10 +11,10 @@ def get_nasa_image():
 
     data = {}
     body = resp.json()
-    data["nasa_img"] = body["url"]
-    data["img_explanation"] = body["explanation"]
-    data["img_title"] = body["title"]
-    data["is_video"] = body["media_type"] == "video"
+    data["nasa_img"] = body.get("url")
+    data["img_explanation"] = body.get("explanation")
+    data["img_title"] = body.get("title")
+    data["is_video"] = body.get("media_type") == "video"
     if data["is_video"]:
         match = re.match(r"^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*", body["url"])
         data["video_id"] = match[7] if match and len(match[7]) == 11 else None
