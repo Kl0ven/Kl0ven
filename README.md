@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Moonlight, Planets, and Perseids</h3>
+<h3>A Cool GIF of a 2025 Perseid</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2508/perseid2025-cropped.gif">
 
 
 
-<p style=" text-align: justify;">In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is poised above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.</p>
+<p style=" text-align: justify;">The camera battery died about 2am local time on August 12, while shooting in the bright moonlit skies from a garden in Chastre, Brabant Wallon, Belgium, planet Earth. But not before it captured the frames used to compose this cool animated gif of a brilliant Perseid meteor and a lingering visible trail known as a persistent train. The Perseid meteor, a fast moving speck of dust from the tail of large periodic Comet Swift-Tuttle, was heated to incandescence by ram pressure and vaporized as it flashed through the upper atmosphere at 60 kilometers per second. Compared to the brief flash of the meteor, its wraith-like trail really is persistent. A characteristic of bright meteors, a smoke-like persistent train can often be followed for many minutes wafting in the winds at altitudes of 60 to 90 kilometers.</p>
