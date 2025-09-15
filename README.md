@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Planets of the Solar System: Tilts and Spins</h3>
+<h3>Earth During a Powerful Solar Storm</h3>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=my1euFQHH-o" target="_blank"><img src="http://img.youtube.com/vi/my1euFQHH-o/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+<img class="fit-picture" src="None">
 
 
 
-<p style=" text-align: justify;">How does your favorite planet spin? Does it spin rapidly around a nearly vertical axis, or horizontally, or backwards?  The featured video animates NASA images of all eight planets in our Solar System to show them spinning side-by-side for an easy comparison. In the time-lapse video, a day on Earth -- one Earth rotation -- takes just a few seconds.  Jupiter rotates the fastest, while Venus spins not only the slowest (can you see it?), but backwards.  The inner rocky planets across the top underwent dramatic spin-altering collisions during the early days of the Solar System.  Why planets spin and tilt as they do remains a topic of research with much insight gained from modern computer modeling and the recent discovery and analysis of hundreds of exoplanets: planets orbiting other stars.</p>
+<p style=" text-align: justify;">Can our Sun become dangerous? Yes, sometimes. Every few years our Sun ejects a scary-large bubble of hot gas into the Solar System.  Every hundred years or so, when the timing, location, and magnetic field connections are just right, such a Coronal Mass Ejection (CME) will hit the Earth. When this happens, the Earth not only experiences dramatic auroras, but its magnetic field gets quickly pushed back and compressed, which causes electric grids to surge. Some of these surges could be dangerous, affecting satellites and knocking out power grids -- which can take months to fix.  Just such a storm -- called the Carrington Event -- occurred in 1859 and caused telegraph wires to spark. A similar CME passed near the Earth in 2012, and the featured animated video shows a computer model of what might have happened if it had been a direct hit.  In this model, the Earth's magnetopause becomes so compressed that it went inside the orbit of  geosynchronous communication satellites.</p>
