@@ -89,10 +89,10 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Comet C/2025 R2 (SWAN)</h3>
+<h3>The NGC 6914 Complex</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg">
 
 
 
-<p style=" text-align: justify;">A new visitor from the outer Solar System, comet C/2025 R2 (SWAN) also known as SWAN25B was only discovered late last week, on September 11. That's just a day before the comet reached perihelion, its closest approach to the Sun. First spotted by Vladimir Bezugly in images from the SWAN instrument on the sun-staring SOHO spacecraft, the comet was surprisingly bright but understandably difficult to see against the Sun's glare. Still close to the Sun on the sky, the greenish coma and tail of C/2025 R2 (SWAN) are captured in this telescopic snapshot from September 17. Spica, alpha star of the constellation Virgo, shines just beyond the upper left edge of the frame while the comet is about 6.5 light-minutes from planet Earth. Near the western horizon after sunset and slightly easier to see in binoculars from the southern hemisphere, this comet SWAN will pass near Zubenelgenubi, alpha star of Libra, on October 2.  C/2025 R2 (SWAN) is scheduled to make its closest approach to our fair planet around October 20.</p>
+<p style=" text-align: justify;">A study in contrasts, this colorful cosmic skyscape features stars, dust, and glowing gas in the vicinity of NGC 6914. The interstellar complex of nebulae lies some 6,000 light-years away, toward the high-flying northern constellation Cygnus and the plane of our Milky Way Galaxy. Obscuring interstellar dust clouds appear in silhouette while reddish hydrogen emission nebulae, along with the dusty blue reflection nebulae, fill the cosmic canvas. Ultraviolet radiation from the massive, hot, young stars of the extensive Cygnus OB2 association ionize the region's atomic hydrogen gas, producing the characteristic red glow as protons and electrons recombine. Embedded Cygnus OB2 stars also provide the blue starlight strongly reflected by the dust clouds. The over one degree wide telescopic field of view spans about 100 light-years at the estimated distance of NGC 6914.</p>
