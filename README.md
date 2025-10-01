@@ -89,7 +89,7 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 6960: The Witch's Broom Nebula</h3>
+<h3>Astronomy Picture of the Day</h3>
 
 <img class="fit-picture" src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg">
 
