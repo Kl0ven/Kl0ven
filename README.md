@@ -1,6 +1,7 @@
 <h1>Hi there 👋</h1>
 <h2>My name is Jean-Loup, Fullstack developer from France.</h2>
-<p>Try <span style="font-family: monospace,monospace;font-size: 1em;color: cornflowerblue;background-color: #202020;width: fit-content;padding-left: 5px;padding-right: 5px;border-radius: 5px;margin-top: 8px;">curl -s https://www.kloven.fr/buisness_card</span></p>
+<p>Try <span style="font-family: monospace,monospace;font-size: 1em;color: cornflowerblue;background-color: #202020;width: fit-content;padding-left: 5px;padding-right: 5px;border-radius: 5px;margin-top: 8px;margin-bottom: 0px;">curl -s https://www.kloven.fr/buisness_card</span></p>
+<i style="font-size: 0.8em">Yes, there is a typo</i>
 <h2>Tech I enjoy working with</h2>
 <p>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
@@ -89,10 +90,11 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>Astronomy Picture of the Day</h3>
+<h3>NGC 1275 in the Perseus Cluster</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg">
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg">
 
 
 
-<p style=" text-align: justify;">Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.</p>
+
+<p style=" text-align: justify;">Active galaxy NGC 1275 is the central, dominant member of the large and relatively nearby Perseus Cluster of Galaxies. Wild-looking at visible wavelengths, the active galaxy is also a prodigious source of x-rays and radio emission. NGC 1275 accretes matter as entire galaxies fall into it, ultimately feeding a supermassive black hole at the galaxy's core. Narrowband image data used in this sharp telescopic image highlights the resulting galactic debris and filaments of glowing gas, some up to 20,000 light-years long. The filaments persist in NGC 1275, even though the turmoil of galactic collisions should destroy them.  What keeps the filaments together? Observations indicate that the structures, pushed out from the galaxy's center by the black hole's activity, are held together by magnetic fields. Also known as Perseus A, NGC 1275 itself spans over 100,000 light years and lies about 230 million light years away.</p>
