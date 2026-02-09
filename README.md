@@ -1,7 +1,6 @@
 <h1>Hi there 👋</h1>
 <h2>My name is Jean-Loup, Fullstack developer from France.</h2>
-<p>Try <span style="font-family: monospace,monospace;font-size: 1em;color: cornflowerblue;background-color: #202020;width: fit-content;padding-left: 5px;padding-right: 5px;border-radius: 5px;margin-top: 8px;margin-bottom: 0px !important;">curl -s https://www.kloven.fr/buisness_card</span></p>
-<i style="font-size: 0.8em !important;">Yes, There is a typo, but i'm too scared to touch the 8y old js codebase.</i>
+<p>Try <span style="font-family: monospace,monospace;font-size: 1em;color: cornflowerblue;background-color: #202020;width: fit-content;padding-left: 5px;padding-right: 5px;border-radius: 5px;margin-top: 8px;margin-bottom: 0px !important;">curl -s https://www.kloven.fr/business_card</span></p>
 <h2>Tech I enjoy working with</h2>
 <p>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
@@ -90,12 +89,12 @@
 </p>
 
 <h2>Here is an image from NASA ❤</h2>
-<h3>NGC 1275 in the Perseus Cluster</h3>
+<h3>Miranda Revisited</h3>
 
-<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg">
-
-
+<img class="fit-picture" src="https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg">
 
 
-<p style=" text-align: justify;">Active galaxy NGC 1275 is the central, dominant member of the large and relatively nearby Perseus Cluster of Galaxies. Wild-looking at visible wavelengths, the active galaxy is also a prodigious source of x-rays and radio emission. NGC 1275 accretes matter as entire galaxies fall into it, ultimately feeding a supermassive black hole at the galaxy's core. Narrowband image data used in this sharp telescopic image highlights the resulting galactic debris and filaments of glowing gas, some up to 20,000 light-years long. The filaments persist in NGC 1275, even though the turmoil of galactic collisions should destroy them.  What keeps the filaments together? Observations indicate that the structures, pushed out from the galaxy's center by the black hole's activity, are held together by magnetic fields. Also known as Perseus A, NGC 1275 itself spans over 100,000 light years and lies about 230 million light years away.</p>
+
+
+<p style=" text-align: justify;">What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day</p>
 
